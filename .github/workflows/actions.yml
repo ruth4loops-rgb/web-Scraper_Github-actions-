@@ -39,7 +39,7 @@ jobs:
           username: ${{ secrets.EMAIL_USERNAME }}
           password: ${{ secrets.EMAIL_PASSWORD }}
           subject: Web Scraper Update
-          to: ru3t4h5@gmail.com
+          to: ruth.4loops@gmail.com
           from: Tender agent web scraper
           html_body: file://web.md
           convert_markdown: true
