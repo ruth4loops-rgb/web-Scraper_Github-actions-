@@ -2,9 +2,9 @@
 
 ## EGP Portal Summary
 
-- **Active tenders:** 780
-- **Published today:** 100
-- **Closing today:** 326
+- **Active tenders:** 595
+- **Published today:** 157
+- **Closing today:** 327
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
 
 ---
@@ -201,22 +201,6 @@
 
 ---
 
-## Jimma University፡ Procurement of Medical Equipment and Supplies
-
-**Source:** 2merkato.com
-
-**Company:** Jimma University
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a06b8520a538a2a57000001](https://tender.2merkato.com/tenders/6a06b8520a538a2a57000001)
-
----
-
 ## St. Peter Specialized Hospital: Procurement of Construction Supervision Consultancy
 
 **Source:** 2merkato.com
@@ -329,11 +313,11 @@
 
 ---
 
-## Aksum University: Procurement of Laboratory Equipment
+## Wollo University፡ Procurement of Laboratory Equipment
 
 **Source:** 2merkato.com
 
-**Company:** Aksum University
+**Company:** Wollo University
 
 **Status:** Login required
 
@@ -341,23 +325,7 @@
 
 **Matched Keywords:** laboratory equipment
 
-**Link:** [https://tender.2merkato.com/tenders/6a0570050a538ac1be000001](https://tender.2merkato.com/tenders/6a0570050a538ac1be000001)
-
----
-
-## Haramaya University: Procurement of Medical Equipment and Supplies
-
-**Source:** 2merkato.com
-
-**Company:** Haramaya University
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a0556ad0a538aa982000001](https://tender.2merkato.com/tenders/6a0556ad0a538aa982000001)
+**Link:** [https://tender.2merkato.com/tenders/6a140ec90a538a727c000001](https://tender.2merkato.com/tenders/6a140ec90a538a727c000001)
 
 ---
 
