@@ -35,11 +35,12 @@ jobs:
         uses: dawidd6/action-send-mail@v3
         with:
           server_address: smtp.gmail.com
-          server_port: 465
-          username: ${{ secrets.EMAIL_USERNAME }}
-          password: ${{ secrets.EMAIL_PASSWORD }}
+          server_port: 587
+          secure: false
+          username: ${{ secrets.MAIL_USERNAME }}
+          password: ${{ secrets.MAIL_PASSWORD }}
           subject: Web Scraper Update
           to: ruth.4loops@gmail.com
-          from: Tender agent web scraper
+          from: ${{ secrets.MAIL_USERNAME }}
           html_body: file://web.md
           convert_markdown: true
