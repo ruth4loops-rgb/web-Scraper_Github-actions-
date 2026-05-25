@@ -12,10 +12,11 @@ name: Web Scraper Auto-Update
 #        click "Enable workflow" button if it shows as disabled.
 #        Then push any change to re-activate.
 #
-# REASON 2 — MINIMUM INTERVAL:
-#   GitHub's actual minimum cron interval is ~1 minute but
-#   jobs are queued and may be delayed several minutes during
-#   high runner load. '* * * * *' requests every minute.
+# REASON 2 — MINIMUM INTERVAL (CRITICAL):
+#   GitHub enforces a MINIMUM cron interval of 5 minutes.
+#   Using '* * * * *' (every minute) is silently IGNORED — it
+#   will never fire. The shortest working cron is '*/5 * * * *'.
+#   Even that may be delayed during high runner load periods.
 #
 # REASON 3 — WORKFLOW FILE LOCATION:
 #   The workflow MUST live at .github/workflows/ on the DEFAULT
@@ -33,12 +34,14 @@ on:
   # immediately without waiting for the cron schedule.
   workflow_dispatch:
 
-  # Cron schedule: every minute.
-  # NOTE: GitHub may batch or delay runs during high load.
-  # The execution counter in main.py guarantees web.md always
-  # changes so git always has a diff to commit.
+  # Cron schedule: every 5 minutes.
+  # IMPORTANT: GitHub enforces a minimum interval of 5 minutes.
+  # Using '* * * * *' (every minute) is silently ignored by GitHub
+  # and will NEVER trigger. '*/5 * * * *' is the shortest interval
+  # GitHub actually honors. Even this may be delayed by several
+  # minutes during periods of high runner load.
   schedule:
-    - cron: '* * * * *'
+    - cron: '*/5 * * * *'
 
 permissions:
   contents: write
