@@ -1,12 +1,42 @@
 name: Web Scraper Auto-Update
 
-# NOTE: GitHub Free cron schedules are NOT guaranteed to run exactly every minute.
-# GitHub infrastructure queues scheduled jobs and may delay them by several minutes,
-# especially during high load periods. '* * * * *' requests every minute but
-# actual execution frequency depends on GitHub's runner availability.
+# ============================================================
+# SCHEDULE TROUBLESHOOTING NOTES (GitHub Free Tier)
+# ============================================================
+#
+# REASON 1 — INACTIVITY DISABLE (most common cause):
+#   GitHub automatically DISABLES scheduled workflows on repos
+#   that have had NO repository activity (pushes, PRs, etc.)
+#   for 60+ days. The schedule silently stops firing.
+#   FIX: Go to GitHub → Actions tab → find this workflow →
+#        click "Enable workflow" button if it shows as disabled.
+#        Then push any change to re-activate.
+#
+# REASON 2 — MINIMUM INTERVAL:
+#   GitHub's actual minimum cron interval is ~1 minute but
+#   jobs are queued and may be delayed several minutes during
+#   high runner load. '* * * * *' requests every minute.
+#
+# REASON 3 — WORKFLOW FILE LOCATION:
+#   The workflow MUST live at .github/workflows/ on the DEFAULT
+#   branch (usually 'main'). If it's only on another branch,
+#   the schedule will not trigger.
+#
+# REASON 4 — WORKFLOW MUST BE ENABLED:
+#   Check GitHub → Actions → (this workflow) → is it enabled?
+#   If the toggle is off, scheduled runs will not fire.
+#
+# ============================================================
 
 on:
+  # Manual trigger from GitHub Actions UI — use this to test
+  # immediately without waiting for the cron schedule.
   workflow_dispatch:
+
+  # Cron schedule: every minute.
+  # NOTE: GitHub may batch or delay runs during high load.
+  # The execution counter in main.py guarantees web.md always
+  # changes so git always has a diff to commit.
   schedule:
     - cron: '* * * * *'
 
@@ -19,73 +49,125 @@ jobs:
 
     steps:
 
-      - name: Log workflow start
+      # ----------------------------------------------------------
+      # STEP 1: Log workflow start with full context
+      # ----------------------------------------------------------
+      - name: "[LOG] Workflow start"
         run: |
           echo "=============================================="
-          echo "  WORKFLOW STARTED"
-          echo "  UTC Time : $(date -u '+%Y-%m-%d %H:%M:%S')"
-          echo "  Runner   : $RUNNER_NAME"
-          echo "  Run ID   : $GITHUB_RUN_ID"
-          echo "  Run #    : $GITHUB_RUN_NUMBER"
+          echo "  [LOG] WORKFLOW STARTED"
+          echo "  [LOG] UTC Time    : $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
+          echo "  [LOG] Runner      : $RUNNER_NAME"
+          echo "  [LOG] Run ID      : $GITHUB_RUN_ID"
+          echo "  [LOG] Run Number  : $GITHUB_RUN_NUMBER"
+          echo "  [LOG] Ref         : $GITHUB_REF"
+          echo "  [LOG] Event       : $GITHUB_EVENT_NAME"
+          echo "  [LOG] Actor       : $GITHUB_ACTOR"
           echo "=============================================="
 
-      - name: Checkout repository
+      # ----------------------------------------------------------
+      # STEP 2: Checkout with full history (required for execution
+      #         counter to read the previous Execution #N from web.md)
+      # ----------------------------------------------------------
+      - name: "[LOG] Checkout repository"
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Set up Python
+      - name: "[LOG] Checkout complete"
+        run: |
+          echo "[LOG] Checkout completed at $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
+          echo "[LOG] HEAD commit: $(git log -1 --oneline)"
+          echo "[LOG] web.md exists: $(test -f web.md && echo YES || echo NO)"
+
+      # ----------------------------------------------------------
+      # STEP 3: Set up Python
+      # ----------------------------------------------------------
+      - name: "[LOG] Set up Python 3.11"
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
           cache: 'pip'
 
-      - name: Install dependencies
+      # ----------------------------------------------------------
+      # STEP 4: Install dependencies
+      # ----------------------------------------------------------
+      - name: "[LOG] Install dependencies"
         run: |
-          echo "[DEPS] Installing at $(date -u '+%H:%M:%S') UTC..."
+          echo "[LOG] Installing deps at $(date -u '+%Y-%m-%d %H:%M:%S UTC')..."
           python -m pip install --upgrade pip --quiet
           pip install -r requirements.txt --quiet
-          echo "[DEPS] All dependencies installed."
+          echo "[LOG] Dependencies installed:"
+          pip list | grep -E "requests|beautifulsoup4"
 
-      - name: Configure git identity
+      # ----------------------------------------------------------
+      # STEP 5: Configure git identity for auto-commits
+      # ----------------------------------------------------------
+      - name: "[LOG] Configure git identity"
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          echo "[GIT] Identity configured."
+          echo "[LOG] Git identity set to github-actions[bot]"
 
-      - name: Run web scraper
+      # ----------------------------------------------------------
+      # STEP 6: Run the scraper — main.py writes web.md with
+      #         a new UTC timestamp and incremented execution
+      #         counter on EVERY run, guaranteeing a git diff.
+      # ----------------------------------------------------------
+      - name: "[LOG] Run web scraper"
         run: |
-          echo "[SCRAPER] Started at $(date -u '+%Y-%m-%d %H:%M:%S') UTC"
+          echo "[LOG] Scraper starting at $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
           python main.py
-          echo "[SCRAPER] Finished at $(date -u '+%Y-%m-%d %H:%M:%S') UTC"
+          echo "[LOG] Scraper finished at $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
 
-      - name: Show git status
+      # ----------------------------------------------------------
+      # STEP 7: Show git status and diff for debugging
+      # ----------------------------------------------------------
+      - name: "[LOG] Git status after scraper"
         run: |
-          echo "[GIT] --- Status ---"
+          echo "[LOG] --- git status ---"
           git status
-          echo "[GIT] --- Diff summary ---"
+          echo "[LOG] --- git diff --stat ---"
           git diff --stat
+          echo "[LOG] --- web.md first 10 lines ---"
+          head -10 web.md || echo "(web.md not found)"
 
-      - name: Commit and push changes
+      # ----------------------------------------------------------
+      # STEP 8: Commit and push
+      #   - Stages web.md
+      #   - Checks if there is actually a diff (belt-and-suspenders
+      #     safety net — main.py's timestamp/counter should always
+      #     produce a diff, but this prevents a crash if it doesn't)
+      #   - Commits with a timestamped message
+      #   - Pushes explicitly to origin main
+      # ----------------------------------------------------------
+      - name: "[LOG] Commit and push changes"
         run: |
+          echo "[LOG] Staging web.md at $(date -u '+%Y-%m-%d %H:%M:%S UTC')..."
           git add web.md
 
           if git diff --cached --quiet; then
-            echo "[COMMIT] No changes detected in web.md. Skipping commit."
+            echo "[LOG] WARNING: No changes detected in web.md — skipping commit."
+            echo "[LOG] This should not happen because main.py always writes a new timestamp."
           else
-            echo "[COMMIT] Changes detected. Committing at $(date -u '+%H:%M:%S') UTC..."
-            git commit -m "Auto update web scraping data"
-            echo "[COMMIT] Commit created."
+            COMMIT_MSG="Auto refresh scraped data — run #$GITHUB_RUN_NUMBER at $(date -u '+%Y-%m-%d %H:%M UTC')"
+            echo "[LOG] Changes detected. Committing: $COMMIT_MSG"
+            git commit -m "$COMMIT_MSG"
+            echo "[LOG] Commit created: $(git log -1 --oneline)"
 
-            echo "[PUSH] Pushing to origin main..."
+            echo "[LOG] Pushing to origin main..."
             git push origin main
-            echo "[PUSH] Push completed at $(date -u '+%Y-%m-%d %H:%M:%S') UTC"
+            echo "[LOG] Push completed at $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
           fi
 
-      - name: Log workflow end
+      # ----------------------------------------------------------
+      # STEP 9: Log workflow completion
+      # ----------------------------------------------------------
+      - name: "[LOG] Workflow complete"
         run: |
           echo "=============================================="
-          echo "  WORKFLOW COMPLETED"
-          echo "  UTC Time : $(date -u '+%Y-%m-%d %H:%M:%S')"
+          echo "  [LOG] WORKFLOW COMPLETED SUCCESSFULLY"
+          echo "  [LOG] UTC Time   : $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
+          echo "  [LOG] Run Number : $GITHUB_RUN_NUMBER"
           echo "=============================================="
