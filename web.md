@@ -1,5 +1,15 @@
 # Medical Equipment Tenders
 
+---
+
+**Execution #3**
+
+**Last run:** 2026-05-25 11:49:24 UTC
+
+**Total matched tenders:** 28
+
+---
+
 ## EGP Portal Summary
 
 - **Active tenders:** 595
