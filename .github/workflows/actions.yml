@@ -1,19 +1,29 @@
-name: Run web scraper
+name: Web Scraper Auto-Update
 
-on: [workflow_dispatch]
+on:
+  schedule:
+    - cron: '*/5 * * * *'  # Every 5 min (GitHub minimum; closest to 2-min target)
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
-  build:
+  scrape:
     runs-on: ubuntu-latest
-    steps:
 
+    steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.9'
+          python-version: '3.11'
+          cache: 'pip'
 
       - name: Install dependencies
         run: |
@@ -21,26 +31,11 @@ jobs:
           pip install -r requirements.txt
 
       - name: Run web scraper
-        run: |
-          python main.py
+        run: python main.py
 
-      - name: Commit Changes
-        id: auto-commit-action
-        uses: stefanzweifel/git-auto-commit-action@v4
+      - name: Commit and push updated web.md
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: Update web.md
-
-      - name: Send Email
-        if: steps.auto-commit-action.outputs.changes_detected == 'true'
-        uses: dawidd6/action-send-mail@v3
-        with:
-          server_address: smtp.gmail.com
-          server_port: 465
-          secure: true
-          username: ${{ secrets.MAIL_USERNAME }}
-          password: ${{ secrets.MAIL_PASSWORD }}
-          subject: Web Scraper Update
-          to: ruth.4loops@gmail.com
-          from: ${{ secrets.MAIL_USERNAME }}
-          html_body: file://web.md
-          convert_markdown: true
+          commit_message: Auto update web scraping data
+          file_pattern: web.md
+          commit_author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
