@@ -1,6 +1,35 @@
 import json
+import os
+import re
+import datetime
 import requests
 from bs4 import BeautifulSoup
+
+# ============================================
+# EXECUTION TRACKING
+# ============================================
+
+def _read_execution_count():
+    """Read persisted execution counter from web.md if it exists."""
+    try:
+        with open("web.md", "r", encoding="utf-8") as f:
+            content = f.read()
+        match = re.search(r"\*\*Execution #(\d+)\*\*", content)
+        if match:
+            return int(match.group(1))
+    except FileNotFoundError:
+        pass
+    return 0
+
+RUN_TIMESTAMP = datetime.datetime.now(datetime.timezone.utc)
+RUN_TIMESTAMP_STR = RUN_TIMESTAMP.strftime("%Y-%m-%d %H:%M:%S UTC")
+EXECUTION_COUNT = _read_execution_count() + 1
+
+print("==============================================")
+print("  SCRAPER STARTED")
+print(f"  Execution  : #{EXECUTION_COUNT}")
+print(f"  UTC Time   : {RUN_TIMESTAMP_STR}")
+print("==============================================")
 
 # ============================================
 # CONFIG
@@ -186,7 +215,6 @@ def scrape_epss():
     soup = BeautifulSoup(r.text, "html.parser")
     cards = soup.find_all("div", class_="tender-card")
     print(f"  Found {len(cards)} total tenders on EPSS")
-# THIS LINE
     results = []
     for card in cards:
         title_tag = card.find("h3", class_="tender-title")
@@ -274,7 +302,14 @@ egp_stats = scrape_egp_summary()
 # BUILD MARKDOWN
 # ============================================
 
-web_markdown = "# Medical Equipment Tenders\n\n"
+# Header always includes current timestamp and counter — guarantees
+# web.md changes on every run so git always detects a diff to commit.
+web_markdown  = "# Medical Equipment Tenders\n\n"
+web_markdown += "---\n\n"
+web_markdown += f"**Execution #{EXECUTION_COUNT}**\n\n"
+web_markdown += f"**Last run:** {RUN_TIMESTAMP_STR}\n\n"
+web_markdown += f"**Total matched tenders:** {len(all_results)}\n\n"
+web_markdown += "---\n\n"
 
 # EGP stats note
 if egp_stats:
@@ -337,10 +372,17 @@ else:
     print(f"\nScraper working correctly.")
 
 # ============================================
-# SAVE MARKDOWN FILE DONE
+# SAVE MARKDOWN FILE
 # ============================================
 
 with open("web.md", "w", encoding="utf-8") as scrap_file:
     scrap_file.write(web_markdown)
 
-print("\nMarkdown file saved as web.md")
+finish_time = datetime.datetime.utcnow().strftime("%Y-%m-%d %H:%M:%S UTC")
+print(f"\nMarkdown file saved as web.md")
+print("==============================================")
+print("  SCRAPER FINISHED")
+print(f"  Execution  : #{EXECUTION_COUNT}")
+print(f"  Finished   : {finish_time}")
+print(f"  Tenders    : {len(all_results)}")
+print("==============================================")

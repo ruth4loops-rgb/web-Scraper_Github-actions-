@@ -1,9 +1,14 @@
 name: Web Scraper Auto-Update
 
+# NOTE: GitHub Free cron schedules are NOT guaranteed to run exactly every minute.
+# GitHub infrastructure queues scheduled jobs and may delay them by several minutes,
+# especially during high load periods. '* * * * *' requests every minute but
+# actual execution frequency depends on GitHub's runner availability.
+
 on:
-  schedule:
-    - cron: '*/5 * * * *'  # Every 5 min (GitHub minimum; closest to 2-min target)
   workflow_dispatch:
+  schedule:
+    - cron: '* * * * *'
 
 permissions:
   contents: write
@@ -13,6 +18,17 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+
+      - name: Log workflow start
+        run: |
+          echo "=============================================="
+          echo "  WORKFLOW STARTED"
+          echo "  UTC Time : $(date -u '+%Y-%m-%d %H:%M:%S')"
+          echo "  Runner   : $RUNNER_NAME"
+          echo "  Run ID   : $GITHUB_RUN_ID"
+          echo "  Run #    : $GITHUB_RUN_NUMBER"
+          echo "=============================================="
+
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
@@ -27,15 +43,49 @@ jobs:
 
       - name: Install dependencies
         run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
+          echo "[DEPS] Installing at $(date -u '+%H:%M:%S') UTC..."
+          python -m pip install --upgrade pip --quiet
+          pip install -r requirements.txt --quiet
+          echo "[DEPS] All dependencies installed."
+
+      - name: Configure git identity
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          echo "[GIT] Identity configured."
 
       - name: Run web scraper
-        run: python main.py
+        run: |
+          echo "[SCRAPER] Started at $(date -u '+%Y-%m-%d %H:%M:%S') UTC"
+          python main.py
+          echo "[SCRAPER] Finished at $(date -u '+%Y-%m-%d %H:%M:%S') UTC"
 
-      - name: Commit and push updated web.md
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: Auto update web scraping data
-          file_pattern: web.md
-          commit_author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
+      - name: Show git status
+        run: |
+          echo "[GIT] --- Status ---"
+          git status
+          echo "[GIT] --- Diff summary ---"
+          git diff --stat
+
+      - name: Commit and push changes
+        run: |
+          git add web.md
+
+          if git diff --cached --quiet; then
+            echo "[COMMIT] No changes detected in web.md. Skipping commit."
+          else
+            echo "[COMMIT] Changes detected. Committing at $(date -u '+%H:%M:%S') UTC..."
+            git commit -m "Auto update web scraping data"
+            echo "[COMMIT] Commit created."
+
+            echo "[PUSH] Pushing to origin main..."
+            git push origin main
+            echo "[PUSH] Push completed at $(date -u '+%Y-%m-%d %H:%M:%S') UTC"
+          fi
+
+      - name: Log workflow end
+        run: |
+          echo "=============================================="
+          echo "  WORKFLOW COMPLETED"
+          echo "  UTC Time : $(date -u '+%Y-%m-%d %H:%M:%S')"
+          echo "=============================================="
