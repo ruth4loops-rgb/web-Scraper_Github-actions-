@@ -441,23 +441,3 @@
 
 ---
 
-## Notice of Invitation for Early Market Engagement
-
-**Source:** epss.gov.et
-
-**Company:** Ethiopian Pharmaceuticals Supply Service (EPSS)
-
-**Category:** Medical Equipment
-
-**Tender Code:** ET-MOH-537671-GO-RFB
-
-**Status:** Active
-
-**Closing Date:** Jun 03, 2026
-
-**Matched Keywords:** medical equipment, medical
-
-**Link:** [https://epss.gov.et/epss/tenders/11](https://epss.gov.et/epss/tenders/11)
-
----
-
