@@ -2,20 +2,36 @@
 
 ---
 
-**Execution #7**
+**Execution #8**
 
-**Last run:** 2026-05-25 22:17:58 UTC
+**Last run:** 2026-05-26 19:32:37 UTC
 
-**Total matched tenders:** 28
+**Total matched tenders:** 29
 
 ---
 
 ## EGP Portal Summary
 
-- **Active tenders:** 669
-- **Published today:** 345
-- **Closing today:** 347
+- **Active tenders:** 680
+- **Published today:** 311
+- **Closing today:** 283
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
+
+---
+
+## The American Jewish Joint Distribution Committee (JDC) invites qualified suppliers to submit bids for the supply, delivery, and installation of Medical Equipment for Maraki Health Center, Gondar.
+
+**Source:** 2merkato.com
+
+**Company:** American Jewish Joint Distribution Committee
+
+**Status:** Open
+
+**Closing Date:** 2026-06-05 17:00:00
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a15b0380a538a6382000001](https://tender.2merkato.com/tenders/6a15b0380a538a6382000001)
 
 ---
 
@@ -195,19 +211,19 @@
 
 ---
 
-## Bio and Emerging technology Institute Procurement of Medical Equipment and Supplies
+## Amanuel Mental Specialized Hospital Procurement of Office Equipment
 
 **Source:** 2merkato.com
 
-**Company:** Bio and Emerging Technology Institute
+**Company:** Amanuel Mental Specialized Hospital
 
 **Status:** Login required
 
 **Closing Date:** Login required to view
 
-**Matched Keywords:** medical equipment, medical
+**Matched Keywords:** hospital
 
-**Link:** [https://tender.2merkato.com/tenders/6a06bc740a538a2dda000001](https://tender.2merkato.com/tenders/6a06bc740a538a2dda000001)
+**Link:** [https://tender.2merkato.com/tenders/6a158a9d0a538a662e000001](https://tender.2merkato.com/tenders/6a158a9d0a538a662e000001)
 
 ---
 
@@ -307,19 +323,19 @@
 
 ---
 
-## Eka Kotebe General Hospital: Procurement of Electronics Equipment
+## Ministry of Agriculture now invites sealed bids from eligible bidders for the supply of seed laboratory equipment, computer and printer
 
 **Source:** 2merkato.com
 
-**Company:** Eka Kotebe General Hospital
+**Company:** Ministry of Agriculture
 
 **Status:** Login required
 
 **Closing Date:** Login required to view
 
-**Matched Keywords:** hospital
+**Matched Keywords:** laboratory equipment
 
-**Link:** [https://tender.2merkato.com/tenders/6a06be4e0a538a7a8d000001](https://tender.2merkato.com/tenders/6a06be4e0a538a7a8d000001)
+**Link:** [https://tender.2merkato.com/tenders/6a1565730a538a156a000001](https://tender.2merkato.com/tenders/6a1565730a538a156a000001)
 
 ---
 
