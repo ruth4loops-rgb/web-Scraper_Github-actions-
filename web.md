@@ -2,20 +2,84 @@
 
 ---
 
-**Execution #12**
+**Execution #13**
 
-**Last run:** 2026-05-28 00:14:59 UTC
+**Last run:** 2026-05-28 12:54:01 UTC
 
-**Total matched tenders:** 29
+**Total matched tenders:** 30
 
 ---
 
 ## EGP Portal Summary
 
-- **Active tenders:** 516
-- **Published today:** 0
-- **Closing today:** 127
+- **Active tenders:** 560
+- **Published today:** 209
+- **Closing today:** 155
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
+
+---
+
+## Deutsche Stiftung Weltbevölkerung (DSW) invites qualified bidders for the supply and delivery of Mini Media & electronics materials, Medical equipment and others supporting materials & Office/Facilities' Furniture and others.
+
+**Source:** 2merkato.com
+
+**Company:** Deutsche Stiftung Weltbevölkerung(DSW)
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a18188a0a538a54f4000001](https://tender.2merkato.com/tenders/6a18188a0a538a54f4000001)
+
+---
+
+## Medecins Sans Frontieres - Belgium Ethiopia Mission hereby invites eligible and qualified Medical Equipment suppliers to submit sealed bids for the supply, installation and commissioning of C-PAP Machine and accessories for our project in Korem (Korem General Hospital - KGH).
+
+**Source:** 2merkato.com
+
+**Company:** Médecins Sans Frontières (MSF)
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical, hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6a17fbe30a538a644c000001](https://tender.2merkato.com/tenders/6a17fbe30a538a644c000001)
+
+---
+
+## Madda Walabu University: Procurement of Medical Supplies
+
+**Source:** 2merkato.com
+
+**Company:** Madda Walabu University
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a17ddde0a538a54c9000001](https://tender.2merkato.com/tenders/6a17ddde0a538a54c9000001)
+
+---
+
+## St. Peter Specialized Hospital: Procurement of Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** St.Peter Specialized Hospital
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical, hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6a17d7eb0a538a6b9c000001](https://tender.2merkato.com/tenders/6a17d7eb0a538a6b9c000001)
 
 ---
 
@@ -131,83 +195,115 @@
 
 ---
 
-## Healing Hands of Joy (HHOJ) hereby invites eligible bidders for the supply and delivery of the medical equipment and materials.
+## Goba Referral Hospital , Madda Walabu University: መወዩ ጎባ ህ/ጤ/ሳይ/ኮሌጅ Laundry and Dryer machine maintenance request 2018
 
 **Source:** 2merkato.com
 
-**Company:** Healing Hands of Joy
+**Company:** Medewelabu University Goba Referral Hospital
 
 **Status:** Login required
 
 **Closing Date:** Login required to view
 
-**Matched Keywords:** medical equipment, medical
+**Matched Keywords:** hospital
 
-**Link:** [https://tender.2merkato.com/tenders/6a0db2b60a538a5672000001](https://tender.2merkato.com/tenders/6a0db2b60a538a5672000001)
+**Link:** [https://tender.2merkato.com/tenders/6a17e8b30a538a6492000001](https://tender.2merkato.com/tenders/6a17e8b30a538a6492000001)
 
 ---
 
-## MSI Ethiopia Invites Eligible Bidders for the Procurement of medical supplies, drugs, equipment and laboratory reagents
+## Goba Referral Hospital , Madda Walabu University would like to procure Cleaning Equipment and Supplies
 
 **Source:** 2merkato.com
 
-**Company:** MSI Ethiopia Reproductive Choices
+**Company:** Madda Walabu University
 
 **Status:** Login required
 
 **Closing Date:** Login required to view
 
-**Matched Keywords:** medical
+**Matched Keywords:** hospital
 
-**Link:** [https://tender.2merkato.com/tenders/6a0d7ab60a538abe3a000001](https://tender.2merkato.com/tenders/6a0d7ab60a538abe3a000001)
+**Link:** [https://tender.2merkato.com/tenders/6a17e6120a538a5719000001](https://tender.2merkato.com/tenders/6a17e6120a538a5719000001)
 
 ---
 
-## Alert Comprehensive Specialized Hospital Procurement of Medical Equipment and Supplies
+## Goba Referral Hospital: Procurement of Spare Parts
 
 **Source:** 2merkato.com
 
-**Company:** Alert  Comprehensive Specialized Hospital
+**Company:** Medewelabu University Goba Referral Hospital
 
 **Status:** Login required
 
 **Closing Date:** Login required to view
 
-**Matched Keywords:** medical equipment, medical, hospital
+**Matched Keywords:** hospital
 
-**Link:** [https://tender.2merkato.com/tenders/6a0d5f030a538a745f000001](https://tender.2merkato.com/tenders/6a0d5f030a538a745f000001)
+**Link:** [https://tender.2merkato.com/tenders/6a17e5120a538a54bb000001](https://tender.2merkato.com/tenders/6a17e5120a538a54bb000001)
 
 ---
 
-## Aksum University Would like to procure Medical Equipment and Supplies
+## Goba Referral Hospital , Madda Walabu University: መወዩ ጎባ ህ/ጤ/ሳይ/ኮሌጅ የፈርኒችር እቃዎች ግዥ 2018- 2
 
 **Source:** 2merkato.com
 
-**Company:** Aksum University
+**Company:** Medewelabu University Goba Referral Hospital
 
 **Status:** Login required
 
 **Closing Date:** Login required to view
 
-**Matched Keywords:** medical equipment, medical
+**Matched Keywords:** hospital
 
-**Link:** [https://tender.2merkato.com/tenders/6a0c0be50a538a4962000001](https://tender.2merkato.com/tenders/6a0c0be50a538a4962000001)
+**Link:** [https://tender.2merkato.com/tenders/6a17e4750a538a644c000001](https://tender.2merkato.com/tenders/6a17e4750a538a644c000001)
 
 ---
 
-## University of Gondar: Procurement of Medical Equipment and Supplies
+## Goba Referral Hospital , Madda Walabu University would like to procure ICT Equipment
 
 **Source:** 2merkato.com
 
-**Company:** University of Gondar
+**Company:** Madda Walabu University
 
 **Status:** Login required
 
 **Closing Date:** Login required to view
 
-**Matched Keywords:** medical equipment, medical
+**Matched Keywords:** hospital
 
-**Link:** [https://tender.2merkato.com/tenders/6a0817a20a538a0bcd000001](https://tender.2merkato.com/tenders/6a0817a20a538a0bcd000001)
+**Link:** [https://tender.2merkato.com/tenders/6a17e3e70a538a6993000001](https://tender.2merkato.com/tenders/6a17e3e70a538a6993000001)
+
+---
+
+## Goba Referral Hospital : Laboratory reagents
+
+**Source:** 2merkato.com
+
+**Company:** Goba Hospital
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6a17e3610a538a2199000001](https://tender.2merkato.com/tenders/6a17e3610a538a2199000001)
+
+---
+
+## St. Peter Specialized Hospital: Procurement of Sanitary Items
+
+**Source:** 2merkato.com
+
+**Company:** St.Peter Specialized Hospital
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6a17d8a60a538ade7d000001](https://tender.2merkato.com/tenders/6a17d8a60a538ade7d000001)
 
 ---
 
@@ -224,102 +320,6 @@
 **Matched Keywords:** hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6a158a9d0a538a662e000001](https://tender.2merkato.com/tenders/6a158a9d0a538a662e000001)
-
----
-
-## St. Peter Specialized Hospital: Procurement of Construction Supervision Consultancy
-
-**Source:** 2merkato.com
-
-**Company:** St.Peter Specialized Hospital
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a0ff1140a538af0a8000001](https://tender.2merkato.com/tenders/6a0ff1140a538af0a8000001)
-
----
-
-## Amanuel Mental Specialized Hospital Procurement of Spare Parts
-
-**Source:** 2merkato.com
-
-**Company:** Amanuel Mental Specialized Hospital
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a0ee51f0a538a2d60000001](https://tender.2merkato.com/tenders/6a0ee51f0a538a2d60000001)
-
----
-
-## Amanuel Mental Specialized Hospital Procurement of Spare Parts
-
-**Source:** 2merkato.com
-
-**Company:** Amanuel Mental Specialized Hospital
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a0ee4a00a538a3f26000001](https://tender.2merkato.com/tenders/6a0ee4a00a538a3f26000001)
-
----
-
-## Amanuel Mental Specialized Hospital: Procurement of Sport Materials
-
-**Source:** 2merkato.com
-
-**Company:** Amanuel Mental Specialized Hospital
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a0ec42f0a538a23d7000001](https://tender.2merkato.com/tenders/6a0ec42f0a538a23d7000001)
-
----
-
-## Amanuel Mental Specialized Hospital: Procurement of work with materials
-
-**Source:** 2merkato.com
-
-**Company:** Ebiz Online Solutions PLC
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a0dbe4b0a538a5d0a000001](https://tender.2merkato.com/tenders/6a0dbe4b0a538a5d0a000001)
-
----
-
-## The Brooke Hospital For Animals would like to procure different items
-
-**Source:** 2merkato.com
-
-**Company:** The Brooke Hospital For Animals
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a0c49c20a538a44c9000001](https://tender.2merkato.com/tenders/6a0c49c20a538a44c9000001)
 
 ---
 
@@ -352,6 +352,38 @@
 **Matched Keywords:** laboratory equipment
 
 **Link:** [https://tender.2merkato.com/tenders/6a140ec90a538a727c000001](https://tender.2merkato.com/tenders/6a140ec90a538a727c000001)
+
+---
+
+## MSI Ethiopia Invites Eligible Bidders for the Procurement of medical supplies, drugs, equipment and laboratory reagents
+
+**Source:** 2merkato.com
+
+**Company:** MSI Ethiopia Reproductive Choices
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a0d7ab60a538abe3a000001](https://tender.2merkato.com/tenders/6a0d7ab60a538abe3a000001)
+
+---
+
+## Healing Hands of Joy (HHOJ) hereby invites eligible bidders for the supply and delivery of the medical equipment and materials.
+
+**Source:** 2merkato.com
+
+**Company:** Healing Hands of Joy
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a0db2b60a538a5672000001](https://tender.2merkato.com/tenders/6a0db2b60a538a5672000001)
 
 ---
 
@@ -448,22 +480,6 @@
 **Matched Keywords:** medical
 
 **Link:** [https://tender.2merkato.com/tenders/6a1151190a538aa983000001](https://tender.2merkato.com/tenders/6a1151190a538aa983000001)
-
----
-
-## The World Health Organization is looking for a qualified supplier or bidder to handle the "Digitalization of life saving humanitarian medical drugs and supplies."
-
-**Source:** 2merkato.com
-
-**Company:** World Health Organization
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a0d9e2e0a538a3153000001](https://tender.2merkato.com/tenders/6a0d9e2e0a538a3153000001)
 
 ---
 
