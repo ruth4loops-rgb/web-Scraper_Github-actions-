@@ -2,20 +2,36 @@
 
 ---
 
-**Execution #15**
+**Execution #16**
 
-**Last run:** 2026-05-29 10:56:38 UTC
+**Last run:** 2026-05-29 19:55:33 UTC
 
-**Total matched tenders:** 31
+**Total matched tenders:** 30
 
 ---
 
 ## EGP Portal Summary
 
-- **Active tenders:** 607
-- **Published today:** 119
-- **Closing today:** 172
+- **Active tenders:** 668
+- **Published today:** 238
+- **Closing today:** 169
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
+
+---
+
+## Pharo Ventures seeks comprehensive, competitive proposals from qualified medical equipment manufacturers and/or authorized distributors. The purpose of this Request for Proposal (RFP) is to solicit bids for the procurement, delivery, installation, and ongoing maintenance of MRI Scanner & CT Scanner.
+
+**Source:** 2merkato.com
+
+**Company:** Pharo Foundation
+
+**Status:** Open
+
+**Closing Date:** 2026-06-28 16:00:00
+
+**Matched Keywords:** ct scanner, medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a198f1e0a538a4262000001](https://tender.2merkato.com/tenders/6a198f1e0a538a4262000001)
 
 ---
 
@@ -176,22 +192,6 @@
 **Matched Keywords:** medical equipment, medical
 
 **Link:** [https://tender.2merkato.com/tenders/6a0ff6b10a538af946000001](https://tender.2merkato.com/tenders/6a0ff6b10a538af946000001)
-
----
-
-## St. Paul's Hospital Millennium Medical College would like to procure  Service Industry Machinery and Equipment and Supplies
-
-**Source:** 2merkato.com
-
-**Company:** St. Paul's Hospital Millennium Medical College
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical, hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a0ea5040a538a2f5a000001](https://tender.2merkato.com/tenders/6a0ea5040a538a2f5a000001)
 
 ---
 
@@ -368,22 +368,6 @@
 **Matched Keywords:** laboratory equipment
 
 **Link:** [https://tender.2merkato.com/tenders/6a140ec90a538a727c000001](https://tender.2merkato.com/tenders/6a140ec90a538a727c000001)
-
----
-
-## MSI Ethiopia Invites Eligible Bidders for the Procurement of medical supplies, drugs, equipment and laboratory reagents
-
-**Source:** 2merkato.com
-
-**Company:** MSI Ethiopia Reproductive Choices
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a0d7ab60a538abe3a000001](https://tender.2merkato.com/tenders/6a0d7ab60a538abe3a000001)
 
 ---
 
