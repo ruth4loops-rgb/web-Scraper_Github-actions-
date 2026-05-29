@@ -2,11 +2,20 @@
 
 ---
 
-**Execution #14**
+**Execution #15**
 
-**Last run:** 2026-05-28 21:17:55 UTC
+**Last run:** 2026-05-29 10:56:38 UTC
 
-**Total matched tenders:** 30
+**Total matched tenders:** 31
+
+---
+
+## EGP Portal Summary
+
+- **Active tenders:** 607
+- **Published today:** 119
+- **Closing today:** 172
+- **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
 
 ---
 
@@ -183,6 +192,22 @@
 **Matched Keywords:** medical, hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6a0ea5040a538a2f5a000001](https://tender.2merkato.com/tenders/6a0ea5040a538a2f5a000001)
+
+---
+
+## St. Peter Specialized Hospital: Procurement of ICT Equipment
+
+**Source:** 2merkato.com
+
+**Company:** St.Peter Specialized Hospital
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6a1932ab0a538a0d66000001](https://tender.2merkato.com/tenders/6a1932ab0a538a0d66000001)
 
 ---
 
