@@ -2,19 +2,19 @@
 
 ---
 
-**Execution #16**
+**Execution #17**
 
-**Last run:** 2026-05-29 19:55:33 UTC
+**Last run:** 2026-05-30 00:16:22 UTC
 
-**Total matched tenders:** 30
+**Total matched tenders:** 29
 
 ---
 
 ## EGP Portal Summary
 
 - **Active tenders:** 668
-- **Published today:** 238
-- **Closing today:** 169
+- **Published today:** 0
+- **Closing today:** 130
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
 
 ---
@@ -480,26 +480,6 @@
 **Matched Keywords:** medical
 
 **Link:** [https://tender.2merkato.com/tenders/6a1151190a538aa983000001](https://tender.2merkato.com/tenders/6a1151190a538aa983000001)
-
----
-
-## Notice of Invitation for Early Market Engagement
-
-**Source:** epss.gov.et
-
-**Company:** Ethiopian Pharmaceuticals Supply Service (EPSS)
-
-**Category:** Medical Equipment
-
-**Tender Code:** ET-MOH-537671-GO-RFB
-
-**Status:** Active
-
-**Closing Date:** Jun 03, 2026
-
-**Matched Keywords:** medical equipment, medical
-
-**Link:** [https://epss.gov.et/epss/tenders/11](https://epss.gov.et/epss/tenders/11)
 
 ---
 
