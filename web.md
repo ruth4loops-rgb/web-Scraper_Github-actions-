@@ -2,19 +2,19 @@
 
 ---
 
-**Execution #29**
+**Execution #30**
 
-**Last run:** 2026-06-02 13:01:34 UTC
+**Last run:** 2026-06-02 22:13:35 UTC
 
-**Total matched tenders:** 29
+**Total matched tenders:** 27
 
 ---
 
 ## EGP Portal Summary
 
-- **Active tenders:** 571
-- **Published today:** 208
-- **Closing today:** 176
+- **Active tenders:** 623
+- **Published today:** 284
+- **Closing today:** 182
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
 
 ---
@@ -163,22 +163,6 @@
 
 ---
 
-## The International NGO, Doctors with Africa CUAMM is launching the present Local Open Tender to select eligible suppliers for the Supply of Medical Drugs, Laboratory Reagents, Medical Consumables and Medical Equipment.
-
-**Source:** 2merkato.com
-
-**Company:** Doctors with Africa CUAMM
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a115a3c0a538a8d94000001](https://tender.2merkato.com/tenders/6a115a3c0a538a8d94000001)
-
----
-
 ## St. Peter Specialized Hospital: Procurement of ICT Equipment
 
 **Source:** 2merkato.com
@@ -307,22 +291,6 @@
 
 ---
 
-## Amanuel Mental Specialized Hospital Procurement of Office Equipment
-
-**Source:** 2merkato.com
-
-**Company:** Amanuel Mental Specialized Hospital
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a158a9d0a538a662e000001](https://tender.2merkato.com/tenders/6a158a9d0a538a662e000001)
-
----
-
 ## Ministry of Agriculture now invites sealed bids from eligible bidders for the supply of seed laboratory equipment, computer and printer
 
 **Source:** 2merkato.com
@@ -352,6 +320,22 @@
 **Matched Keywords:** laboratory equipment
 
 **Link:** [https://tender.2merkato.com/tenders/6a140ec90a538a727c000001](https://tender.2merkato.com/tenders/6a140ec90a538a727c000001)
+
+---
+
+## The International NGO, Doctors with Africa CUAMM is launching the present Local Open Tender to select eligible suppliers for the Supply of Medical Drugs, Laboratory Reagents, Medical Consumables and Medical Equipment.
+
+**Source:** 2merkato.com
+
+**Company:** Doctors with Africa CUAMM
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a115a3c0a538a8d94000001](https://tender.2merkato.com/tenders/6a115a3c0a538a8d94000001)
 
 ---
 
@@ -464,26 +448,6 @@
 **Matched Keywords:** medical
 
 **Link:** [https://tender.2merkato.com/tenders/6a1151190a538aa983000001](https://tender.2merkato.com/tenders/6a1151190a538aa983000001)
-
----
-
-## Notice of Invitation for Early Market Engagement
-
-**Source:** epss.gov.et
-
-**Company:** Ethiopian Pharmaceuticals Supply Service (EPSS)
-
-**Category:** Medical Equipment
-
-**Tender Code:** ET-MOH-537671-GO-RFB
-
-**Status:** Active
-
-**Closing Date:** Jun 03, 2026
-
-**Matched Keywords:** medical equipment, medical
-
-**Link:** [https://epss.gov.et/epss/tenders/11](https://epss.gov.et/epss/tenders/11)
 
 ---
 
