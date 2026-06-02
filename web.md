@@ -2,20 +2,68 @@
 
 ---
 
-**Execution #28**
+**Execution #29**
 
-**Last run:** 2026-06-02 00:00:05 UTC
+**Last run:** 2026-06-02 13:01:34 UTC
 
-**Total matched tenders:** 30
+**Total matched tenders:** 29
 
 ---
 
 ## EGP Portal Summary
 
-- **Active tenders:** 513
-- **Published today:** 0
-- **Closing today:** 149
+- **Active tenders:** 571
+- **Published today:** 208
+- **Closing today:** 176
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
+
+---
+
+## Action for Social Development and Environmental Protection Organization (ASDEPO) invites all interested & eligible bidders to purchase Medicines and medical equipment.
+
+**Source:** 2merkato.com
+
+**Company:** Action for Social Development and Environmental Protection Organization (ASDEPO)
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a1eb8760a538a52ac000001](https://tender.2merkato.com/tenders/6a1eb8760a538a52ac000001)
+
+---
+
+## WEEMA International Inc. Invites Eligible Bidders for the Procurement of medical equipment and supplies through a competitive bidding process for distribution to health centers and health posts located in Damboya Woreda, Central Ethiopia Region.
+
+**Source:** 2merkato.com
+
+**Company:** WEEMA INTERNATIONAL, INC
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a1ea01c0a538abcf9000001](https://tender.2merkato.com/tenders/6a1ea01c0a538abcf9000001)
+
+---
+
+## Orbis International Ethiopia invites all interested and eligible Importers/manufacturers/whole sellers to bid for the supply of consumable medical supplies and equipment.
+
+**Source:** 2merkato.com
+
+**Company:** Orbis International Ethiopia (OlE)
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a1e9d0d0a538abdb3000001](https://tender.2merkato.com/tenders/6a1e9d0d0a538abdb3000001)
 
 ---
 
@@ -128,70 +176,6 @@
 **Matched Keywords:** medical equipment, medical
 
 **Link:** [https://tender.2merkato.com/tenders/6a115a3c0a538a8d94000001](https://tender.2merkato.com/tenders/6a115a3c0a538a8d94000001)
-
----
-
-## St. Paul's Hospital Millennium Medical College: Procurement of Electronics Equipment
-
-**Source:** 2merkato.com
-
-**Company:** St. Paul's Hospital Millennium Medical College
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical, hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a114cec0a538ab8c6000001](https://tender.2merkato.com/tenders/6a114cec0a538ab8c6000001)
-
----
-
-## Salale University: Procurement of Medical Equipment and Supplies
-
-**Source:** 2merkato.com
-
-**Company:** Salale university
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a114cc30a538aff58000001](https://tender.2merkato.com/tenders/6a114cc30a538aff58000001)
-
----
-
-## St. Paul's Hospital Millennium Medical College: Procurement of Medical Equipment and Supplies
-
-**Source:** 2merkato.com
-
-**Company:** St. Paul's Hospital Millennium Medical College
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical, hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a1001c30a538afc97000001](https://tender.2merkato.com/tenders/6a1001c30a538afc97000001)
-
----
-
-## University of Gondar: Procurement of Medical Equipment and Supplies
-
-**Source:** 2merkato.com
-
-**Company:** University of Gondar
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a0ff6b10a538af946000001](https://tender.2merkato.com/tenders/6a0ff6b10a538af946000001)
 
 ---
 
