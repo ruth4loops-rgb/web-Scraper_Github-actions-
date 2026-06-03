@@ -2,19 +2,19 @@
 
 ---
 
-**Execution #30**
+**Execution #31**
 
-**Last run:** 2026-06-02 22:13:35 UTC
+**Last run:** 2026-06-03 16:02:26 UTC
 
-**Total matched tenders:** 27
+**Total matched tenders:** 29
 
 ---
 
 ## EGP Portal Summary
 
-- **Active tenders:** 623
-- **Published today:** 284
-- **Closing today:** 182
+- **Active tenders:** 801
+- **Published today:** 293
+- **Closing today:** 123
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
 
 ---
@@ -163,6 +163,22 @@
 
 ---
 
+## Amanuel Mental Specialized Hospital would like to procure  Building and Facility Construction and Maintenance Services
+
+**Source:** 2merkato.com
+
+**Company:** Amanuel Mental Specialized Hospital
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6a1fc9a90a538ae43b000001](https://tender.2merkato.com/tenders/6a1fc9a90a538ae43b000001)
+
+---
+
 ## St. Peter Specialized Hospital: Procurement of ICT Equipment
 
 **Source:** 2merkato.com
@@ -243,19 +259,19 @@
 
 ---
 
-## Goba Referral Hospital , Madda Walabu University would like to procure ICT Equipment
+## University of Gondar Procurement of Laboratory Equipment
 
 **Source:** 2merkato.com
 
-**Company:** Madda Walabu University
+**Company:** University of Gondar
 
 **Status:** Login required
 
 **Closing Date:** Login required to view
 
-**Matched Keywords:** hospital
+**Matched Keywords:** laboratory equipment
 
-**Link:** [https://tender.2merkato.com/tenders/6a17e3e70a538a6993000001](https://tender.2merkato.com/tenders/6a17e3e70a538a6993000001)
+**Link:** [https://tender.2merkato.com/tenders/6a1fc0720a538ae1ee000001](https://tender.2merkato.com/tenders/6a1fc0720a538ae1ee000001)
 
 ---
 
@@ -272,22 +288,6 @@
 **Matched Keywords:** hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6a17e3610a538a2199000001](https://tender.2merkato.com/tenders/6a17e3610a538a2199000001)
-
----
-
-## St. Peter Specialized Hospital: Procurement of Sanitary Items
-
-**Source:** 2merkato.com
-
-**Company:** St.Peter Specialized Hospital
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a17d8a60a538ade7d000001](https://tender.2merkato.com/tenders/6a17d8a60a538ade7d000001)
 
 ---
 
@@ -336,6 +336,22 @@
 **Matched Keywords:** medical equipment, medical
 
 **Link:** [https://tender.2merkato.com/tenders/6a115a3c0a538a8d94000001](https://tender.2merkato.com/tenders/6a115a3c0a538a8d94000001)
+
+---
+
+## Hybrid Designs PLC invites eligible vendors to submit competitive quotations for the supply of quality, clinical-grade basic medical diagnostic tool kits to support the operational rollout of the FetroAder healthcare service ecosystem under the EDGE Program.
+
+**Source:** 2merkato.com
+
+**Company:** Hybrid Designs
+
+**Status:** Open
+
+**Closing Date:** 2026-06-13 16:00:00
+
+**Matched Keywords:** medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a2027fb0a538a293d000001](https://tender.2merkato.com/tenders/6a2027fb0a538a293d000001)
 
 ---
 
@@ -448,6 +464,22 @@
 **Matched Keywords:** medical
 
 **Link:** [https://tender.2merkato.com/tenders/6a1151190a538aa983000001](https://tender.2merkato.com/tenders/6a1151190a538aa983000001)
+
+---
+
+## St. Paul's Hospital Millennium Medical College: Procurement of Electronics Equipment
+
+**Source:** 2merkato.com
+
+**Company:** St. Paul's Hospital Millennium Medical College
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical, hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6a114cec0a538ab8c6000001](https://tender.2merkato.com/tenders/6a114cec0a538ab8c6000001)
 
 ---
 
