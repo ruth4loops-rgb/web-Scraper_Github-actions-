@@ -2,20 +2,52 @@
 
 ---
 
-**Execution #35**
+**Execution #36**
 
-**Last run:** 2026-06-04 22:57:28 UTC
+**Last run:** 2026-06-05 11:40:20 UTC
 
-**Total matched tenders:** 29
+**Total matched tenders:** 30
 
 ---
 
 ## EGP Portal Summary
 
-- **Active tenders:** 805
-- **Published today:** 276
-- **Closing today:** 276
+- **Active tenders:** 715
+- **Published today:** 142
+- **Closing today:** 313
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
+
+---
+
+## Waliya Capital Goods Finance Business Share Company (WCGFB) is intended to procure Variety Medical equipment (for Woldeya and bahir dar clients) and Co- extrusion Geo-membrane blowing machine (for tana branch client) who are located at woldeya and bahir dar towns in Amhara region.
+
+**Source:** 2merkato.com
+
+**Company:** Waliya Capital Goods Finance Business Share Company
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a22831f0a538acd66000001](https://tender.2merkato.com/tenders/6a22831f0a538acd66000001)
+
+---
+
+## CMHS , University of Gondar Procurement of Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** University of Gondar
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a226df30a538acd51000001](https://tender.2merkato.com/tenders/6a226df30a538acd51000001)
 
 ---
 
@@ -131,35 +163,83 @@
 
 ---
 
-## St. Peter Specialized Hospital: Procurement of Medical Equipment and Supplies
+## Goba Referral Hospital , Madda Walabu University would like to procure Education and Training Services
 
 **Source:** 2merkato.com
 
-**Company:** St.Peter Specialized Hospital
+**Company:** Medewelabu University Goba Referral Hospital
 
 **Status:** Login required
 
 **Closing Date:** Login required to view
 
-**Matched Keywords:** medical equipment, medical, hospital
+**Matched Keywords:** hospital
 
-**Link:** [https://tender.2merkato.com/tenders/6a17d7eb0a538a6b9c000001](https://tender.2merkato.com/tenders/6a17d7eb0a538a6b9c000001)
+**Link:** [https://tender.2merkato.com/tenders/6a2276680a538aced9000001](https://tender.2merkato.com/tenders/6a2276680a538aced9000001)
 
 ---
 
-## The American Jewish Joint Distribution Committee (JDC) invites qualified suppliers to submit bids for the supply, delivery, and installation of Medical Equipment for Maraki Health Center, Gondar.
+## Goba Referral Hospital , Madda Walabu University: መወዩ ጎባ ህ/ጤ/ሳይ/ኮሌጅ ደንብ ልብስ ግዥ 2018
 
 **Source:** 2merkato.com
 
-**Company:** American Jewish Joint Distribution Committee
+**Company:** Madda Walabu University
 
-**Status:** Open
+**Status:** Login required
 
-**Closing Date:** 2026-06-05 17:00:00
+**Closing Date:** Login required to view
 
-**Matched Keywords:** medical equipment, medical
+**Matched Keywords:** hospital
 
-**Link:** [https://tender.2merkato.com/tenders/6a15b0380a538a6382000001](https://tender.2merkato.com/tenders/6a15b0380a538a6382000001)
+**Link:** [https://tender.2merkato.com/tenders/6a226d470a538acf29000001](https://tender.2merkato.com/tenders/6a226d470a538acf29000001)
+
+---
+
+## Goba Referral Hospital , Madda Walabu University: መወዩ ጎባ ህ/ጤ/ሳይ/ኮሌጅ Procurement of Lap Top to MWU CMHS ግዥ-1
+
+**Source:** 2merkato.com
+
+**Company:** Madda Walabu University
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6a226bc70a538a04e0000001](https://tender.2merkato.com/tenders/6a226bc70a538a04e0000001)
+
+---
+
+## Goba Referral Hospital ,Madda Walabu University  : Procurement of Construction Materials
+
+**Source:** 2merkato.com
+
+**Company:** Medewelabu University Goba Referral Hospital
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6a226b7d0a538aceea000001](https://tender.2merkato.com/tenders/6a226b7d0a538aceea000001)
+
+---
+
+## Goba Referral Hospital , Madda Walabu University would like to procure  Stationary Materials
+
+**Source:** 2merkato.com
+
+**Company:** Madda Walabu University
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6a226b600a538aa916000001](https://tender.2merkato.com/tenders/6a226b600a538aa916000001)
 
 ---
 
@@ -192,70 +272,6 @@
 **Matched Keywords:** hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6a1932ab0a538a0d66000001](https://tender.2merkato.com/tenders/6a1932ab0a538a0d66000001)
-
----
-
-## Goba Referral Hospital , Madda Walabu University: መወዩ ጎባ ህ/ጤ/ሳይ/ኮሌጅ Laundry and Dryer machine maintenance request 2018
-
-**Source:** 2merkato.com
-
-**Company:** Medewelabu University Goba Referral Hospital
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a17e8b30a538a6492000001](https://tender.2merkato.com/tenders/6a17e8b30a538a6492000001)
-
----
-
-## Goba Referral Hospital , Madda Walabu University would like to procure Cleaning Equipment and Supplies
-
-**Source:** 2merkato.com
-
-**Company:** Madda Walabu University
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a17e6120a538a5719000001](https://tender.2merkato.com/tenders/6a17e6120a538a5719000001)
-
----
-
-## Goba Referral Hospital: Procurement of Spare Parts
-
-**Source:** 2merkato.com
-
-**Company:** Medewelabu University Goba Referral Hospital
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a17e5120a538a54bb000001](https://tender.2merkato.com/tenders/6a17e5120a538a54bb000001)
-
----
-
-## Goba Referral Hospital , Madda Walabu University: መወዩ ጎባ ህ/ጤ/ሳይ/ኮሌጅ የፈርኒችር እቃዎች ግዥ 2018- 2
-
-**Source:** 2merkato.com
-
-**Company:** Medewelabu University Goba Referral Hospital
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a17e4750a538a644c000001](https://tender.2merkato.com/tenders/6a17e4750a538a644c000001)
 
 ---
 
@@ -451,35 +467,35 @@
 
 ---
 
-## The World Health Organization is looking for a qualified supplier or bidder to handle the "Digitalization of life saving humanitarian medical drugs and supplies."
+## St. Peter Specialized Hospital: Procurement of Medical Equipment and Supplies
 
 **Source:** 2merkato.com
 
-**Company:** World Health Organization
+**Company:** St.Peter Specialized Hospital
 
 **Status:** Login required
 
 **Closing Date:** Login required to view
 
-**Matched Keywords:** medical
+**Matched Keywords:** medical equipment, medical, hospital
 
-**Link:** [https://tender.2merkato.com/tenders/6a1151190a538aa983000001](https://tender.2merkato.com/tenders/6a1151190a538aa983000001)
+**Link:** [https://tender.2merkato.com/tenders/6a17d7eb0a538a6b9c000001](https://tender.2merkato.com/tenders/6a17d7eb0a538a6b9c000001)
 
 ---
 
-## St. Paul's Hospital Millennium Medical College: Procurement of Electronics Equipment
+## The American Jewish Joint Distribution Committee (JDC) invites qualified suppliers to submit bids for the supply, delivery, and installation of Medical Equipment for Maraki Health Center, Gondar.
 
 **Source:** 2merkato.com
 
-**Company:** St. Paul's Hospital Millennium Medical College
+**Company:** American Jewish Joint Distribution Committee
 
-**Status:** Login required
+**Status:** Open
 
-**Closing Date:** Login required to view
+**Closing Date:** 2026-06-05 17:00:00
 
-**Matched Keywords:** medical, hospital
+**Matched Keywords:** medical equipment, medical
 
-**Link:** [https://tender.2merkato.com/tenders/6a114cec0a538ab8c6000001](https://tender.2merkato.com/tenders/6a114cec0a538ab8c6000001)
+**Link:** [https://tender.2merkato.com/tenders/6a15b0380a538a6382000001](https://tender.2merkato.com/tenders/6a15b0380a538a6382000001)
 
 ---
 
