@@ -2,20 +2,11 @@
 
 ---
 
-**Execution #36**
+**Execution #37**
 
-**Last run:** 2026-06-05 11:40:20 UTC
+**Last run:** 2026-06-05 18:27:36 UTC
 
 **Total matched tenders:** 30
-
----
-
-## EGP Portal Summary
-
-- **Active tenders:** 715
-- **Published today:** 142
-- **Closing today:** 313
-- **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
 
 ---
 
@@ -489,7 +480,7 @@
 
 **Company:** American Jewish Joint Distribution Committee
 
-**Status:** Open
+**Status:** Closed
 
 **Closing Date:** 2026-06-05 17:00:00
 
