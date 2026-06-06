@@ -2,11 +2,52 @@
 
 ---
 
-**Execution #39**
+**Execution #40**
 
-**Last run:** 2026-06-06 08:16:30 UTC
+**Last run:** 2026-06-06 12:17:59 UTC
 
-**Total matched tenders:** 31
+**Total matched tenders:** 32
+
+---
+
+## EGP Portal Summary
+
+- **Active tenders:** 630
+- **Published today:** 25
+- **Closing today:** 168
+- **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
+
+---
+
+## University of Gondar: Procurement of Laboratory Equipment
+
+**Source:** 2merkato.com
+
+**Company:** University of Gondar
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** laboratory equipment
+
+**Link:** [https://tender.2merkato.com/tenders/6a23ccdf0a538a3795000001](https://tender.2merkato.com/tenders/6a23ccdf0a538a3795000001)
+
+---
+
+## CMHS , University of Gondar: Procurement of Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** University of Gondar
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a23c58c0a538a2890000001](https://tender.2merkato.com/tenders/6a23c58c0a538a2890000001)
 
 ---
 
@@ -138,19 +179,19 @@
 
 ---
 
-## Medecins Sans Frontieres - Belgium Ethiopia Mission hereby invites eligible and qualified Medical Equipment suppliers to submit sealed bids for the supply, installation and commissioning of C-PAP Machine and accessories for our project in Korem (Korem General Hospital - KGH).
+## St. Peter Specialized Hospital: Procurement of Construction Materials
 
 **Source:** 2merkato.com
 
-**Company:** Médecins Sans Frontières (MSF)
+**Company:** St.Peter Specialized Hospital
 
 **Status:** Login required
 
 **Closing Date:** Login required to view
 
-**Matched Keywords:** medical equipment, medical, hospital
+**Matched Keywords:** hospital
 
-**Link:** [https://tender.2merkato.com/tenders/6a17fbe30a538a644c000001](https://tender.2merkato.com/tenders/6a17fbe30a538a644c000001)
+**Link:** [https://tender.2merkato.com/tenders/6a23e0260a538a64fc000001](https://tender.2merkato.com/tenders/6a23e0260a538a64fc000001)
 
 ---
 
@@ -250,22 +291,6 @@
 
 ---
 
-## Amanuel Mental Specialized Hospital would like to procure  Building and Facility Construction and Maintenance Services
-
-**Source:** 2merkato.com
-
-**Company:** Amanuel Mental Specialized Hospital
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a1fc9a90a538ae43b000001](https://tender.2merkato.com/tenders/6a1fc9a90a538ae43b000001)
-
----
-
 ## University of Gondar Procurement of Laboratory Equipment
 
 **Source:** 2merkato.com
@@ -327,22 +352,6 @@
 **Matched Keywords:** laboratory equipment
 
 **Link:** [https://tender.2merkato.com/tenders/6a140ec90a538a727c000001](https://tender.2merkato.com/tenders/6a140ec90a538a727c000001)
-
----
-
-## The International NGO, Doctors with Africa CUAMM is launching the present Local Open Tender to select eligible suppliers for the Supply of Medical Drugs, Laboratory Reagents, Medical Consumables and Medical Equipment.
-
-**Source:** 2merkato.com
-
-**Company:** Doctors with Africa CUAMM
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a115a3c0a538a8d94000001](https://tender.2merkato.com/tenders/6a115a3c0a538a8d94000001)
 
 ---
 
@@ -455,6 +464,22 @@
 **Matched Keywords:** medical equipment, medical, hospital
 
 **Link:** [https://tender.2merkato.com/tenders/69a139920a538a7d21000001](https://tender.2merkato.com/tenders/69a139920a538a7d21000001)
+
+---
+
+## Medecins Sans Frontieres - Belgium Ethiopia Mission hereby invites eligible and qualified Medical Equipment suppliers to submit sealed bids for the supply, installation and commissioning of C-PAP Machine and accessories for our project in Korem (Korem General Hospital - KGH).
+
+**Source:** 2merkato.com
+
+**Company:** Médecins Sans Frontières (MSF)
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical, hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6a17fbe30a538a644c000001](https://tender.2merkato.com/tenders/6a17fbe30a538a644c000001)
 
 ---
 
