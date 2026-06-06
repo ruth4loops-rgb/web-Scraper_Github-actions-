@@ -2,11 +2,27 @@
 
 ---
 
-**Execution #38**
+**Execution #39**
 
-**Last run:** 2026-06-05 22:45:28 UTC
+**Last run:** 2026-06-06 08:16:30 UTC
 
-**Total matched tenders:** 30
+**Total matched tenders:** 31
+
+---
+
+## Procurement of Laboratory Equipment
+
+**Source:** 2merkato.com
+
+**Company:** University of Gondar
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** laboratory equipment
+
+**Link:** [https://tender.2merkato.com/tenders/6a23c3c10a538a11ff000001](https://tender.2merkato.com/tenders/6a23c3c10a538a11ff000001)
 
 ---
 
@@ -138,19 +154,19 @@
 
 ---
 
-## Madda Walabu University: Procurement of Medical Supplies
+## Alert Comprhensive Specialized Hospital would like to procure  Medical Supplies
 
 **Source:** 2merkato.com
 
-**Company:** Madda Walabu University
+**Company:** Alert Specialized Hospital
 
 **Status:** Login required
 
 **Closing Date:** Login required to view
 
-**Matched Keywords:** medical
+**Matched Keywords:** medical, hospital
 
-**Link:** [https://tender.2merkato.com/tenders/6a17ddde0a538a54c9000001](https://tender.2merkato.com/tenders/6a17ddde0a538a54c9000001)
+**Link:** [https://tender.2merkato.com/tenders/6a23ce5e0a538a266b000001](https://tender.2merkato.com/tenders/6a23ce5e0a538a266b000001)
 
 ---
 
@@ -247,22 +263,6 @@
 **Matched Keywords:** hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6a1fc9a90a538ae43b000001](https://tender.2merkato.com/tenders/6a1fc9a90a538ae43b000001)
-
----
-
-## St. Peter Specialized Hospital: Procurement of ICT Equipment
-
-**Source:** 2merkato.com
-
-**Company:** St.Peter Specialized Hospital
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a1932ab0a538a0d66000001](https://tender.2merkato.com/tenders/6a1932ab0a538a0d66000001)
 
 ---
 
@@ -455,6 +455,22 @@
 **Matched Keywords:** medical equipment, medical, hospital
 
 **Link:** [https://tender.2merkato.com/tenders/69a139920a538a7d21000001](https://tender.2merkato.com/tenders/69a139920a538a7d21000001)
+
+---
+
+## Madda Walabu University: Procurement of Medical Supplies
+
+**Source:** 2merkato.com
+
+**Company:** Madda Walabu University
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a17ddde0a538a54c9000001](https://tender.2merkato.com/tenders/6a17ddde0a538a54c9000001)
 
 ---
 
