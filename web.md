@@ -2,9 +2,9 @@
 
 ---
 
-**Execution #46**
+**Execution #47**
 
-**Last run:** 2026-06-07 23:47:51 UTC
+**Last run:** 2026-06-08 14:39:53 UTC
 
 **Total matched tenders:** 32
 
@@ -12,9 +12,9 @@
 
 ## EGP Portal Summary
 
-- **Active tenders:** 642
-- **Published today:** 19
-- **Closing today:** 20
+- **Active tenders:** 723
+- **Published today:** 335
+- **Closing today:** 267
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
 
 ---
@@ -176,6 +176,22 @@
 **Matched Keywords:** medical equipment, medical
 
 **Link:** [https://tender.2merkato.com/tenders/6a18188a0a538a54f4000001](https://tender.2merkato.com/tenders/6a18188a0a538a54f4000001)
+
+---
+
+## Medecins Sans Frontieres - Belgium Ethiopia Mission hereby invites eligible and qualified Medical Equipment suppliers to submit sealed bids for the supply, installation and commissioning of C-PAP Machine and accessories for our project in Korem (Korem General Hospital - KGH).
+
+**Source:** 2merkato.com
+
+**Company:** Médecins Sans Frontières (MSF)
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical, hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6a17fbe30a538a644c000001](https://tender.2merkato.com/tenders/6a17fbe30a538a644c000001)
 
 ---
 
@@ -464,22 +480,6 @@
 **Matched Keywords:** medical equipment, medical, hospital
 
 **Link:** [https://tender.2merkato.com/tenders/69a139920a538a7d21000001](https://tender.2merkato.com/tenders/69a139920a538a7d21000001)
-
----
-
-## Medecins Sans Frontieres - Belgium Ethiopia Mission hereby invites eligible and qualified Medical Equipment suppliers to submit sealed bids for the supply, installation and commissioning of C-PAP Machine and accessories for our project in Korem (Korem General Hospital - KGH).
-
-**Source:** 2merkato.com
-
-**Company:** Médecins Sans Frontières (MSF)
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical, hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a17fbe30a538a644c000001](https://tender.2merkato.com/tenders/6a17fbe30a538a644c000001)
 
 ---
 
