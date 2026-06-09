@@ -2,19 +2,19 @@
 
 ---
 
-**Execution #48**
+**Execution #49**
 
-**Last run:** 2026-06-08 21:26:24 UTC
+**Last run:** 2026-06-09 10:43:21 UTC
 
-**Total matched tenders:** 32
+**Total matched tenders:** 33
 
 ---
 
 ## EGP Portal Summary
 
-- **Active tenders:** 685
-- **Published today:** 342
-- **Closing today:** 266
+- **Active tenders:** 741
+- **Published today:** 167
+- **Closing today:** 189
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
 
 ---
@@ -179,19 +179,19 @@
 
 ---
 
-## Medecins Sans Frontieres - Belgium Ethiopia Mission hereby invites eligible and qualified Medical Equipment suppliers to submit sealed bids for the supply, installation and commissioning of C-PAP Machine and accessories for our project in Korem (Korem General Hospital - KGH).
+## Amhara National Regional State Bureau of Health has invited sealed bids comprising of technical & Financial Proposal from eligible Bidders for providing all the necessary labour, material & equipment for the construction of Berehet Primary Hospital Remaining Works.
 
 **Source:** 2merkato.com
 
-**Company:** Médecins Sans Frontières (MSF)
+**Company:** ANRS Health Bureau
 
 **Status:** Login required
 
 **Closing Date:** Login required to view
 
-**Matched Keywords:** medical equipment, medical, hospital
+**Matched Keywords:** hospital
 
-**Link:** [https://tender.2merkato.com/tenders/6a17fbe30a538a644c000001](https://tender.2merkato.com/tenders/6a17fbe30a538a644c000001)
+**Link:** [https://tender.2merkato.com/tenders/6a27db600a538a2a02000001](https://tender.2merkato.com/tenders/6a27db600a538a2a02000001)
 
 ---
 
@@ -407,7 +407,7 @@
 
 **Source:** 2merkato.com
 
-**Company:** Arsi University Health Sciences College
+**Company:** Arsi University
 
 **Status:** Login required
 
@@ -480,6 +480,22 @@
 **Matched Keywords:** medical equipment, medical, hospital
 
 **Link:** [https://tender.2merkato.com/tenders/69a139920a538a7d21000001](https://tender.2merkato.com/tenders/69a139920a538a7d21000001)
+
+---
+
+## Medecins Sans Frontieres - Belgium Ethiopia Mission hereby invites eligible and qualified Medical Equipment suppliers to submit sealed bids for the supply, installation and commissioning of C-PAP Machine and accessories for our project in Korem (Korem General Hospital - KGH).
+
+**Source:** 2merkato.com
+
+**Company:** Médecins Sans Frontières (MSF)
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical, hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6a17fbe30a538a644c000001](https://tender.2merkato.com/tenders/6a17fbe30a538a644c000001)
 
 ---
 
