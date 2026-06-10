@@ -2,19 +2,19 @@
 
 ---
 
-**Execution #52**
+**Execution #53**
 
-**Last run:** 2026-06-10 11:57:42 UTC
+**Last run:** 2026-06-10 21:25:03 UTC
 
-**Total matched tenders:** 33
+**Total matched tenders:** 32
 
 ---
 
 ## EGP Portal Summary
 
-- **Active tenders:** 739
-- **Published today:** 159
-- **Closing today:** 309
+- **Active tenders:** 677
+- **Published today:** 172
+- **Closing today:** 305
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
 
 ---
@@ -288,22 +288,6 @@
 **Matched Keywords:** hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6a226bc70a538a04e0000001](https://tender.2merkato.com/tenders/6a226bc70a538a04e0000001)
-
----
-
-## Goba Referral Hospital ,Madda Walabu University  : Procurement of Construction Materials
-
-**Source:** 2merkato.com
-
-**Company:** Medewelabu University Goba Referral Hospital
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a226b7d0a538aceea000001](https://tender.2merkato.com/tenders/6a226b7d0a538aceea000001)
 
 ---
 
