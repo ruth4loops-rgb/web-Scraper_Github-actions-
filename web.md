@@ -2,9 +2,9 @@
 
 ---
 
-**Execution #51**
+**Execution #52**
 
-**Last run:** 2026-06-09 23:05:39 UTC
+**Last run:** 2026-06-10 11:57:42 UTC
 
 **Total matched tenders:** 33
 
@@ -12,9 +12,9 @@
 
 ## EGP Portal Summary
 
-- **Active tenders:** 822
-- **Published today:** 336
-- **Closing today:** 181
+- **Active tenders:** 739
+- **Published today:** 159
+- **Closing today:** 309
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
 
 ---
@@ -151,7 +151,7 @@
 
 **Source:** 2merkato.com
 
-**Company:** Pharo Foundation
+**Company:** Pharo Integrated Agriculture and Manufacturing P.L.C.
 
 **Status:** Open
 
@@ -176,6 +176,22 @@
 **Matched Keywords:** medical equipment, medical
 
 **Link:** [https://tender.2merkato.com/tenders/6a18188a0a538a54f4000001](https://tender.2merkato.com/tenders/6a18188a0a538a54f4000001)
+
+---
+
+## Amanuel Mental Specialized Hospital: Procurement of Uniforms
+
+**Source:** 2merkato.com
+
+**Company:** Amanuel Mental Specialized Hospital
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6a290a1a0a538a34d4000001](https://tender.2merkato.com/tenders/6a290a1a0a538a34d4000001)
 
 ---
 
@@ -291,22 +307,6 @@
 
 ---
 
-## Goba Referral Hospital , Madda Walabu University would like to procure  Stationary Materials
-
-**Source:** 2merkato.com
-
-**Company:** Madda Walabu University
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a226b600a538aa916000001](https://tender.2merkato.com/tenders/6a226b600a538aa916000001)
-
----
-
 ## University of Gondar Procurement of Laboratory Equipment
 
 **Source:** 2merkato.com
@@ -352,22 +352,6 @@
 **Matched Keywords:** laboratory equipment
 
 **Link:** [https://tender.2merkato.com/tenders/6a1565730a538a156a000001](https://tender.2merkato.com/tenders/6a1565730a538a156a000001)
-
----
-
-## Wollo University፡ Procurement of Laboratory Equipment
-
-**Source:** 2merkato.com
-
-**Company:** Wollo University
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** laboratory equipment
-
-**Link:** [https://tender.2merkato.com/tenders/6a140ec90a538a727c000001](https://tender.2merkato.com/tenders/6a140ec90a538a727c000001)
 
 ---
 
@@ -480,6 +464,22 @@
 **Matched Keywords:** medical equipment, medical, hospital
 
 **Link:** [https://tender.2merkato.com/tenders/69a139920a538a7d21000001](https://tender.2merkato.com/tenders/69a139920a538a7d21000001)
+
+---
+
+## St. Peter Specialized Hospital: Procurement of Medical Supplies, Laboratory Reagents and Chemicals
+
+**Source:** 2merkato.com
+
+**Company:** St.Peter Specialized Hospital
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical, hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6a29079d0a538a34bc000001](https://tender.2merkato.com/tenders/6a29079d0a538a34bc000001)
 
 ---
 
