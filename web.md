@@ -2,20 +2,36 @@
 
 ---
 
-**Execution #53**
+**Execution #54**
 
-**Last run:** 2026-06-10 21:25:03 UTC
+**Last run:** 2026-06-11 12:30:28 UTC
 
-**Total matched tenders:** 32
+**Total matched tenders:** 33
 
 ---
 
 ## EGP Portal Summary
 
-- **Active tenders:** 677
-- **Published today:** 172
-- **Closing today:** 305
+- **Active tenders:** 617
+- **Published today:** 193
+- **Closing today:** 295
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
+
+---
+
+## SOS Children’s Villages in Ethiopia wants to purchase (procure) medical laboratory supplies and medical center equipment from qualified legal suppliers.
+
+**Source:** 2merkato.com
+
+**Company:** SOS Children’s Villages Ethiopia
+
+**Status:** Open
+
+**Closing Date:** 2026-06-19 11:00:00
+
+**Matched Keywords:** medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a2a5fd30a538a7823000001](https://tender.2merkato.com/tenders/6a2a5fd30a538a7823000001)
 
 ---
 
@@ -163,19 +179,19 @@
 
 ---
 
-## Deutsche Stiftung Weltbevölkerung (DSW) invites qualified bidders for the supply and delivery of Mini Media & electronics materials, Medical equipment and others supporting materials & Office/Facilities' Furniture and others.
+## Goba Referral Hospital , Madda Walabu University: መወዩ ጎባ ህ/ጤ/ሳይ/ኮሌጅ ግድግዳ ቀለም ግዥ 2018
 
 **Source:** 2merkato.com
 
-**Company:** Deutsche Stiftung Weltbevölkerung(DSW)
+**Company:** Madda Walabu University
 
 **Status:** Login required
 
 **Closing Date:** Login required to view
 
-**Matched Keywords:** medical equipment, medical
+**Matched Keywords:** hospital
 
-**Link:** [https://tender.2merkato.com/tenders/6a18188a0a538a54f4000001](https://tender.2merkato.com/tenders/6a18188a0a538a54f4000001)
+**Link:** [https://tender.2merkato.com/tenders/6a2a54d10a538a7a4b000001](https://tender.2merkato.com/tenders/6a2a54d10a538a7a4b000001)
 
 ---
 
@@ -215,7 +231,7 @@
 
 **Source:** 2merkato.com
 
-**Company:** St.Peter Specialized Hospital
+**Company:** St. Peter Specialized Hospital
 
 **Status:** Login required
 
@@ -387,6 +403,22 @@
 
 ---
 
+## Deutsche Stiftung Weltbevölkerung (DSW) invites qualified bidders for the supply and delivery of Mini Media & electronics materials, Medical equipment and others supporting materials & Office/Facilities' Furniture and others.
+
+**Source:** 2merkato.com
+
+**Company:** Deutsche Stiftung Weltbevölkerung(DSW)
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a18188a0a538a54f4000001](https://tender.2merkato.com/tenders/6a18188a0a538a54f4000001)
+
+---
+
 ## The Carter Center Ethiopia (TCC-E) invites sealed bids from registered suppliers under National Competitive Bidding (NCB) for the purchase of Medical Items (Consumables) for Trachoma Program.
 
 **Source:** 2merkato.com
@@ -455,7 +487,7 @@
 
 **Source:** 2merkato.com
 
-**Company:** St.Peter Specialized Hospital
+**Company:** St. Peter Specialized Hospital
 
 **Status:** Login required
 
@@ -503,7 +535,7 @@
 
 **Source:** 2merkato.com
 
-**Company:** St.Peter Specialized Hospital
+**Company:** St. Peter Specialized Hospital
 
 **Status:** Login required
 
@@ -512,22 +544,6 @@
 **Matched Keywords:** medical equipment, medical, hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6a17d7eb0a538a6b9c000001](https://tender.2merkato.com/tenders/6a17d7eb0a538a6b9c000001)
-
----
-
-## The American Jewish Joint Distribution Committee (JDC) invites qualified suppliers to submit bids for the supply, delivery, and installation of Medical Equipment for Maraki Health Center, Gondar.
-
-**Source:** 2merkato.com
-
-**Company:** American Jewish Joint Distribution Committee
-
-**Status:** Closed
-
-**Closing Date:** 2026-06-05 17:00:00
-
-**Matched Keywords:** medical equipment, medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a15b0380a538a6382000001](https://tender.2merkato.com/tenders/6a15b0380a538a6382000001)
 
 ---
 
