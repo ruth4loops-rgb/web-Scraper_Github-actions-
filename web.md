@@ -2,20 +2,36 @@
 
 ---
 
-**Execution #55**
+**Execution #56**
 
-**Last run:** 2026-06-11 21:28:51 UTC
+**Last run:** 2026-06-12 11:52:22 UTC
 
-**Total matched tenders:** 33
+**Total matched tenders:** 32
 
 ---
 
 ## EGP Portal Summary
 
-- **Active tenders:** 698
-- **Published today:** 324
-- **Closing today:** 296
+- **Active tenders:** 740
+- **Published today:** 200
+- **Closing today:** 223
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
+
+---
+
+## Ethiopian Public Health Institute: Procurement of Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** Ethiopian Public Health Institute
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a2ba29c0a538a7b01000001](https://tender.2merkato.com/tenders/6a2ba29c0a538a7b01000001)
 
 ---
 
@@ -163,19 +179,19 @@
 
 ---
 
-## Pharo Ventures seeks comprehensive, competitive proposals from qualified medical equipment manufacturers and/or authorized distributors. The purpose of this Request for Proposal (RFP) is to solicit bids for the procurement, delivery, installation, and ongoing maintenance of MRI Scanner & CT Scanner.
+## The American Jewish Joint Distribution Committee (JDC), an international NGO registered in Ethiopia, invites qualified suppliers to submit bids for the supply, delivery, and installation of ICT Equipment for National Spine Center, St. Paul Hospital, Addis Ababa.
 
 **Source:** 2merkato.com
 
-**Company:** Pharo Integrated Agriculture and Manufacturing P.L.C.
+**Company:** American Jewish Joint Distribution Committee
 
 **Status:** Open
 
-**Closing Date:** 2026-06-28 16:00:00
+**Closing Date:** 2026-06-22 17:00:00
 
-**Matched Keywords:** ct scanner, medical equipment, medical
+**Matched Keywords:** hospital
 
-**Link:** [https://tender.2merkato.com/tenders/6a198f1e0a538a4262000001](https://tender.2merkato.com/tenders/6a198f1e0a538a4262000001)
+**Link:** [https://tender.2merkato.com/tenders/6a2bcdf80a538ac763000001](https://tender.2merkato.com/tenders/6a2bcdf80a538ac763000001)
 
 ---
 
@@ -291,19 +307,19 @@
 
 ---
 
-## Goba Referral Hospital , Madda Walabu University: መወዩ ጎባ ህ/ጤ/ሳይ/ኮሌጅ Procurement of Lap Top to MWU CMHS ግዥ-1
+## Ethiopian Public Health Institute would like to procure laboratory equipment
 
 **Source:** 2merkato.com
 
-**Company:** Madda Walabu University
+**Company:** Ethiopian Public Health Institute
 
 **Status:** Login required
 
 **Closing Date:** Login required to view
 
-**Matched Keywords:** hospital
+**Matched Keywords:** laboratory equipment
 
-**Link:** [https://tender.2merkato.com/tenders/6a226bc70a538a04e0000001](https://tender.2merkato.com/tenders/6a226bc70a538a04e0000001)
+**Link:** [https://tender.2merkato.com/tenders/6a2ba9040a538a7a4b000001](https://tender.2merkato.com/tenders/6a2ba9040a538a7a4b000001)
 
 ---
 
@@ -323,6 +339,22 @@
 
 ---
 
+## Pharo Ventures seeks comprehensive, competitive proposals from qualified medical equipment manufacturers and/or authorized distributors. The purpose of this Request for Proposal (RFP) is to solicit bids for the procurement, delivery, installation, and ongoing maintenance of MRI Scanner & CT Scanner.
+
+**Source:** 2merkato.com
+
+**Company:** Pharo Integrated Agriculture and Manufacturing P.L.C.
+
+**Status:** Open
+
+**Closing Date:** 2026-06-28 16:00:00
+
+**Matched Keywords:** ct scanner, medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a198f1e0a538a4262000001](https://tender.2merkato.com/tenders/6a198f1e0a538a4262000001)
+
+---
+
 ## Goba Referral Hospital : Laboratory reagents
 
 **Source:** 2merkato.com
@@ -336,22 +368,6 @@
 **Matched Keywords:** hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6a17e3610a538a2199000001](https://tender.2merkato.com/tenders/6a17e3610a538a2199000001)
-
----
-
-## Ministry of Agriculture now invites sealed bids from eligible bidders for the supply of seed laboratory equipment, computer and printer
-
-**Source:** 2merkato.com
-
-**Company:** Ministry of Agriculture
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** laboratory equipment
-
-**Link:** [https://tender.2merkato.com/tenders/6a1565730a538a156a000001](https://tender.2merkato.com/tenders/6a1565730a538a156a000001)
 
 ---
 
@@ -467,22 +483,6 @@
 
 ---
 
-## St. Paul's Hospital Millennium Medical College invite to eligible bidders to procurement of  Medical Equipment and Supplies
-
-**Source:** 2merkato.com
-
-**Company:** St. Paul's Hospital Millennium Medical College
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical, hospital
-
-**Link:** [https://tender.2merkato.com/tenders/69a139920a538a7d21000001](https://tender.2merkato.com/tenders/69a139920a538a7d21000001)
-
----
-
 ## St. Peter Specialized Hospital: Procurement of Medical Supplies, Laboratory Reagents and Chemicals
 
 **Source:** 2merkato.com
@@ -528,22 +528,6 @@
 **Matched Keywords:** medical
 
 **Link:** [https://tender.2merkato.com/tenders/6a17ddde0a538a54c9000001](https://tender.2merkato.com/tenders/6a17ddde0a538a54c9000001)
-
----
-
-## St. Peter Specialized Hospital: Procurement of Medical Equipment and Supplies
-
-**Source:** 2merkato.com
-
-**Company:** St. Peter Specialized Hospital
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical, hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a17d7eb0a538a6b9c000001](https://tender.2merkato.com/tenders/6a17d7eb0a538a6b9c000001)
 
 ---
 
