@@ -2,9 +2,9 @@
 
 ---
 
-**Execution #59**
+**Execution #60**
 
-**Last run:** 2026-06-13 10:08:44 UTC
+**Last run:** 2026-06-13 15:53:06 UTC
 
 **Total matched tenders:** 33
 
@@ -12,8 +12,8 @@
 
 ## EGP Portal Summary
 
-- **Active tenders:** 728
-- **Published today:** 78
+- **Active tenders:** 731
+- **Published today:** 117
 - **Closing today:** 197
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
 
@@ -393,7 +393,7 @@
 
 **Company:** Hybrid Designs
 
-**Status:** Open
+**Status:** Closed
 
 **Closing Date:** 2026-06-13 16:00:00
 
