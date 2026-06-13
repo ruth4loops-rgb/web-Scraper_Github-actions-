@@ -2,20 +2,36 @@
 
 ---
 
-**Execution #58**
+**Execution #59**
 
-**Last run:** 2026-06-12 23:04:26 UTC
+**Last run:** 2026-06-13 10:08:44 UTC
 
-**Total matched tenders:** 32
+**Total matched tenders:** 33
 
 ---
 
 ## EGP Portal Summary
 
-- **Active tenders:** 813
-- **Published today:** 338
-- **Closing today:** 222
+- **Active tenders:** 728
+- **Published today:** 78
+- **Closing today:** 197
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
+
+---
+
+## Eka Kotebe General Hospital would like to procure  Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** EKA Kotebe General Hospital
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical, hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6a2cfdc60a538a0f6f000001](https://tender.2merkato.com/tenders/6a2cfdc60a538a0f6f000001)
 
 ---
 
@@ -163,19 +179,19 @@
 
 ---
 
-## Orbis International Ethiopia invites all interested and eligible Importers/manufacturers/whole sellers to bid for the supply of consumable medical supplies and equipment.
+## Amanuel Mental Specialized Hospital: Procurement of Office Equipment
 
 **Source:** 2merkato.com
 
-**Company:** Orbis International Ethiopia (OlE)
+**Company:** Amanuel Mental Specialized Hospital
 
 **Status:** Login required
 
 **Closing Date:** Login required to view
 
-**Matched Keywords:** medical
+**Matched Keywords:** hospital
 
-**Link:** [https://tender.2merkato.com/tenders/6a1e9d0d0a538abdb3000001](https://tender.2merkato.com/tenders/6a1e9d0d0a538abdb3000001)
+**Link:** [https://tender.2merkato.com/tenders/6a2d06200a538add33000001](https://tender.2merkato.com/tenders/6a2d06200a538add33000001)
 
 ---
 
@@ -291,19 +307,35 @@
 
 ---
 
-## Goba Referral Hospital , Madda Walabu University: መወዩ ጎባ ህ/ጤ/ሳይ/ኮሌጅ ደንብ ልብስ ግዥ 2018
+## The Ministry of Water and Energy now invites sealed Bids from eligible Bidders for the procurement of Desk Top computer, Laboratory Equipment and one Backhoe loader.
 
 **Source:** 2merkato.com
 
-**Company:** Madda Walabu University
+**Company:** Ministry of Water and Energy
 
 **Status:** Login required
 
 **Closing Date:** Login required to view
 
-**Matched Keywords:** hospital
+**Matched Keywords:** laboratory equipment
 
-**Link:** [https://tender.2merkato.com/tenders/6a226d470a538acf29000001](https://tender.2merkato.com/tenders/6a226d470a538acf29000001)
+**Link:** [https://tender.2merkato.com/tenders/6a2d27da0a538a7b83000001](https://tender.2merkato.com/tenders/6a2d27da0a538a7b83000001)
+
+---
+
+## Debark University: Procurement of Laboratory Equipment
+
+**Source:** 2merkato.com
+
+**Company:** Debark University
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** laboratory equipment
+
+**Link:** [https://tender.2merkato.com/tenders/6a2d0ace0a538add25000001](https://tender.2merkato.com/tenders/6a2d0ace0a538add25000001)
 
 ---
 
@@ -352,22 +384,6 @@
 **Matched Keywords:** ct scanner, medical equipment, medical
 
 **Link:** [https://tender.2merkato.com/tenders/6a198f1e0a538a4262000001](https://tender.2merkato.com/tenders/6a198f1e0a538a4262000001)
-
----
-
-## Goba Referral Hospital : Laboratory reagents
-
-**Source:** 2merkato.com
-
-**Company:** Goba Hospital
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a17e3610a538a2199000001](https://tender.2merkato.com/tenders/6a17e3610a538a2199000001)
 
 ---
 
@@ -499,6 +515,22 @@
 
 ---
 
+## Orbis International Ethiopia invites all interested and eligible Importers/manufacturers/whole sellers to bid for the supply of consumable medical supplies and equipment.
+
+**Source:** 2merkato.com
+
+**Company:** Orbis International Ethiopia (OlE)
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a1e9d0d0a538abdb3000001](https://tender.2merkato.com/tenders/6a1e9d0d0a538abdb3000001)
+
+---
+
 ## Medecins Sans Frontieres - Belgium Ethiopia Mission hereby invites eligible and qualified Medical Equipment suppliers to submit sealed bids for the supply, installation and commissioning of C-PAP Machine and accessories for our project in Korem (Korem General Hospital - KGH).
 
 **Source:** 2merkato.com
@@ -512,22 +544,6 @@
 **Matched Keywords:** medical equipment, medical, hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6a17fbe30a538a644c000001](https://tender.2merkato.com/tenders/6a17fbe30a538a644c000001)
-
----
-
-## Madda Walabu University: Procurement of Medical Supplies
-
-**Source:** 2merkato.com
-
-**Company:** Madda Walabu University
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a17ddde0a538a54c9000001](https://tender.2merkato.com/tenders/6a17ddde0a538a54c9000001)
 
 ---
 
