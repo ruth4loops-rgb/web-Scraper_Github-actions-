@@ -2,20 +2,27 @@
 
 ---
 
-**Execution #78**
+**Execution #79**
 
-**Last run:** 2026-06-15 03:59:24 UTC
+**Last run:** 2026-06-15 10:30:38 UTC
 
-**Total matched tenders:** 33
+**Total matched tenders:** 34
 
 ---
 
-## EGP Portal Summary
+## Dilla University፡ Procurement of Medical Equipment and Supplies
 
-- **Active tenders:** 719
-- **Published today:** 3
-- **Closing today:** 380
-- **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
+**Source:** 2merkato.com
+
+**Company:** Dilla University
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a2f8d650a538a8272000001](https://tender.2merkato.com/tenders/6a2f8d650a538a8272000001)
 
 ---
 
@@ -163,22 +170,6 @@
 
 ---
 
-## WEEMA International Inc. Invites Eligible Bidders for the Procurement of medical equipment and supplies through a competitive bidding process for distribution to health centers and health posts located in Damboya Woreda, Central Ethiopia Region.
-
-**Source:** 2merkato.com
-
-**Company:** WEEMA INTERNATIONAL, INC
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a1ea01c0a538abcf9000001](https://tender.2merkato.com/tenders/6a1ea01c0a538abcf9000001)
-
----
-
 ## Amanuel Mental Specialized Hospital: Procurement of Office Equipment
 
 **Source:** 2merkato.com
@@ -307,6 +298,22 @@
 
 ---
 
+## The Ministry of Labor and Skills is seeking bids for the procurement, installation, and commissioning of specialized laboratory equipment for the Education and Skills for Employment (EASE) project.
+
+**Source:** 2merkato.com
+
+**Company:** Ministry of Labor and Skills (MoLS)
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** laboratory equipment
+
+**Link:** [https://tender.2merkato.com/tenders/6a2fb76d0a538a543f000001](https://tender.2merkato.com/tenders/6a2fb76d0a538a543f000001)
+
+---
+
 ## The Ministry of Water and Energy now invites sealed Bids from eligible Bidders for the procurement of Desk Top computer, Laboratory Equipment and one Backhoe loader.
 
 **Source:** 2merkato.com
@@ -355,19 +362,19 @@
 
 ---
 
-## University of Gondar Procurement of Laboratory Equipment
+## Hybrid Designs PLC invites eligible vendors to submit competitive quotations for the supply of quality, clinical-grade basic medical diagnostic tool kits to support the operational rollout of the FetroAder healthcare service ecosystem under the EDGE Program.
 
 **Source:** 2merkato.com
 
-**Company:** University of Gondar
+**Company:** Hybrid Designs
 
-**Status:** Login required
+**Status:** Closed
 
-**Closing Date:** Login required to view
+**Closing Date:** 2026-06-13 16:00:00
 
-**Matched Keywords:** laboratory equipment
+**Matched Keywords:** medical
 
-**Link:** [https://tender.2merkato.com/tenders/6a1fc0720a538ae1ee000001](https://tender.2merkato.com/tenders/6a1fc0720a538ae1ee000001)
+**Link:** [https://tender.2merkato.com/tenders/6a2027fb0a538a293d000001](https://tender.2merkato.com/tenders/6a2027fb0a538a293d000001)
 
 ---
 
@@ -384,22 +391,6 @@
 **Matched Keywords:** ct scanner, medical equipment, medical
 
 **Link:** [https://tender.2merkato.com/tenders/6a198f1e0a538a4262000001](https://tender.2merkato.com/tenders/6a198f1e0a538a4262000001)
-
----
-
-## Hybrid Designs PLC invites eligible vendors to submit competitive quotations for the supply of quality, clinical-grade basic medical diagnostic tool kits to support the operational rollout of the FetroAder healthcare service ecosystem under the EDGE Program.
-
-**Source:** 2merkato.com
-
-**Company:** Hybrid Designs
-
-**Status:** Closed
-
-**Closing Date:** 2026-06-13 16:00:00
-
-**Matched Keywords:** medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a2027fb0a538a293d000001](https://tender.2merkato.com/tenders/6a2027fb0a538a293d000001)
 
 ---
 
@@ -512,6 +503,22 @@
 **Matched Keywords:** medical, hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6a29079d0a538a34bc000001](https://tender.2merkato.com/tenders/6a29079d0a538a34bc000001)
+
+---
+
+## WEEMA International Inc. Invites Eligible Bidders for the Procurement of medical equipment and supplies through a competitive bidding process for distribution to health centers and health posts located in Damboya Woreda, Central Ethiopia Region.
+
+**Source:** 2merkato.com
+
+**Company:** WEEMA INTERNATIONAL, INC
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a1ea01c0a538abcf9000001](https://tender.2merkato.com/tenders/6a1ea01c0a538abcf9000001)
 
 ---
 
