@@ -2,11 +2,20 @@
 
 ---
 
-**Execution #79**
+**Execution #80**
 
-**Last run:** 2026-06-15 10:30:38 UTC
+**Last run:** 2026-06-15 16:09:02 UTC
 
-**Total matched tenders:** 34
+**Total matched tenders:** 33
+
+---
+
+## EGP Portal Summary
+
+- **Active tenders:** 682
+- **Published today:** 338
+- **Closing today:** 366
+- **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
 
 ---
 
@@ -279,22 +288,6 @@
 **Matched Keywords:** medical, hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6a23ce5e0a538a266b000001](https://tender.2merkato.com/tenders/6a23ce5e0a538a266b000001)
-
----
-
-## Goba Referral Hospital , Madda Walabu University would like to procure Education and Training Services
-
-**Source:** 2merkato.com
-
-**Company:** Medewelabu University Goba Referral Hospital
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a2276680a538aced9000001](https://tender.2merkato.com/tenders/6a2276680a538aced9000001)
 
 ---
 
