@@ -2,19 +2,19 @@
 
 ---
 
-**Execution #91**
+**Execution #92**
 
-**Last run:** 2026-06-17 06:53:38 UTC
+**Last run:** 2026-06-17 11:48:56 UTC
 
-**Total matched tenders:** 32
+**Total matched tenders:** 33
 
 ---
 
 ## EGP Portal Summary
 
-- **Active tenders:** 644
-- **Published today:** 51
-- **Closing today:** 300
+- **Active tenders:** 691
+- **Published today:** 172
+- **Closing today:** 304
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
 
 ---
@@ -160,6 +160,22 @@
 **Matched Keywords:** medical equipment, medical
 
 **Link:** [https://tender.2merkato.com/tenders/6a226df30a538acd51000001](https://tender.2merkato.com/tenders/6a226df30a538acd51000001)
+
+---
+
+## Goba Referral Hospital , Madda Walabu University  procurement for the መወዩ ጎባ ህ/ጤ/ሳይ/ኮሌጅ የፅዳት አዉት ሶርስ 2019
+
+**Source:** 2merkato.com
+
+**Company:** Madda Walabu University
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6a326e360a538a4ce6000001](https://tender.2merkato.com/tenders/6a326e360a538a4ce6000001)
 
 ---
 
@@ -359,7 +375,7 @@
 
 **Source:** 2merkato.com
 
-**Company:** Hybrid Designs
+**Company:** HYBRID DESIGNS PLC
 
 **Status:** Closed
 
@@ -375,7 +391,7 @@
 
 **Source:** 2merkato.com
 
-**Company:** Pharo Integrated Agriculture and Manufacturing P.L.C.
+**Company:** Pharo Integrated Agriculture and Manufacturing PLC
 
 **Status:** Open
 
