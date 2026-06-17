@@ -2,11 +2,20 @@
 
 ---
 
-**Execution #90**
+**Execution #91**
 
-**Last run:** 2026-06-17 01:44:22 UTC
+**Last run:** 2026-06-17 06:53:38 UTC
 
-**Total matched tenders:** 33
+**Total matched tenders:** 32
+
+---
+
+## EGP Portal Summary
+
+- **Active tenders:** 644
+- **Published today:** 51
+- **Closing today:** 300
+- **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
 
 ---
 
@@ -151,22 +160,6 @@
 **Matched Keywords:** medical equipment, medical
 
 **Link:** [https://tender.2merkato.com/tenders/6a226df30a538acd51000001](https://tender.2merkato.com/tenders/6a226df30a538acd51000001)
-
----
-
-## Action for Social Development and Environmental Protection Organization (ASDEPO) invites all interested & eligible bidders to purchase Medicines and medical equipment.
-
-**Source:** 2merkato.com
-
-**Company:** Action for Social Development and Environmental Protection Organization (ASDEPO)
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a1eb8760a538a52ac000001](https://tender.2merkato.com/tenders/6a1eb8760a538a52ac000001)
 
 ---
 
