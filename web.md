@@ -2,20 +2,36 @@
 
 ---
 
-**Execution #92**
+**Execution #93**
 
-**Last run:** 2026-06-17 11:48:56 UTC
+**Last run:** 2026-06-17 14:45:14 UTC
 
-**Total matched tenders:** 33
+**Total matched tenders:** 34
 
 ---
 
 ## EGP Portal Summary
 
-- **Active tenders:** 691
-- **Published today:** 172
-- **Closing today:** 304
+- **Active tenders:** 751
+- **Published today:** 252
+- **Closing today:** 307
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
+
+---
+
+## Action for Social Development and Environmental Protection Organization (ASDEPO) invites eligible bidders to supply medicines and medical equipment to address malnutrition and Gender-Based Violence (GBV) in Habru Woreda, Amhara Regional State.
+
+**Source:** 2merkato.com
+
+**Company:** Action for Social Development and Environmental Protection Organization (ASDEPO)
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a326b4b0a538a4e27000001](https://tender.2merkato.com/tenders/6a326b4b0a538a4e27000001)
 
 ---
 
@@ -144,22 +160,6 @@
 **Matched Keywords:** medical equipment, medical
 
 **Link:** [https://tender.2merkato.com/tenders/6a22831f0a538acd66000001](https://tender.2merkato.com/tenders/6a22831f0a538acd66000001)
-
----
-
-## CMHS , University of Gondar Procurement of Medical Equipment and Supplies
-
-**Source:** 2merkato.com
-
-**Company:** University of Gondar
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a226df30a538acd51000001](https://tender.2merkato.com/tenders/6a226df30a538acd51000001)
 
 ---
 
@@ -368,6 +368,22 @@
 **Matched Keywords:** laboratory equipment
 
 **Link:** [https://tender.2merkato.com/tenders/6a2ba9040a538a7a4b000001](https://tender.2merkato.com/tenders/6a2ba9040a538a7a4b000001)
+
+---
+
+## CMHS , University of Gondar Procurement of Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** University of Gondar
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a226df30a538acd51000001](https://tender.2merkato.com/tenders/6a226df30a538acd51000001)
 
 ---
 
