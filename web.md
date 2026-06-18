@@ -2,20 +2,36 @@
 
 ---
 
-**Execution #99**
+**Execution #100**
 
-**Last run:** 2026-06-18 07:04:23 UTC
+**Last run:** 2026-06-18 11:16:51 UTC
 
-**Total matched tenders:** 34
+**Total matched tenders:** 35
 
 ---
 
 ## EGP Portal Summary
 
 - **Active tenders:** 648
-- **Published today:** 51
-- **Closing today:** 285
+- **Published today:** 145
+- **Closing today:** 290
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
+
+---
+
+## St. Peter Specialized Hospital፡ Procurement of Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** St. Peter Specialized Hospital
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical, hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6a339bff0a538a7943000001](https://tender.2merkato.com/tenders/6a339bff0a538a7943000001)
 
 ---
 
