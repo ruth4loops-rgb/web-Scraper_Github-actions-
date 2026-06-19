@@ -2,20 +2,36 @@
 
 ---
 
-**Execution #106**
+**Execution #107**
 
-**Last run:** 2026-06-19 05:25:09 UTC
+**Last run:** 2026-06-19 10:01:49 UTC
 
-**Total matched tenders:** 35
+**Total matched tenders:** 36
 
 ---
 
 ## EGP Portal Summary
 
-- **Active tenders:** 759
-- **Published today:** 8
-- **Closing today:** 299
+- **Active tenders:** 653
+- **Published today:** 121
+- **Closing today:** 302
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
+
+---
+
+## Waliya Capital Goods Finance Business Share Company (WCGFB) is inviting sealed bids for the procurement of various medical equipment for lease clients located in Mekaneselam (South Wolo zone) and Bahir Dar towns in the Amhara region.
+
+**Source:** 2merkato.com
+
+**Company:** Waliya Capital Goods Finance Business Share Company
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a34f8a50a538ad2d1000001](https://tender.2merkato.com/tenders/6a34f8a50a538ad2d1000001)
 
 ---
 
@@ -105,7 +121,7 @@
 
 **Company:** SOS Children’s Villages Ethiopia
 
-**Status:** Open
+**Status:** Closed
 
 **Closing Date:** 2026-06-19 11:00:00
 
@@ -160,22 +176,6 @@
 **Matched Keywords:** laboratory equipment
 
 **Link:** [https://tender.2merkato.com/tenders/6a23c3c10a538a11ff000001](https://tender.2merkato.com/tenders/6a23c3c10a538a11ff000001)
-
----
-
-## Waliya Capital Goods Finance Business Share Company (WCGFB) is intended to procure Variety Medical equipment (for Woldeya and bahir dar clients) and Co- extrusion Geo-membrane blowing machine (for tana branch client) who are located at woldeya and bahir dar towns in Amhara region.
-
-**Source:** 2merkato.com
-
-**Company:** Waliya Capital Goods Finance Business Share Company
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a22831f0a538acd66000001](https://tender.2merkato.com/tenders/6a22831f0a538acd66000001)
 
 ---
 
@@ -320,6 +320,22 @@
 **Matched Keywords:** medical, hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6a23ce5e0a538a266b000001](https://tender.2merkato.com/tenders/6a23ce5e0a538a266b000001)
+
+---
+
+## Armauer Hansen Research Institute: Procurement of Medical Supplies, Laboratory Reagents and Chemicals
+
+**Source:** 2merkato.com
+
+**Company:** Armauer Hansen Research Institute
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a34e7560a538a1572000001](https://tender.2merkato.com/tenders/6a34e7560a538a1572000001)
 
 ---
 
