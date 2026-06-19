@@ -2,19 +2,19 @@
 
 ---
 
-**Execution #107**
+**Execution #108**
 
-**Last run:** 2026-06-19 10:01:49 UTC
+**Last run:** 2026-06-19 13:47:20 UTC
 
-**Total matched tenders:** 36
+**Total matched tenders:** 37
 
 ---
 
 ## EGP Portal Summary
 
-- **Active tenders:** 653
-- **Published today:** 121
-- **Closing today:** 302
+- **Active tenders:** 739
+- **Published today:** 245
+- **Closing today:** 301
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
 
 ---
@@ -131,22 +131,6 @@
 
 ---
 
-## University of Gondar: Procurement of Laboratory Equipment
-
-**Source:** 2merkato.com
-
-**Company:** University of Gondar
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** laboratory equipment
-
-**Link:** [https://tender.2merkato.com/tenders/6a23ccdf0a538a3795000001](https://tender.2merkato.com/tenders/6a23ccdf0a538a3795000001)
-
----
-
 ## CMHS , University of Gondar: Procurement of Medical Equipment and Supplies
 
 **Source:** 2merkato.com
@@ -176,6 +160,22 @@
 **Matched Keywords:** laboratory equipment
 
 **Link:** [https://tender.2merkato.com/tenders/6a23c3c10a538a11ff000001](https://tender.2merkato.com/tenders/6a23c3c10a538a11ff000001)
+
+---
+
+## Waliya Capital Goods Finance Business Share Company (WCGFB) is intended to procure Variety Medical equipment (for Woldeya and bahir dar clients) and Co- extrusion Geo-membrane blowing machine (for tana branch client) who are located at woldeya and bahir dar towns in Amhara region.
+
+**Source:** 2merkato.com
+
+**Company:** Waliya Capital Goods Finance Business Share Company
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a22831f0a538acd66000001](https://tender.2merkato.com/tenders/6a22831f0a538acd66000001)
 
 ---
 
@@ -320,6 +320,22 @@
 **Matched Keywords:** medical, hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6a23ce5e0a538a266b000001](https://tender.2merkato.com/tenders/6a23ce5e0a538a266b000001)
+
+---
+
+## University of Gondar: Procurement of Laboratory Equipment
+
+**Source:** 2merkato.com
+
+**Company:** University of Gondar
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** laboratory equipment
+
+**Link:** [https://tender.2merkato.com/tenders/6a23ccdf0a538a3795000001](https://tender.2merkato.com/tenders/6a23ccdf0a538a3795000001)
 
 ---
 
