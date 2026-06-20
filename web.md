@@ -2,19 +2,19 @@
 
 ---
 
-**Execution #116**
+**Execution #117**
 
-**Last run:** 2026-06-20 06:38:00 UTC
+**Last run:** 2026-06-20 09:52:53 UTC
 
-**Total matched tenders:** 37
+**Total matched tenders:** 38
 
 ---
 
 ## EGP Portal Summary
 
-- **Active tenders:** 571
-- **Published today:** 19
-- **Closing today:** 171
+- **Active tenders:** 570
+- **Published today:** 49
+- **Closing today:** 167
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
 
 ---
@@ -179,6 +179,22 @@
 
 ---
 
+## Amanuel Mental Specialized Hospital Procurement of Laboratory Reagents and Chemicals
+
+**Source:** 2merkato.com
+
+**Company:** Amanuel Mental Specialized Hospital
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6a3655e90a538ae13f000001](https://tender.2merkato.com/tenders/6a3655e90a538ae13f000001)
+
+---
+
 ## Goba Referral Hospital , Madda Walabu University  procurement for the መወዩ ጎባ ህ/ጤ/ሳይ/ኮሌጅ የፅዳት አዉት ሶርስ 2019
 
 **Source:** 2merkato.com
@@ -323,22 +339,6 @@
 
 ---
 
-## University of Gondar: Procurement of Laboratory Equipment
-
-**Source:** 2merkato.com
-
-**Company:** University of Gondar
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** laboratory equipment
-
-**Link:** [https://tender.2merkato.com/tenders/6a23ccdf0a538a3795000001](https://tender.2merkato.com/tenders/6a23ccdf0a538a3795000001)
-
----
-
 ## Armauer Hansen Research Institute: Procurement of Medical Supplies, Laboratory Reagents and Chemicals
 
 **Source:** 2merkato.com
@@ -419,7 +419,7 @@
 
 ---
 
-## CMHS , University of Gondar Procurement of Medical Equipment and Supplies
+## University of Gondar: Procurement of Laboratory Equipment
 
 **Source:** 2merkato.com
 
@@ -429,9 +429,9 @@
 
 **Closing Date:** Login required to view
 
-**Matched Keywords:** medical equipment, medical
+**Matched Keywords:** laboratory equipment
 
-**Link:** [https://tender.2merkato.com/tenders/6a226df30a538acd51000001](https://tender.2merkato.com/tenders/6a226df30a538acd51000001)
+**Link:** [https://tender.2merkato.com/tenders/6a23ccdf0a538a3795000001](https://tender.2merkato.com/tenders/6a23ccdf0a538a3795000001)
 
 ---
 
@@ -576,6 +576,22 @@
 **Matched Keywords:** medical, hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6a29079d0a538a34bc000001](https://tender.2merkato.com/tenders/6a29079d0a538a34bc000001)
+
+---
+
+## CMHS , University of Gondar Procurement of Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** University of Gondar
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a226df30a538acd51000001](https://tender.2merkato.com/tenders/6a226df30a538acd51000001)
 
 ---
 
