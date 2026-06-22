@@ -2,19 +2,19 @@
 
 ---
 
-**Execution #138**
+**Execution #139**
 
-**Last run:** 2026-06-22 11:11:53 UTC
+**Last run:** 2026-06-22 16:01:55 UTC
 
-**Total matched tenders:** 38
+**Total matched tenders:** 37
 
 ---
 
 ## EGP Portal Summary
 
-- **Active tenders:** 495
-- **Published today:** 168
-- **Closing today:** 298
+- **Active tenders:** 585
+- **Published today:** 307
+- **Closing today:** 290
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
 
 ---
@@ -163,22 +163,6 @@
 
 ---
 
-## Waliya Capital Goods Finance Business Share Company (WCGFB) is intended to procure Variety Medical equipment (for Woldeya and bahir dar clients) and Co- extrusion Geo-membrane blowing machine (for tana branch client) who are located at woldeya and bahir dar towns in Amhara region.
-
-**Source:** 2merkato.com
-
-**Company:** Waliya Capital Goods Finance Business Share Company
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a22831f0a538acd66000001](https://tender.2merkato.com/tenders/6a22831f0a538acd66000001)
-
----
-
 ## Amanuel Mental Specialized Hospital Procurement of Laboratory Reagents and Chemicals
 
 **Source:** 2merkato.com
@@ -249,7 +233,7 @@
 
 **Company:** American Jewish Joint Distribution Committee
 
-**Status:** Open
+**Status:** Closed
 
 **Closing Date:** 2026-06-22 17:00:00
 
