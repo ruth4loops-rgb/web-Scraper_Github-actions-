@@ -2,11 +2,20 @@
 
 ---
 
-**Execution #146**
+**Execution #147**
 
-**Last run:** 2026-06-23 11:53:10 UTC
+**Last run:** 2026-06-23 14:47:09 UTC
 
-**Total matched tenders:** 38
+**Total matched tenders:** 35
+
+---
+
+## EGP Portal Summary
+
+- **Active tenders:** 706
+- **Published today:** 269
+- **Closing today:** 163
+- **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
 
 ---
 
@@ -135,22 +144,6 @@
 **Matched Keywords:** medical equipment, medical
 
 **Link:** [https://tender.2merkato.com/tenders/6a23c58c0a538a2890000001](https://tender.2merkato.com/tenders/6a23c58c0a538a2890000001)
-
----
-
-## Procurement of Laboratory Equipment
-
-**Source:** 2merkato.com
-
-**Company:** University of Gondar
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** laboratory equipment
-
-**Link:** [https://tender.2merkato.com/tenders/6a23c3c10a538a11ff000001](https://tender.2merkato.com/tenders/6a23c3c10a538a11ff000001)
 
 ---
 
@@ -410,22 +403,6 @@
 
 ---
 
-## University of Gondar: Procurement of Laboratory Equipment
-
-**Source:** 2merkato.com
-
-**Company:** University of Gondar
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** laboratory equipment
-
-**Link:** [https://tender.2merkato.com/tenders/6a23ccdf0a538a3795000001](https://tender.2merkato.com/tenders/6a23ccdf0a538a3795000001)
-
----
-
 ## Hybrid Designs PLC invites eligible vendors to submit competitive quotations for the supply of quality, clinical-grade basic medical diagnostic tool kits to support the operational rollout of the FetroAder healthcare service ecosystem under the EDGE Program.
 
 **Source:** 2merkato.com
@@ -450,7 +427,7 @@
 
 **Status:** Open
 
-**Closing Date:** 2026-06-28 16:00:00
+**Closing Date:** 2026-07-06 16:00:00
 
 **Matched Keywords:** ct scanner, medical equipment, medical
 
@@ -535,22 +512,6 @@
 **Matched Keywords:** medical
 
 **Link:** [https://tender.2merkato.com/tenders/69f1fa010a538a84ca000001](https://tender.2merkato.com/tenders/69f1fa010a538a84ca000001)
-
----
-
-## Healing Hands of Joy (HHOJ) invites eligible suppliers to bid for the supply of 18 portable Mindray DP-15 Power ultrasound machines with two convex probes, and a range of medical equipment to be delivered to their Hawassa office.
-
-**Source:** 2merkato.com
-
-**Company:** Healing Hands of Joy
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** ultrasound machine, medical equipment, medical
-
-**Link:** [https://tender.2merkato.com/tenders/69a6d2c90a538ac7df000001](https://tender.2merkato.com/tenders/69a6d2c90a538ac7df000001)
 
 ---
 
