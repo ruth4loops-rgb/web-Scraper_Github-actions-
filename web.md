@@ -2,19 +2,19 @@
 
 ---
 
-**Execution #144**
+**Execution #145**
 
-**Last run:** 2026-06-23 05:43:35 UTC
+**Last run:** 2026-06-23 08:50:12 UTC
 
-**Total matched tenders:** 37
+**Total matched tenders:** 38
 
 ---
 
 ## EGP Portal Summary
 
-- **Active tenders:** 553
-- **Published today:** 8
-- **Closing today:** 155
+- **Active tenders:** 567
+- **Published today:** 84
+- **Closing today:** 156
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
 
 ---
@@ -320,6 +320,22 @@
 **Matched Keywords:** medical, hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6a23ce5e0a538a266b000001](https://tender.2merkato.com/tenders/6a23ce5e0a538a266b000001)
+
+---
+
+## The Ministry of Labor and Skills is seeking bids for the procurement, installation, and commissioning of specialized laboratory equipment for the Education and Skills for Employment (EASE) project.
+
+**Source:** 2merkato.com
+
+**Company:** Ministry of Labor and Skills (MoLS)
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** laboratory equipment
+
+**Link:** [https://tender.2merkato.com/tenders/6a3a2f000a538a5e15000001](https://tender.2merkato.com/tenders/6a3a2f000a538a5e15000001)
 
 ---
 
