@@ -2,9 +2,9 @@
 
 ---
 
-**Execution #155**
+**Execution #156**
 
-**Last run:** 2026-06-24 08:46:40 UTC
+**Last run:** 2026-06-24 11:34:14 UTC
 
 **Total matched tenders:** 35
 
@@ -12,9 +12,9 @@
 
 ## EGP Portal Summary
 
-- **Active tenders:** 598
-- **Published today:** 99
-- **Closing today:** 264
+- **Active tenders:** 597
+- **Published today:** 135
+- **Closing today:** 275
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
 
 ---
@@ -291,22 +291,6 @@
 
 ---
 
-## Alert Comprhensive Specialized Hospital would like to procure  Medical Supplies
-
-**Source:** 2merkato.com
-
-**Company:** Alert Specialized Hospital
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical, hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a23ce5e0a538a266b000001](https://tender.2merkato.com/tenders/6a23ce5e0a538a266b000001)
-
----
-
 ## The Ministry of Labor and Skills is seeking bids for the procurement, installation, and commissioning of specialized laboratory equipment for the Education and Skills for Employment (EASE) project.
 
 **Source:** 2merkato.com
@@ -515,6 +499,22 @@
 
 ---
 
+## Catholic Relief Services (CRS) Ethiopia is inviting experienced and potential suppliers for the procurement of medical supplies and medicines.
+
+**Source:** 2merkato.com
+
+**Company:** Catholic Relief Services (CRS Ethiopia)
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a3ba2410a538aee1e000001](https://tender.2merkato.com/tenders/6a3ba2410a538aee1e000001)
+
+---
+
 ## St. Peter Specialized Hospital: Procurement of Medical Supplies, Laboratory Reagents and Chemicals
 
 **Source:** 2merkato.com
@@ -528,6 +528,22 @@
 **Matched Keywords:** medical, hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6a29079d0a538a34bc000001](https://tender.2merkato.com/tenders/6a29079d0a538a34bc000001)
+
+---
+
+## Alert Comprhensive Specialized Hospital would like to procure  Medical Supplies
+
+**Source:** 2merkato.com
+
+**Company:** Alert Specialized Hospital
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical, hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6a23ce5e0a538a266b000001](https://tender.2merkato.com/tenders/6a23ce5e0a538a266b000001)
 
 ---
 
@@ -560,22 +576,6 @@
 **Matched Keywords:** medical equipment, medical
 
 **Link:** [https://tender.2merkato.com/tenders/6a1ea01c0a538abcf9000001](https://tender.2merkato.com/tenders/6a1ea01c0a538abcf9000001)
-
----
-
-## Orbis International Ethiopia invites all interested and eligible Importers/manufacturers/whole sellers to bid for the supply of consumable medical supplies and equipment.
-
-**Source:** 2merkato.com
-
-**Company:** Orbis International Ethiopia (OlE)
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a1e9d0d0a538abdb3000001](https://tender.2merkato.com/tenders/6a1e9d0d0a538abdb3000001)
 
 ---
 
