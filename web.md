@@ -2,19 +2,19 @@
 
 ---
 
-**Execution #156**
+**Execution #157**
 
-**Last run:** 2026-06-24 11:34:14 UTC
+**Last run:** 2026-06-24 13:51:30 UTC
 
-**Total matched tenders:** 35
+**Total matched tenders:** 36
 
 ---
 
 ## EGP Portal Summary
 
-- **Active tenders:** 597
-- **Published today:** 135
-- **Closing today:** 275
+- **Active tenders:** 660
+- **Published today:** 206
+- **Closing today:** 276
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
 
 ---
@@ -307,22 +307,6 @@
 
 ---
 
-## Armauer Hansen Research Institute: Procurement of Medical Supplies, Laboratory Reagents and Chemicals
-
-**Source:** 2merkato.com
-
-**Company:** Armauer Hansen Research Institute
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a34e7560a538a1572000001](https://tender.2merkato.com/tenders/6a34e7560a538a1572000001)
-
----
-
 ## The Ministry of Labor and Skills is seeking bids for the procurement, installation, and commissioning of specialized laboratory equipment for the Education and Skills for Employment (EASE) project.
 
 **Source:** 2merkato.com
@@ -384,6 +368,22 @@
 **Matched Keywords:** laboratory equipment
 
 **Link:** [https://tender.2merkato.com/tenders/6a2ba9040a538a7a4b000001](https://tender.2merkato.com/tenders/6a2ba9040a538a7a4b000001)
+
+---
+
+## University of Gondar: Procurement of Laboratory Equipment
+
+**Source:** 2merkato.com
+
+**Company:** University of Gondar
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** laboratory equipment
+
+**Link:** [https://tender.2merkato.com/tenders/6a23ccdf0a538a3795000001](https://tender.2merkato.com/tenders/6a23ccdf0a538a3795000001)
 
 ---
 
@@ -512,6 +512,22 @@
 **Matched Keywords:** medical
 
 **Link:** [https://tender.2merkato.com/tenders/6a3ba2410a538aee1e000001](https://tender.2merkato.com/tenders/6a3ba2410a538aee1e000001)
+
+---
+
+## Armauer Hansen Research Institute: Procurement of Medical Supplies, Laboratory Reagents and Chemicals
+
+**Source:** 2merkato.com
+
+**Company:** Armauer Hansen Research Institute
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a34e7560a538a1572000001](https://tender.2merkato.com/tenders/6a34e7560a538a1572000001)
 
 ---
 
