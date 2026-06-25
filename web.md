@@ -2,9 +2,9 @@
 
 ---
 
-**Execution #165**
+**Execution #166**
 
-**Last run:** 2026-06-25 08:04:40 UTC
+**Last run:** 2026-06-25 10:53:03 UTC
 
 **Total matched tenders:** 36
 
@@ -12,9 +12,9 @@
 
 ## EGP Portal Summary
 
-- **Active tenders:** 515
-- **Published today:** 66
-- **Closing today:** 286
+- **Active tenders:** 530
+- **Published today:** 120
+- **Closing today:** 293
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
 
 ---
@@ -291,6 +291,22 @@
 
 ---
 
+## Ministry of Water and Energy would like to procure laboratory equipment
+
+**Source:** 2merkato.com
+
+**Company:** Ministry of Water and Energy
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** laboratory equipment
+
+**Link:** [https://tender.2merkato.com/tenders/6a3ccd5c0a538ae2e8000001](https://tender.2merkato.com/tenders/6a3ccd5c0a538ae2e8000001)
+
+---
+
 ## The Ministry of Labor and Skills is seeking bids for the procurement, installation, and commissioning of specialized laboratory equipment for the Education and Skills for Employment (EASE) project.
 
 **Source:** 2merkato.com
@@ -368,22 +384,6 @@
 **Matched Keywords:** laboratory equipment
 
 **Link:** [https://tender.2merkato.com/tenders/6a2ba9040a538a7a4b000001](https://tender.2merkato.com/tenders/6a2ba9040a538a7a4b000001)
-
----
-
-## University of Gondar: Procurement of Laboratory Equipment
-
-**Source:** 2merkato.com
-
-**Company:** University of Gondar
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** laboratory equipment
-
-**Link:** [https://tender.2merkato.com/tenders/6a23ccdf0a538a3795000001](https://tender.2merkato.com/tenders/6a23ccdf0a538a3795000001)
 
 ---
 
