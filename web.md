@@ -2,19 +2,19 @@
 
 ---
 
-**Execution #211**
+**Execution #212**
 
-**Last run:** 2026-06-29 07:00:04 UTC
+**Last run:** 2026-06-29 12:06:05 UTC
 
-**Total matched tenders:** 36
+**Total matched tenders:** 35
 
 ---
 
 ## EGP Portal Summary
 
-- **Active tenders:** 351
-- **Published today:** 17
-- **Closing today:** 202
+- **Active tenders:** 385
+- **Published today:** 87
+- **Closing today:** 212
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
 
 ---
@@ -272,22 +272,6 @@
 **Matched Keywords:** hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6a27db600a538a2a02000001](https://tender.2merkato.com/tenders/6a27db600a538a2a02000001)
-
----
-
-## St. Peter Specialized Hospital: Procurement of Construction Materials
-
-**Source:** 2merkato.com
-
-**Company:** St. Peter Specialized Hospital
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a23e0260a538a64fc000001](https://tender.2merkato.com/tenders/6a23e0260a538a64fc000001)
 
 ---
 
