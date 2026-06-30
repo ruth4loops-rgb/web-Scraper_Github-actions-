@@ -2,11 +2,11 @@
 
 ---
 
-**Execution #221**
+**Execution #222**
 
-**Last run:** 2026-06-30 11:24:34 UTC
+**Last run:** 2026-06-30 13:22:53 UTC
 
-**Total matched tenders:** 34
+**Total matched tenders:** 32
 
 ---
 
@@ -243,22 +243,6 @@
 
 ---
 
-## Amanuel Mental Specialized Hospital: Procurement of Uniforms
-
-**Source:** 2merkato.com
-
-**Company:** Amanuel Mental Specialized Hospital
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a290a1a0a538a34d4000001](https://tender.2merkato.com/tenders/6a290a1a0a538a34d4000001)
-
----
-
 ## Ministry of Water and Energy would like to procure laboratory equipment
 
 **Source:** 2merkato.com
@@ -479,6 +463,22 @@
 
 **Matched Keywords:** medical
 
+**Link:** [https://tender.2merkato.com/tenders/6a43a3e20a538ac1c1000001](https://tender.2merkato.com/tenders/6a43a3e20a538ac1c1000001)
+
+---
+
+## Catholic Relief Services (CRS) Ethiopia is inviting experienced and potential suppliers for the procurement of medical supplies and medicines.
+
+**Source:** 2merkato.com
+
+**Company:** Catholic Relief Services (CRS Ethiopia)
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical
+
 **Link:** [https://tender.2merkato.com/tenders/6a3ba2410a538aee1e000001](https://tender.2merkato.com/tenders/6a3ba2410a538aee1e000001)
 
 ---
@@ -528,38 +528,6 @@
 **Matched Keywords:** medical, hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6a23ce5e0a538a266b000001](https://tender.2merkato.com/tenders/6a23ce5e0a538a266b000001)
-
----
-
-## CMHS , University of Gondar Procurement of Medical Equipment and Supplies
-
-**Source:** 2merkato.com
-
-**Company:** University of Gondar
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a226df30a538acd51000001](https://tender.2merkato.com/tenders/6a226df30a538acd51000001)
-
----
-
-## WEEMA International Inc. Invites Eligible Bidders for the Procurement of medical equipment and supplies through a competitive bidding process for distribution to health centers and health posts located in Damboya Woreda, Central Ethiopia Region.
-
-**Source:** 2merkato.com
-
-**Company:** WEEMA INTERNATIONAL, INC
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a1ea01c0a538abcf9000001](https://tender.2merkato.com/tenders/6a1ea01c0a538abcf9000001)
 
 ---
 
