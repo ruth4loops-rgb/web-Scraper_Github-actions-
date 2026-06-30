@@ -2,20 +2,36 @@
 
 ---
 
-**Execution #222**
+**Execution #223**
 
-**Last run:** 2026-06-30 13:22:53 UTC
+**Last run:** 2026-06-30 16:03:55 UTC
 
-**Total matched tenders:** 32
+**Total matched tenders:** 33
 
 ---
 
 ## EGP Portal Summary
 
-- **Active tenders:** 437
-- **Published today:** 57
-- **Closing today:** 203
+- **Active tenders:** 463
+- **Published today:** 132
+- **Closing today:** 204
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
+
+---
+
+## The Office of the United Nations High Commissioner for Refugees (UNHCR), Representation Office in Ethiopia, Addis Ababa, invites qualified and registered Suppliers for the Supply and Delivery of Essential Medicines, Medical Supplies, and Medical & Laboratory Equipment for the UNHCR Ethiopia Operation.
+
+**Source:** 2merkato.com
+
+**Company:** United Nations High Commissioner for Refugees (UNHCR)
+
+**Status:** Open
+
+**Closing Date:** 2026-07-14 17:59:00
+
+**Matched Keywords:** medical, laboratory equipment
+
+**Link:** [https://tender.2merkato.com/tenders/6a43c8660a538aeaca000001](https://tender.2merkato.com/tenders/6a43c8660a538aeaca000001)
 
 ---
 
@@ -128,22 +144,6 @@
 **Matched Keywords:** medical
 
 **Link:** [https://tender.2merkato.com/tenders/6a2a5fd30a538a7823000001](https://tender.2merkato.com/tenders/6a2a5fd30a538a7823000001)
-
----
-
-## CMHS , University of Gondar: Procurement of Medical Equipment and Supplies
-
-**Source:** 2merkato.com
-
-**Company:** University of Gondar
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a23c58c0a538a2890000001](https://tender.2merkato.com/tenders/6a23c58c0a538a2890000001)
 
 ---
 
@@ -528,6 +528,22 @@
 **Matched Keywords:** medical, hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6a23ce5e0a538a266b000001](https://tender.2merkato.com/tenders/6a23ce5e0a538a266b000001)
+
+---
+
+## CMHS , University of Gondar: Procurement of Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** University of Gondar
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a23c58c0a538a2890000001](https://tender.2merkato.com/tenders/6a23c58c0a538a2890000001)
 
 ---
 
