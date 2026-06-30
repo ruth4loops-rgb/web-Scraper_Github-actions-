@@ -2,19 +2,19 @@
 
 ---
 
-**Execution #219**
+**Execution #220**
 
-**Last run:** 2026-06-30 04:36:03 UTC
+**Last run:** 2026-06-30 08:20:00 UTC
 
-**Total matched tenders:** 35
+**Total matched tenders:** 34
 
 ---
 
 ## EGP Portal Summary
 
-- **Active tenders:** 454
-- **Published today:** 2
-- **Closing today:** 197
+- **Active tenders:** 445
+- **Published today:** 30
+- **Closing today:** 201
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
 
 ---
@@ -256,22 +256,6 @@
 **Matched Keywords:** hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6a290a1a0a538a34d4000001](https://tender.2merkato.com/tenders/6a290a1a0a538a34d4000001)
-
----
-
-## Amhara National Regional State Bureau of Health has invited sealed bids comprising of technical & Financial Proposal from eligible Bidders for providing all the necessary labour, material & equipment for the construction of Berehet Primary Hospital Remaining Works.
-
-**Source:** 2merkato.com
-
-**Company:** ANRS Health Bureau
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a27db600a538a2a02000001](https://tender.2merkato.com/tenders/6a27db600a538a2a02000001)
 
 ---
 
