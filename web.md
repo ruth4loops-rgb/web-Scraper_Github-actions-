@@ -2,19 +2,19 @@
 
 ---
 
-**Execution #239**
+**Execution #240**
 
-**Last run:** 2026-07-02 07:55:52 UTC
+**Last run:** 2026-07-02 10:47:19 UTC
 
-**Total matched tenders:** 33
+**Total matched tenders:** 31
 
 ---
 
 ## EGP Portal Summary
 
-- **Active tenders:** 502
-- **Published today:** 32
-- **Closing today:** 233
+- **Active tenders:** 498
+- **Published today:** 53
+- **Closing today:** 236
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
 
 ---
@@ -227,22 +227,6 @@
 
 ---
 
-## Goba Referral Hospital , Madda Walabu University: መወዩ ጎባ ህ/ጤ/ሳይ/ኮሌጅ ግድግዳ ቀለም ግዥ 2018
-
-**Source:** 2merkato.com
-
-**Company:** Madda Walabu University
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a2a54d10a538a7a4b000001](https://tender.2merkato.com/tenders/6a2a54d10a538a7a4b000001)
-
----
-
 ## Ministry of Water and Energy would like to procure laboratory equipment
 
 **Source:** 2merkato.com
@@ -384,22 +368,6 @@
 **Matched Keywords:** medical equipment, medical
 
 **Link:** [https://tender.2merkato.com/tenders/6a0db2b60a538a5672000001](https://tender.2merkato.com/tenders/6a0db2b60a538a5672000001)
-
----
-
-## Arsi University College of Health Sciences (in partnership with a German university and funded by GIZ) is looking to hire a pair of university hospitals in the Oromia region to run a specific medical research study on sepsis.
-
-**Source:** 2merkato.com
-
-**Company:** Arsi University
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical, hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a0c66bf0a538a732f000001](https://tender.2merkato.com/tenders/6a0c66bf0a538a732f000001)
 
 ---
 
