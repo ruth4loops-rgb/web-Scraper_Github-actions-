@@ -2,9 +2,9 @@
 
 ---
 
-**Execution #250**
+**Execution #251**
 
-**Last run:** 2026-07-03 05:12:53 UTC
+**Last run:** 2026-07-03 08:29:30 UTC
 
 **Total matched tenders:** 31
 
@@ -12,10 +12,26 @@
 
 ## EGP Portal Summary
 
-- **Active tenders:** 515
-- **Published today:** 7
-- **Closing today:** 227
+- **Active tenders:** 468
+- **Published today:** 24
+- **Closing today:** 234
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
+
+---
+
+## Women Empowerment-Action (WE-Action), with funding from FARMAMUNDI, invites bids from qualified suppliers for medicines, laboratory reagents, medical supplies, and medical equipment to support their humanitarian project in Tigray and Amhara.
+
+**Source:** 2merkato.com
+
+**Company:** Women Empowerment Action(WE-Action)
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a4762a50a538a708b000001](https://tender.2merkato.com/tenders/6a4762a50a538a708b000001)
 
 ---
 
@@ -496,22 +512,6 @@
 **Matched Keywords:** medical, hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6a23ce5e0a538a266b000001](https://tender.2merkato.com/tenders/6a23ce5e0a538a266b000001)
-
----
-
-## CMHS , University of Gondar: Procurement of Medical Equipment and Supplies
-
-**Source:** 2merkato.com
-
-**Company:** University of Gondar
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a23c58c0a538a2890000001](https://tender.2merkato.com/tenders/6a23c58c0a538a2890000001)
 
 ---
 
