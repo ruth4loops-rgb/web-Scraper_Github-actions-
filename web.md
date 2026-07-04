@@ -2,9 +2,9 @@
 
 ---
 
-**Execution #263**
+**Execution #264**
 
-**Last run:** 2026-07-04 07:53:57 UTC
+**Last run:** 2026-07-04 10:11:23 UTC
 
 **Total matched tenders:** 31
 
@@ -12,8 +12,8 @@
 
 ## EGP Portal Summary
 
-- **Active tenders:** 416
-- **Published today:** 4
+- **Active tenders:** 431
+- **Published today:** 12
 - **Closing today:** 11
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
 
@@ -371,19 +371,19 @@
 
 ---
 
-## Healing Hands of Joy (HHOJ) hereby invites eligible bidders for the supply and delivery of the medical equipment and materials.
+## The Carter Center Ethiopia (TCCE) invites sealed bids from registered suppliers for the purchase of various medical supplies for the GWE Program.
 
 **Source:** 2merkato.com
 
-**Company:** Healing Hands of Joy
+**Company:** The Carter Center Ethiopia
 
 **Status:** Login required
 
 **Closing Date:** Login required to view
 
-**Matched Keywords:** medical equipment, medical
+**Matched Keywords:** medical
 
-**Link:** [https://tender.2merkato.com/tenders/6a0db2b60a538a5672000001](https://tender.2merkato.com/tenders/6a0db2b60a538a5672000001)
+**Link:** [https://tender.2merkato.com/tenders/6a48be3e0a538a033e000001](https://tender.2merkato.com/tenders/6a48be3e0a538a033e000001)
 
 ---
 
@@ -400,6 +400,22 @@
 **Matched Keywords:** medical equipment, medical
 
 **Link:** [https://tender.2merkato.com/tenders/6a18188a0a538a54f4000001](https://tender.2merkato.com/tenders/6a18188a0a538a54f4000001)
+
+---
+
+## Healing Hands of Joy (HHOJ) hereby invites eligible bidders for the supply and delivery of the medical equipment and materials.
+
+**Source:** 2merkato.com
+
+**Company:** Healing Hands of Joy
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a0db2b60a538a5672000001](https://tender.2merkato.com/tenders/6a0db2b60a538a5672000001)
 
 ---
 
@@ -496,22 +512,6 @@
 **Matched Keywords:** medical, hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6a29079d0a538a34bc000001](https://tender.2merkato.com/tenders/6a29079d0a538a34bc000001)
-
----
-
-## Alert Comprhensive Specialized Hospital would like to procure  Medical Supplies
-
-**Source:** 2merkato.com
-
-**Company:** Alert Specialized Hospital
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical, hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a23ce5e0a538a266b000001](https://tender.2merkato.com/tenders/6a23ce5e0a538a266b000001)
 
 ---
 
