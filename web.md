@@ -2,11 +2,11 @@
 
 ---
 
-**Execution #280**
+**Execution #281**
 
-**Last run:** 2026-07-05 12:00:30 UTC
+**Last run:** 2026-07-05 14:02:09 UTC
 
-**Total matched tenders:** 31
+**Total matched tenders:** 29
 
 ---
 
@@ -16,150 +16,6 @@
 - **Published today:** 0
 - **Closing today:** 4
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
-
----
-
-## Women Empowerment-Action (WE-Action), with funding from FARMAMUNDI, invites bids from qualified suppliers for medicines, laboratory reagents, medical supplies, and medical equipment to support their humanitarian project in Tigray and Amhara.
-
-**Source:** 2merkato.com
-
-**Company:** Women Empowerment Action(WE-Action)
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a4762a50a538a708b000001](https://tender.2merkato.com/tenders/6a4762a50a538a708b000001)
-
----
-
-## The Office of the United Nations High Commissioner for Refugees (UNHCR), Representation Office in Ethiopia, Addis Ababa, invites qualified and registered Suppliers for the Supply and Delivery of Essential Medicines, Medical Supplies, and Medical & Laboratory Equipment for the UNHCR Ethiopia Operation.
-
-**Source:** 2merkato.com
-
-**Company:** United Nations High Commissioner for Refugees (UNHCR)
-
-**Status:** Open
-
-**Closing Date:** 2026-07-14 17:59:00
-
-**Matched Keywords:** medical, laboratory equipment
-
-**Link:** [https://tender.2merkato.com/tenders/6a43c8660a538aeaca000001](https://tender.2merkato.com/tenders/6a43c8660a538aeaca000001)
-
----
-
-## Waliya Capital Goods Finance Business Share Company (WCGFB) is inviting sealed bids for the procurement of various medical equipment for lease clients located in Mekaneselam (South Wolo zone) and Bahir Dar towns in the Amhara region.
-
-**Source:** 2merkato.com
-
-**Company:** Waliya Capital Goods Finance Business Share Company
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a34f8a50a538ad2d1000001](https://tender.2merkato.com/tenders/6a34f8a50a538ad2d1000001)
-
----
-
-## St. Peter Specialized Hospital፡ Procurement of Medical Equipment and Supplies
-
-**Source:** 2merkato.com
-
-**Company:** St. Peter Specialized Hospital
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical, hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a339bff0a538a7943000001](https://tender.2merkato.com/tenders/6a339bff0a538a7943000001)
-
----
-
-## Action for Social Development and Environmental Protection Organization (ASDEPO) invites eligible bidders to supply medicines and medical equipment to address malnutrition and Gender-Based Violence (GBV) in Habru Woreda, Amhara Regional State.
-
-**Source:** 2merkato.com
-
-**Company:** Action for Social Development and Environmental Protection Organization (ASDEPO)
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a326b4b0a538a4e27000001](https://tender.2merkato.com/tenders/6a326b4b0a538a4e27000001)
-
----
-
-## Dilla University፡ Procurement of Medical Equipment and Supplies
-
-**Source:** 2merkato.com
-
-**Company:** Dilla University
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a2f8d650a538a8272000001](https://tender.2merkato.com/tenders/6a2f8d650a538a8272000001)
-
----
-
-## Eka Kotebe General Hospital would like to procure  Medical Equipment and Supplies
-
-**Source:** 2merkato.com
-
-**Company:** EKA Kotebe General Hospital
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical, hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a2cfdc60a538a0f6f000001](https://tender.2merkato.com/tenders/6a2cfdc60a538a0f6f000001)
-
----
-
-## Ethiopian Public Health Institute: Procurement of Medical Equipment and Supplies
-
-**Source:** 2merkato.com
-
-**Company:** Ethiopian Public Health Institute
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a2ba29c0a538a7b01000001](https://tender.2merkato.com/tenders/6a2ba29c0a538a7b01000001)
-
----
-
-## SOS Children’s Villages in Ethiopia wants to purchase (procure) medical laboratory supplies and medical center equipment from qualified legal suppliers.
-
-**Source:** 2merkato.com
-
-**Company:** SOS Children’s Villages Ethiopia
-
-**Status:** Closed
-
-**Closing Date:** 2026-06-19 11:00:00
-
-**Matched Keywords:** medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a2a5fd30a538a7823000001](https://tender.2merkato.com/tenders/6a2a5fd30a538a7823000001)
 
 ---
 
@@ -176,6 +32,22 @@
 **Matched Keywords:** hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6a3655e90a538ae13f000001](https://tender.2merkato.com/tenders/6a3655e90a538ae13f000001)
+
+---
+
+## St. Peter Specialized Hospital፡ Procurement of Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** St. Peter Specialized Hospital
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical, hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6a339bff0a538a7943000001](https://tender.2merkato.com/tenders/6a339bff0a538a7943000001)
 
 ---
 
@@ -227,6 +99,22 @@
 
 ---
 
+## Eka Kotebe General Hospital would like to procure  Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** EKA Kotebe General Hospital
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical, hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6a2cfdc60a538a0f6f000001](https://tender.2merkato.com/tenders/6a2cfdc60a538a0f6f000001)
+
+---
+
 ## The American Jewish Joint Distribution Committee (JDC), an international NGO registered in Ethiopia, invites qualified suppliers to submit bids for the supply, delivery, and installation of ICT Equipment for National Spine Center, St. Paul Hospital, Addis Ababa.
 
 **Source:** 2merkato.com
@@ -240,6 +128,38 @@
 **Matched Keywords:** hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6a2bcdf80a538ac763000001](https://tender.2merkato.com/tenders/6a2bcdf80a538ac763000001)
+
+---
+
+## Women Empowerment-Action (WE-Action), with funding from FARMAMUNDI, invites bids from qualified suppliers for medicines, laboratory reagents, medical supplies, and medical equipment to support their humanitarian project in Tigray and Amhara.
+
+**Source:** 2merkato.com
+
+**Company:** Women Empowerment Action(WE-Action)
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a4762a50a538a708b000001](https://tender.2merkato.com/tenders/6a4762a50a538a708b000001)
+
+---
+
+## The Office of the United Nations High Commissioner for Refugees (UNHCR), Representation Office in Ethiopia, Addis Ababa, invites qualified and registered Suppliers for the Supply and Delivery of Essential Medicines, Medical Supplies, and Medical & Laboratory Equipment for the UNHCR Ethiopia Operation.
+
+**Source:** 2merkato.com
+
+**Company:** United Nations High Commissioner for Refugees (UNHCR)
+
+**Status:** Open
+
+**Closing Date:** 2026-07-14 17:59:00
+
+**Matched Keywords:** medical, laboratory equipment
+
+**Link:** [https://tender.2merkato.com/tenders/6a43c8660a538aeaca000001](https://tender.2merkato.com/tenders/6a43c8660a538aeaca000001)
 
 ---
 
@@ -496,6 +416,54 @@
 **Matched Keywords:** medical
 
 **Link:** [https://tender.2merkato.com/tenders/6a34e7560a538a1572000001](https://tender.2merkato.com/tenders/6a34e7560a538a1572000001)
+
+---
+
+## Dilla University፡ Procurement of Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** Dilla University
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a2f8d650a538a8272000001](https://tender.2merkato.com/tenders/6a2f8d650a538a8272000001)
+
+---
+
+## Ethiopian Public Health Institute: Procurement of Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** Ethiopian Public Health Institute
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a2ba29c0a538a7b01000001](https://tender.2merkato.com/tenders/6a2ba29c0a538a7b01000001)
+
+---
+
+## SOS Children’s Villages in Ethiopia wants to purchase (procure) medical laboratory supplies and medical center equipment from qualified legal suppliers.
+
+**Source:** 2merkato.com
+
+**Company:** SOS Children’s Villages Ethiopia
+
+**Status:** Closed
+
+**Closing Date:** 2026-06-19 11:00:00
+
+**Matched Keywords:** medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a2a5fd30a538a7823000001](https://tender.2merkato.com/tenders/6a2a5fd30a538a7823000001)
 
 ---
 
