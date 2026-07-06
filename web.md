@@ -2,18 +2,18 @@
 
 ---
 
-**Execution #293**
+**Execution #294**
 
-**Last run:** 2026-07-06 14:33:20 UTC
+**Last run:** 2026-07-06 17:27:57 UTC
 
-**Total matched tenders:** 20
+**Total matched tenders:** 30
 
 ---
 
 ## EGP Portal Summary
 
-- **Active tenders:** 305
-- **Published today:** 36
+- **Active tenders:** 290
+- **Published today:** 42
 - **Closing today:** 228
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
 
@@ -336,6 +336,166 @@
 **Matched Keywords:** laboratory equipment
 
 **Link:** [https://tender.2merkato.com/tenders/6a2d0ace0a538add25000001](https://tender.2merkato.com/tenders/6a2d0ace0a538add25000001)
+
+---
+
+## Hybrid Designs PLC invites eligible vendors to submit competitive quotations for the supply of quality, clinical-grade basic medical diagnostic tool kits to support the operational rollout of the FetroAder healthcare service ecosystem under the EDGE Program.
+
+**Source:** 2merkato.com
+
+**Company:** HYBRID DESIGNS PLC
+
+**Status:** Closed
+
+**Closing Date:** 2026-06-13 16:00:00
+
+**Matched Keywords:** medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a2027fb0a538a293d000001](https://tender.2merkato.com/tenders/6a2027fb0a538a293d000001)
+
+---
+
+## Pharo Ventures seeks comprehensive, competitive proposals from qualified medical equipment manufacturers and/or authorized distributors. The purpose of this Request for Proposal (RFP) is to solicit bids for the procurement, delivery, installation, and ongoing maintenance of MRI Scanner & CT Scanner.
+
+**Source:** 2merkato.com
+
+**Company:** Pharo Integrated Agriculture and Manufacturing PLC
+
+**Status:** Closed
+
+**Closing Date:** 2026-07-06 16:00:00
+
+**Matched Keywords:** ct scanner, medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a198f1e0a538a4262000001](https://tender.2merkato.com/tenders/6a198f1e0a538a4262000001)
+
+---
+
+## The Carter Center Ethiopia (TCCE) invites sealed bids from registered suppliers for the purchase of various medical supplies for the GWE Program.
+
+**Source:** 2merkato.com
+
+**Company:** The Carter Center Ethiopia
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a48be3e0a538a033e000001](https://tender.2merkato.com/tenders/6a48be3e0a538a033e000001)
+
+---
+
+## Deutsche Stiftung Weltbevölkerung (DSW) invites qualified bidders for the supply and delivery of Mini Media & electronics materials, Medical equipment and others supporting materials & Office/Facilities' Furniture and others.
+
+**Source:** 2merkato.com
+
+**Company:** Deutsche Stiftung Weltbevölkerung(DSW)
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a18188a0a538a54f4000001](https://tender.2merkato.com/tenders/6a18188a0a538a54f4000001)
+
+---
+
+## Healing Hands of Joy (HHOJ) hereby invites eligible bidders for the supply and delivery of the medical equipment and materials.
+
+**Source:** 2merkato.com
+
+**Company:** Healing Hands of Joy
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a0db2b60a538a5672000001](https://tender.2merkato.com/tenders/6a0db2b60a538a5672000001)
+
+---
+
+## The Carter Center Ethiopia (TCC-E) invites sealed bids from registered suppliers under National Competitive Bidding (NCB) for the purchase of Medical Items (Consumables) for Trachoma Program.
+
+**Source:** 2merkato.com
+
+**Company:** The Carter Center - Ethiopia
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a0da2170a538a4511000001](https://tender.2merkato.com/tenders/6a0da2170a538a4511000001)
+
+---
+
+## The Carter Center Ethiopia invites sealed bids from registered suppliers for the purchase of medical items for the Trachoma Program.
+
+**Source:** 2merkato.com
+
+**Company:** The Carter Center - Ethiopia
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical
+
+**Link:** [https://tender.2merkato.com/tenders/69f1fa010a538a84ca000001](https://tender.2merkato.com/tenders/69f1fa010a538a84ca000001)
+
+---
+
+## Catholic Relief Services (CRS) Ethiopia is inviting experienced and potential suppliers for the procurement of medical supplies and medicines.
+
+**Source:** 2merkato.com
+
+**Company:** Catholic Relief Services (CRS Ethiopia)
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a43a3e20a538ac1c1000001](https://tender.2merkato.com/tenders/6a43a3e20a538ac1c1000001)
+
+---
+
+## Catholic Relief Services (CRS) Ethiopia is inviting experienced and potential suppliers for the procurement of medical supplies and medicines.
+
+**Source:** 2merkato.com
+
+**Company:** Catholic Relief Services (CRS Ethiopia)
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a3ba2410a538aee1e000001](https://tender.2merkato.com/tenders/6a3ba2410a538aee1e000001)
+
+---
+
+## Armauer Hansen Research Institute: Procurement of Medical Supplies, Laboratory Reagents and Chemicals
+
+**Source:** 2merkato.com
+
+**Company:** Armauer Hansen Research Institute
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a34e7560a538a1572000001](https://tender.2merkato.com/tenders/6a34e7560a538a1572000001)
 
 ---
 
