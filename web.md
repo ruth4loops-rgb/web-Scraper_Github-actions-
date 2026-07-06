@@ -2,20 +2,36 @@
 
 ---
 
-**Execution #291**
+**Execution #292**
 
-**Last run:** 2026-07-06 06:04:31 UTC
+**Last run:** 2026-07-06 10:59:24 UTC
 
-**Total matched tenders:** 31
+**Total matched tenders:** 30
 
 ---
 
 ## EGP Portal Summary
 
-- **Active tenders:** 333
-- **Published today:** 8
-- **Closing today:** 220
+- **Active tenders:** 311
+- **Published today:** 20
+- **Closing today:** 229
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
+
+---
+
+## The Office of the United Nations High Commissioner for Refugees (UNHCR), Representation Office in Ethiopia, Addis Ababa, invites qualified and registered Suppliers for the Supply and Delivery of Essential Medicines, Medical Supplies, and Medical & Laboratory Equipment for the UNHCR Ethiopia Operation.
+
+**Source:** 2merkato.com
+
+**Company:** United Nations High Commissioner for Refugees (UNHCR)
+
+**Status:** Open
+
+**Closing Date:** 2026-07-14 17:59:00
+
+**Matched Keywords:** medical, laboratory equipment
+
+**Link:** [https://tender.2merkato.com/tenders/6a4b612d0a538aabca000001](https://tender.2merkato.com/tenders/6a4b612d0a538aabca000001)
 
 ---
 
@@ -323,22 +339,6 @@
 
 ---
 
-## Ethiopian Public Health Institute would like to procure laboratory equipment
-
-**Source:** 2merkato.com
-
-**Company:** Ethiopian Public Health Institute
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** laboratory equipment
-
-**Link:** [https://tender.2merkato.com/tenders/6a2ba9040a538a7a4b000001](https://tender.2merkato.com/tenders/6a2ba9040a538a7a4b000001)
-
----
-
 ## Hybrid Designs PLC invites eligible vendors to submit competitive quotations for the supply of quality, clinical-grade basic medical diagnostic tool kits to support the operational rollout of the FetroAder healthcare service ecosystem under the EDGE Program.
 
 **Source:** 2merkato.com
@@ -496,22 +496,6 @@
 **Matched Keywords:** medical
 
 **Link:** [https://tender.2merkato.com/tenders/6a34e7560a538a1572000001](https://tender.2merkato.com/tenders/6a34e7560a538a1572000001)
-
----
-
-## St. Peter Specialized Hospital: Procurement of Medical Supplies, Laboratory Reagents and Chemicals
-
-**Source:** 2merkato.com
-
-**Company:** St. Peter Specialized Hospital
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical, hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a29079d0a538a34bc000001](https://tender.2merkato.com/tenders/6a29079d0a538a34bc000001)
 
 ---
 
