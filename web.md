@@ -2,19 +2,19 @@
 
 ---
 
-**Execution #300**
+**Execution #301**
 
-**Last run:** 2026-07-07 05:47:44 UTC
+**Last run:** 2026-07-07 08:57:52 UTC
 
-**Total matched tenders:** 30
+**Total matched tenders:** 29
 
 ---
 
 ## EGP Portal Summary
 
-- **Active tenders:** 286
-- **Published today:** 1
-- **Closing today:** 49
+- **Active tenders:** 280
+- **Published today:** 3
+- **Closing today:** 52
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
 
 ---
@@ -320,22 +320,6 @@
 **Matched Keywords:** laboratory equipment
 
 **Link:** [https://tender.2merkato.com/tenders/6a2d27da0a538a7b83000001](https://tender.2merkato.com/tenders/6a2d27da0a538a7b83000001)
-
----
-
-## Debark University: Procurement of Laboratory Equipment
-
-**Source:** 2merkato.com
-
-**Company:** Debark University
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** laboratory equipment
-
-**Link:** [https://tender.2merkato.com/tenders/6a2d0ace0a538add25000001](https://tender.2merkato.com/tenders/6a2d0ace0a538add25000001)
 
 ---
 
