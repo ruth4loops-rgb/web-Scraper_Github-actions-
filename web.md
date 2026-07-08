@@ -2,20 +2,36 @@
 
 ---
 
-**Execution #310**
+**Execution #311**
 
-**Last run:** 2026-07-08 04:28:24 UTC
+**Last run:** 2026-07-08 07:07:42 UTC
 
-**Total matched tenders:** 29
+**Total matched tenders:** 30
 
 ---
 
 ## EGP Portal Summary
 
-- **Active tenders:** 277
-- **Published today:** 1
-- **Closing today:** 26
+- **Active tenders:** 266
+- **Published today:** 2
+- **Closing today:** 27
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
+
+---
+
+## The Brooke Ethiopia hereby invites eligible and qualified suppliers to participate in the procurement of veterinary medical equipment and veterinary medicines required for its program activities during the current fiscal year.
+
+**Source:** 2merkato.com
+
+**Company:** Brooke Ethiopia
+
+**Status:** Open
+
+**Closing Date:** 2026-07-22 13:30:00
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a4ded570a538ac974000001](https://tender.2merkato.com/tenders/6a4ded570a538ac974000001)
 
 ---
 
@@ -163,22 +179,6 @@
 
 ---
 
-## SOS Children’s Villages in Ethiopia wants to purchase (procure) medical laboratory supplies and medical center equipment from qualified legal suppliers.
-
-**Source:** 2merkato.com
-
-**Company:** SOS Children’s Villages Ethiopia
-
-**Status:** Closed
-
-**Closing Date:** 2026-06-19 11:00:00
-
-**Matched Keywords:** medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a2a5fd30a538a7823000001](https://tender.2merkato.com/tenders/6a2a5fd30a538a7823000001)
-
----
-
 ## Amanuel Mental Specialized Hospital Procurement of Laboratory Reagents and Chemicals
 
 **Source:** 2merkato.com
@@ -243,19 +243,19 @@
 
 ---
 
-## The American Jewish Joint Distribution Committee (JDC), an international NGO registered in Ethiopia, invites qualified suppliers to submit bids for the supply, delivery, and installation of ICT Equipment for National Spine Center, St. Paul Hospital, Addis Ababa.
+## Ethiopian Food and Drug Authority Procurement of Laboratory Equipment
 
 **Source:** 2merkato.com
 
-**Company:** American Jewish Joint Distribution Committee
+**Company:** Ethiopian Food and Drug Authority
 
-**Status:** Closed
+**Status:** Login required
 
-**Closing Date:** 2026-06-22 17:00:00
+**Closing Date:** Login required to view
 
-**Matched Keywords:** hospital
+**Matched Keywords:** laboratory equipment
 
-**Link:** [https://tender.2merkato.com/tenders/6a2bcdf80a538ac763000001](https://tender.2merkato.com/tenders/6a2bcdf80a538ac763000001)
+**Link:** [https://tender.2merkato.com/tenders/6a4ddc4b0a538ac399000001](https://tender.2merkato.com/tenders/6a4ddc4b0a538ac399000001)
 
 ---
 
@@ -480,6 +480,22 @@
 **Matched Keywords:** medical
 
 **Link:** [https://tender.2merkato.com/tenders/6a34e7560a538a1572000001](https://tender.2merkato.com/tenders/6a34e7560a538a1572000001)
+
+---
+
+## SOS Children’s Villages in Ethiopia wants to purchase (procure) medical laboratory supplies and medical center equipment from qualified legal suppliers.
+
+**Source:** 2merkato.com
+
+**Company:** SOS Children’s Villages Ethiopia
+
+**Status:** Closed
+
+**Closing Date:** 2026-06-19 11:00:00
+
+**Matched Keywords:** medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a2a5fd30a538a7823000001](https://tender.2merkato.com/tenders/6a2a5fd30a538a7823000001)
 
 ---
 
