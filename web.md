@@ -2,20 +2,36 @@
 
 ---
 
-**Execution #311**
+**Execution #312**
 
-**Last run:** 2026-07-08 07:07:42 UTC
+**Last run:** 2026-07-08 09:36:11 UTC
 
-**Total matched tenders:** 30
+**Total matched tenders:** 31
 
 ---
 
 ## EGP Portal Summary
 
-- **Active tenders:** 266
-- **Published today:** 2
+- **Active tenders:** 270
+- **Published today:** 9
 - **Closing today:** 27
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
+
+---
+
+## The Brooke Ethiopia hereby invites eligible and qualified suppliers to participate in the procurement of veterinary medical equipment and veterinary medicines required for its program activities during the current fiscal year.
+
+**Source:** 2merkato.com
+
+**Company:** Brooke Ethiopia
+
+**Status:** Open
+
+**Closing Date:** 2026-07-22 13:30:00
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a4dffda0a538a364f000001](https://tender.2merkato.com/tenders/6a4dffda0a538a364f000001)
 
 ---
 
@@ -160,22 +176,6 @@
 **Matched Keywords:** medical equipment, medical, hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6a2cfdc60a538a0f6f000001](https://tender.2merkato.com/tenders/6a2cfdc60a538a0f6f000001)
-
----
-
-## Ethiopian Public Health Institute: Procurement of Medical Equipment and Supplies
-
-**Source:** 2merkato.com
-
-**Company:** Ethiopian Public Health Institute
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a2ba29c0a538a7b01000001](https://tender.2merkato.com/tenders/6a2ba29c0a538a7b01000001)
 
 ---
 
@@ -480,6 +480,22 @@
 **Matched Keywords:** medical
 
 **Link:** [https://tender.2merkato.com/tenders/6a34e7560a538a1572000001](https://tender.2merkato.com/tenders/6a34e7560a538a1572000001)
+
+---
+
+## Ethiopian Public Health Institute: Procurement of Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** Ethiopian Public Health Institute
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a2ba29c0a538a7b01000001](https://tender.2merkato.com/tenders/6a2ba29c0a538a7b01000001)
 
 ---
 
