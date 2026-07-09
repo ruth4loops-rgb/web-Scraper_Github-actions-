@@ -2,18 +2,18 @@
 
 ---
 
-**Execution #324**
+**Execution #325**
 
-**Last run:** 2026-07-09 08:53:04 UTC
+**Last run:** 2026-07-09 11:56:29 UTC
 
-**Total matched tenders:** 31
+**Total matched tenders:** 30
 
 ---
 
 ## EGP Portal Summary
 
-- **Active tenders:** 271
-- **Published today:** 5
+- **Active tenders:** 274
+- **Published today:** 9
 - **Closing today:** 31
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
 
@@ -224,22 +224,6 @@
 **Matched Keywords:** medical, hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6a3106ed0a538aa1c4000001](https://tender.2merkato.com/tenders/6a3106ed0a538aa1c4000001)
-
----
-
-## Amanuel Mental Specialized Hospital: Procurement of Office Equipment
-
-**Source:** 2merkato.com
-
-**Company:** Amanuel Mental Specialized Hospital
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a2d06200a538add33000001](https://tender.2merkato.com/tenders/6a2d06200a538add33000001)
 
 ---
 
