@@ -2,18 +2,18 @@
 
 ---
 
-**Execution #325**
+**Execution #326**
 
-**Last run:** 2026-07-09 11:56:29 UTC
+**Last run:** 2026-07-09 15:28:51 UTC
 
-**Total matched tenders:** 30
+**Total matched tenders:** 29
 
 ---
 
 ## EGP Portal Summary
 
-- **Active tenders:** 274
-- **Published today:** 9
+- **Active tenders:** 273
+- **Published today:** 12
 - **Closing today:** 31
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
 
@@ -275,22 +275,6 @@
 
 ---
 
-## The Ministry of Labor and Skills is seeking bids for the procurement, installation, and commissioning of specialized laboratory equipment for the Education and Skills for Employment (EASE) project.
-
-**Source:** 2merkato.com
-
-**Company:** Ministry of Labor and Skills (MoLS)
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** laboratory equipment
-
-**Link:** [https://tender.2merkato.com/tenders/6a2fb76d0a538a543f000001](https://tender.2merkato.com/tenders/6a2fb76d0a538a543f000001)
-
----
-
 ## Hybrid Designs PLC invites eligible vendors to submit competitive quotations for the supply of quality, clinical-grade basic medical diagnostic tool kits to support the operational rollout of the FetroAder healthcare service ecosystem under the EDGE Program.
 
 **Source:** 2merkato.com
@@ -403,6 +387,38 @@
 
 ---
 
+## Ethiopia Pharmaceutical Supplies Service፡ Procurement of Medical Devices
+
+**Source:** 2merkato.com
+
+**Company:** Ethiopia Pharmaceutical Supplies Service
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a4f91270a538a0c7a000001](https://tender.2merkato.com/tenders/6a4f91270a538a0c7a000001)
+
+---
+
+## Ethiopia Pharmaceutical Supplies Service፡ Procurement of Medical Devices
+
+**Source:** 2merkato.com
+
+**Company:** Ethiopia Pharmaceutical Supplies Service
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a4f91210a538a0690000001](https://tender.2merkato.com/tenders/6a4f91210a538a0690000001)
+
+---
+
 ## Catholic Relief Services (CRS) Ethiopia is inviting experienced and potential suppliers for the procurement of medical supplies and medicines.
 
 **Source:** 2merkato.com
@@ -464,38 +480,6 @@
 **Matched Keywords:** medical equipment, medical, hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6a2cfdc60a538a0f6f000001](https://tender.2merkato.com/tenders/6a2cfdc60a538a0f6f000001)
-
----
-
-## Ethiopian Public Health Institute: Procurement of Medical Equipment and Supplies
-
-**Source:** 2merkato.com
-
-**Company:** Ethiopian Public Health Institute
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a2ba29c0a538a7b01000001](https://tender.2merkato.com/tenders/6a2ba29c0a538a7b01000001)
-
----
-
-## SOS Children’s Villages in Ethiopia wants to purchase (procure) medical laboratory supplies and medical center equipment from qualified legal suppliers.
-
-**Source:** 2merkato.com
-
-**Company:** SOS Children’s Villages Ethiopia
-
-**Status:** Closed
-
-**Closing Date:** 2026-06-19 11:00:00
-
-**Matched Keywords:** medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a2a5fd30a538a7823000001](https://tender.2merkato.com/tenders/6a2a5fd30a538a7823000001)
 
 ---
 
