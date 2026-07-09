@@ -2,9 +2,9 @@
 
 ---
 
-**Execution #323**
+**Execution #324**
 
-**Last run:** 2026-07-09 05:32:16 UTC
+**Last run:** 2026-07-09 08:53:04 UTC
 
 **Total matched tenders:** 31
 
@@ -12,10 +12,26 @@
 
 ## EGP Portal Summary
 
-- **Active tenders:** 275
-- **Published today:** 0
+- **Active tenders:** 271
+- **Published today:** 5
 - **Closing today:** 31
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
+
+---
+
+## Pharo Ventures is inviting qualified and experienced imaging equipment suppliers to submit proposals for the purchase of Ultrasound, X-ray, and C-Arm machines.
+
+**Source:** 2merkato.com
+
+**Company:** Pharo Integrated Agriculture and Manufacturing PLC
+
+**Status:** Open
+
+**Closing Date:** 2026-08-08 16:00:00
+
+**Matched Keywords:** c-arm
+
+**Link:** [https://tender.2merkato.com/tenders/6a4f4aa00a538a7943000001](https://tender.2merkato.com/tenders/6a4f4aa00a538a7943000001)
 
 ---
 
@@ -163,22 +179,6 @@
 
 ---
 
-## Eka Kotebe General Hospital would like to procure  Medical Equipment and Supplies
-
-**Source:** 2merkato.com
-
-**Company:** EKA Kotebe General Hospital
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical, hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a2cfdc60a538a0f6f000001](https://tender.2merkato.com/tenders/6a2cfdc60a538a0f6f000001)
-
----
-
 ## Amanuel Mental Specialized Hospital Procurement of Laboratory Reagents and Chemicals
 
 **Source:** 2merkato.com
@@ -304,22 +304,6 @@
 **Matched Keywords:** laboratory equipment
 
 **Link:** [https://tender.2merkato.com/tenders/6a2fb76d0a538a543f000001](https://tender.2merkato.com/tenders/6a2fb76d0a538a543f000001)
-
----
-
-## The Ministry of Water and Energy now invites sealed Bids from eligible Bidders for the procurement of Desk Top computer, Laboratory Equipment and one Backhoe loader.
-
-**Source:** 2merkato.com
-
-**Company:** Ministry of Water and Energy
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** laboratory equipment
-
-**Link:** [https://tender.2merkato.com/tenders/6a2d27da0a538a7b83000001](https://tender.2merkato.com/tenders/6a2d27da0a538a7b83000001)
 
 ---
 
@@ -480,6 +464,22 @@
 **Matched Keywords:** medical
 
 **Link:** [https://tender.2merkato.com/tenders/6a34e7560a538a1572000001](https://tender.2merkato.com/tenders/6a34e7560a538a1572000001)
+
+---
+
+## Eka Kotebe General Hospital would like to procure  Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** EKA Kotebe General Hospital
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical, hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6a2cfdc60a538a0f6f000001](https://tender.2merkato.com/tenders/6a2cfdc60a538a0f6f000001)
 
 ---
 
