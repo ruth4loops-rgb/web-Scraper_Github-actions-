@@ -2,18 +2,18 @@
 
 ---
 
-**Execution #346**
+**Execution #347**
 
-**Last run:** 2026-07-11 08:27:33 UTC
+**Last run:** 2026-07-11 10:02:19 UTC
 
-**Total matched tenders:** 31
+**Total matched tenders:** 32
 
 ---
 
 ## EGP Portal Summary
 
-- **Active tenders:** 257
-- **Published today:** 0
+- **Active tenders:** 258
+- **Published today:** 3
 - **Closing today:** 6
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
 
@@ -163,22 +163,6 @@
 
 ---
 
-## Dilla University፡ Procurement of Medical Equipment and Supplies
-
-**Source:** 2merkato.com
-
-**Company:** Dilla University
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a2f8d650a538a8272000001](https://tender.2merkato.com/tenders/6a2f8d650a538a8272000001)
-
----
-
 ## St. Paul's Hospital Millennium Medical College: Procurement of Software License
 
 **Source:** 2merkato.com
@@ -192,6 +176,22 @@
 **Matched Keywords:** medical, hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6a51e8660a538a2997000001](https://tender.2merkato.com/tenders/6a51e8660a538a2997000001)
+
+---
+
+## Amanuel Mental Specialized Hospital: Procurement of Maintenance and Repair Service
+
+**Source:** 2merkato.com
+
+**Company:** Amanuel Mental Specialized Hospital
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6a51e3e50a538a3a73000001](https://tender.2merkato.com/tenders/6a51e3e50a538a3a73000001)
 
 ---
 
@@ -496,6 +496,22 @@
 **Matched Keywords:** medical
 
 **Link:** [https://tender.2merkato.com/tenders/6a34e7560a538a1572000001](https://tender.2merkato.com/tenders/6a34e7560a538a1572000001)
+
+---
+
+## Dilla University፡ Procurement of Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** Dilla University
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a2f8d650a538a8272000001](https://tender.2merkato.com/tenders/6a2f8d650a538a8272000001)
 
 ---
 
