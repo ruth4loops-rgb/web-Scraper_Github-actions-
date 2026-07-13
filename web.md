@@ -2,19 +2,19 @@
 
 ---
 
-**Execution #379**
+**Execution #380**
 
-**Last run:** 2026-07-13 08:00:17 UTC
+**Last run:** 2026-07-13 11:25:30 UTC
 
-**Total matched tenders:** 32
+**Total matched tenders:** 33
 
 ---
 
 ## EGP Portal Summary
 
-- **Active tenders:** 232
-- **Published today:** 7
-- **Closing today:** 48
+- **Active tenders:** 221
+- **Published today:** 10
+- **Closing today:** 46
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
 
 ---
@@ -288,6 +288,22 @@
 **Matched Keywords:** laboratory equipment
 
 **Link:** [https://tender.2merkato.com/tenders/6a3a2f000a538a5e15000001](https://tender.2merkato.com/tenders/6a3a2f000a538a5e15000001)
+
+---
+
+## CARE Ethiopia invites eligible contractors of category GC/BC/ Grade 5 and above to provide full construction services, including material and labor, for the repair and restoration of the Diagnostic Block at Dowhan Primary Hospital in Irob Woreda, Tigray Region.
+
+**Source:** 2merkato.com
+
+**Company:** Care Ethiopia
+
+**Status:** Open
+
+**Closing Date:** 2026-07-21 14:00:00
+
+**Matched Keywords:** hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6a549c1f0a538ab5d7000001](https://tender.2merkato.com/tenders/6a549c1f0a538ab5d7000001)
 
 ---
 
