@@ -2,18 +2,18 @@
 
 ---
 
-**Execution #380**
+**Execution #381**
 
-**Last run:** 2026-07-13 11:25:30 UTC
+**Last run:** 2026-07-13 13:40:08 UTC
 
-**Total matched tenders:** 33
+**Total matched tenders:** 32
 
 ---
 
 ## EGP Portal Summary
 
 - **Active tenders:** 221
-- **Published today:** 10
+- **Published today:** 17
 - **Closing today:** 46
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
 
@@ -336,22 +336,6 @@
 **Matched Keywords:** medical
 
 **Link:** [https://tender.2merkato.com/tenders/6a2027fb0a538a293d000001](https://tender.2merkato.com/tenders/6a2027fb0a538a293d000001)
-
----
-
-## Pharo Ventures seeks comprehensive, competitive proposals from qualified medical equipment manufacturers and/or authorized distributors. The purpose of this Request for Proposal (RFP) is to solicit bids for the procurement, delivery, installation, and ongoing maintenance of MRI Scanner & CT Scanner.
-
-**Source:** 2merkato.com
-
-**Company:** Pharo Integrated Agriculture and Manufacturing PLC
-
-**Status:** Closed
-
-**Closing Date:** 2026-07-06 16:00:00
-
-**Matched Keywords:** ct scanner, medical equipment, medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a198f1e0a538a4262000001](https://tender.2merkato.com/tenders/6a198f1e0a538a4262000001)
 
 ---
 
