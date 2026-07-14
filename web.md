@@ -2,20 +2,36 @@
 
 ---
 
-**Execution #391**
+**Execution #392**
 
-**Last run:** 2026-07-14 08:01:22 UTC
+**Last run:** 2026-07-14 10:07:04 UTC
 
-**Total matched tenders:** 32
+**Total matched tenders:** 33
 
 ---
 
 ## EGP Portal Summary
 
-- **Active tenders:** 221
-- **Published today:** 3
+- **Active tenders:** 224
+- **Published today:** 6
 - **Closing today:** 24
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
+
+---
+
+## Imagine 1 Day International Organization invites eligible suppliers to bid for the supply of medical mobility aids and water storage equipment.
+
+**Source:** 2merkato.com
+
+**Company:** Imagine1day International
+
+**Status:** Open
+
+**Closing Date:** 2026-07-23 10:00:00
+
+**Matched Keywords:** medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a5602d80a538a92a0000001](https://tender.2merkato.com/tenders/6a5602d80a538a92a0000001)
 
 ---
 
