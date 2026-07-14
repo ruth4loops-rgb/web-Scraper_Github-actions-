@@ -2,9 +2,9 @@
 
 ---
 
-**Execution #395**
+**Execution #396**
 
-**Last run:** 2026-07-14 14:52:55 UTC
+**Last run:** 2026-07-14 16:12:54 UTC
 
 **Total matched tenders:** 33
 
@@ -12,8 +12,8 @@
 
 ## EGP Portal Summary
 
-- **Active tenders:** 239
-- **Published today:** 19
+- **Active tenders:** 243
+- **Published today:** 20
 - **Closing today:** 24
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
 
@@ -89,7 +89,7 @@
 
 **Company:** United Nations High Commissioner for Refugees (UNHCR)
 
-**Status:** Open
+**Status:** Closed
 
 **Closing Date:** 2026-07-14 17:59:00
 
@@ -121,7 +121,7 @@
 
 **Company:** United Nations High Commissioner for Refugees (UNHCR)
 
-**Status:** Open
+**Status:** Closed
 
 **Closing Date:** 2026-07-14 17:59:00
 
