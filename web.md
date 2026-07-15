@@ -2,11 +2,11 @@
 
 ---
 
-**Execution #407**
+**Execution #408**
 
-**Last run:** 2026-07-15 10:24:05 UTC
+**Last run:** 2026-07-15 12:00:04 UTC
 
-**Total matched tenders:** 33
+**Total matched tenders:** 34
 
 ---
 
@@ -247,6 +247,22 @@
 **Matched Keywords:** medical, hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6a3106ed0a538aa1c4000001](https://tender.2merkato.com/tenders/6a3106ed0a538aa1c4000001)
+
+---
+
+## Oromia Agricultural Cooperatives Federation Ltd Assela Malt Factory is inviting international competitive bids for the procurement and delivery of two lots: Lot 1 for Mechanical and Electrical Machinery Spare parts (Europe origin) and Lot 2 for Laboratory Equipment.
+
+**Source:** 2merkato.com
+
+**Company:** Oromia Agricultural Cooperatives Federation Ltd Assela Malt Factory
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** laboratory equipment
+
+**Link:** [https://tender.2merkato.com/tenders/6a57522c0a538a45c1000001](https://tender.2merkato.com/tenders/6a57522c0a538a45c1000001)
 
 ---
 
