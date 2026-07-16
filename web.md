@@ -2,9 +2,9 @@
 
 ---
 
-**Execution #420**
+**Execution #421**
 
-**Last run:** 2026-07-16 07:03:15 UTC
+**Last run:** 2026-07-16 09:24:14 UTC
 
 **Total matched tenders:** 34
 
@@ -12,9 +12,9 @@
 
 ## EGP Portal Summary
 
-- **Active tenders:** 237
-- **Published today:** 2
-- **Closing today:** 28
+- **Active tenders:** 250
+- **Published today:** 14
+- **Closing today:** 31
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
 
 ---
@@ -240,22 +240,6 @@
 **Matched Keywords:** hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6a326e360a538a4ce6000001](https://tender.2merkato.com/tenders/6a326e360a538a4ce6000001)
-
----
-
-## Alert Comprhensive Specialized Hospital: Procurement of Medical Supplies
-
-**Source:** 2merkato.com
-
-**Company:** Alert  Comprehensive Specialized Hospital
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical, hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a3106ed0a538aa1c4000001](https://tender.2merkato.com/tenders/6a3106ed0a538aa1c4000001)
 
 ---
 
@@ -528,6 +512,22 @@
 **Matched Keywords:** medical
 
 **Link:** [https://tender.2merkato.com/tenders/6a34e7560a538a1572000001](https://tender.2merkato.com/tenders/6a34e7560a538a1572000001)
+
+---
+
+## Alert Comprhensive Specialized Hospital: Procurement of Medical Supplies
+
+**Source:** 2merkato.com
+
+**Company:** Alert  Comprehensive Specialized Hospital
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical, hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6a3106ed0a538aa1c4000001](https://tender.2merkato.com/tenders/6a3106ed0a538aa1c4000001)
 
 ---
 
