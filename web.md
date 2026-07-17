@@ -2,11 +2,11 @@
 
 ---
 
-**Execution #435**
+**Execution #436**
 
-**Last run:** 2026-07-17 08:56:00 UTC
+**Last run:** 2026-07-17 10:52:47 UTC
 
-**Total matched tenders:** 35
+**Total matched tenders:** 32
 
 ---
 
@@ -16,6 +16,22 @@
 - **Published today:** 9
 - **Closing today:** 76
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
+
+---
+
+## Armauer Hansen Research Institute: Procurement of Medical Supplies, Laboratory Reagents and Chemicals
+
+**Source:** 2merkato.com
+
+**Company:** Armauer Hansen Research Institute
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a59da3e0a538af1a2000001](https://tender.2merkato.com/tenders/6a59da3e0a538af1a2000001)
 
 ---
 
@@ -163,22 +179,6 @@
 
 ---
 
-## Action for Social Development and Environmental Protection Organization (ASDEPO) invites eligible bidders to supply medicines and medical equipment to address malnutrition and Gender-Based Violence (GBV) in Habru Woreda, Amhara Regional State.
-
-**Source:** 2merkato.com
-
-**Company:** Action for Social Development and Environmental Protection Organization (ASDEPO)
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a326b4b0a538a4e27000001](https://tender.2merkato.com/tenders/6a326b4b0a538a4e27000001)
-
----
-
 ## St. Paul's Hospital Millennium Medical College: Procurement of Software License
 
 **Source:** 2merkato.com
@@ -227,22 +227,6 @@
 
 ---
 
-## Goba Referral Hospital , Madda Walabu University  procurement for the መወዩ ጎባ ህ/ጤ/ሳይ/ኮሌጅ የፅዳት አዉት ሶርስ 2019
-
-**Source:** 2merkato.com
-
-**Company:** Madda Walabu University
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a326e360a538a4ce6000001](https://tender.2merkato.com/tenders/6a326e360a538a4ce6000001)
-
----
-
 ## Oromia Agricultural Cooperatives Federation Ltd Assela Malt Factory is inviting international competitive bids for the procurement and delivery of two lots: Lot 1 for Mechanical and Electrical Machinery Spare parts (Europe origin) and Lot 2 for Laboratory Equipment.
 
 **Source:** 2merkato.com
@@ -288,22 +272,6 @@
 **Matched Keywords:** laboratory equipment
 
 **Link:** [https://tender.2merkato.com/tenders/6a3ccd5c0a538ae2e8000001](https://tender.2merkato.com/tenders/6a3ccd5c0a538ae2e8000001)
-
----
-
-## The Ministry of Labor and Skills is seeking bids for the procurement, installation, and commissioning of specialized laboratory equipment for the Education and Skills for Employment (EASE) project.
-
-**Source:** 2merkato.com
-
-**Company:** Ministry of Labor and Skills (MoLS)
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** laboratory equipment
-
-**Link:** [https://tender.2merkato.com/tenders/6a3a2f000a538a5e15000001](https://tender.2merkato.com/tenders/6a3a2f000a538a5e15000001)
 
 ---
 
@@ -544,22 +512,6 @@
 **Matched Keywords:** medical equipment, medical
 
 **Link:** [https://tender.2merkato.com/tenders/6a2f8d650a538a8272000001](https://tender.2merkato.com/tenders/6a2f8d650a538a8272000001)
-
----
-
-## Eka Kotebe General Hospital would like to procure  Medical Equipment and Supplies
-
-**Source:** 2merkato.com
-
-**Company:** EKA Kotebe General Hospital
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical, hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a2cfdc60a538a0f6f000001](https://tender.2merkato.com/tenders/6a2cfdc60a538a0f6f000001)
 
 ---
 
