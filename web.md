@@ -2,11 +2,11 @@
 
 ---
 
-**Execution #478**
+**Execution #479**
 
-**Last run:** 2026-07-19 20:39:00 UTC
+**Last run:** 2026-07-19 21:34:49 UTC
 
-**Total matched tenders:** 32
+**Total matched tenders:** 31
 
 ---
 
@@ -512,26 +512,6 @@
 **Matched Keywords:** medical equipment, medical
 
 **Link:** [https://tender.2merkato.com/tenders/6a2f8d650a538a8272000001](https://tender.2merkato.com/tenders/6a2f8d650a538a8272000001)
-
----
-
-## Procurement of Calibrated drape, Thermal ablation machine with accessories and LEEP Machine with accessories.
-
-**Source:** epss.gov.et
-
-**Company:** Ethiopian Pharmaceuticals Supply Service (EPSS)
-
-**Category:** Medical Equipment
-
-**Tender Code:** ET-MOH-527291-GO-RFB
-
-**Status:** Active
-
-**Closing Date:** Aug 31, 2026
-
-**Matched Keywords:** medical equipment, medical
-
-**Link:** [https://epss.gov.et/epss/tenders/13](https://epss.gov.et/epss/tenders/13)
 
 ---
 
