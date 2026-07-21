@@ -2,9 +2,9 @@
 
 ---
 
-**Execution #496**
+**Execution #497**
 
-**Last run:** 2026-07-21 07:17:07 UTC
+**Last run:** 2026-07-21 09:45:29 UTC
 
 **Total matched tenders:** 32
 
@@ -12,9 +12,9 @@
 
 ## EGP Portal Summary
 
-- **Active tenders:** 275
-- **Published today:** 2
-- **Closing today:** 65
+- **Active tenders:** 260
+- **Published today:** 15
+- **Closing today:** 66
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
 
 ---
@@ -179,6 +179,22 @@
 
 ---
 
+## The NoleKabba Health Office (Oromia Health Bureau) invites eligible bidders for the supply and installation of a solar water pump for the Bube Hospital Water supply project in West Wollega, Oromia.
+
+**Source:** 2merkato.com
+
+**Company:** Nole Kabba Health Office
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6a5f230a0a538a7acc000001](https://tender.2merkato.com/tenders/6a5f230a0a538a7acc000001)
+
+---
+
 ## St. Paul's Hospital Millennium Medical College: Procurement of Software License
 
 **Source:** 2merkato.com
@@ -208,22 +224,6 @@
 **Matched Keywords:** hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6a51e3e50a538a3a73000001](https://tender.2merkato.com/tenders/6a51e3e50a538a3a73000001)
-
----
-
-## Amanuel Mental Specialized Hospital Procurement of Laboratory Reagents and Chemicals
-
-**Source:** 2merkato.com
-
-**Company:** Amanuel Mental Specialized Hospital
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a3655e90a538ae13f000001](https://tender.2merkato.com/tenders/6a3655e90a538ae13f000001)
 
 ---
 
