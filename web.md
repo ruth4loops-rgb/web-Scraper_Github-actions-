@@ -2,9 +2,9 @@
 
 ---
 
-**Execution #497**
+**Execution #498**
 
-**Last run:** 2026-07-21 09:45:29 UTC
+**Last run:** 2026-07-21 11:32:25 UTC
 
 **Total matched tenders:** 32
 
@@ -12,8 +12,8 @@
 
 ## EGP Portal Summary
 
-- **Active tenders:** 260
-- **Published today:** 15
+- **Active tenders:** 271
+- **Published today:** 19
 - **Closing today:** 66
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
 
@@ -281,7 +281,7 @@
 
 **Company:** Care Ethiopia
 
-**Status:** Open
+**Status:** Closed
 
 **Closing Date:** 2026-07-21 14:00:00
 
@@ -297,7 +297,7 @@
 
 **Company:** Care Ethiopia
 
-**Status:** Open
+**Status:** Closed
 
 **Closing Date:** 2026-07-21 14:00:00
 
