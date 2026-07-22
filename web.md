@@ -2,9 +2,9 @@
 
 ---
 
-**Execution #509**
+**Execution #510**
 
-**Last run:** 2026-07-22 06:17:36 UTC
+**Last run:** 2026-07-22 09:04:33 UTC
 
 **Total matched tenders:** 32
 
@@ -12,10 +12,26 @@
 
 ## EGP Portal Summary
 
-- **Active tenders:** 295
-- **Published today:** 0
-- **Closing today:** 85
+- **Active tenders:** 281
+- **Published today:** 2
+- **Closing today:** 84
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
+
+---
+
+## St. Paul's Hospital Millennium Medical College would like to procure Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** St. Paul's Hospital Millennium Medical College
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical, hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6a6060140a538a46c2000001](https://tender.2merkato.com/tenders/6a6060140a538a46c2000001)
 
 ---
 
@@ -160,22 +176,6 @@
 **Matched Keywords:** medical equipment, medical
 
 **Link:** [https://tender.2merkato.com/tenders/6a34f8a50a538ad2d1000001](https://tender.2merkato.com/tenders/6a34f8a50a538ad2d1000001)
-
----
-
-## St. Peter Specialized Hospital፡ Procurement of Medical Equipment and Supplies
-
-**Source:** 2merkato.com
-
-**Company:** St. Peter Specialized Hospital
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical, hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a339bff0a538a7943000001](https://tender.2merkato.com/tenders/6a339bff0a538a7943000001)
 
 ---
 
@@ -483,6 +483,22 @@
 
 ---
 
+## St. Peter Specialized Hospital፡ Procurement of Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** St. Peter Specialized Hospital
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical, hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6a339bff0a538a7943000001](https://tender.2merkato.com/tenders/6a339bff0a538a7943000001)
+
+---
+
 ## Alert Comprhensive Specialized Hospital: Procurement of Medical Supplies
 
 **Source:** 2merkato.com
@@ -496,22 +512,6 @@
 **Matched Keywords:** medical, hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6a3106ed0a538aa1c4000001](https://tender.2merkato.com/tenders/6a3106ed0a538aa1c4000001)
-
----
-
-## Dilla University፡ Procurement of Medical Equipment and Supplies
-
-**Source:** 2merkato.com
-
-**Company:** Dilla University
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a2f8d650a538a8272000001](https://tender.2merkato.com/tenders/6a2f8d650a538a8272000001)
 
 ---
 
