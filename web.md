@@ -2,20 +2,36 @@
 
 ---
 
-**Execution #511**
+**Execution #512**
 
-**Last run:** 2026-07-22 11:17:34 UTC
+**Last run:** 2026-07-22 12:51:56 UTC
 
-**Total matched tenders:** 32
+**Total matched tenders:** 31
 
 ---
 
 ## EGP Portal Summary
 
-- **Active tenders:** 273
-- **Published today:** 16
-- **Closing today:** 84
+- **Active tenders:** 268
+- **Published today:** 18
+- **Closing today:** 83
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
+
+---
+
+## Torhayloche Armed Forces Compressive Specialized Hospital Finance Management Directorate , Ministry of Defense  Procurement of Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** Torhayloche Armed Forces Compressive Specialized Hospital Finance Management Directorate ,
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical, hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6a60a46d0a538a42db000001](https://tender.2merkato.com/tenders/6a60a46d0a538a42db000001)
 
 ---
 
@@ -160,22 +176,6 @@
 **Matched Keywords:** medical, laboratory equipment
 
 **Link:** [https://tender.2merkato.com/tenders/6a43c8660a538aeaca000001](https://tender.2merkato.com/tenders/6a43c8660a538aeaca000001)
-
----
-
-## Waliya Capital Goods Finance Business Share Company (WCGFB) is inviting sealed bids for the procurement of various medical equipment for lease clients located in Mekaneselam (South Wolo zone) and Bahir Dar towns in the Amhara region.
-
-**Source:** 2merkato.com
-
-**Company:** Waliya Capital Goods Finance Business Share Company
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a34f8a50a538ad2d1000001](https://tender.2merkato.com/tenders/6a34f8a50a538ad2d1000001)
 
 ---
 
@@ -496,22 +496,6 @@
 **Matched Keywords:** medical equipment, medical, hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6a339bff0a538a7943000001](https://tender.2merkato.com/tenders/6a339bff0a538a7943000001)
-
----
-
-## Alert Comprhensive Specialized Hospital: Procurement of Medical Supplies
-
-**Source:** 2merkato.com
-
-**Company:** Alert  Comprehensive Specialized Hospital
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical, hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a3106ed0a538aa1c4000001](https://tender.2merkato.com/tenders/6a3106ed0a538aa1c4000001)
 
 ---
 
