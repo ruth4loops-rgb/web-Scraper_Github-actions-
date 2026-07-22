@@ -2,9 +2,9 @@
 
 ---
 
-**Execution #510**
+**Execution #511**
 
-**Last run:** 2026-07-22 09:04:33 UTC
+**Last run:** 2026-07-22 11:17:34 UTC
 
 **Total matched tenders:** 32
 
@@ -12,8 +12,8 @@
 
 ## EGP Portal Summary
 
-- **Active tenders:** 281
-- **Published today:** 2
+- **Active tenders:** 273
+- **Published today:** 16
 - **Closing today:** 84
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
 
@@ -89,7 +89,7 @@
 
 **Company:** Brooke Ethiopia
 
-**Status:** Open
+**Status:** Closed
 
 **Closing Date:** 2026-07-22 13:30:00
 
@@ -105,7 +105,7 @@
 
 **Company:** Brooke Ethiopia
 
-**Status:** Open
+**Status:** Closed
 
 **Closing Date:** 2026-07-22 13:30:00
 
