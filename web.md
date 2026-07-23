@@ -2,20 +2,36 @@
 
 ---
 
-**Execution #522**
+**Execution #523**
 
-**Last run:** 2026-07-23 04:42:17 UTC
+**Last run:** 2026-07-23 07:22:25 UTC
 
-**Total matched tenders:** 31
+**Total matched tenders:** 32
 
 ---
 
 ## EGP Portal Summary
 
 - **Active tenders:** 277
-- **Published today:** 0
-- **Closing today:** 50
+- **Published today:** 3
+- **Closing today:** 51
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
+
+---
+
+## St. Peter Specialized Hospital Procurement of Office Equipment
+
+**Source:** 2merkato.com
+
+**Company:** St. Peter Specialized Hospital
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6a61b4d30a538a8664000001](https://tender.2merkato.com/tenders/6a61b4d30a538a8664000001)
 
 ---
 
@@ -73,7 +89,7 @@
 
 **Company:** Imagine1day International
 
-**Status:** Open
+**Status:** Closed
 
 **Closing Date:** 2026-07-23 10:00:00
 
