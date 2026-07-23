@@ -2,9 +2,9 @@
 
 ---
 
-**Execution #523**
+**Execution #524**
 
-**Last run:** 2026-07-23 07:22:25 UTC
+**Last run:** 2026-07-23 09:56:07 UTC
 
 **Total matched tenders:** 32
 
@@ -12,9 +12,9 @@
 
 ## EGP Portal Summary
 
-- **Active tenders:** 277
-- **Published today:** 3
-- **Closing today:** 51
+- **Active tenders:** 286
+- **Published today:** 15
+- **Closing today:** 53
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
 
 ---
@@ -192,6 +192,22 @@
 **Matched Keywords:** medical, laboratory equipment
 
 **Link:** [https://tender.2merkato.com/tenders/6a43c8660a538aeaca000001](https://tender.2merkato.com/tenders/6a43c8660a538aeaca000001)
+
+---
+
+## St. Paul's Hospital Millennium Medical College፡ Procurement of Cleaning Service
+
+**Source:** 2merkato.com
+
+**Company:** St. Paul's Hospital Millennium Medical College
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical, hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6a61af700a538a867d000001](https://tender.2merkato.com/tenders/6a61af700a538a867d000001)
 
 ---
 
@@ -496,22 +512,6 @@
 **Matched Keywords:** medical
 
 **Link:** [https://tender.2merkato.com/tenders/6a34e7560a538a1572000001](https://tender.2merkato.com/tenders/6a34e7560a538a1572000001)
-
----
-
-## St. Peter Specialized Hospital፡ Procurement of Medical Equipment and Supplies
-
-**Source:** 2merkato.com
-
-**Company:** St. Peter Specialized Hospital
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical, hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a339bff0a538a7943000001](https://tender.2merkato.com/tenders/6a339bff0a538a7943000001)
 
 ---
 
