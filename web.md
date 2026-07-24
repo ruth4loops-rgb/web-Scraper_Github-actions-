@@ -2,20 +2,36 @@
 
 ---
 
-**Execution #539**
+**Execution #540**
 
-**Last run:** 2026-07-24 12:57:05 UTC
+**Last run:** 2026-07-24 15:01:24 UTC
 
-**Total matched tenders:** 32
+**Total matched tenders:** 33
 
 ---
 
 ## EGP Portal Summary
 
-- **Active tenders:** 314
-- **Published today:** 35
-- **Closing today:** 64
+- **Active tenders:** 320
+- **Published today:** 42
+- **Closing today:** 62
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
+
+---
+
+## Expertise France has launched an international call for bids for the supply of medical equipment for Adwa General Hospital in the Tigray region and Abala Primary Hospital in the Afar region.
+
+**Source:** 2merkato.com
+
+**Company:** Expertise France
+
+**Status:** Open
+
+**Closing Date:** 2026-08-26 14:00:00
+
+**Matched Keywords:** medical equipment, medical, hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6a636a540a538acde9000001](https://tender.2merkato.com/tenders/6a636a540a538acde9000001)
 
 ---
 
