@@ -2,19 +2,19 @@
 
 ---
 
-**Execution #581**
+**Execution #582**
 
-**Last run:** 2026-07-27 08:45:19 UTC
+**Last run:** 2026-07-27 12:00:17 UTC
 
-**Total matched tenders:** 33
+**Total matched tenders:** 32
 
 ---
 
 ## EGP Portal Summary
 
-- **Active tenders:** 284
-- **Published today:** 13
-- **Closing today:** 121
+- **Active tenders:** 288
+- **Published today:** 19
+- **Closing today:** 120
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
 
 ---
@@ -51,6 +51,22 @@
 
 ---
 
+## St. Paul's Hospital Millennium Medical College፡ Procurement of Cleaning Service
+
+**Source:** 2merkato.com
+
+**Company:** St. Paul's Hospital Millennium Medical College
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical, hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6a61af700a538a867d000001](https://tender.2merkato.com/tenders/6a61af700a538a867d000001)
+
+---
+
 ## Torhayloche Armed Forces Compressive Specialized Hospital Finance Management Directorate , Ministry of Defense  Procurement of Medical Equipment and Supplies
 
 **Source:** 2merkato.com
@@ -83,6 +99,22 @@
 
 ---
 
+## The NoleKabba Health Office (Oromia Health Bureau) invites eligible bidders for the supply and installation of a solar water pump for the Bube Hospital Water supply project in West Wollega, Oromia.
+
+**Source:** 2merkato.com
+
+**Company:** Nole Kabba Health Office
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6a5f230a0a538a7acc000001](https://tender.2merkato.com/tenders/6a5f230a0a538a7acc000001)
+
+---
+
 ## Armauer Hansen Research Institute: Procurement of Medical Supplies, Laboratory Reagents and Chemicals
 
 **Source:** 2merkato.com
@@ -99,35 +131,35 @@
 
 ---
 
-## Imagine 1 Day International Organization invites eligible suppliers to bid for the supply of medical mobility aids and water storage equipment.
+## St. Paul's Hospital Millennium Medical College: Procurement of Software License
 
 **Source:** 2merkato.com
 
-**Company:** Imagine1day International
+**Company:** St. Paul's Hospital Millennium Medical College
 
-**Status:** Closed
+**Status:** Login required
 
-**Closing Date:** 2026-07-23 10:00:00
+**Closing Date:** Login required to view
 
-**Matched Keywords:** medical
+**Matched Keywords:** medical, hospital
 
-**Link:** [https://tender.2merkato.com/tenders/6a5602d80a538a92a0000001](https://tender.2merkato.com/tenders/6a5602d80a538a92a0000001)
+**Link:** [https://tender.2merkato.com/tenders/6a51e8660a538a2997000001](https://tender.2merkato.com/tenders/6a51e8660a538a2997000001)
 
 ---
 
-## Pharo Ventures is inviting qualified and experienced imaging equipment suppliers to submit proposals for the purchase of Ultrasound, X-ray, and C-Arm machines.
+## Amanuel Mental Specialized Hospital: Procurement of Maintenance and Repair Service
 
 **Source:** 2merkato.com
 
-**Company:** Pharo Integrated Agriculture and Manufacturing PLC
+**Company:** Amanuel Mental Specialized Hospital
 
-**Status:** Open
+**Status:** Login required
 
-**Closing Date:** 2026-08-08 16:00:00
+**Closing Date:** Login required to view
 
-**Matched Keywords:** c-arm
+**Matched Keywords:** hospital
 
-**Link:** [https://tender.2merkato.com/tenders/6a4f4aa00a538a7943000001](https://tender.2merkato.com/tenders/6a4f4aa00a538a7943000001)
+**Link:** [https://tender.2merkato.com/tenders/6a51e3e50a538a3a73000001](https://tender.2merkato.com/tenders/6a51e3e50a538a3a73000001)
 
 ---
 
@@ -160,6 +192,54 @@
 **Matched Keywords:** medical equipment, medical
 
 **Link:** [https://tender.2merkato.com/tenders/6a4ded570a538ac974000001](https://tender.2merkato.com/tenders/6a4ded570a538ac974000001)
+
+---
+
+## Oromia Agricultural Cooperatives Federation Ltd Assela Malt Factory is inviting international competitive bids for the procurement and delivery of two lots: Lot 1 for Mechanical and Electrical Machinery Spare parts (Europe origin) and Lot 2 for Laboratory Equipment.
+
+**Source:** 2merkato.com
+
+**Company:** Oromia Agricultural Cooperatives Federation Ltd Assela Malt Factory
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** laboratory equipment
+
+**Link:** [https://tender.2merkato.com/tenders/6a57522c0a538a45c1000001](https://tender.2merkato.com/tenders/6a57522c0a538a45c1000001)
+
+---
+
+## Pharo Ventures is inviting qualified and experienced imaging equipment suppliers to submit proposals for the purchase of Ultrasound, X-ray, and C-Arm machines.
+
+**Source:** 2merkato.com
+
+**Company:** Pharo Integrated Agriculture and Manufacturing PLC
+
+**Status:** Open
+
+**Closing Date:** 2026-08-08 16:00:00
+
+**Matched Keywords:** c-arm
+
+**Link:** [https://tender.2merkato.com/tenders/6a4f4aa00a538a7943000001](https://tender.2merkato.com/tenders/6a4f4aa00a538a7943000001)
+
+---
+
+## Ethiopian Food and Drug Authority Procurement of Laboratory Equipment
+
+**Source:** 2merkato.com
+
+**Company:** Ethiopian Food and Drug Authority
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** laboratory equipment
+
+**Link:** [https://tender.2merkato.com/tenders/6a4ddc4b0a538ac399000001](https://tender.2merkato.com/tenders/6a4ddc4b0a538ac399000001)
 
 ---
 
@@ -211,102 +291,6 @@
 
 ---
 
-## St. Paul's Hospital Millennium Medical College፡ Procurement of Cleaning Service
-
-**Source:** 2merkato.com
-
-**Company:** St. Paul's Hospital Millennium Medical College
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical, hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a61af700a538a867d000001](https://tender.2merkato.com/tenders/6a61af700a538a867d000001)
-
----
-
-## The NoleKabba Health Office (Oromia Health Bureau) invites eligible bidders for the supply and installation of a solar water pump for the Bube Hospital Water supply project in West Wollega, Oromia.
-
-**Source:** 2merkato.com
-
-**Company:** Nole Kabba Health Office
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a5f230a0a538a7acc000001](https://tender.2merkato.com/tenders/6a5f230a0a538a7acc000001)
-
----
-
-## St. Paul's Hospital Millennium Medical College: Procurement of Software License
-
-**Source:** 2merkato.com
-
-**Company:** St. Paul's Hospital Millennium Medical College
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical, hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a51e8660a538a2997000001](https://tender.2merkato.com/tenders/6a51e8660a538a2997000001)
-
----
-
-## Amanuel Mental Specialized Hospital: Procurement of Maintenance and Repair Service
-
-**Source:** 2merkato.com
-
-**Company:** Amanuel Mental Specialized Hospital
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a51e3e50a538a3a73000001](https://tender.2merkato.com/tenders/6a51e3e50a538a3a73000001)
-
----
-
-## Oromia Agricultural Cooperatives Federation Ltd Assela Malt Factory is inviting international competitive bids for the procurement and delivery of two lots: Lot 1 for Mechanical and Electrical Machinery Spare parts (Europe origin) and Lot 2 for Laboratory Equipment.
-
-**Source:** 2merkato.com
-
-**Company:** Oromia Agricultural Cooperatives Federation Ltd Assela Malt Factory
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** laboratory equipment
-
-**Link:** [https://tender.2merkato.com/tenders/6a57522c0a538a45c1000001](https://tender.2merkato.com/tenders/6a57522c0a538a45c1000001)
-
----
-
-## Ethiopian Food and Drug Authority Procurement of Laboratory Equipment
-
-**Source:** 2merkato.com
-
-**Company:** Ethiopian Food and Drug Authority
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** laboratory equipment
-
-**Link:** [https://tender.2merkato.com/tenders/6a4ddc4b0a538ac399000001](https://tender.2merkato.com/tenders/6a4ddc4b0a538ac399000001)
-
----
-
 ## Ministry of Water and Energy would like to procure laboratory equipment
 
 **Source:** 2merkato.com
@@ -320,6 +304,22 @@
 **Matched Keywords:** laboratory equipment
 
 **Link:** [https://tender.2merkato.com/tenders/6a3ccd5c0a538ae2e8000001](https://tender.2merkato.com/tenders/6a3ccd5c0a538ae2e8000001)
+
+---
+
+## Hellenic Greek International School invites sealed bids from eligible and licensed insurance companies to provide comprehensive Group Medical Insurance Services for its employees and their eligible family members for a period of one year.
+
+**Source:** 2merkato.com
+
+**Company:** Hellenic Greek International School
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a672cf10a538a8619000001](https://tender.2merkato.com/tenders/6a672cf10a538a8619000001)
 
 ---
 
@@ -352,22 +352,6 @@
 **Matched Keywords:** hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6a50b41e0a538a14c4000001](https://tender.2merkato.com/tenders/6a50b41e0a538a14c4000001)
-
----
-
-## Hybrid Designs PLC invites eligible vendors to submit competitive quotations for the supply of quality, clinical-grade basic medical diagnostic tool kits to support the operational rollout of the FetroAder healthcare service ecosystem under the EDGE Program.
-
-**Source:** 2merkato.com
-
-**Company:** HYBRID DESIGNS PLC
-
-**Status:** Closed
-
-**Closing Date:** 2026-06-13 16:00:00
-
-**Matched Keywords:** medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a2027fb0a538a293d000001](https://tender.2merkato.com/tenders/6a2027fb0a538a293d000001)
 
 ---
 
