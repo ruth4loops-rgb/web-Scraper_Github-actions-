@@ -2,19 +2,19 @@
 
 ---
 
-**Execution #591**
+**Execution #592**
 
-**Last run:** 2026-07-28 04:28:44 UTC
+**Last run:** 2026-07-28 07:19:13 UTC
 
-**Total matched tenders:** 33
+**Total matched tenders:** 34
 
 ---
 
 ## EGP Portal Summary
 
-- **Active tenders:** 302
-- **Published today:** 2
-- **Closing today:** 72
+- **Active tenders:** 309
+- **Published today:** 6
+- **Closing today:** 68
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
 
 ---
@@ -208,6 +208,22 @@
 **Matched Keywords:** medical, laboratory equipment
 
 **Link:** [https://tender.2merkato.com/tenders/6a43c8660a538aeaca000001](https://tender.2merkato.com/tenders/6a43c8660a538aeaca000001)
+
+---
+
+## Alert Comprehensive Specialized Hospital Procurement of Furniture
+
+**Source:** 2merkato.com
+
+**Company:** Alert  Comprehensive Specialized Hospital
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6a68474d0a538ab260000001](https://tender.2merkato.com/tenders/6a68474d0a538ab260000001)
 
 ---
 
