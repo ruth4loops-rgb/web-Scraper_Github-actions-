@@ -2,9 +2,9 @@
 
 ---
 
-**Execution #592**
+**Execution #593**
 
-**Last run:** 2026-07-28 07:19:13 UTC
+**Last run:** 2026-07-28 10:01:14 UTC
 
 **Total matched tenders:** 34
 
@@ -12,10 +12,26 @@
 
 ## EGP Portal Summary
 
-- **Active tenders:** 309
-- **Published today:** 6
-- **Closing today:** 68
+- **Active tenders:** 312
+- **Published today:** 18
+- **Closing today:** 65
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
+
+---
+
+## Ministry of Defense would like to procure Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** Ministry of Defense
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a684fa40a538ab129000001](https://tender.2merkato.com/tenders/6a684fa40a538ab129000001)
 
 ---
 
@@ -99,22 +115,6 @@
 
 ---
 
-## Imagine 1 Day International Organization invites eligible suppliers to bid for the supply of medical mobility aids and water storage equipment.
-
-**Source:** 2merkato.com
-
-**Company:** Imagine1day International
-
-**Status:** Closed
-
-**Closing Date:** 2026-07-23 10:00:00
-
-**Matched Keywords:** medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a5602d80a538a92a0000001](https://tender.2merkato.com/tenders/6a5602d80a538a92a0000001)
-
----
-
 ## Pharo Ventures is inviting qualified and experienced imaging equipment suppliers to submit proposals for the purchase of Ultrasound, X-ray, and C-Arm machines.
 
 **Source:** 2merkato.com
@@ -192,22 +192,6 @@
 **Matched Keywords:** medical equipment, medical
 
 **Link:** [https://tender.2merkato.com/tenders/6a4762a50a538a708b000001](https://tender.2merkato.com/tenders/6a4762a50a538a708b000001)
-
----
-
-## The Office of the United Nations High Commissioner for Refugees (UNHCR), Representation Office in Ethiopia, Addis Ababa, invites qualified and registered Suppliers for the Supply and Delivery of Essential Medicines, Medical Supplies, and Medical & Laboratory Equipment for the UNHCR Ethiopia Operation.
-
-**Source:** 2merkato.com
-
-**Company:** United Nations High Commissioner for Refugees (UNHCR)
-
-**Status:** Closed
-
-**Closing Date:** 2026-07-14 17:59:00
-
-**Matched Keywords:** medical, laboratory equipment
-
-**Link:** [https://tender.2merkato.com/tenders/6a43c8660a538aeaca000001](https://tender.2merkato.com/tenders/6a43c8660a538aeaca000001)
 
 ---
 
@@ -320,6 +304,22 @@
 **Matched Keywords:** laboratory equipment
 
 **Link:** [https://tender.2merkato.com/tenders/6a4ddc4b0a538ac399000001](https://tender.2merkato.com/tenders/6a4ddc4b0a538ac399000001)
+
+---
+
+## The Office of the United Nations High Commissioner for Refugees (UNHCR), Representation Office in Ethiopia, Addis Ababa, invites qualified and registered Suppliers for the Supply and Delivery of Essential Medicines, Medical Supplies, and Medical & Laboratory Equipment for the UNHCR Ethiopia Operation.
+
+**Source:** 2merkato.com
+
+**Company:** United Nations High Commissioner for Refugees (UNHCR)
+
+**Status:** Closed
+
+**Closing Date:** 2026-07-14 17:59:00
+
+**Matched Keywords:** medical, laboratory equipment
+
+**Link:** [https://tender.2merkato.com/tenders/6a43c8660a538aeaca000001](https://tender.2merkato.com/tenders/6a43c8660a538aeaca000001)
 
 ---
 
