@@ -2,20 +2,36 @@
 
 ---
 
-**Execution #605**
+**Execution #606**
 
-**Last run:** 2026-07-29 07:26:52 UTC
+**Last run:** 2026-07-29 10:11:54 UTC
 
-**Total matched tenders:** 33
+**Total matched tenders:** 34
 
 ---
 
 ## EGP Portal Summary
 
-- **Active tenders:** 314
-- **Published today:** 3
-- **Closing today:** 86
+- **Active tenders:** 290
+- **Published today:** 13
+- **Closing today:** 87
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
+
+---
+
+## Waliya Capital Goods Finance Business Share Company (WCGFB) is seeking bids for the procurement of HDPE/PP Plastic injection mold machines, various woodworking machines, and medical equipment for lease clients located in Bahir Dar, Akasta, and Injibara.
+
+**Source:** 2merkato.com
+
+**Company:** Waliya Capital Goods Finance Business Share Company (WCGFB)
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a69bd8e0a538af346000001](https://tender.2merkato.com/tenders/6a69bd8e0a538af346000001)
 
 ---
 
@@ -179,22 +195,6 @@
 
 ---
 
-## Women Empowerment-Action (WE-Action), with funding from FARMAMUNDI, invites bids from qualified suppliers for medicines, laboratory reagents, medical supplies, and medical equipment to support their humanitarian project in Tigray and Amhara.
-
-**Source:** 2merkato.com
-
-**Company:** Women Empowerment Action(WE-Action)
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a4762a50a538a708b000001](https://tender.2merkato.com/tenders/6a4762a50a538a708b000001)
-
----
-
 ## Alert Comprehensive Specialized Hospital Procurement of Furniture
 
 **Source:** 2merkato.com
@@ -304,6 +304,22 @@
 **Matched Keywords:** laboratory equipment
 
 **Link:** [https://tender.2merkato.com/tenders/6a4ddc4b0a538ac399000001](https://tender.2merkato.com/tenders/6a4ddc4b0a538ac399000001)
+
+---
+
+## Women Empowerment-Action (WE-Action), with funding from FARMAMUNDI, invites bids from qualified suppliers for medicines, laboratory reagents, medical supplies, and medical equipment to support their humanitarian project in Tigray and Amhara.
+
+**Source:** 2merkato.com
+
+**Company:** Women Empowerment Action(WE-Action)
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a4762a50a538a708b000001](https://tender.2merkato.com/tenders/6a4762a50a538a708b000001)
 
 ---
 
