@@ -2,19 +2,19 @@
 
 ---
 
-**Execution #604**
+**Execution #605**
 
-**Last run:** 2026-07-29 04:33:36 UTC
+**Last run:** 2026-07-29 07:26:52 UTC
 
-**Total matched tenders:** 34
+**Total matched tenders:** 33
 
 ---
 
 ## EGP Portal Summary
 
-- **Active tenders:** 321
-- **Published today:** 1
-- **Closing today:** 91
+- **Active tenders:** 314
+- **Published today:** 3
+- **Closing today:** 86
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
 
 ---
@@ -320,22 +320,6 @@
 **Matched Keywords:** medical, laboratory equipment
 
 **Link:** [https://tender.2merkato.com/tenders/6a43c8660a538aeaca000001](https://tender.2merkato.com/tenders/6a43c8660a538aeaca000001)
-
----
-
-## Ministry of Water and Energy would like to procure laboratory equipment
-
-**Source:** 2merkato.com
-
-**Company:** Ministry of Water and Energy
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** laboratory equipment
-
-**Link:** [https://tender.2merkato.com/tenders/6a3ccd5c0a538ae2e8000001](https://tender.2merkato.com/tenders/6a3ccd5c0a538ae2e8000001)
 
 ---
 
