@@ -2,18 +2,18 @@
 
 ---
 
-**Execution #631**
+**Execution #632**
 
-**Last run:** 2026-07-31 07:39:53 UTC
+**Last run:** 2026-07-31 10:17:47 UTC
 
-**Total matched tenders:** 34
+**Total matched tenders:** 35
 
 ---
 
 ## EGP Portal Summary
 
-- **Active tenders:** 285
-- **Published today:** 6
+- **Active tenders:** 291
+- **Published today:** 26
 - **Closing today:** 119
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
 
@@ -179,19 +179,19 @@
 
 ---
 
-## The Office of the United Nations High Commissioner for Refugees (UNHCR), Representation Office in Ethiopia, Addis Ababa, invites qualified and registered Suppliers for the Supply and Delivery of Essential Medicines, Medical Supplies, and Medical & Laboratory Equipment for the UNHCR Ethiopia Operation.
+## Amanuel Mental Specialized Hospital: Procurement of Printing and Publishing Services
 
 **Source:** 2merkato.com
 
-**Company:** United Nations High Commissioner for Refugees (UNHCR)
+**Company:** Amanuel Mental Specialized Hospital
 
-**Status:** Closed
+**Status:** Login required
 
-**Closing Date:** 2026-07-14 17:59:00
+**Closing Date:** Login required to view
 
-**Matched Keywords:** medical, laboratory equipment
+**Matched Keywords:** hospital
 
-**Link:** [https://tender.2merkato.com/tenders/6a4b612d0a538aabca000001](https://tender.2merkato.com/tenders/6a4b612d0a538aabca000001)
+**Link:** [https://tender.2merkato.com/tenders/6a6c3eb90a538aaa0b000001](https://tender.2merkato.com/tenders/6a6c3eb90a538aaa0b000001)
 
 ---
 
@@ -307,6 +307,22 @@
 
 ---
 
+## The Office of the United Nations High Commissioner for Refugees (UNHCR), Representation Office in Ethiopia, Addis Ababa, invites qualified and registered Suppliers for the Supply and Delivery of Essential Medicines, Medical Supplies, and Medical & Laboratory Equipment for the UNHCR Ethiopia Operation.
+
+**Source:** 2merkato.com
+
+**Company:** United Nations High Commissioner for Refugees (UNHCR)
+
+**Status:** Closed
+
+**Closing Date:** 2026-07-14 17:59:00
+
+**Matched Keywords:** medical, laboratory equipment
+
+**Link:** [https://tender.2merkato.com/tenders/6a4b612d0a538aabca000001](https://tender.2merkato.com/tenders/6a4b612d0a538aabca000001)
+
+---
+
 ## Women Empowerment-Action (WE-Action), with funding from FARMAMUNDI, invites bids from qualified suppliers for medicines, laboratory reagents, medical supplies, and medical equipment to support their humanitarian project in Tigray and Amhara.
 
 **Source:** 2merkato.com
@@ -320,22 +336,6 @@
 **Matched Keywords:** medical equipment, medical
 
 **Link:** [https://tender.2merkato.com/tenders/6a4762a50a538a708b000001](https://tender.2merkato.com/tenders/6a4762a50a538a708b000001)
-
----
-
-## The Office of the United Nations High Commissioner for Refugees (UNHCR), Representation Office in Ethiopia, Addis Ababa, invites qualified and registered Suppliers for the Supply and Delivery of Essential Medicines, Medical Supplies, and Medical & Laboratory Equipment for the UNHCR Ethiopia Operation.
-
-**Source:** 2merkato.com
-
-**Company:** United Nations High Commissioner for Refugees (UNHCR)
-
-**Status:** Closed
-
-**Closing Date:** 2026-07-14 17:59:00
-
-**Matched Keywords:** medical, laboratory equipment
-
-**Link:** [https://tender.2merkato.com/tenders/6a43c8660a538aeaca000001](https://tender.2merkato.com/tenders/6a43c8660a538aeaca000001)
 
 ---
 
@@ -512,6 +512,22 @@
 **Matched Keywords:** medical
 
 **Link:** [https://tender.2merkato.com/tenders/6a4f91210a538a0690000001](https://tender.2merkato.com/tenders/6a4f91210a538a0690000001)
+
+---
+
+## The Office of the United Nations High Commissioner for Refugees (UNHCR), Representation Office in Ethiopia, Addis Ababa, invites qualified and registered Suppliers for the Supply and Delivery of Essential Medicines, Medical Supplies, and Medical & Laboratory Equipment for the UNHCR Ethiopia Operation.
+
+**Source:** 2merkato.com
+
+**Company:** United Nations High Commissioner for Refugees (UNHCR)
+
+**Status:** Closed
+
+**Closing Date:** 2026-07-14 17:59:00
+
+**Matched Keywords:** medical, laboratory equipment
+
+**Link:** [https://tender.2merkato.com/tenders/6a43c8660a538aeaca000001](https://tender.2merkato.com/tenders/6a43c8660a538aeaca000001)
 
 ---
 
