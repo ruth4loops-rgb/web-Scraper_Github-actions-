@@ -2,9 +2,9 @@
 
 ---
 
-**Execution #643**
+**Execution #644**
 
-**Last run:** 2026-08-01 07:12:53 UTC
+**Last run:** 2026-08-01 09:24:18 UTC
 
 **Total matched tenders:** 35
 
@@ -12,8 +12,8 @@
 
 ## EGP Portal Summary
 
-- **Active tenders:** 273
-- **Published today:** 0
+- **Active tenders:** 287
+- **Published today:** 11
 - **Closing today:** 1
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
 
@@ -179,6 +179,22 @@
 
 ---
 
+## Alert Comprehensive Specialized Hospital would like to procure different items
+
+**Source:** 2merkato.com
+
+**Company:** Alert  Comprehensive Specialized Hospital
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6a6d940a0a538acb9e000001](https://tender.2merkato.com/tenders/6a6d940a0a538acb9e000001)
+
+---
+
 ## Amanuel Mental Specialized Hospital: Procurement of Printing and Publishing Services
 
 **Source:** 2merkato.com
@@ -256,22 +272,6 @@
 **Matched Keywords:** medical, hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6a51e8660a538a2997000001](https://tender.2merkato.com/tenders/6a51e8660a538a2997000001)
-
----
-
-## Amanuel Mental Specialized Hospital: Procurement of Maintenance and Repair Service
-
-**Source:** 2merkato.com
-
-**Company:** Amanuel Mental Specialized Hospital
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a51e3e50a538a3a73000001](https://tender.2merkato.com/tenders/6a51e3e50a538a3a73000001)
 
 ---
 
