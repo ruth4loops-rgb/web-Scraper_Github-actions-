@@ -2,17 +2,17 @@
 
 ---
 
-**Execution #677**
+**Execution #678**
 
-**Last run:** 2026-08-03 15:09:12 UTC
+**Last run:** 2026-08-03 17:19:04 UTC
 
-**Total matched tenders:** 35
+**Total matched tenders:** 34
 
 ---
 
 ## EGP Portal Summary
 
-- **Active tenders:** 242
+- **Active tenders:** 231
 - **Published today:** 44
 - **Closing today:** 126
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
@@ -160,22 +160,6 @@
 **Matched Keywords:** medical equipment, medical
 
 **Link:** [https://tender.2merkato.com/tenders/6a4dffda0a538a364f000001](https://tender.2merkato.com/tenders/6a4dffda0a538a364f000001)
-
----
-
-## The Brooke Ethiopia hereby invites eligible and qualified suppliers to participate in the procurement of veterinary medical equipment and veterinary medicines required for its program activities during the current fiscal year.
-
-**Source:** 2merkato.com
-
-**Company:** Brooke Ethiopia
-
-**Status:** Closed
-
-**Closing Date:** 2026-07-22 13:30:00
-
-**Matched Keywords:** medical equipment, medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a4ded570a538ac974000001](https://tender.2merkato.com/tenders/6a4ded570a538ac974000001)
 
 ---
 
