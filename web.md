@@ -2,9 +2,9 @@
 
 ---
 
-**Execution #686**
+**Execution #687**
 
-**Last run:** 2026-08-04 08:05:35 UTC
+**Last run:** 2026-08-04 10:48:34 UTC
 
 **Total matched tenders:** 34
 
@@ -12,9 +12,9 @@
 
 ## EGP Portal Summary
 
-- **Active tenders:** 237
-- **Published today:** 7
-- **Closing today:** 58
+- **Active tenders:** 245
+- **Published today:** 21
+- **Closing today:** 57
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
 
 ---
@@ -307,22 +307,6 @@
 
 ---
 
-## Women Empowerment-Action (WE-Action), with funding from FARMAMUNDI, invites bids from qualified suppliers for medicines, laboratory reagents, medical supplies, and medical equipment to support their humanitarian project in Tigray and Amhara.
-
-**Source:** 2merkato.com
-
-**Company:** Women Empowerment Action(WE-Action)
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a4762a50a538a708b000001](https://tender.2merkato.com/tenders/6a4762a50a538a708b000001)
-
----
-
 ## Hellenic Greek International School invites sealed bids from eligible and licensed insurance companies to provide comprehensive Group Medical Insurance Services for its employees and their eligible family members for a period of one year.
 
 **Source:** 2merkato.com
@@ -496,6 +480,22 @@
 **Matched Keywords:** medical
 
 **Link:** [https://tender.2merkato.com/tenders/6a4f91210a538a0690000001](https://tender.2merkato.com/tenders/6a4f91210a538a0690000001)
+
+---
+
+## Women Empowerment-Action (WE-Action), with funding from FARMAMUNDI, invites bids from qualified suppliers for medicines, laboratory reagents, medical supplies, and medical equipment to support their humanitarian project in Tigray and Amhara.
+
+**Source:** 2merkato.com
+
+**Company:** Women Empowerment Action(WE-Action)
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a4762a50a538a708b000001](https://tender.2merkato.com/tenders/6a4762a50a538a708b000001)
 
 ---
 
