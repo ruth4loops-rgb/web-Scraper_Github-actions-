@@ -2,9 +2,9 @@
 
 ---
 
-**Execution #702**
+**Execution #703**
 
-**Last run:** 2026-08-05 16:22:32 UTC
+**Last run:** 2026-08-05 18:02:14 UTC
 
 **Total matched tenders:** 34
 
@@ -12,9 +12,9 @@
 
 ## EGP Portal Summary
 
-- **Active tenders:** 299
+- **Active tenders:** 294
 - **Published today:** 69
-- **Closing today:** 94
+- **Closing today:** 95
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
 
 ---
