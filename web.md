@@ -2,20 +2,36 @@
 
 ---
 
-**Execution #697**
+**Execution #698**
 
-**Last run:** 2026-08-05 04:48:58 UTC
+**Last run:** 2026-08-05 07:29:28 UTC
 
-**Total matched tenders:** 34
+**Total matched tenders:** 33
 
 ---
 
 ## EGP Portal Summary
 
-- **Active tenders:** 280
-- **Published today:** 2
-- **Closing today:** 101
+- **Active tenders:** 259
+- **Published today:** 6
+- **Closing today:** 99
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
+
+---
+
+## The Office of the United Nations High Commissioner for Refugees (UNHCR) Representation Office in Ethiopia invites qualified and registered suppliers to submit quotations for the supply and delivery of essential medicines and medical equipment for UNHCR Ethiopia operations.
+
+**Source:** 2merkato.com
+
+**Company:** United Nations High Commissioner for Refugees (UNHCR)
+
+**Status:** Open
+
+**Closing Date:** 2026-08-13 11:59:00
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a72d3680a538ab3b0000001](https://tender.2merkato.com/tenders/6a72d3680a538ab3b0000001)
 
 ---
 
@@ -144,22 +160,6 @@
 **Matched Keywords:** c-arm
 
 **Link:** [https://tender.2merkato.com/tenders/6a4f4aa00a538a7943000001](https://tender.2merkato.com/tenders/6a4f4aa00a538a7943000001)
-
----
-
-## The Brooke Ethiopia hereby invites eligible and qualified suppliers to participate in the procurement of veterinary medical equipment and veterinary medicines required for its program activities during the current fiscal year.
-
-**Source:** 2merkato.com
-
-**Company:** Brooke Ethiopia
-
-**Status:** Closed
-
-**Closing Date:** 2026-07-22 13:30:00
-
-**Matched Keywords:** medical equipment, medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a4dffda0a538a364f000001](https://tender.2merkato.com/tenders/6a4dffda0a538a364f000001)
 
 ---
 
@@ -544,26 +544,6 @@
 **Matched Keywords:** medical
 
 **Link:** [https://tender.2merkato.com/tenders/6a3ba2410a538aee1e000001](https://tender.2merkato.com/tenders/6a3ba2410a538aee1e000001)
-
----
-
-## Procurement of Calibrated drape, Thermal ablation machine with accessories and LEEP Machine with accessories.
-
-**Source:** epss.gov.et
-
-**Company:** Ethiopian Pharmaceuticals Supply Service (EPSS)
-
-**Category:** Medical Equipment
-
-**Tender Code:** ET-MOH-527291-GO-RFB
-
-**Status:** Active
-
-**Closing Date:** Aug 31, 2026
-
-**Matched Keywords:** medical equipment, medical
-
-**Link:** [https://epss.gov.et/epss/tenders/13](https://epss.gov.et/epss/tenders/13)
 
 ---
 
