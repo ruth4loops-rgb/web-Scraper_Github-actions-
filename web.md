@@ -2,9 +2,9 @@
 
 ---
 
-**Execution #711**
+**Execution #712**
 
-**Last run:** 2026-08-06 09:32:22 UTC
+**Last run:** 2026-08-06 11:49:31 UTC
 
 **Total matched tenders:** 34
 
@@ -12,8 +12,8 @@
 
 ## EGP Portal Summary
 
-- **Active tenders:** 285
-- **Published today:** 26
+- **Active tenders:** 297
+- **Published today:** 34
 - **Closing today:** 105
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
 
@@ -80,22 +80,6 @@
 **Matched Keywords:** medical equipment, medical, hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6a636a540a538acde9000001](https://tender.2merkato.com/tenders/6a636a540a538acde9000001)
-
----
-
-## St. Peter Specialized Hospital Procurement of Office Equipment
-
-**Source:** 2merkato.com
-
-**Company:** St. Peter Specialized Hospital
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a61b4d30a538a8664000001](https://tender.2merkato.com/tenders/6a61b4d30a538a8664000001)
 
 ---
 
@@ -208,6 +192,22 @@
 **Matched Keywords:** hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6a68474d0a538ab260000001](https://tender.2merkato.com/tenders/6a68474d0a538ab260000001)
+
+---
+
+## St. Peter Specialized Hospital Procurement of Office Equipment
+
+**Source:** 2merkato.com
+
+**Company:** St. Peter Specialized Hospital
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6a61b4d30a538a8664000001](https://tender.2merkato.com/tenders/6a61b4d30a538a8664000001)
 
 ---
 
