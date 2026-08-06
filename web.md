@@ -2,9 +2,9 @@
 
 ---
 
-**Execution #710**
+**Execution #711**
 
-**Last run:** 2026-08-06 06:46:53 UTC
+**Last run:** 2026-08-06 09:32:22 UTC
 
 **Total matched tenders:** 34
 
@@ -12,9 +12,9 @@
 
 ## EGP Portal Summary
 
-- **Active tenders:** 297
-- **Published today:** 6
-- **Closing today:** 104
+- **Active tenders:** 285
+- **Published today:** 26
+- **Closing today:** 105
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
 
 ---
@@ -291,22 +291,6 @@
 
 ---
 
-## The Office of the United Nations High Commissioner for Refugees (UNHCR), Representation Office in Ethiopia, Addis Ababa, invites qualified and registered Suppliers for the Supply and Delivery of Essential Medicines, Medical Supplies, and Medical & Laboratory Equipment for the UNHCR Ethiopia Operation.
-
-**Source:** 2merkato.com
-
-**Company:** United Nations High Commissioner for Refugees (UNHCR)
-
-**Status:** Closed
-
-**Closing Date:** 2026-07-14 17:59:00
-
-**Matched Keywords:** medical, laboratory equipment
-
-**Link:** [https://tender.2merkato.com/tenders/6a4b612d0a538aabca000001](https://tender.2merkato.com/tenders/6a4b612d0a538aabca000001)
-
----
-
 ## Hellenic Greek International School invites sealed bids from eligible and licensed insurance companies to provide comprehensive Group Medical Insurance Services for its employees and their eligible family members for a period of one year.
 
 **Source:** 2merkato.com
@@ -480,6 +464,22 @@
 **Matched Keywords:** medical
 
 **Link:** [https://tender.2merkato.com/tenders/6a4f91210a538a0690000001](https://tender.2merkato.com/tenders/6a4f91210a538a0690000001)
+
+---
+
+## The Office of the United Nations High Commissioner for Refugees (UNHCR), Representation Office in Ethiopia, Addis Ababa, invites qualified and registered Suppliers for the Supply and Delivery of Essential Medicines, Medical Supplies, and Medical & Laboratory Equipment for the UNHCR Ethiopia Operation.
+
+**Source:** 2merkato.com
+
+**Company:** United Nations High Commissioner for Refugees (UNHCR)
+
+**Status:** Closed
+
+**Closing Date:** 2026-07-14 17:59:00
+
+**Matched Keywords:** medical, laboratory equipment
+
+**Link:** [https://tender.2merkato.com/tenders/6a4b612d0a538aabca000001](https://tender.2merkato.com/tenders/6a4b612d0a538aabca000001)
 
 ---
 
