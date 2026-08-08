@@ -2,9 +2,9 @@
 
 ---
 
-**Execution #750**
+**Execution #751**
 
-**Last run:** 2026-08-08 12:17:41 UTC
+**Last run:** 2026-08-08 13:22:22 UTC
 
 **Total matched tenders:** 34
 
@@ -12,8 +12,8 @@
 
 ## EGP Portal Summary
 
-- **Active tenders:** 303
-- **Published today:** 20
+- **Active tenders:** 310
+- **Published today:** 27
 - **Closing today:** 0
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
 
@@ -137,7 +137,7 @@
 
 **Company:** Pharo Integrated Agriculture and Manufacturing PLC
 
-**Status:** Open
+**Status:** Closed
 
 **Closing Date:** 2026-08-08 16:00:00
 
