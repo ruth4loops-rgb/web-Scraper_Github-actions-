@@ -2,9 +2,9 @@
 
 ---
 
-**Execution #810**
+**Execution #811**
 
-**Last run:** 2026-08-10 15:12:55 UTC
+**Last run:** 2026-08-10 16:10:52 UTC
 
 **Total matched tenders:** 35
 
@@ -12,9 +12,9 @@
 
 ## EGP Portal Summary
 
-- **Active tenders:** 296
-- **Published today:** 67
-- **Closing today:** 135
+- **Active tenders:** 328
+- **Published today:** 86
+- **Closing today:** 134
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
 
 ---
@@ -128,22 +128,6 @@
 **Matched Keywords:** medical
 
 **Link:** [https://tender.2merkato.com/tenders/6a59da3e0a538af1a2000001](https://tender.2merkato.com/tenders/6a59da3e0a538af1a2000001)
-
----
-
-## Pharo Ventures is inviting qualified and experienced imaging equipment suppliers to submit proposals for the purchase of Ultrasound, X-ray, and C-Arm machines.
-
-**Source:** 2merkato.com
-
-**Company:** Pharo Integrated Agriculture and Manufacturing PLC
-
-**Status:** Closed
-
-**Closing Date:** 2026-08-08 16:00:00
-
-**Matched Keywords:** c-arm
-
-**Link:** [https://tender.2merkato.com/tenders/6a4f4aa00a538a7943000001](https://tender.2merkato.com/tenders/6a4f4aa00a538a7943000001)
 
 ---
 
@@ -288,6 +272,22 @@
 **Matched Keywords:** medical, hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6a51e8660a538a2997000001](https://tender.2merkato.com/tenders/6a51e8660a538a2997000001)
+
+---
+
+## Pharo Ventures is inviting qualified and experienced imaging equipment suppliers to submit proposals for the purchase of Ultrasound, X-ray, and C-Arm machines.
+
+**Source:** 2merkato.com
+
+**Company:** Pharo Integrated Agriculture and Manufacturing PLC
+
+**Status:** Closed
+
+**Closing Date:** 2026-08-08 16:00:00
+
+**Matched Keywords:** c-arm
+
+**Link:** [https://tender.2merkato.com/tenders/6a4f4aa00a538a7943000001](https://tender.2merkato.com/tenders/6a4f4aa00a538a7943000001)
 
 ---
 
