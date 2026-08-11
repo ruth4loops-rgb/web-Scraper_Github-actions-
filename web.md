@@ -2,11 +2,11 @@
 
 ---
 
-**Execution #826**
+**Execution #827**
 
-**Last run:** 2026-08-11 07:57:16 UTC
+**Last run:** 2026-08-11 09:09:16 UTC
 
-**Total matched tenders:** 35
+**Total matched tenders:** 37
 
 ---
 
@@ -128,6 +128,22 @@
 **Matched Keywords:** medical
 
 **Link:** [https://tender.2merkato.com/tenders/6a59da3e0a538af1a2000001](https://tender.2merkato.com/tenders/6a59da3e0a538af1a2000001)
+
+---
+
+## Amanuel Mental Specialized Hospital: Procurement of Maintenance and Repair Service
+
+**Source:** 2merkato.com
+
+**Company:** Amanuel Mental Specialized Hospital
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6a7abf2b0a538aab8e000001](https://tender.2merkato.com/tenders/6a7abf2b0a538aab8e000001)
 
 ---
 
@@ -432,6 +448,22 @@
 **Matched Keywords:** medical
 
 **Link:** [https://tender.2merkato.com/tenders/69f1fa010a538a84ca000001](https://tender.2merkato.com/tenders/69f1fa010a538a84ca000001)
+
+---
+
+## University of Gondar: Procurement of RDF Medicines and Medical Supplies
+
+**Source:** 2merkato.com
+
+**Company:** University of Gondar
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a7ac5f10a538ab5a7000001](https://tender.2merkato.com/tenders/6a7ac5f10a538ab5a7000001)
 
 ---
 
