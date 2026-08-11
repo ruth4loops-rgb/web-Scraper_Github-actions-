@@ -2,9 +2,9 @@
 
 ---
 
-**Execution #824**
+**Execution #825**
 
-**Last run:** 2026-08-11 05:48:39 UTC
+**Last run:** 2026-08-11 06:40:35 UTC
 
 **Total matched tenders:** 35
 
@@ -435,6 +435,22 @@
 
 ---
 
+## CMHS , University of Gondar: Procurement of RDF Medicines and Medical Supplies
+
+**Source:** 2merkato.com
+
+**Company:** University of Gondar
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a7ac2bf0a538aaff1000001](https://tender.2merkato.com/tenders/6a7ac2bf0a538aaff1000001)
+
+---
+
 ## Bio and Emerging technology Institute Procurement of Medical Supplies, Laboratory Reagents and Chemicals
 
 **Source:** 2merkato.com
@@ -544,22 +560,6 @@
 **Matched Keywords:** medical, laboratory equipment
 
 **Link:** [https://tender.2merkato.com/tenders/6a43c8660a538aeaca000001](https://tender.2merkato.com/tenders/6a43c8660a538aeaca000001)
-
----
-
-## Catholic Relief Services (CRS) Ethiopia is inviting experienced and potential suppliers for the procurement of medical supplies and medicines.
-
-**Source:** 2merkato.com
-
-**Company:** Catholic Relief Services (CRS Ethiopia)
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a43a3e20a538ac1c1000001](https://tender.2merkato.com/tenders/6a43a3e20a538ac1c1000001)
 
 ---
 
