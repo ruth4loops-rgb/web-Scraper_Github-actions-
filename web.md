@@ -2,9 +2,9 @@
 
 ---
 
-**Execution #851**
+**Execution #852**
 
-**Last run:** 2026-08-12 13:36:09 UTC
+**Last run:** 2026-08-12 14:42:43 UTC
 
 **Total matched tenders:** 38
 
@@ -147,22 +147,6 @@
 
 ---
 
-## St. Paul's Hospital Millennium Medical College would like to procure Medical Equipment and Supplies
-
-**Source:** 2merkato.com
-
-**Company:** St. Paul's Hospital Millennium Medical College
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical, hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a6060140a538a46c2000001](https://tender.2merkato.com/tenders/6a6060140a538a46c2000001)
-
----
-
 ## Amanuel Mental Specialized Hospital: Procurement of Maintenance and Repair Service
 
 **Source:** 2merkato.com
@@ -272,6 +256,22 @@
 **Matched Keywords:** medical, hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6a61af700a538a867d000001](https://tender.2merkato.com/tenders/6a61af700a538a867d000001)
+
+---
+
+## St. Paul's Hospital Millennium Medical College would like to procure Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** St. Paul's Hospital Millennium Medical College
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical, hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6a6060140a538a46c2000001](https://tender.2merkato.com/tenders/6a6060140a538a46c2000001)
 
 ---
 
