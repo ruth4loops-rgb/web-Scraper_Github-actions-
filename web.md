@@ -2,9 +2,9 @@
 
 ---
 
-**Execution #846**
+**Execution #847**
 
-**Last run:** 2026-08-12 07:45:19 UTC
+**Last run:** 2026-08-12 08:54:26 UTC
 
 **Total matched tenders:** 37
 
@@ -16,6 +16,22 @@
 - **Published today:** 13
 - **Closing today:** 136
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
+
+---
+
+## Alert Comprhensive Specialized Hospital: Procurement of Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** Alert  Comprehensive Specialized Hospital
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical, hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6a7c2ef40a538a9ca6000001](https://tender.2merkato.com/tenders/6a7c2ef40a538a9ca6000001)
 
 ---
 
@@ -576,22 +592,6 @@
 **Matched Keywords:** medical equipment, medical
 
 **Link:** [https://tender.2merkato.com/tenders/6a4762a50a538a708b000001](https://tender.2merkato.com/tenders/6a4762a50a538a708b000001)
-
----
-
-## The Office of the United Nations High Commissioner for Refugees (UNHCR), Representation Office in Ethiopia, Addis Ababa, invites qualified and registered Suppliers for the Supply and Delivery of Essential Medicines, Medical Supplies, and Medical & Laboratory Equipment for the UNHCR Ethiopia Operation.
-
-**Source:** 2merkato.com
-
-**Company:** United Nations High Commissioner for Refugees (UNHCR)
-
-**Status:** Closed
-
-**Closing Date:** 2026-07-14 17:59:00
-
-**Matched Keywords:** medical, laboratory equipment
-
-**Link:** [https://tender.2merkato.com/tenders/6a43c8660a538aeaca000001](https://tender.2merkato.com/tenders/6a43c8660a538aeaca000001)
 
 ---
 
