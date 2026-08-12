@@ -2,19 +2,19 @@
 
 ---
 
-**Execution #847**
+**Execution #848**
 
-**Last run:** 2026-08-12 08:54:26 UTC
+**Last run:** 2026-08-12 10:08:07 UTC
 
-**Total matched tenders:** 37
+**Total matched tenders:** 38
 
 ---
 
 ## EGP Portal Summary
 
-- **Active tenders:** 364
-- **Published today:** 13
-- **Closing today:** 136
+- **Active tenders:** 380
+- **Published today:** 33
+- **Closing today:** 137
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
 
 ---
@@ -31,7 +31,39 @@
 
 **Matched Keywords:** medical equipment, medical, hospital
 
+**Link:** [https://tender.2merkato.com/tenders/6a7c2f410a538a3930000001](https://tender.2merkato.com/tenders/6a7c2f410a538a3930000001)
+
+---
+
+## Alert Comprhensive Specialized Hospital: Procurement of Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** Alert  Comprehensive Specialized Hospital
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical, hospital
+
 **Link:** [https://tender.2merkato.com/tenders/6a7c2ef40a538a9ca6000001](https://tender.2merkato.com/tenders/6a7c2ef40a538a9ca6000001)
+
+---
+
+## Ministry of Defense፡ Procurement of Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** Ministry of Defense
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a7c2b540a538af4c9000001](https://tender.2merkato.com/tenders/6a7c2b540a538af4c9000001)
 
 ---
 
@@ -128,22 +160,6 @@
 **Matched Keywords:** medical equipment, medical, hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6a6060140a538a46c2000001](https://tender.2merkato.com/tenders/6a6060140a538a46c2000001)
-
----
-
-## Armauer Hansen Research Institute: Procurement of Medical Supplies, Laboratory Reagents and Chemicals
-
-**Source:** 2merkato.com
-
-**Company:** Armauer Hansen Research Institute
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a59da3e0a538af1a2000001](https://tender.2merkato.com/tenders/6a59da3e0a538af1a2000001)
 
 ---
 
@@ -272,6 +288,22 @@
 **Matched Keywords:** hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6a5f230a0a538a7acc000001](https://tender.2merkato.com/tenders/6a5f230a0a538a7acc000001)
+
+---
+
+## Armauer Hansen Research Institute: Procurement of Medical Supplies, Laboratory Reagents and Chemicals
+
+**Source:** 2merkato.com
+
+**Company:** Armauer Hansen Research Institute
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a59da3e0a538af1a2000001](https://tender.2merkato.com/tenders/6a59da3e0a538af1a2000001)
 
 ---
 
@@ -576,22 +608,6 @@
 **Matched Keywords:** medical, laboratory equipment
 
 **Link:** [https://tender.2merkato.com/tenders/6a4b612d0a538aabca000001](https://tender.2merkato.com/tenders/6a4b612d0a538aabca000001)
-
----
-
-## Women Empowerment-Action (WE-Action), with funding from FARMAMUNDI, invites bids from qualified suppliers for medicines, laboratory reagents, medical supplies, and medical equipment to support their humanitarian project in Tigray and Amhara.
-
-**Source:** 2merkato.com
-
-**Company:** Women Empowerment Action(WE-Action)
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a4762a50a538a708b000001](https://tender.2merkato.com/tenders/6a4762a50a538a708b000001)
 
 ---
 
