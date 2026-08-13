@@ -2,18 +2,18 @@
 
 ---
 
-**Execution #866**
+**Execution #867**
 
-**Last run:** 2026-08-13 07:27:26 UTC
+**Last run:** 2026-08-13 08:52:02 UTC
 
-**Total matched tenders:** 38
+**Total matched tenders:** 37
 
 ---
 
 ## EGP Portal Summary
 
-- **Active tenders:** 360
-- **Published today:** 2
+- **Active tenders:** 381
+- **Published today:** 22
 - **Closing today:** 146
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
 
@@ -131,22 +131,6 @@
 
 ---
 
-## Torhayloche Armed Forces Compressive Specialized Hospital Finance Management Directorate , Ministry of Defense  Procurement of Medical Equipment and Supplies
-
-**Source:** 2merkato.com
-
-**Company:** Torhayloche Armed Forces Compressive Specialized Hospital Finance Management Directorate ,
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical, hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a60a46d0a538a42db000001](https://tender.2merkato.com/tenders/6a60a46d0a538a42db000001)
-
----
-
 ## Amanuel Mental Specialized Hospital: Procurement of Maintenance and Repair Service
 
 **Source:** 2merkato.com
@@ -259,6 +243,22 @@
 
 ---
 
+## Torhayloche Armed Forces Compressive Specialized Hospital Finance Management Directorate , Ministry of Defense  Procurement of Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** Torhayloche Armed Forces Compressive Specialized Hospital Finance Management Directorate ,
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical, hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6a60a46d0a538a42db000001](https://tender.2merkato.com/tenders/6a60a46d0a538a42db000001)
+
+---
+
 ## St. Paul's Hospital Millennium Medical College would like to procure Medical Equipment and Supplies
 
 **Source:** 2merkato.com
@@ -352,22 +352,6 @@
 **Matched Keywords:** c-arm
 
 **Link:** [https://tender.2merkato.com/tenders/6a4f4aa00a538a7943000001](https://tender.2merkato.com/tenders/6a4f4aa00a538a7943000001)
-
----
-
-## Ethiopian Food and Drug Authority Procurement of Laboratory Equipment
-
-**Source:** 2merkato.com
-
-**Company:** Ethiopian Food and Drug Authority
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** laboratory equipment
-
-**Link:** [https://tender.2merkato.com/tenders/6a4ddc4b0a538ac399000001](https://tender.2merkato.com/tenders/6a4ddc4b0a538ac399000001)
 
 ---
 
