@@ -2,9 +2,9 @@
 
 ---
 
-**Execution #865**
+**Execution #866**
 
-**Last run:** 2026-08-13 05:53:52 UTC
+**Last run:** 2026-08-13 07:27:26 UTC
 
 **Total matched tenders:** 38
 
@@ -499,6 +499,22 @@
 
 ---
 
+## St. Paul's Hospital Millennium Medical College , St. Paul's Hospital Millennium Medical College: Procurement of Medical Supplies, Laboratory Reagents and Chemicals
+
+**Source:** 2merkato.com
+
+**Company:** St. Paul's Hospital Millennium Medical College
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical, hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6a7d618b0a538a1e1f000001](https://tender.2merkato.com/tenders/6a7d618b0a538a1e1f000001)
+
+---
+
 ## University of Gondar: Procurement of RDF Medicines and Medical Supplies
 
 **Source:** 2merkato.com
@@ -592,22 +608,6 @@
 **Matched Keywords:** medical
 
 **Link:** [https://tender.2merkato.com/tenders/6a4f91210a538a0690000001](https://tender.2merkato.com/tenders/6a4f91210a538a0690000001)
-
----
-
-## The Office of the United Nations High Commissioner for Refugees (UNHCR), Representation Office in Ethiopia, Addis Ababa, invites qualified and registered Suppliers for the Supply and Delivery of Essential Medicines, Medical Supplies, and Medical & Laboratory Equipment for the UNHCR Ethiopia Operation.
-
-**Source:** 2merkato.com
-
-**Company:** United Nations High Commissioner for Refugees (UNHCR)
-
-**Status:** Closed
-
-**Closing Date:** 2026-07-14 17:59:00
-
-**Matched Keywords:** medical, laboratory equipment
-
-**Link:** [https://tender.2merkato.com/tenders/6a4b612d0a538aabca000001](https://tender.2merkato.com/tenders/6a4b612d0a538aabca000001)
 
 ---
 
