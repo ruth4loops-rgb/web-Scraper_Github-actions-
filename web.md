@@ -2,11 +2,11 @@
 
 ---
 
-**Execution #884**
+**Execution #885**
 
-**Last run:** 2026-08-14 05:49:46 UTC
+**Last run:** 2026-08-14 07:08:11 UTC
 
-**Total matched tenders:** 37
+**Total matched tenders:** 36
 
 ---
 
@@ -288,22 +288,6 @@
 **Matched Keywords:** medical equipment, medical, hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6a6060140a538a46c2000001](https://tender.2merkato.com/tenders/6a6060140a538a46c2000001)
-
----
-
-## The NoleKabba Health Office (Oromia Health Bureau) invites eligible bidders for the supply and installation of a solar water pump for the Bube Hospital Water supply project in West Wollega, Oromia.
-
-**Source:** 2merkato.com
-
-**Company:** Nole Kabba Health Office
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a5f230a0a538a7acc000001](https://tender.2merkato.com/tenders/6a5f230a0a538a7acc000001)
 
 ---
 
