@@ -2,9 +2,9 @@
 
 ---
 
-**Execution #886**
+**Execution #887**
 
-**Last run:** 2026-08-14 08:36:49 UTC
+**Last run:** 2026-08-14 09:42:18 UTC
 
 **Total matched tenders:** 36
 
@@ -12,10 +12,26 @@
 
 ## EGP Portal Summary
 
-- **Active tenders:** 447
-- **Published today:** 14
+- **Active tenders:** 443
+- **Published today:** 47
 - **Closing today:** 162
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
+
+---
+
+## Ethiopian Public Health Institute: Procurement of Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** Ethiopian Public Health Institute
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a7ebd650a538ad993000001](https://tender.2merkato.com/tenders/6a7ebd650a538ad993000001)
 
 ---
 
@@ -112,22 +128,6 @@
 **Matched Keywords:** medical equipment, medical
 
 **Link:** [https://tender.2merkato.com/tenders/6a69bd8e0a538af346000001](https://tender.2merkato.com/tenders/6a69bd8e0a538af346000001)
-
----
-
-## Ministry of Defense would like to procure Medical Equipment and Supplies
-
-**Source:** 2merkato.com
-
-**Company:** Ministry of Defense
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a684fa40a538ab129000001](https://tender.2merkato.com/tenders/6a684fa40a538ab129000001)
 
 ---
 
@@ -275,22 +275,6 @@
 
 ---
 
-## St. Paul's Hospital Millennium Medical College would like to procure Medical Equipment and Supplies
-
-**Source:** 2merkato.com
-
-**Company:** St. Paul's Hospital Millennium Medical College
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical, hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a6060140a538a46c2000001](https://tender.2merkato.com/tenders/6a6060140a538a46c2000001)
-
----
-
 ## Armauer Hansen Research Institute: Procurement of Medical Supplies, Laboratory Reagents and Chemicals
 
 **Source:** 2merkato.com
@@ -339,22 +323,6 @@
 
 ---
 
-## Pharo Ventures is inviting qualified and experienced imaging equipment suppliers to submit proposals for the purchase of Ultrasound, X-ray, and C-Arm machines.
-
-**Source:** 2merkato.com
-
-**Company:** Pharo Integrated Agriculture and Manufacturing PLC
-
-**Status:** Closed
-
-**Closing Date:** 2026-08-08 16:00:00
-
-**Matched Keywords:** c-arm
-
-**Link:** [https://tender.2merkato.com/tenders/6a4f4aa00a538a7943000001](https://tender.2merkato.com/tenders/6a4f4aa00a538a7943000001)
-
----
-
 ## Hellenic Greek International School invites sealed bids from eligible and licensed insurance companies to provide comprehensive Group Medical Insurance Services for its employees and their eligible family members for a period of one year.
 
 **Source:** 2merkato.com
@@ -400,6 +368,22 @@
 **Matched Keywords:** hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6a50b41e0a538a14c4000001](https://tender.2merkato.com/tenders/6a50b41e0a538a14c4000001)
+
+---
+
+## Pharo Ventures is inviting qualified and experienced imaging equipment suppliers to submit proposals for the purchase of Ultrasound, X-ray, and C-Arm machines.
+
+**Source:** 2merkato.com
+
+**Company:** Pharo Integrated Agriculture and Manufacturing PLC
+
+**Status:** Closed
+
+**Closing Date:** 2026-08-08 16:00:00
+
+**Matched Keywords:** c-arm
+
+**Link:** [https://tender.2merkato.com/tenders/6a4f4aa00a538a7943000001](https://tender.2merkato.com/tenders/6a4f4aa00a538a7943000001)
 
 ---
 
@@ -547,6 +531,22 @@
 
 ---
 
+## Ministry of Defense would like to procure Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** Ministry of Defense
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a684fa40a538ab129000001](https://tender.2merkato.com/tenders/6a684fa40a538ab129000001)
+
+---
+
 ## Ethiopia Pharmaceutical Supplies Service፡ Procurement of Medical Supplies, Laboratory Reagents and Chemicals
 
 **Source:** 2merkato.com
@@ -563,19 +563,19 @@
 
 ---
 
-## Ethiopia Pharmaceutical Supplies Service፡ Procurement of Medical Devices
+## St. Paul's Hospital Millennium Medical College would like to procure Medical Equipment and Supplies
 
 **Source:** 2merkato.com
 
-**Company:** Ethiopia Pharmaceutical Supplies Service
+**Company:** St. Paul's Hospital Millennium Medical College
 
 **Status:** Login required
 
 **Closing Date:** Login required to view
 
-**Matched Keywords:** medical
+**Matched Keywords:** medical equipment, medical, hospital
 
-**Link:** [https://tender.2merkato.com/tenders/6a4f91270a538a0c7a000001](https://tender.2merkato.com/tenders/6a4f91270a538a0c7a000001)
+**Link:** [https://tender.2merkato.com/tenders/6a6060140a538a46c2000001](https://tender.2merkato.com/tenders/6a6060140a538a46c2000001)
 
 ---
 
