@@ -2,11 +2,11 @@
 
 ---
 
-**Execution #922**
+**Execution #923**
 
-**Last run:** 2026-08-15 10:30:12 UTC
+**Last run:** 2026-08-15 10:53:08 UTC
 
-**Total matched tenders:** 36
+**Total matched tenders:** 37
 
 ---
 
@@ -128,6 +128,22 @@
 **Matched Keywords:** medical equipment, medical
 
 **Link:** [https://tender.2merkato.com/tenders/6a69bd8e0a538af346000001](https://tender.2merkato.com/tenders/6a69bd8e0a538af346000001)
+
+---
+
+## The Family Guidance Association of Ethiopia (FGAE) invites competitive and eligible firms for the installation of solar panels at Assayita General Hospital.
+
+**Source:** 2merkato.com
+
+**Company:** Family Guidance Association of Ethiopia
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6a80266a0a538a016f000001](https://tender.2merkato.com/tenders/6a80266a0a538a016f000001)
 
 ---
 
@@ -256,22 +272,6 @@
 **Matched Keywords:** medical, hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6a61af700a538a867d000001](https://tender.2merkato.com/tenders/6a61af700a538a867d000001)
-
----
-
-## Torhayloche Armed Forces Compressive Specialized Hospital Finance Management Directorate , Ministry of Defense  Procurement of Medical Equipment and Supplies
-
-**Source:** 2merkato.com
-
-**Company:** Torhayloche Armed Forces Compressive Specialized Hospital Finance Management Directorate ,
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical, hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a60a46d0a538a42db000001](https://tender.2merkato.com/tenders/6a60a46d0a538a42db000001)
 
 ---
 
@@ -560,6 +560,22 @@
 **Matched Keywords:** medical
 
 **Link:** [https://tender.2merkato.com/tenders/6a674d9c0a538a8994000001](https://tender.2merkato.com/tenders/6a674d9c0a538a8994000001)
+
+---
+
+## Torhayloche Armed Forces Compressive Specialized Hospital Finance Management Directorate , Ministry of Defense  Procurement of Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** Torhayloche Armed Forces Compressive Specialized Hospital Finance Management Directorate ,
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical, hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6a60a46d0a538a42db000001](https://tender.2merkato.com/tenders/6a60a46d0a538a42db000001)
 
 ---
 
