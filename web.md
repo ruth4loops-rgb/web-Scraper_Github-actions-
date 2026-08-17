@@ -2,11 +2,11 @@
 
 ---
 
-**Execution #1018**
+**Execution #1019**
 
-**Last run:** 2026-08-17 14:14:11 UTC
+**Last run:** 2026-08-17 14:48:18 UTC
 
-**Total matched tenders:** 36
+**Total matched tenders:** 35
 
 ---
 
@@ -16,6 +16,22 @@
 - **Published today:** 93
 - **Closing today:** 184
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
+
+---
+
+## The Ethiopian Red Cross Society-Essential Drug program (ERCS-EDP) invites eligible pharmaceutical manufacturers and authorized agents to submit quotations for the supply of pharmaceuticals products (Lot 1), Laboratory reagents and chemicals (Lot 2), Medical supplies (Lot 3), and Medical equipment (Lot 4).
+
+**Source:** 2merkato.com
+
+**Company:** Ethiopian Red Cross Society
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a8303820a538ac7a5000001](https://tender.2merkato.com/tenders/6a8303820a538ac7a5000001)
 
 ---
 
@@ -272,22 +288,6 @@
 **Matched Keywords:** medical
 
 **Link:** [https://tender.2merkato.com/tenders/6a59da3e0a538af1a2000001](https://tender.2merkato.com/tenders/6a59da3e0a538af1a2000001)
-
----
-
-## Oromia Agricultural Cooperatives Federation Ltd Assela Malt Factory is inviting international competitive bids for the procurement and delivery of two lots: Lot 1 for Mechanical and Electrical Machinery Spare parts (Europe origin) and Lot 2 for Laboratory Equipment.
-
-**Source:** 2merkato.com
-
-**Company:** Oromia Agricultural Cooperatives Federation Ltd Assela Malt Factory
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** laboratory equipment
-
-**Link:** [https://tender.2merkato.com/tenders/6a57522c0a538a45c1000001](https://tender.2merkato.com/tenders/6a57522c0a538a45c1000001)
 
 ---
 
@@ -560,22 +560,6 @@
 **Matched Keywords:** medical equipment, medical, hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6a60a46d0a538a42db000001](https://tender.2merkato.com/tenders/6a60a46d0a538a42db000001)
-
----
-
-## St. Paul's Hospital Millennium Medical College would like to procure Medical Equipment and Supplies
-
-**Source:** 2merkato.com
-
-**Company:** St. Paul's Hospital Millennium Medical College
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical, hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a6060140a538a46c2000001](https://tender.2merkato.com/tenders/6a6060140a538a46c2000001)
 
 ---
 
