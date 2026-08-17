@@ -2,11 +2,11 @@
 
 ---
 
-**Execution #1009**
+**Execution #1010**
 
-**Last run:** 2026-08-17 08:24:14 UTC
+**Last run:** 2026-08-17 09:09:15 UTC
 
-**Total matched tenders:** 37
+**Total matched tenders:** 36
 
 ---
 
@@ -128,22 +128,6 @@
 **Matched Keywords:** medical equipment, medical
 
 **Link:** [https://tender.2merkato.com/tenders/6a72d3680a538ab3b0000001](https://tender.2merkato.com/tenders/6a72d3680a538ab3b0000001)
-
----
-
-## Waliya Capital Goods Finance Business Share Company (WCGFB) is seeking bids for the procurement of HDPE/PP Plastic injection mold machines, various woodworking machines, and medical equipment for lease clients located in Bahir Dar, Akasta, and Injibara.
-
-**Source:** 2merkato.com
-
-**Company:** Waliya Capital Goods Finance Business Share Company (WCGFB)
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a69bd8e0a538af346000001](https://tender.2merkato.com/tenders/6a69bd8e0a538af346000001)
 
 ---
 
