@@ -2,11 +2,11 @@
 
 ---
 
-**Execution #1007**
+**Execution #1008**
 
-**Last run:** 2026-08-17 06:37:06 UTC
+**Last run:** 2026-08-17 07:38:08 UTC
 
-**Total matched tenders:** 38
+**Total matched tenders:** 37
 
 ---
 
@@ -304,22 +304,6 @@
 **Matched Keywords:** laboratory equipment
 
 **Link:** [https://tender.2merkato.com/tenders/6a57522c0a538a45c1000001](https://tender.2merkato.com/tenders/6a57522c0a538a45c1000001)
-
----
-
-## St. Paul's Hospital Millennium Medical College: Procurement of Software License
-
-**Source:** 2merkato.com
-
-**Company:** St. Paul's Hospital Millennium Medical College
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical, hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a51e8660a538a2997000001](https://tender.2merkato.com/tenders/6a51e8660a538a2997000001)
 
 ---
 
