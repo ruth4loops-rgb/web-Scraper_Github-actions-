@@ -2,11 +2,11 @@
 
 ---
 
-**Execution #1006**
+**Execution #1007**
 
-**Last run:** 2026-08-17 05:50:39 UTC
+**Last run:** 2026-08-17 06:37:06 UTC
 
-**Total matched tenders:** 37
+**Total matched tenders:** 38
 
 ---
 
@@ -16,6 +16,22 @@
 - **Published today:** 4
 - **Closing today:** 194
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
+
+---
+
+## Torhayloche Armed Forces Compressive Specialized Hospital Finance Management Directorate , Ministry of Defense: Procurement of Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** Torhayloche Armed Forces Compressive Specialized Hospital Finance Management Directorate
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical, hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6a82a5740a538a83cc000001](https://tender.2merkato.com/tenders/6a82a5740a538a83cc000001)
 
 ---
 
@@ -256,22 +272,6 @@
 **Matched Keywords:** hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6a61b4d30a538a8664000001](https://tender.2merkato.com/tenders/6a61b4d30a538a8664000001)
-
----
-
-## St. Paul's Hospital Millennium Medical College፡ Procurement of Cleaning Service
-
-**Source:** 2merkato.com
-
-**Company:** St. Paul's Hospital Millennium Medical College
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical, hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a61af700a538a867d000001](https://tender.2merkato.com/tenders/6a61af700a538a867d000001)
 
 ---
 
@@ -563,11 +563,27 @@
 
 ---
 
+## St. Paul's Hospital Millennium Medical College፡ Procurement of Cleaning Service
+
+**Source:** 2merkato.com
+
+**Company:** St. Paul's Hospital Millennium Medical College
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical, hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6a61af700a538a867d000001](https://tender.2merkato.com/tenders/6a61af700a538a867d000001)
+
+---
+
 ## Torhayloche Armed Forces Compressive Specialized Hospital Finance Management Directorate , Ministry of Defense  Procurement of Medical Equipment and Supplies
 
 **Source:** 2merkato.com
 
-**Company:** Torhayloche Armed Forces Compressive Specialized Hospital Finance Management Directorate ,
+**Company:** Torhayloche Armed Forces Compressive Specialized Hospital Finance Management Directorate
 
 **Status:** Login required
 
