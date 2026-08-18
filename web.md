@@ -2,11 +2,11 @@
 
 ---
 
-**Execution #1052**
+**Execution #1053**
 
-**Last run:** 2026-08-18 10:58:06 UTC
+**Last run:** 2026-08-18 11:33:20 UTC
 
-**Total matched tenders:** 35
+**Total matched tenders:** 33
 
 ---
 
@@ -275,22 +275,6 @@
 
 ---
 
-## St. Peter Specialized Hospital Procurement of Office Equipment
-
-**Source:** 2merkato.com
-
-**Company:** St. Peter Specialized Hospital
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a61b4d30a538a8664000001](https://tender.2merkato.com/tenders/6a61b4d30a538a8664000001)
-
----
-
 ## Armauer Hansen Research Institute: Procurement of Medical Supplies, Laboratory Reagents and Chemicals
 
 **Source:** 2merkato.com
@@ -544,22 +528,6 @@
 **Matched Keywords:** medical
 
 **Link:** [https://tender.2merkato.com/tenders/6a674d9c0a538a8994000001](https://tender.2merkato.com/tenders/6a674d9c0a538a8994000001)
-
----
-
-## St. Paul's Hospital Millennium Medical College፡ Procurement of Cleaning Service
-
-**Source:** 2merkato.com
-
-**Company:** St. Paul's Hospital Millennium Medical College
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical, hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a61af700a538a867d000001](https://tender.2merkato.com/tenders/6a61af700a538a867d000001)
 
 ---
 
