@@ -2,9 +2,9 @@
 
 ---
 
-**Execution #1048**
+**Execution #1049**
 
-**Last run:** 2026-08-18 08:48:27 UTC
+**Last run:** 2026-08-18 09:18:34 UTC
 
 **Total matched tenders:** 35
 
@@ -32,6 +32,22 @@
 **Matched Keywords:** medical equipment, medical
 
 **Link:** [https://tender.2merkato.com/tenders/6a83fbd80a538a51b5000001](https://tender.2merkato.com/tenders/6a83fbd80a538a51b5000001)
+
+---
+
+## Alert Comprhensive Specialized Hospital would like to procure Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** Alert  Comprehensive Specialized Hospital
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical, hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6a83f4ea0a538a91f1000001](https://tender.2merkato.com/tenders/6a83f4ea0a538a91f1000001)
 
 ---
 
@@ -544,22 +560,6 @@
 **Matched Keywords:** medical, hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6a61af700a538a867d000001](https://tender.2merkato.com/tenders/6a61af700a538a867d000001)
-
----
-
-## Torhayloche Armed Forces Compressive Specialized Hospital Finance Management Directorate , Ministry of Defense  Procurement of Medical Equipment and Supplies
-
-**Source:** 2merkato.com
-
-**Company:** Torhayloche Armed Forces Compressive Specialized Hospital Finance Management Directorate
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical, hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a60a46d0a538a42db000001](https://tender.2merkato.com/tenders/6a60a46d0a538a42db000001)
 
 ---
 
