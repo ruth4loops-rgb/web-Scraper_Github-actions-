@@ -2,9 +2,9 @@
 
 ---
 
-**Execution #1045**
+**Execution #1046**
 
-**Last run:** 2026-08-18 06:23:58 UTC
+**Last run:** 2026-08-18 07:19:30 UTC
 
 **Total matched tenders:** 35
 
@@ -16,6 +16,22 @@
 - **Published today:** 4
 - **Closing today:** 133
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
+
+---
+
+## The Office of the United Nations High Commissioner for Refugees (UNHCR) Representation Office in Ethiopia invites qualified and registered suppliers to bid for the supply and delivery of essential medicines and medical equipment for the Melkadida Operation.
+
+**Source:** 2merkato.com
+
+**Company:** United Nations High Commissioner for Refugees (UNHCR)
+
+**Status:** Open
+
+**Closing Date:** 2026-09-01 00:59:00
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a83fbd80a538a51b5000001](https://tender.2merkato.com/tenders/6a83fbd80a538a51b5000001)
 
 ---
 
@@ -128,22 +144,6 @@
 **Matched Keywords:** medical equipment, medical
 
 **Link:** [https://tender.2merkato.com/tenders/6a7c2b540a538af4c9000001](https://tender.2merkato.com/tenders/6a7c2b540a538af4c9000001)
-
----
-
-## The Office of the United Nations High Commissioner for Refugees (UNHCR) Representation Office in Ethiopia invites qualified and registered suppliers to submit quotations for the supply and delivery of essential medicines and medical equipment for UNHCR Ethiopia operations.
-
-**Source:** 2merkato.com
-
-**Company:** United Nations High Commissioner for Refugees (UNHCR)
-
-**Status:** Closed
-
-**Closing Date:** 2026-08-13 11:59:00
-
-**Matched Keywords:** medical equipment, medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a72d3680a538ab3b0000001](https://tender.2merkato.com/tenders/6a72d3680a538ab3b0000001)
 
 ---
 
