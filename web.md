@@ -2,11 +2,11 @@
 
 ---
 
-**Execution #1098**
+**Execution #1099**
 
-**Last run:** 2026-08-19 15:51:11 UTC
+**Last run:** 2026-08-19 16:22:39 UTC
 
-**Total matched tenders:** 33
+**Total matched tenders:** 32
 
 ---
 
@@ -416,22 +416,6 @@
 **Matched Keywords:** medical
 
 **Link:** [https://tender.2merkato.com/tenders/6a0da2170a538a4511000001](https://tender.2merkato.com/tenders/6a0da2170a538a4511000001)
-
----
-
-## The Carter Center Ethiopia invites sealed bids from registered suppliers for the purchase of medical items for the Trachoma Program.
-
-**Source:** 2merkato.com
-
-**Company:** The Carter Center - Ethiopia
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical
-
-**Link:** [https://tender.2merkato.com/tenders/69f1fa010a538a84ca000001](https://tender.2merkato.com/tenders/69f1fa010a538a84ca000001)
 
 ---
 
