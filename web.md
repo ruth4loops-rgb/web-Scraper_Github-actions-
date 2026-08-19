@@ -2,9 +2,9 @@
 
 ---
 
-**Execution #1087**
+**Execution #1088**
 
-**Last run:** 2026-08-19 09:03:04 UTC
+**Last run:** 2026-08-19 09:45:33 UTC
 
 **Total matched tenders:** 33
 
@@ -435,6 +435,22 @@
 
 ---
 
+## Ethiopian Public Health Institute: Procurement of Medical Supplies
+
+**Source:** 2merkato.com
+
+**Company:** Ethiopian Public Health Institute
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a8550460a538a0ec0000001](https://tender.2merkato.com/tenders/6a8550460a538a0ec0000001)
+
+---
+
 ## St. Paul's Hospital Millennium Medical College , St. Paul's Hospital Millennium Medical College: Procurement of Medical Supplies, Laboratory Reagents and Chemicals
 
 **Source:** 2merkato.com
@@ -512,22 +528,6 @@
 **Matched Keywords:** medical equipment, medical
 
 **Link:** [https://tender.2merkato.com/tenders/6a684fa40a538ab129000001](https://tender.2merkato.com/tenders/6a684fa40a538ab129000001)
-
----
-
-## Ethiopia Pharmaceutical Supplies Service፡ Procurement of Medical Supplies, Laboratory Reagents and Chemicals
-
-**Source:** 2merkato.com
-
-**Company:** Ethiopia Pharmaceutical Supplies Service
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a674d9c0a538a8994000001](https://tender.2merkato.com/tenders/6a674d9c0a538a8994000001)
 
 ---
 
