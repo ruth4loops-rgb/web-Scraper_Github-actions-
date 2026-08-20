@@ -2,9 +2,9 @@
 
 ---
 
-**Execution #1133**
+**Execution #1134**
 
-**Last run:** 2026-08-20 14:18:41 UTC
+**Last run:** 2026-08-20 15:00:03 UTC
 
 **Total matched tenders:** 33
 
@@ -291,19 +291,19 @@
 
 ---
 
-## Armauer Hansen Research Institute: Procurement of Medical Supplies, Laboratory Reagents and Chemicals
+## Madda Walabu University: Procurement of Laboratory Equipment
 
 **Source:** 2merkato.com
 
-**Company:** Armauer Hansen Research Institute
+**Company:** Madda Walabu University
 
 **Status:** Login required
 
 **Closing Date:** Login required to view
 
-**Matched Keywords:** medical
+**Matched Keywords:** laboratory equipment
 
-**Link:** [https://tender.2merkato.com/tenders/6a59da3e0a538af1a2000001](https://tender.2merkato.com/tenders/6a59da3e0a538af1a2000001)
+**Link:** [https://tender.2merkato.com/tenders/6a870bf30a538a4273000001](https://tender.2merkato.com/tenders/6a870bf30a538a4273000001)
 
 ---
 
