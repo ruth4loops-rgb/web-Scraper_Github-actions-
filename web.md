@@ -2,11 +2,11 @@
 
 ---
 
-**Execution #1129**
+**Execution #1130**
 
-**Last run:** 2026-08-20 11:22:23 UTC
+**Last run:** 2026-08-20 11:52:34 UTC
 
-**Total matched tenders:** 32
+**Total matched tenders:** 33
 
 ---
 
@@ -16,6 +16,22 @@
 - **Published today:** 46
 - **Closing today:** 186
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
+
+---
+
+## The Amhara Development Association (ADA) invites potential suppliers to submit bids for the procurement of Office & Medical Equipment, Vehicle parts, and printing services.
+
+**Source:** 2merkato.com
+
+**Company:** Amhara Development Association (ADA)
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a86daa20a538a14e6000001](https://tender.2merkato.com/tenders/6a86daa20a538a14e6000001)
 
 ---
 
@@ -160,22 +176,6 @@
 **Matched Keywords:** medical equipment, medical, hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6a7c2ef40a538a9ca6000001](https://tender.2merkato.com/tenders/6a7c2ef40a538a9ca6000001)
-
----
-
-## Ministry of Defense፡ Procurement of Medical Equipment and Supplies
-
-**Source:** 2merkato.com
-
-**Company:** Ministry of Defense
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a7c2b540a538af4c9000001](https://tender.2merkato.com/tenders/6a7c2b540a538af4c9000001)
 
 ---
 
@@ -464,6 +464,22 @@
 **Matched Keywords:** medical, hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6a7d618b0a538a1e1f000001](https://tender.2merkato.com/tenders/6a7d618b0a538a1e1f000001)
+
+---
+
+## Ministry of Defense፡ Procurement of Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** Ministry of Defense
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a7c2b540a538af4c9000001](https://tender.2merkato.com/tenders/6a7c2b540a538af4c9000001)
 
 ---
 
