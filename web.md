@@ -2,9 +2,9 @@
 
 ---
 
-**Execution #1167**
+**Execution #1168**
 
-**Last run:** 2026-08-21 13:26:36 UTC
+**Last run:** 2026-08-21 14:07:59 UTC
 
 **Total matched tenders:** 31
 
@@ -12,10 +12,26 @@
 
 ## EGP Portal Summary
 
-- **Active tenders:** 627
-- **Published today:** 67
-- **Closing today:** 206
+- **Active tenders:** 665
+- **Published today:** 110
+- **Closing today:** 205
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
+
+---
+
+## National Intelligence and Security Service: Procurement of Medical Equipment and Supplies(clin)
+
+**Source:** 2merkato.com
+
+**Company:** National Intelligence and Security Service
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a8852830a538a7172000001](https://tender.2merkato.com/tenders/6a8852830a538a7172000001)
 
 ---
 
@@ -163,22 +179,6 @@
 
 ---
 
-## Alert Comprhensive Specialized Hospital: Procurement of Medical Equipment and Supplies
-
-**Source:** 2merkato.com
-
-**Company:** Alert  Comprehensive Specialized Hospital
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical, hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a7c2f410a538a3930000001](https://tender.2merkato.com/tenders/6a7c2f410a538a3930000001)
-
----
-
 ## The Family Guidance Association of Ethiopia (FGAE) invites competitive and eligible firms for the installation of solar panels at Assayita General Hospital.
 
 **Source:** 2merkato.com
@@ -192,6 +192,22 @@
 **Matched Keywords:** hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6a80266a0a538a016f000001](https://tender.2merkato.com/tenders/6a80266a0a538a016f000001)
+
+---
+
+## Alert Comprhensive Specialized Hospital: Procurement of Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** Alert  Comprehensive Specialized Hospital
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical, hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6a7c2f410a538a3930000001](https://tender.2merkato.com/tenders/6a7c2f410a538a3930000001)
 
 ---
 
@@ -480,22 +496,6 @@
 **Matched Keywords:** medical
 
 **Link:** [https://tender.2merkato.com/tenders/6a7ac5f10a538ab5a7000001](https://tender.2merkato.com/tenders/6a7ac5f10a538ab5a7000001)
-
----
-
-## CMHS , University of Gondar: Procurement of RDF Medicines and Medical Supplies
-
-**Source:** 2merkato.com
-
-**Company:** University of Gondar
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a7ac2bf0a538aaff1000001](https://tender.2merkato.com/tenders/6a7ac2bf0a538aaff1000001)
 
 ---
 
