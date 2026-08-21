@@ -2,11 +2,11 @@
 
 ---
 
-**Execution #1166**
+**Execution #1167**
 
-**Last run:** 2026-08-21 12:25:33 UTC
+**Last run:** 2026-08-21 13:26:36 UTC
 
-**Total matched tenders:** 32
+**Total matched tenders:** 31
 
 ---
 
@@ -16,6 +16,22 @@
 - **Published today:** 67
 - **Closing today:** 206
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
+
+---
+
+## St. Peter Specialized Hospital: Procurement of Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** St. Peter Specialized Hospital
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical, hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6a883de40a538a4103000001](https://tender.2merkato.com/tenders/6a883de40a538a4103000001)
 
 ---
 
@@ -163,22 +179,6 @@
 
 ---
 
-## Alert Comprhensive Specialized Hospital: Procurement of Medical Equipment and Supplies
-
-**Source:** 2merkato.com
-
-**Company:** Alert  Comprehensive Specialized Hospital
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical, hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a7c2ef40a538a9ca6000001](https://tender.2merkato.com/tenders/6a7c2ef40a538a9ca6000001)
-
----
-
 ## The Family Guidance Association of Ethiopia (FGAE) invites competitive and eligible firms for the installation of solar panels at Assayita General Hospital.
 
 **Source:** 2merkato.com
@@ -192,6 +192,22 @@
 **Matched Keywords:** hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6a80266a0a538a016f000001](https://tender.2merkato.com/tenders/6a80266a0a538a016f000001)
+
+---
+
+## Alert Comprhensive Specialized Hospital: Procurement of Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** Alert  Comprehensive Specialized Hospital
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical, hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6a7c2ef40a538a9ca6000001](https://tender.2merkato.com/tenders/6a7c2ef40a538a9ca6000001)
 
 ---
 
@@ -256,22 +272,6 @@
 **Matched Keywords:** hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6a6c3eb90a538aaa0b000001](https://tender.2merkato.com/tenders/6a6c3eb90a538aaa0b000001)
-
----
-
-## Alert Comprehensive Specialized Hospital Procurement of Furniture
-
-**Source:** 2merkato.com
-
-**Company:** Alert  Comprehensive Specialized Hospital
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a68474d0a538ab260000001](https://tender.2merkato.com/tenders/6a68474d0a538ab260000001)
 
 ---
 
@@ -496,22 +496,6 @@
 **Matched Keywords:** medical
 
 **Link:** [https://tender.2merkato.com/tenders/6a7ac2bf0a538aaff1000001](https://tender.2merkato.com/tenders/6a7ac2bf0a538aaff1000001)
-
----
-
-## Bio and Emerging technology Institute Procurement of Medical Supplies, Laboratory Reagents and Chemicals
-
-**Source:** 2merkato.com
-
-**Company:** Bio and Emerging Technology Institute
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a757ab50a538ac650000001](https://tender.2merkato.com/tenders/6a757ab50a538ac650000001)
 
 ---
 
