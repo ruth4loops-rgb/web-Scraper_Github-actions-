@@ -2,9 +2,9 @@
 
 ---
 
-**Execution #1204**
+**Execution #1205**
 
-**Last run:** 2026-08-22 10:57:47 UTC
+**Last run:** 2026-08-22 11:28:39 UTC
 
 **Total matched tenders:** 32
 
@@ -16,6 +16,22 @@
 - **Published today:** 6
 - **Closing today:** 0
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
+
+---
+
+## Ministry of Defense፡ Procurement of Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** Ministry of Defense
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a8979340a538a1606000001](https://tender.2merkato.com/tenders/6a8979340a538a1606000001)
 
 ---
 
@@ -496,22 +512,6 @@
 **Matched Keywords:** medical, hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6a7d618b0a538a1e1f000001](https://tender.2merkato.com/tenders/6a7d618b0a538a1e1f000001)
-
----
-
-## Ministry of Defense፡ Procurement of Medical Equipment and Supplies
-
-**Source:** 2merkato.com
-
-**Company:** Ministry of Defense
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a7c2b540a538af4c9000001](https://tender.2merkato.com/tenders/6a7c2b540a538af4c9000001)
 
 ---
 
