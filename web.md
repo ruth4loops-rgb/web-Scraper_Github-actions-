@@ -2,11 +2,11 @@
 
 ---
 
-**Execution #1196**
+**Execution #1197**
 
-**Last run:** 2026-08-22 07:04:11 UTC
+**Last run:** 2026-08-22 07:42:14 UTC
 
-**Total matched tenders:** 31
+**Total matched tenders:** 32
 
 ---
 
@@ -176,6 +176,22 @@
 **Matched Keywords:** medical equipment, medical
 
 **Link:** [https://tender.2merkato.com/tenders/6a7d66d20a538a2102000001](https://tender.2merkato.com/tenders/6a7d66d20a538a2102000001)
+
+---
+
+## St. Peter Specialized Hospital: Procurement of Medical Devices
+
+**Source:** 2merkato.com
+
+**Company:** St. Peter Specialized Hospital
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical, hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6a8949270a538a0544000001](https://tender.2merkato.com/tenders/6a8949270a538a0544000001)
 
 ---
 
