@@ -2,9 +2,9 @@
 
 ---
 
-**Execution #1199**
+**Execution #1200**
 
-**Last run:** 2026-08-22 08:43:59 UTC
+**Last run:** 2026-08-22 09:12:08 UTC
 
 **Total matched tenders:** 32
 
@@ -195,6 +195,38 @@
 
 ---
 
+## Amanuel Mental Specialized Hospital: Procurement of Furniture
+
+**Source:** 2merkato.com
+
+**Company:** Amanuel Mental Specialized Hospital
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6a8947f30a538aacb4000001](https://tender.2merkato.com/tenders/6a8947f30a538aacb4000001)
+
+---
+
+## Amanuel Mental Specialized Hospital: Procurement of Maintenance and Repair Service
+
+**Source:** 2merkato.com
+
+**Company:** Amanuel Mental Specialized Hospital
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6a8946d10a538ac46c000001](https://tender.2merkato.com/tenders/6a8946d10a538ac46c000001)
+
+---
+
 ## The Family Guidance Association of Ethiopia (FGAE) invites competitive and eligible firms for the installation of solar panels at Assayita General Hospital.
 
 **Source:** 2merkato.com
@@ -272,38 +304,6 @@
 **Matched Keywords:** medical, hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6a7978580a538a8cf9000001](https://tender.2merkato.com/tenders/6a7978580a538a8cf9000001)
-
----
-
-## Alert Comprehensive Specialized Hospital would like to procure different items
-
-**Source:** 2merkato.com
-
-**Company:** Alert  Comprehensive Specialized Hospital
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a6d940a0a538acb9e000001](https://tender.2merkato.com/tenders/6a6d940a0a538acb9e000001)
-
----
-
-## Amanuel Mental Specialized Hospital: Procurement of Printing and Publishing Services
-
-**Source:** 2merkato.com
-
-**Company:** Amanuel Mental Specialized Hospital
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a6c3eb90a538aaa0b000001](https://tender.2merkato.com/tenders/6a6c3eb90a538aaa0b000001)
 
 ---
 
@@ -451,6 +451,22 @@
 
 ---
 
+## Bahir Dar University would like to procure Medical Supplies
+
+**Source:** 2merkato.com
+
+**Company:** Bahir Dar University
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a894d7f0a538a7baa000001](https://tender.2merkato.com/tenders/6a894d7f0a538a7baa000001)
+
+---
+
 ## Ethiopian Public Health Institute: Procurement of Medical Supplies
 
 **Source:** 2merkato.com
@@ -496,22 +512,6 @@
 **Matched Keywords:** medical equipment, medical
 
 **Link:** [https://tender.2merkato.com/tenders/6a7c2b540a538af4c9000001](https://tender.2merkato.com/tenders/6a7c2b540a538af4c9000001)
-
----
-
-## University of Gondar: Procurement of RDF Medicines and Medical Supplies
-
-**Source:** 2merkato.com
-
-**Company:** University of Gondar
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a7ac5f10a538ab5a7000001](https://tender.2merkato.com/tenders/6a7ac5f10a538ab5a7000001)
 
 ---
 
