@@ -2,9 +2,9 @@
 
 ---
 
-**Execution #1254**
+**Execution #1255**
 
-**Last run:** 2026-08-23 13:49:09 UTC
+**Last run:** 2026-08-23 14:12:06 UTC
 
 **Total matched tenders:** 32
 
