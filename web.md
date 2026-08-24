@@ -2,11 +2,11 @@
 
 ---
 
-**Execution #1292**
+**Execution #1293**
 
-**Last run:** 2026-08-24 13:06:40 UTC
+**Last run:** 2026-08-24 14:00:45 UTC
 
-**Total matched tenders:** 32
+**Total matched tenders:** 33
 
 ---
 
@@ -16,6 +16,22 @@
 - **Published today:** 99
 - **Closing today:** 298
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
+
+---
+
+## The Office of the United Nations High Commissioner for Refugees (UNHCR) Representation Office in Ethiopia invites qualified and registered suppliers to bid for the supply and delivery of essential medicines and medical equipment for the Melkadida Operation.
+
+**Source:** 2merkato.com
+
+**Company:** United Nations High Commissioner for Refugees (UNHCR)
+
+**Status:** Open
+
+**Closing Date:** 2026-09-01 00:59:00
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a8c363f0a538a185f000001](https://tender.2merkato.com/tenders/6a8c363f0a538a185f000001)
 
 ---
 
@@ -176,22 +192,6 @@
 **Matched Keywords:** medical equipment, medical
 
 **Link:** [https://tender.2merkato.com/tenders/6a7ebd650a538ad993000001](https://tender.2merkato.com/tenders/6a7ebd650a538ad993000001)
-
----
-
-## Bio and Emerging technology Institute: Procurement of Medical Equipment and Supplies
-
-**Source:** 2merkato.com
-
-**Company:** Bio and Emerging Technology Institute
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a7d66d20a538a2102000001](https://tender.2merkato.com/tenders/6a7d66d20a538a2102000001)
 
 ---
 
@@ -496,6 +496,22 @@
 **Matched Keywords:** medical
 
 **Link:** [https://tender.2merkato.com/tenders/6a8550460a538a0ec0000001](https://tender.2merkato.com/tenders/6a8550460a538a0ec0000001)
+
+---
+
+## Bio and Emerging technology Institute: Procurement of Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** Bio and Emerging Technology Institute
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a7d66d20a538a2102000001](https://tender.2merkato.com/tenders/6a7d66d20a538a2102000001)
 
 ---
 
