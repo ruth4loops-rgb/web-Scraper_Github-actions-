@@ -2,11 +2,11 @@
 
 ---
 
-**Execution #1353**
+**Execution #1354**
 
-**Last run:** 2026-08-26 08:49:24 UTC
+**Last run:** 2026-08-26 09:29:28 UTC
 
-**Total matched tenders:** 34
+**Total matched tenders:** 37
 
 ---
 
@@ -16,6 +16,54 @@
 - **Published today:** 22
 - **Closing today:** 107
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
+
+---
+
+## Waliya Capital Goods Finance Business Share Company (WCGFB) is inviting sealed bids for the procurement of various medical equipment for lease clients located in Gondar town, Amhara region.
+
+**Source:** 2merkato.com
+
+**Company:** Waliya Capital Goods Finance Business Share Company (WCGFB)
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a8e98820a538af605000001](https://tender.2merkato.com/tenders/6a8e98820a538af605000001)
+
+---
+
+## Tirunesh Beijing General Hospital: Procurement of Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** Tirunesh Beijing General Hospital
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical, hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6a8e954b0a538afd0b000001](https://tender.2merkato.com/tenders/6a8e954b0a538afd0b000001)
+
+---
+
+## University of Gondar: Procurement of Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** University of Gondar
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a8e8d7a0a538a03fc000001](https://tender.2merkato.com/tenders/6a8e8d7a0a538a03fc000001)
 
 ---
 
@@ -179,35 +227,35 @@
 
 ---
 
-## Torhayloche Armed Forces Compressive Specialized Hospital Finance Management Directorate , Ministry of Defense: Procurement of Medical Equipment and Supplies
+## Goba Referral Hospital , Madda Walabu University :MWU ጎባ ህ/ጤ/ሳይ/ኮሌጅ መስተንግዶ አገልግሎት ከውጭ የሚቀርብ 2019-1
 
 **Source:** 2merkato.com
 
-**Company:** Torhayloche Armed Forces Compressive Specialized Hospital Finance Management Directorate
+**Company:** Medewelabu University Goba Referral Hospital
 
 **Status:** Login required
 
 **Closing Date:** Login required to view
 
-**Matched Keywords:** medical equipment, medical, hospital
+**Matched Keywords:** hospital
 
-**Link:** [https://tender.2merkato.com/tenders/6a82a5740a538a83cc000001](https://tender.2merkato.com/tenders/6a82a5740a538a83cc000001)
+**Link:** [https://tender.2merkato.com/tenders/6a8e895b0a538a007e000001](https://tender.2merkato.com/tenders/6a8e895b0a538a007e000001)
 
 ---
 
-## Ethiopian Public Health Institute: Procurement of Medical Equipment and Supplies
+## Goba Referral Hospital , Madda Walabu University ኮሌጅ የመኝታ አገልግሎት 2019-1”
 
 **Source:** 2merkato.com
 
-**Company:** Ethiopian Public Health Institute
+**Company:** Madda Walabu University
 
 **Status:** Login required
 
 **Closing Date:** Login required to view
 
-**Matched Keywords:** medical equipment, medical
+**Matched Keywords:** hospital
 
-**Link:** [https://tender.2merkato.com/tenders/6a7ebd650a538ad993000001](https://tender.2merkato.com/tenders/6a7ebd650a538ad993000001)
+**Link:** [https://tender.2merkato.com/tenders/6a8e87010a538ab6a6000001](https://tender.2merkato.com/tenders/6a8e87010a538ab6a6000001)
 
 ---
 
@@ -259,6 +307,22 @@
 
 ---
 
+## Torhayloche Armed Forces Compressive Specialized Hospital Finance Management Directorate , Ministry of Defense: Procurement of Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** Torhayloche Armed Forces Compressive Specialized Hospital Finance Management Directorate
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical, hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6a82a5740a538a83cc000001](https://tender.2merkato.com/tenders/6a82a5740a538a83cc000001)
+
+---
+
 ## The Family Guidance Association of Ethiopia (FGAE) invites competitive and eligible firms for the installation of solar panels at Assayita General Hospital.
 
 **Source:** 2merkato.com
@@ -272,54 +336,6 @@
 **Matched Keywords:** hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6a80266a0a538a016f000001](https://tender.2merkato.com/tenders/6a80266a0a538a016f000001)
-
----
-
-## Alert Comprhensive Specialized Hospital: Procurement of Medical Equipment and Supplies
-
-**Source:** 2merkato.com
-
-**Company:** Alert  Comprehensive Specialized Hospital
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical, hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a7c2f410a538a3930000001](https://tender.2merkato.com/tenders/6a7c2f410a538a3930000001)
-
----
-
-## Alert Comprhensive Specialized Hospital: Procurement of Medical Equipment and Supplies
-
-**Source:** 2merkato.com
-
-**Company:** Alert  Comprehensive Specialized Hospital
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical, hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a7c2ef40a538a9ca6000001](https://tender.2merkato.com/tenders/6a7c2ef40a538a9ca6000001)
-
----
-
-## Amanuel Mental Specialized Hospital: Procurement of Maintenance and Repair Service
-
-**Source:** 2merkato.com
-
-**Company:** Amanuel Mental Specialized Hospital
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a7abf2b0a538aab8e000001](https://tender.2merkato.com/tenders/6a7abf2b0a538aab8e000001)
 
 ---
 
@@ -339,6 +355,22 @@
 
 ---
 
+## Debremarkos University: Procurement of Laboratory Equipment
+
+**Source:** 2merkato.com
+
+**Company:** Debre Markos University
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** laboratory equipment
+
+**Link:** [https://tender.2merkato.com/tenders/6a8e90c50a538a0390000001](https://tender.2merkato.com/tenders/6a8e90c50a538a0390000001)
+
+---
+
 ## Madda Walabu University: Procurement of Laboratory Equipment
 
 **Source:** 2merkato.com
@@ -352,6 +384,22 @@
 **Matched Keywords:** laboratory equipment
 
 **Link:** [https://tender.2merkato.com/tenders/6a870bf30a538a4273000001](https://tender.2merkato.com/tenders/6a870bf30a538a4273000001)
+
+---
+
+## Ethiopian Public Health Institute: Procurement of Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** Ethiopian Public Health Institute
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a7ebd650a538ad993000001](https://tender.2merkato.com/tenders/6a7ebd650a538ad993000001)
 
 ---
 
