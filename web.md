@@ -2,9 +2,9 @@
 
 ---
 
-**Execution #1350**
+**Execution #1351**
 
-**Last run:** 2026-08-26 05:58:23 UTC
+**Last run:** 2026-08-26 07:01:59 UTC
 
 **Total matched tenders:** 33
 
@@ -12,10 +12,26 @@
 
 ## EGP Portal Summary
 
-- **Active tenders:** 499
-- **Published today:** 2
-- **Closing today:** 106
+- **Active tenders:** 462
+- **Published today:** 3
+- **Closing today:** 105
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
+
+---
+
+## Goba Referral Hospital , Madda Walabu University MWU ጎባ ህ/ጤ/ሳይ/ኮሌጅ Oxygen gas ሙሌት አገልግሎት ግዥ 2019-1
+
+**Source:** 2merkato.com
+
+**Company:** Madda Walabu University
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6a8e89830a538a0390000001](https://tender.2merkato.com/tenders/6a8e89830a538a0390000001)
 
 ---
 
@@ -304,22 +320,6 @@
 **Matched Keywords:** hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6a7abf2b0a538aab8e000001](https://tender.2merkato.com/tenders/6a7abf2b0a538aab8e000001)
-
----
-
-## St. Paul's Hospital Millennium Medical College: Procurement of Furniture
-
-**Source:** 2merkato.com
-
-**Company:** St. Paul's Hospital Millennium Medical College
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical, hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a7978580a538a8cf9000001](https://tender.2merkato.com/tenders/6a7978580a538a8cf9000001)
 
 ---
 
