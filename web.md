@@ -2,9 +2,9 @@
 
 ---
 
-**Execution #1366**
+**Execution #1367**
 
-**Last run:** 2026-08-27 05:06:41 UTC
+**Last run:** 2026-08-27 16:29:47 UTC
 
 **Total matched tenders:** 37
 
@@ -12,10 +12,26 @@
 
 ## EGP Portal Summary
 
-- **Active tenders:** 597
-- **Published today:** 4
-- **Closing today:** 149
+- **Active tenders:** 659
+- **Published today:** 130
+- **Closing today:** 130
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
+
+---
+
+## Ethiopian Customs Commission: Lot 10 Procurement of Medical Equipment for Customs Commission Adama Branch Office
+
+**Source:** 2merkato.com
+
+**Company:** Ethiopian Customs Commission
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a8fd92f0a538abc58000001](https://tender.2merkato.com/tenders/6a8fd92f0a538abc58000001)
 
 ---
 
@@ -211,19 +227,19 @@
 
 ---
 
-## The Ethiopian Red Cross Society-Essential Drug program (ERCS-EDP) invites eligible pharmaceutical manufacturers and authorized agents to submit quotations for the supply of pharmaceuticals products (Lot 1), Laboratory reagents and chemicals (Lot 2), Medical supplies (Lot 3), and Medical equipment (Lot 4).
+## City Government of Addis Ababa Health Bureau Tirunesh Beijing General Hospital Procurement of Decore services
 
 **Source:** 2merkato.com
 
-**Company:** Ethiopian Red Cross Society
+**Company:** Tirunesh Beijing General Hospital
 
 **Status:** Login required
 
 **Closing Date:** Login required to view
 
-**Matched Keywords:** medical equipment, medical
+**Matched Keywords:** hospital
 
-**Link:** [https://tender.2merkato.com/tenders/6a8303820a538ac7a5000001](https://tender.2merkato.com/tenders/6a8303820a538ac7a5000001)
+**Link:** [https://tender.2merkato.com/tenders/6a8fd9330a538ac72a000001](https://tender.2merkato.com/tenders/6a8fd9330a538ac72a000001)
 
 ---
 
@@ -323,22 +339,6 @@
 
 ---
 
-## The Family Guidance Association of Ethiopia (FGAE) invites competitive and eligible firms for the installation of solar panels at Assayita General Hospital.
-
-**Source:** 2merkato.com
-
-**Company:** Family Guidance Association of Ethiopia
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a80266a0a538a016f000001](https://tender.2merkato.com/tenders/6a80266a0a538a016f000001)
-
----
-
 ## Debark University: Procurement of Laboratory Equipment
 
 **Source:** 2merkato.com
@@ -384,6 +384,22 @@
 **Matched Keywords:** laboratory equipment
 
 **Link:** [https://tender.2merkato.com/tenders/6a870bf30a538a4273000001](https://tender.2merkato.com/tenders/6a870bf30a538a4273000001)
+
+---
+
+## The Ethiopian Red Cross Society-Essential Drug program (ERCS-EDP) invites eligible pharmaceutical manufacturers and authorized agents to submit quotations for the supply of pharmaceuticals products (Lot 1), Laboratory reagents and chemicals (Lot 2), Medical supplies (Lot 3), and Medical equipment (Lot 4).
+
+**Source:** 2merkato.com
+
+**Company:** Ethiopian Red Cross Society
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a8303820a538ac7a5000001](https://tender.2merkato.com/tenders/6a8303820a538ac7a5000001)
 
 ---
 
@@ -448,22 +464,6 @@
 **Matched Keywords:** hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6a50b41e0a538a14c4000001](https://tender.2merkato.com/tenders/6a50b41e0a538a14c4000001)
-
----
-
-## Pharo Ventures is inviting qualified and experienced imaging equipment suppliers to submit proposals for the purchase of Ultrasound, X-ray, and C-Arm machines.
-
-**Source:** 2merkato.com
-
-**Company:** Pharo Integrated Agriculture and Manufacturing PLC
-
-**Status:** Closed
-
-**Closing Date:** 2026-08-08 16:00:00
-
-**Matched Keywords:** c-arm
-
-**Link:** [https://tender.2merkato.com/tenders/6a4f4aa00a538a7943000001](https://tender.2merkato.com/tenders/6a4f4aa00a538a7943000001)
 
 ---
 
