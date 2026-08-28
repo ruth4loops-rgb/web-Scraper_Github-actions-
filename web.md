@@ -2,19 +2,19 @@
 
 ---
 
-**Execution #1368**
+**Execution #1369**
 
-**Last run:** 2026-08-28 01:05:35 UTC
+**Last run:** 2026-08-28 12:44:31 UTC
 
-**Total matched tenders:** 37
+**Total matched tenders:** 36
 
 ---
 
 ## EGP Portal Summary
 
-- **Active tenders:** 654
-- **Published today:** 0
-- **Closing today:** 192
+- **Active tenders:** 622
+- **Published today:** 61
+- **Closing today:** 188
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
 
 ---
@@ -323,22 +323,6 @@
 
 ---
 
-## Torhayloche Armed Forces Compressive Specialized Hospital Finance Management Directorate , Ministry of Defense: Procurement of Medical Equipment and Supplies
-
-**Source:** 2merkato.com
-
-**Company:** Torhayloche Armed Forces Compressive Specialized Hospital Finance Management Directorate
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical, hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a82a5740a538a83cc000001](https://tender.2merkato.com/tenders/6a82a5740a538a83cc000001)
-
----
-
 ## Debark University: Procurement of Laboratory Equipment
 
 **Source:** 2merkato.com
@@ -451,22 +435,6 @@
 
 ---
 
-## CARE Ethiopia invites eligible contractors of category GC/BC/ Grade 5 and above to provide full construction services, including material and labor, for the repair and restoration of the Diagnostic Block at Dowhan Primary Hospital in Irob Woreda, Tigray Region.
-
-**Source:** 2merkato.com
-
-**Company:** Care Ethiopia
-
-**Status:** Closed
-
-**Closing Date:** 2026-07-21 14:00:00
-
-**Matched Keywords:** hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a50b41e0a538a14c4000001](https://tender.2merkato.com/tenders/6a50b41e0a538a14c4000001)
-
----
-
 ## The Carter Center Ethiopia (TCCE) invites sealed bids from registered suppliers for the purchase of various medical supplies for the GWE Program.
 
 **Source:** 2merkato.com
@@ -560,6 +528,22 @@
 **Matched Keywords:** medical
 
 **Link:** [https://tender.2merkato.com/tenders/6a8550460a538a0ec0000001](https://tender.2merkato.com/tenders/6a8550460a538a0ec0000001)
+
+---
+
+## Torhayloche Armed Forces Compressive Specialized Hospital Finance Management Directorate , Ministry of Defense: Procurement of Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** Torhayloche Armed Forces Compressive Specialized Hospital Finance Management Directorate
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical, hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6a82a5740a538a83cc000001](https://tender.2merkato.com/tenders/6a82a5740a538a83cc000001)
 
 ---
 
