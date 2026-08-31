@@ -2,20 +2,52 @@
 
 ---
 
-**Execution #1384**
+**Execution #1385**
 
-**Last run:** 2026-08-31 06:40:15 UTC
+**Last run:** 2026-08-31 14:26:44 UTC
 
-**Total matched tenders:** 35
+**Total matched tenders:** 37
 
 ---
 
 ## EGP Portal Summary
 
-- **Active tenders:** 617
-- **Published today:** 24
-- **Closing today:** 360
+- **Active tenders:** 598
+- **Published today:** 92
+- **Closing today:** 334
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
+
+---
+
+## City Government of Addis Ababa Health Bureau Tirunesh Beijing General Hospital: Procurement of Maintenance and Repair Service
+
+**Source:** 2merkato.com
+
+**Company:** Tirunesh Beijing General Hospital
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6a95256f0a538a7a5f000001](https://tender.2merkato.com/tenders/6a95256f0a538a7a5f000001)
+
+---
+
+## Addis Ababa City Administrative Health Bureau Yekatit 12 Hospital Medical College: Procurement of Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** Yekatit 12 Hospital Medical College
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical, hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6a951b140a538a710c000001](https://tender.2merkato.com/tenders/6a951b140a538a710c000001)
 
 ---
 
@@ -211,22 +243,6 @@
 
 ---
 
-## Alert Comprhensive Specialized Hospital would like to procure Medical Equipment and Supplies
-
-**Source:** 2merkato.com
-
-**Company:** Alert  Comprehensive Specialized Hospital
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical, hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a83f4ea0a538a91f1000001](https://tender.2merkato.com/tenders/6a83f4ea0a538a91f1000001)
-
----
-
 ## City Government of Addis Ababa Health Bureau Tirunesh Beijing General Hospital Procurement of Decore services
 
 **Source:** 2merkato.com
@@ -323,6 +339,22 @@
 
 ---
 
+## Shaggar Institute of Technology (SIT) invites eligible bidders for the supply and installation of workshop and laboratory equipment for the Electrical & Electronics, General Mechanics, and Biotechnology departments.
+
+**Source:** 2merkato.com
+
+**Company:** Shaggar Institute of Technology
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** laboratory equipment
+
+**Link:** [https://tender.2merkato.com/tenders/6a9530a40a538abb46000001](https://tender.2merkato.com/tenders/6a9530a40a538abb46000001)
+
+---
+
 ## Debark University: Procurement of Laboratory Equipment
 
 **Source:** 2merkato.com
@@ -384,22 +416,6 @@
 **Matched Keywords:** medical equipment, medical
 
 **Link:** [https://tender.2merkato.com/tenders/6a8303820a538ac7a5000001](https://tender.2merkato.com/tenders/6a8303820a538ac7a5000001)
-
----
-
-## Ethiopian Public Health Institute: Procurement of Medical Equipment and Supplies
-
-**Source:** 2merkato.com
-
-**Company:** Ethiopian Public Health Institute
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a7ebd650a538ad993000001](https://tender.2merkato.com/tenders/6a7ebd650a538ad993000001)
 
 ---
 
@@ -531,6 +547,22 @@
 
 ---
 
+## Alert Comprhensive Specialized Hospital would like to procure Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** Alert  Comprehensive Specialized Hospital
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical, hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6a83f4ea0a538a91f1000001](https://tender.2merkato.com/tenders/6a83f4ea0a538a91f1000001)
+
+---
+
 ## Torhayloche Armed Forces Compressive Specialized Hospital Finance Management Directorate , Ministry of Defense: Procurement of Medical Equipment and Supplies
 
 **Source:** 2merkato.com
@@ -547,6 +579,22 @@
 
 ---
 
+## Ethiopian Public Health Institute: Procurement of Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** Ethiopian Public Health Institute
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a7ebd650a538ad993000001](https://tender.2merkato.com/tenders/6a7ebd650a538ad993000001)
+
+---
+
 ## Bio and Emerging technology Institute: Procurement of Medical Equipment and Supplies
 
 **Source:** 2merkato.com
@@ -560,22 +608,6 @@
 **Matched Keywords:** medical equipment, medical
 
 **Link:** [https://tender.2merkato.com/tenders/6a7d66d20a538a2102000001](https://tender.2merkato.com/tenders/6a7d66d20a538a2102000001)
-
----
-
-## St. Paul's Hospital Millennium Medical College , St. Paul's Hospital Millennium Medical College: Procurement of Medical Supplies, Laboratory Reagents and Chemicals
-
-**Source:** 2merkato.com
-
-**Company:** St. Paul's Hospital Millennium Medical College
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical, hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a7d618b0a538a1e1f000001](https://tender.2merkato.com/tenders/6a7d618b0a538a1e1f000001)
 
 ---
 
