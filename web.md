@@ -2,11 +2,84 @@
 
 ---
 
-**Execution #1388**
+**Execution #1389**
 
-**Last run:** 2026-09-01 04:47:07 UTC
+**Last run:** 2026-09-01 09:37:14 UTC
 
-**Total matched tenders:** 37
+**Total matched tenders:** 42
+
+---
+
+## EGP Portal Summary
+
+- **Active tenders:** 699
+- **Published today:** 54
+- **Closing today:** 198
+- **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
+
+---
+
+## Debre Birhan University Procurement of Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** Debre Birhan University
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a96790a0a538a7b84000001](https://tender.2merkato.com/tenders/6a96790a0a538a7b84000001)
+
+---
+
+## Debre Birhan University Procurement of Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** Debre Birhan University
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a96765f0a538a8261000001](https://tender.2merkato.com/tenders/6a96765f0a538a8261000001)
+
+---
+
+## Debre Birhan University: Procurement of Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** Debre Birhan University
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a9670b60a538a46f7000001](https://tender.2merkato.com/tenders/6a9670b60a538a46f7000001)
+
+---
+
+## Alert Comprhensive Specialized Hospital: Procurement of Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** Alert  Comprehensive Specialized Hospital
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical, hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6a9670a60a538a6328000001](https://tender.2merkato.com/tenders/6a9670a60a538a6328000001)
 
 ---
 
@@ -170,67 +243,35 @@
 
 ---
 
-## St. Peter Specialized Hospital: Procurement of Medical Equipment and Supplies
+## Amanuel Mental Specialized Hospital :procurement of meat
 
 **Source:** 2merkato.com
 
-**Company:** St. Peter Specialized Hospital
+**Company:** Amanuel Mental Specialized Hospital
 
 **Status:** Login required
 
 **Closing Date:** Login required to view
 
-**Matched Keywords:** medical equipment, medical, hospital
+**Matched Keywords:** hospital
 
-**Link:** [https://tender.2merkato.com/tenders/6a883de40a538a4103000001](https://tender.2merkato.com/tenders/6a883de40a538a4103000001)
+**Link:** [https://tender.2merkato.com/tenders/6a9679fd0a538a7b46000001](https://tender.2merkato.com/tenders/6a9679fd0a538a7b46000001)
 
 ---
 
-## The Amhara Development Association (ADA) invites potential suppliers to submit bids for the procurement of Office & Medical Equipment, Vehicle parts, and printing services.
+## Amanuel Mental Specialized Hospital: Procurement of Electronics Equipment
 
 **Source:** 2merkato.com
 
-**Company:** Amhara Development Association (ADA)
+**Company:** Amanuel Mental Specialized Hospital
 
 **Status:** Login required
 
 **Closing Date:** Login required to view
 
-**Matched Keywords:** medical equipment, medical
+**Matched Keywords:** hospital
 
-**Link:** [https://tender.2merkato.com/tenders/6a86daa20a538a14e6000001](https://tender.2merkato.com/tenders/6a86daa20a538a14e6000001)
-
----
-
-## Ministry of Defense: Procurement of Medical Equipment and Supplies
-
-**Source:** 2merkato.com
-
-**Company:** Ministry of Defense
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a8693070a538a0d07000001](https://tender.2merkato.com/tenders/6a8693070a538a0d07000001)
-
----
-
-## The Office of the United Nations High Commissioner for Refugees (UNHCR) Representation Office in Ethiopia invites qualified and registered suppliers to bid for the supply and delivery of essential medicines and medical equipment for the Melkadida Operation.
-
-**Source:** 2merkato.com
-
-**Company:** United Nations High Commissioner for Refugees (UNHCR)
-
-**Status:** Closed
-
-**Closing Date:** 2026-09-01 00:59:00
-
-**Matched Keywords:** medical equipment, medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a83fbd80a538a51b5000001](https://tender.2merkato.com/tenders/6a83fbd80a538a51b5000001)
+**Link:** [https://tender.2merkato.com/tenders/6a9676d40a538ab63e000001](https://tender.2merkato.com/tenders/6a9676d40a538ab63e000001)
 
 ---
 
@@ -295,38 +336,6 @@
 **Matched Keywords:** medical, hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6a8949270a538a0544000001](https://tender.2merkato.com/tenders/6a8949270a538a0544000001)
-
----
-
-## Amanuel Mental Specialized Hospital: Procurement of Furniture
-
-**Source:** 2merkato.com
-
-**Company:** Amanuel Mental Specialized Hospital
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a8947f30a538aacb4000001](https://tender.2merkato.com/tenders/6a8947f30a538aacb4000001)
-
----
-
-## Amanuel Mental Specialized Hospital: Procurement of Maintenance and Repair Service
-
-**Source:** 2merkato.com
-
-**Company:** Amanuel Mental Specialized Hospital
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a8946d10a538ac46c000001](https://tender.2merkato.com/tenders/6a8946d10a538ac46c000001)
 
 ---
 
@@ -506,11 +515,11 @@
 
 ---
 
-## Bahir Dar University would like to procure Medical Supplies
+## Debre Birhan University: Procurement of Medical Supplies, Laboratory Reagents and Chemicals
 
 **Source:** 2merkato.com
 
-**Company:** Bahir Dar University
+**Company:** Debre Birhan University
 
 **Status:** Login required
 
@@ -518,15 +527,15 @@
 
 **Matched Keywords:** medical
 
-**Link:** [https://tender.2merkato.com/tenders/6a894d7f0a538a7baa000001](https://tender.2merkato.com/tenders/6a894d7f0a538a7baa000001)
+**Link:** [https://tender.2merkato.com/tenders/6a967de40a538ab5ba000001](https://tender.2merkato.com/tenders/6a967de40a538ab5ba000001)
 
 ---
 
-## Ethiopian Public Health Institute: Procurement of Medical Supplies
+## Debre Birhan University: Procurement of Medical Supplies, Laboratory Reagents and Chemicals
 
 **Source:** 2merkato.com
 
-**Company:** Ethiopian Public Health Institute
+**Company:** Debre Birhan University
 
 **Status:** Login required
 
@@ -534,71 +543,151 @@
 
 **Matched Keywords:** medical
 
-**Link:** [https://tender.2merkato.com/tenders/6a8550460a538a0ec0000001](https://tender.2merkato.com/tenders/6a8550460a538a0ec0000001)
+**Link:** [https://tender.2merkato.com/tenders/6a967d490a538ab3f3000001](https://tender.2merkato.com/tenders/6a967d490a538ab3f3000001)
 
 ---
 
-## Alert Comprhensive Specialized Hospital would like to procure Medical Equipment and Supplies
+## Debre Birhan University Procurement of Medical Supplies, Laboratory Reagents and Chemicals
 
 **Source:** 2merkato.com
 
-**Company:** Alert  Comprehensive Specialized Hospital
+**Company:** Debre Birhan University
 
 **Status:** Login required
 
 **Closing Date:** Login required to view
 
-**Matched Keywords:** medical equipment, medical, hospital
+**Matched Keywords:** medical
 
-**Link:** [https://tender.2merkato.com/tenders/6a83f4ea0a538a91f1000001](https://tender.2merkato.com/tenders/6a83f4ea0a538a91f1000001)
+**Link:** [https://tender.2merkato.com/tenders/6a967a060a538a81e0000001](https://tender.2merkato.com/tenders/6a967a060a538a81e0000001)
 
 ---
 
-## Torhayloche Armed Forces Compressive Specialized Hospital Finance Management Directorate , Ministry of Defense: Procurement of Medical Equipment and Supplies
+## Procurement of Medical Supplies, Laboratory Reagents and Chemicals
 
 **Source:** 2merkato.com
 
-**Company:** Torhayloche Armed Forces Compressive Specialized Hospital Finance Management Directorate
+**Company:** Debre Birhan University
 
 **Status:** Login required
 
 **Closing Date:** Login required to view
 
-**Matched Keywords:** medical equipment, medical, hospital
+**Matched Keywords:** medical
 
-**Link:** [https://tender.2merkato.com/tenders/6a82a5740a538a83cc000001](https://tender.2merkato.com/tenders/6a82a5740a538a83cc000001)
+**Link:** [https://tender.2merkato.com/tenders/6a9679b40a538ab3d8000001](https://tender.2merkato.com/tenders/6a9679b40a538ab3d8000001)
 
 ---
 
-## Ethiopian Public Health Institute: Procurement of Medical Equipment and Supplies
+## Debre Birhan University : Procurement of Medical Supplies, Laboratory Reagents and Chemicals
 
 **Source:** 2merkato.com
 
-**Company:** Ethiopian Public Health Institute
+**Company:** Debre Birhan University
 
 **Status:** Login required
 
 **Closing Date:** Login required to view
 
-**Matched Keywords:** medical equipment, medical
+**Matched Keywords:** medical
 
-**Link:** [https://tender.2merkato.com/tenders/6a7ebd650a538ad993000001](https://tender.2merkato.com/tenders/6a7ebd650a538ad993000001)
+**Link:** [https://tender.2merkato.com/tenders/6a9676b10a538a7b84000001](https://tender.2merkato.com/tenders/6a9676b10a538a7b84000001)
 
 ---
 
-## Bio and Emerging technology Institute: Procurement of Medical Equipment and Supplies
+## Debre Birhan University: Procurement of Medical Supplies, Laboratory Reagents and Chemicals
 
 **Source:** 2merkato.com
 
-**Company:** Bio and Emerging Technology Institute
+**Company:** Debre Birhan University
 
 **Status:** Login required
 
 **Closing Date:** Login required to view
 
-**Matched Keywords:** medical equipment, medical
+**Matched Keywords:** medical
 
-**Link:** [https://tender.2merkato.com/tenders/6a7d66d20a538a2102000001](https://tender.2merkato.com/tenders/6a7d66d20a538a2102000001)
+**Link:** [https://tender.2merkato.com/tenders/6a9675010a538a6328000001](https://tender.2merkato.com/tenders/6a9675010a538a6328000001)
+
+---
+
+## Debre Birhan University: Procurement of Medical Supplies, Laboratory Reagents and Chemicals”
+
+**Source:** 2merkato.com
+
+**Company:** Debre Birhan University
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a96744d0a538aaa5f000001](https://tender.2merkato.com/tenders/6a96744d0a538aaa5f000001)
+
+---
+
+## Debre Birhan University Procurement of Medical Supplies, Laboratory Reagents and Chemicals
+
+**Source:** 2merkato.com
+
+**Company:** Debre Birhan University
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a9672f90a538ab5c7000001](https://tender.2merkato.com/tenders/6a9672f90a538ab5c7000001)
+
+---
+
+## Debre Birhan University: Procurement of Medical Supplies, Laboratory Reagents and Chemicals
+
+**Source:** 2merkato.com
+
+**Company:** Debre Birhan University
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a966efc0a538aaf4e000001](https://tender.2merkato.com/tenders/6a966efc0a538aaf4e000001)
+
+---
+
+## Debre Birhan University: Procurement of Medical Supplies, Laboratory Reagents and Chemicals
+
+**Source:** 2merkato.com
+
+**Company:** Debre Birhan University
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a966eaf0a538ab73d000001](https://tender.2merkato.com/tenders/6a966eaf0a538ab73d000001)
+
+---
+
+## Debre Birhan University: Procurement of Medical Supplies, Laboratory Reagents and Chemicals
+
+**Source:** 2merkato.com
+
+**Company:** Debre Birhan University
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a966d2d0a538abc42000001](https://tender.2merkato.com/tenders/6a966d2d0a538abc42000001)
 
 ---
 
