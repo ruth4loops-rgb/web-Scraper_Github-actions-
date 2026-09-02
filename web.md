@@ -2,11 +2,36 @@
 
 ---
 
-**Execution #1395**
+**Execution #1396**
 
-**Last run:** 2026-09-02 05:04:20 UTC
+**Last run:** 2026-09-02 09:33:34 UTC
 
-**Total matched tenders:** 42
+**Total matched tenders:** 39
+
+---
+
+## EGP Portal Summary
+
+- **Active tenders:** 649
+- **Published today:** 83
+- **Closing today:** 162
+- **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
+
+---
+
+## AAU - College of Health Sciences and Black lion Hospital , Addis Ababa University : Procurement of Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** Addis Ababa University
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical, hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6a97c4930a538afb82000001](https://tender.2merkato.com/tenders/6a97c4930a538afb82000001)
 
 ---
 
@@ -218,22 +243,6 @@
 
 ---
 
-## National Intelligence and Security Service: Procurement of Medical Equipment and Supplies(clin)
-
-**Source:** 2merkato.com
-
-**Company:** National Intelligence and Security Service
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a8852830a538a7172000001](https://tender.2merkato.com/tenders/6a8852830a538a7172000001)
-
----
-
 ## Amanuel Mental Specialized Hospital :procurement of meat
 
 **Source:** 2merkato.com
@@ -311,22 +320,6 @@
 **Matched Keywords:** hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6a8e87010a538ab6a6000001](https://tender.2merkato.com/tenders/6a8e87010a538ab6a6000001)
-
----
-
-## St. Peter Specialized Hospital: Procurement of Medical Devices
-
-**Source:** 2merkato.com
-
-**Company:** St. Peter Specialized Hospital
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical, hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a8949270a538a0544000001](https://tender.2merkato.com/tenders/6a8949270a538a0544000001)
 
 ---
 
@@ -423,22 +416,6 @@
 **Matched Keywords:** medical
 
 **Link:** [https://tender.2merkato.com/tenders/6a672cf10a538a8619000001](https://tender.2merkato.com/tenders/6a672cf10a538a8619000001)
-
----
-
-## CARE Ethiopia invites eligible contractors of category GC/BC/ Grade 5 and above to provide full construction services, including material and labor, for the repair and restoration of the Diagnostic Block at Dowhan Primary Hospital in Irob Woreda, Tigray Region.
-
-**Source:** 2merkato.com
-
-**Company:** Care Ethiopia
-
-**Status:** Closed
-
-**Closing Date:** 2026-07-21 14:00:00
-
-**Matched Keywords:** hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a549c1f0a538ab5d7000001](https://tender.2merkato.com/tenders/6a549c1f0a538ab5d7000001)
 
 ---
 
@@ -663,22 +640,6 @@
 **Matched Keywords:** medical
 
 **Link:** [https://tender.2merkato.com/tenders/6a966eaf0a538ab73d000001](https://tender.2merkato.com/tenders/6a966eaf0a538ab73d000001)
-
----
-
-## Debre Birhan University: Procurement of Medical Supplies, Laboratory Reagents and Chemicals
-
-**Source:** 2merkato.com
-
-**Company:** Debre Birhan University
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a966d2d0a538abc42000001](https://tender.2merkato.com/tenders/6a966d2d0a538abc42000001)
 
 ---
 
