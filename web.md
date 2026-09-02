@@ -2,20 +2,52 @@
 
 ---
 
-**Execution #1396**
+**Execution #1397**
 
-**Last run:** 2026-09-02 09:33:34 UTC
+**Last run:** 2026-09-02 13:50:56 UTC
 
-**Total matched tenders:** 39
+**Total matched tenders:** 37
 
 ---
 
 ## EGP Portal Summary
 
-- **Active tenders:** 649
-- **Published today:** 83
-- **Closing today:** 162
+- **Active tenders:** 717
+- **Published today:** 152
+- **Closing today:** 152
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
+
+---
+
+## National Intelligence and Security Service: Procurement of Medical Equipment and Supplies(clin)
+
+**Source:** 2merkato.com
+
+**Company:** National Intelligence and Security Service
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a9821190a538a350b000001](https://tender.2merkato.com/tenders/6a9821190a538a350b000001)
+
+---
+
+## St. Peter Specialized Hospital: Procurement of Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** St. Peter Specialized Hospital
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical, hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6a98118c0a538a40ea000001](https://tender.2merkato.com/tenders/6a98118c0a538a40ea000001)
 
 ---
 
@@ -211,35 +243,19 @@
 
 ---
 
-## The Office of the United Nations High Commissioner for Refugees (UNHCR) Representation Office in Ethiopia invites qualified and registered suppliers to bid for the supply and delivery of essential medicines and medical equipment for the Melkadida Operation.
+## Amanuel Mental Specialized Hospital: Procurement of Maintenance and Repair Service
 
 **Source:** 2merkato.com
 
-**Company:** United Nations High Commissioner for Refugees (UNHCR)
-
-**Status:** Closed
-
-**Closing Date:** 2026-09-01 00:59:00
-
-**Matched Keywords:** medical equipment, medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a8c363f0a538a185f000001](https://tender.2merkato.com/tenders/6a8c363f0a538a185f000001)
-
----
-
-## Ministry of Defense፡ Procurement of Medical Equipment and Supplies
-
-**Source:** 2merkato.com
-
-**Company:** Ministry of Defense
+**Company:** Amanuel Mental Specialized Hospital
 
 **Status:** Login required
 
 **Closing Date:** Login required to view
 
-**Matched Keywords:** medical equipment, medical
+**Matched Keywords:** hospital
 
-**Link:** [https://tender.2merkato.com/tenders/6a8979340a538a1606000001](https://tender.2merkato.com/tenders/6a8979340a538a1606000001)
+**Link:** [https://tender.2merkato.com/tenders/6a9812b80a538a3b80000001](https://tender.2merkato.com/tenders/6a9812b80a538a3b80000001)
 
 ---
 
@@ -288,38 +304,6 @@
 **Matched Keywords:** hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6a8fd9330a538ac72a000001](https://tender.2merkato.com/tenders/6a8fd9330a538ac72a000001)
-
----
-
-## Goba Referral Hospital , Madda Walabu University :MWU ጎባ ህ/ጤ/ሳይ/ኮሌጅ መስተንግዶ አገልግሎት ከውጭ የሚቀርብ 2019-1
-
-**Source:** 2merkato.com
-
-**Company:** Medewelabu University Goba Referral Hospital
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a8e895b0a538a007e000001](https://tender.2merkato.com/tenders/6a8e895b0a538a007e000001)
-
----
-
-## Goba Referral Hospital , Madda Walabu University ኮሌጅ የመኝታ አገልግሎት 2019-1”
-
-**Source:** 2merkato.com
-
-**Company:** Madda Walabu University
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a8e87010a538ab6a6000001](https://tender.2merkato.com/tenders/6a8e87010a538ab6a6000001)
 
 ---
 
@@ -483,6 +467,22 @@
 
 ---
 
+## Orbis International Ethiopia invites eligible importers, manufacturers, and wholesalers to submit bids for the supply of consumable medical supplies and equipment.
+
+**Source:** 2merkato.com
+
+**Company:** Orbis International Ethiopia (OlE)
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a97fb8a0a538a940e000001](https://tender.2merkato.com/tenders/6a97fb8a0a538a940e000001)
+
+---
+
 ## Debre Birhan University: Procurement of Medical Supplies, Laboratory Reagents and Chemicals
 
 **Source:** 2merkato.com
@@ -608,38 +608,6 @@
 **Matched Keywords:** medical
 
 **Link:** [https://tender.2merkato.com/tenders/6a9672f90a538ab5c7000001](https://tender.2merkato.com/tenders/6a9672f90a538ab5c7000001)
-
----
-
-## Debre Birhan University: Procurement of Medical Supplies, Laboratory Reagents and Chemicals
-
-**Source:** 2merkato.com
-
-**Company:** Debre Birhan University
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a966efc0a538aaf4e000001](https://tender.2merkato.com/tenders/6a966efc0a538aaf4e000001)
-
----
-
-## Debre Birhan University: Procurement of Medical Supplies, Laboratory Reagents and Chemicals
-
-**Source:** 2merkato.com
-
-**Company:** Debre Birhan University
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a966eaf0a538ab73d000001](https://tender.2merkato.com/tenders/6a966eaf0a538ab73d000001)
 
 ---
 
