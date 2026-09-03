@@ -2,9 +2,9 @@
 
 ---
 
-**Execution #1402**
+**Execution #1403**
 
-**Last run:** 2026-09-03 05:07:10 UTC
+**Last run:** 2026-09-03 09:47:39 UTC
 
 **Total matched tenders:** 37
 
@@ -12,10 +12,42 @@
 
 ## EGP Portal Summary
 
-- **Active tenders:** 731
-- **Published today:** 8
+- **Active tenders:** 718
+- **Published today:** 53
 - **Closing today:** 251
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
+
+---
+
+## The Ministry of Education (MOE), with financing from KfW, invites proposals from eligible CPD Centers for the delivery of a training program titled 'Medical Device Maintenance Procedure and Workshop Organization Course & On-site Coaching for Healthcare Specialists and Technicians'.
+
+**Source:** 2merkato.com
+
+**Company:** Ministry of Education
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a992c6c0a538a2567000001](https://tender.2merkato.com/tenders/6a992c6c0a538a2567000001)
+
+---
+
+## Ministry of Defense: Procurement of Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** Ministry of Defense
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a9911550a538a8a22000001](https://tender.2merkato.com/tenders/6a9911550a538a8a22000001)
 
 ---
 
@@ -208,38 +240,6 @@
 **Matched Keywords:** medical equipment, medical, hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6a8e954b0a538afd0b000001](https://tender.2merkato.com/tenders/6a8e954b0a538afd0b000001)
-
----
-
-## University of Gondar: Procurement of Medical Equipment and Supplies
-
-**Source:** 2merkato.com
-
-**Company:** University of Gondar
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a8e8d7a0a538a03fc000001](https://tender.2merkato.com/tenders/6a8e8d7a0a538a03fc000001)
-
----
-
-## Goba Referral Hospital , Madda Walabu University MWU ጎባ ህ/ጤ/ሳይ/ኮሌጅ Oxygen gas ሙሌት አገልግሎት ግዥ 2019-1
-
-**Source:** 2merkato.com
-
-**Company:** Madda Walabu University
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a8e89830a538a0390000001](https://tender.2merkato.com/tenders/6a8e89830a538a0390000001)
 
 ---
 
