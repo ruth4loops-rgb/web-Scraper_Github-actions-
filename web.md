@@ -2,9 +2,9 @@
 
 ---
 
-**Execution #1410**
+**Execution #1411**
 
-**Last run:** 2026-09-04 09:25:17 UTC
+**Last run:** 2026-09-04 13:41:59 UTC
 
 **Total matched tenders:** 37
 
@@ -12,10 +12,26 @@
 
 ## EGP Portal Summary
 
-- **Active tenders:** 624
-- **Published today:** 24
-- **Closing today:** 246
+- **Active tenders:** 623
+- **Published today:** 90
+- **Closing today:** 234
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
+
+---
+
+## Positive Action for Development (PAD) invites qualified and EFDA-registered suppliers for the procurement of various medical equipment, including Fetal Dopplers, Centrifuges, Oxygen Concentrators, CBC Machines, Digital BP Apparatus, Pulse Oximeters, Glucometers, Suction Machines, Clinical Thermometers, Wheelchairs, Stethoscopes, and Instrument Trolleys.
+
+**Source:** 2merkato.com
+
+**Company:** Positive Action for Development
+
+**Status:** Open
+
+**Closing Date:** 2026-09-15 15:00:00
+
+**Matched Keywords:** pulse oximeter, bp apparatus, glucometer, thermometer, medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a9a95400a538ab183000001](https://tender.2merkato.com/tenders/6a9a95400a538ab183000001)
 
 ---
 
@@ -240,22 +256,6 @@
 **Matched Keywords:** medical equipment, medical
 
 **Link:** [https://tender.2merkato.com/tenders/6a8e98820a538af605000001](https://tender.2merkato.com/tenders/6a8e98820a538af605000001)
-
----
-
-## Tirunesh Beijing General Hospital: Procurement of Medical Equipment and Supplies
-
-**Source:** 2merkato.com
-
-**Company:** Tirunesh Beijing General Hospital
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical, hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a8e954b0a538afd0b000001](https://tender.2merkato.com/tenders/6a8e954b0a538afd0b000001)
 
 ---
 
