@@ -2,9 +2,9 @@
 
 ---
 
-**Execution #1409**
+**Execution #1410**
 
-**Last run:** 2026-09-04 04:55:34 UTC
+**Last run:** 2026-09-04 09:25:17 UTC
 
 **Total matched tenders:** 37
 
@@ -12,10 +12,26 @@
 
 ## EGP Portal Summary
 
-- **Active tenders:** 694
-- **Published today:** 12
-- **Closing today:** 244
+- **Active tenders:** 624
+- **Published today:** 24
+- **Closing today:** 246
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
+
+---
+
+## St. Peter Specialized Hospital: Procurement of Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** St. Peter Specialized Hospital
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical, hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6a9a62650a538a65ad000001](https://tender.2merkato.com/tenders/6a9a62650a538a65ad000001)
 
 ---
 
@@ -243,6 +259,22 @@
 
 ---
 
+## Amanuel Mental Specialized Hospital: Procurement of Printing and Publishing Services
+
+**Source:** 2merkato.com
+
+**Company:** Amanuel Mental Specialized Hospital
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6a9a5e800a538a6331000001](https://tender.2merkato.com/tenders/6a9a5e800a538a6331000001)
+
+---
+
 ## Amanuel Mental Specialized Hospital: Procurement of Maintenance and Repair Service
 
 **Source:** 2merkato.com
@@ -288,22 +320,6 @@
 **Matched Keywords:** hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6a9676d40a538ab63e000001](https://tender.2merkato.com/tenders/6a9676d40a538ab63e000001)
-
----
-
-## City Government of Addis Ababa Health Bureau Tirunesh Beijing General Hospital Procurement of Decore services
-
-**Source:** 2merkato.com
-
-**Company:** Tirunesh Beijing General Hospital
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a8fd9330a538ac72a000001](https://tender.2merkato.com/tenders/6a8fd9330a538ac72a000001)
 
 ---
 
@@ -592,22 +608,6 @@
 **Matched Keywords:** medical
 
 **Link:** [https://tender.2merkato.com/tenders/6a96744d0a538aaa5f000001](https://tender.2merkato.com/tenders/6a96744d0a538aaa5f000001)
-
----
-
-## Debre Birhan University Procurement of Medical Supplies, Laboratory Reagents and Chemicals
-
-**Source:** 2merkato.com
-
-**Company:** Debre Birhan University
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a9672f90a538ab5c7000001](https://tender.2merkato.com/tenders/6a9672f90a538ab5c7000001)
 
 ---
 
