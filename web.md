@@ -2,20 +2,36 @@
 
 ---
 
-**Execution #1417**
+**Execution #1418**
 
-**Last run:** 2026-09-05 05:55:51 UTC
+**Last run:** 2026-09-05 10:22:54 UTC
 
-**Total matched tenders:** 37
+**Total matched tenders:** 36
 
 ---
 
 ## EGP Portal Summary
 
-- **Active tenders:** 615
-- **Published today:** 3
-- **Closing today:** 0
+- **Active tenders:** 667
+- **Published today:** 21
+- **Closing today:** 1
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
+
+---
+
+## Ethiopian Federal Police: Procurement of Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** Federal Police Commission
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a9bb5100a538ab9d7000001](https://tender.2merkato.com/tenders/6a9bb5100a538ab9d7000001)
 
 ---
 
@@ -243,22 +259,6 @@
 
 ---
 
-## Waliya Capital Goods Finance Business Share Company (WCGFB) is inviting sealed bids for the procurement of various medical equipment for lease clients located in Gondar town, Amhara region.
-
-**Source:** 2merkato.com
-
-**Company:** Waliya Capital Goods Finance Business Share Company (WCGFB)
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a8e98820a538af605000001](https://tender.2merkato.com/tenders/6a8e98820a538af605000001)
-
----
-
 ## Amanuel Mental Specialized Hospital: Procurement of Printing and Publishing Services
 
 **Source:** 2merkato.com
@@ -323,6 +323,22 @@
 
 ---
 
+## Livestock Development Institute: Procurement of Laboratory Equipment
+
+**Source:** 2merkato.com
+
+**Company:** FDRE Livestock Development Institute
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** laboratory equipment
+
+**Link:** [https://tender.2merkato.com/tenders/6a9bb90b0a538accf4000001](https://tender.2merkato.com/tenders/6a9bb90b0a538accf4000001)
+
+---
+
 ## Shaggar Institute of Technology (SIT) invites eligible bidders for the supply and installation of workshop and laboratory equipment for the Electrical & Electronics, General Mechanics, and Biotechnology departments.
 
 **Source:** 2merkato.com
@@ -384,22 +400,6 @@
 **Matched Keywords:** laboratory equipment
 
 **Link:** [https://tender.2merkato.com/tenders/6a870bf30a538a4273000001](https://tender.2merkato.com/tenders/6a870bf30a538a4273000001)
-
----
-
-## The Ethiopian Red Cross Society-Essential Drug program (ERCS-EDP) invites eligible pharmaceutical manufacturers and authorized agents to submit quotations for the supply of pharmaceuticals products (Lot 1), Laboratory reagents and chemicals (Lot 2), Medical supplies (Lot 3), and Medical equipment (Lot 4).
-
-**Source:** 2merkato.com
-
-**Company:** Ethiopian Red Cross Society
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a8303820a538ac7a5000001](https://tender.2merkato.com/tenders/6a8303820a538ac7a5000001)
 
 ---
 
@@ -592,22 +592,6 @@
 **Matched Keywords:** medical
 
 **Link:** [https://tender.2merkato.com/tenders/6a9675010a538a6328000001](https://tender.2merkato.com/tenders/6a9675010a538a6328000001)
-
----
-
-## Debre Birhan University: Procurement of Medical Supplies, Laboratory Reagents and Chemicals”
-
-**Source:** 2merkato.com
-
-**Company:** Debre Birhan University
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a96744d0a538aaa5f000001](https://tender.2merkato.com/tenders/6a96744d0a538aaa5f000001)
 
 ---
 
