@@ -2,20 +2,11 @@
 
 ---
 
-**Execution #1440**
+**Execution #1441**
 
-**Last run:** 2026-09-08 06:01:20 UTC
+**Last run:** 2026-09-08 11:10:32 UTC
 
-**Total matched tenders:** 37
-
----
-
-## EGP Portal Summary
-
-- **Active tenders:** 558
-- **Published today:** 7
-- **Closing today:** 215
-- **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
+**Total matched tenders:** 36
 
 ---
 
@@ -227,35 +218,19 @@
 
 ---
 
-## Addis Ababa City Administrative Health Bureau Yekatit 12 Hospital Medical College: Procurement of Medical Equipment and Supplies
+## Expertise France is seeking qualified consulting firms to conduct an Environmental and Social Impact Assessment (ESIA) and prepare an Environmental and Social Management Plan (ESMP) for the physical rehabilitation and re-equipment of Abala Primary Hospital in the Afar region and Adwa General Hospital in the Tigray region.
 
 **Source:** 2merkato.com
 
-**Company:** Yekatit 12 Hospital Medical College
+**Company:** Expertise France
 
-**Status:** Login required
+**Status:** Open
 
-**Closing Date:** Login required to view
+**Closing Date:** 2026-09-20 18:00:00
 
-**Matched Keywords:** medical equipment, medical, hospital
+**Matched Keywords:** hospital
 
-**Link:** [https://tender.2merkato.com/tenders/6a951b140a538a710c000001](https://tender.2merkato.com/tenders/6a951b140a538a710c000001)
-
----
-
-## Ethiopian Customs Commission: Lot 10 Procurement of Medical Equipment for Customs Commission Adama Branch Office
-
-**Source:** 2merkato.com
-
-**Company:** Ethiopian Customs Commission
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a8fd92f0a538abc58000001](https://tender.2merkato.com/tenders/6a8fd92f0a538abc58000001)
+**Link:** [https://tender.2merkato.com/tenders/6a9fbafe0a538a1604000001](https://tender.2merkato.com/tenders/6a9fbafe0a538a1604000001)
 
 ---
 
