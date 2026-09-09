@@ -2,11 +2,11 @@
 
 ---
 
-**Execution #1447**
+**Execution #1448**
 
-**Last run:** 2026-09-09 06:37:53 UTC
+**Last run:** 2026-09-09 11:52:35 UTC
 
-**Total matched tenders:** 36
+**Total matched tenders:** 35
 
 ---
 
@@ -279,22 +279,6 @@
 **Matched Keywords:** hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6a9679fd0a538a7b46000001](https://tender.2merkato.com/tenders/6a9679fd0a538a7b46000001)
-
----
-
-## Amanuel Mental Specialized Hospital: Procurement of Electronics Equipment
-
-**Source:** 2merkato.com
-
-**Company:** Amanuel Mental Specialized Hospital
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a9676d40a538ab63e000001](https://tender.2merkato.com/tenders/6a9676d40a538ab63e000001)
 
 ---
 
