@@ -2,11 +2,27 @@
 
 ---
 
-**Execution #1484**
+**Execution #1485**
 
-**Last run:** 2026-09-14 10:30:54 UTC
+**Last run:** 2026-09-14 16:30:34 UTC
 
 **Total matched tenders:** 36
+
+---
+
+## The American Jewish Joint Distribution Committee (JDC), an international NGO registered in Ethiopia, invites qualified suppliers to submit bids for the supply, delivery, and installation of Medical Equipment for Maraki Health Center, Gondar, Ethiopia.
+
+**Source:** 2merkato.com
+
+**Company:** American Jewish Joint Distribution Committee
+
+**Status:** Open
+
+**Closing Date:** 2026-09-25 17:00:00
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6aa7d66e0a538a06e1000001](https://tender.2merkato.com/tenders/6aa7d66e0a538a06e1000001)
 
 ---
 
@@ -199,22 +215,6 @@
 **Matched Keywords:** medical equipment, medical, hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6a9670a60a538a6328000001](https://tender.2merkato.com/tenders/6a9670a60a538a6328000001)
-
----
-
-## City Government of Addis Ababa Health Bureau Tirunesh Beijing General Hospital: Procurement of Maintenance and Repair Service
-
-**Source:** 2merkato.com
-
-**Company:** Tirunesh Beijing General Hospital
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a95256f0a538a7a5f000001](https://tender.2merkato.com/tenders/6a95256f0a538a7a5f000001)
 
 ---
 
