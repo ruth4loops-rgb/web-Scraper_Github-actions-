@@ -2,20 +2,11 @@
 
 ---
 
-**Execution #1483**
+**Execution #1484**
 
-**Last run:** 2026-09-14 04:56:25 UTC
+**Last run:** 2026-09-14 10:30:54 UTC
 
-**Total matched tenders:** 35
-
----
-
-## EGP Portal Summary
-
-- **Active tenders:** 356
-- **Published today:** 0
-- **Closing today:** 65
-- **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
+**Total matched tenders:** 36
 
 ---
 
@@ -291,6 +282,22 @@
 
 ---
 
+## BONGA UNIVERSITY Procurement of Laboratory Equipment
+
+**Source:** 2merkato.com
+
+**Company:** Bonga University
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** laboratory equipment
+
+**Link:** [https://tender.2merkato.com/tenders/6aa7b4400a538ac45f000001](https://tender.2merkato.com/tenders/6aa7b4400a538ac45f000001)
+
+---
+
 ## Livestock Development Institute: Procurement of Laboratory Equipment
 
 **Source:** 2merkato.com
@@ -352,22 +359,6 @@
 **Matched Keywords:** laboratory equipment
 
 **Link:** [https://tender.2merkato.com/tenders/6a8e90c50a538a0390000001](https://tender.2merkato.com/tenders/6a8e90c50a538a0390000001)
-
----
-
-## Madda Walabu University: Procurement of Laboratory Equipment
-
-**Source:** 2merkato.com
-
-**Company:** Madda Walabu University
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** laboratory equipment
-
-**Link:** [https://tender.2merkato.com/tenders/6a870bf30a538a4273000001](https://tender.2merkato.com/tenders/6a870bf30a538a4273000001)
 
 ---
 
@@ -451,6 +442,54 @@
 
 ---
 
+## Debre Birhan University Procurement of Medical Supplies, Laboratory Reagents and Chemicals
+
+**Source:** 2merkato.com
+
+**Company:** Debre Birhan University
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical
+
+**Link:** [https://tender.2merkato.com/tenders/6aa7b65d0a538ac947000001](https://tender.2merkato.com/tenders/6aa7b65d0a538ac947000001)
+
+---
+
+## Adigrat University: Procurement of RDF Medicines and Medical Supplies
+
+**Source:** 2merkato.com
+
+**Company:** Adigrat University
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical
+
+**Link:** [https://tender.2merkato.com/tenders/6aa793f60a538a7242000001](https://tender.2merkato.com/tenders/6aa793f60a538a7242000001)
+
+---
+
+## Debre Birhan University: Procurement of Medical Supplies, Laboratory Reagents and Chemicals
+
+**Source:** 2merkato.com
+
+**Company:** Debre Birhan University
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical
+
+**Link:** [https://tender.2merkato.com/tenders/6aa78ff50a538a615c000001](https://tender.2merkato.com/tenders/6aa78ff50a538a615c000001)
+
+---
+
 ## Orbis International Ethiopia invites eligible importers, manufacturers, and wholesalers to submit bids for the supply of consumable medical supplies and equipment.
 
 **Source:** 2merkato.com
@@ -528,38 +567,6 @@
 **Matched Keywords:** medical
 
 **Link:** [https://tender.2merkato.com/tenders/6a9679b40a538ab3d8000001](https://tender.2merkato.com/tenders/6a9679b40a538ab3d8000001)
-
----
-
-## Debre Birhan University : Procurement of Medical Supplies, Laboratory Reagents and Chemicals
-
-**Source:** 2merkato.com
-
-**Company:** Debre Birhan University
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a9676b10a538a7b84000001](https://tender.2merkato.com/tenders/6a9676b10a538a7b84000001)
-
----
-
-## Debre Birhan University: Procurement of Medical Supplies, Laboratory Reagents and Chemicals
-
-**Source:** 2merkato.com
-
-**Company:** Debre Birhan University
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a9675010a538a6328000001](https://tender.2merkato.com/tenders/6a9675010a538a6328000001)
 
 ---
 
