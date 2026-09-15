@@ -2,9 +2,9 @@
 
 ---
 
-**Execution #1489**
+**Execution #1490**
 
-**Last run:** 2026-09-15 06:46:39 UTC
+**Last run:** 2026-09-15 12:14:13 UTC
 
 **Total matched tenders:** 36
 
@@ -48,7 +48,7 @@
 
 **Company:** Positive Action for Development
 
-**Status:** Open
+**Status:** Closed
 
 **Closing Date:** 2026-09-15 15:00:00
 
