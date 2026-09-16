@@ -2,11 +2,27 @@
 
 ---
 
-**Execution #1495**
+**Execution #1496**
 
-**Last run:** 2026-09-16 06:10:55 UTC
+**Last run:** 2026-09-16 11:40:42 UTC
 
-**Total matched tenders:** 36
+**Total matched tenders:** 34
+
+---
+
+## Ministry of Defense : Procurement of Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** Ministry of Defense
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6aaa38cb0a538af68e000001](https://tender.2merkato.com/tenders/6aaa38cb0a538af68e000001)
 
 ---
 
@@ -186,38 +202,6 @@
 
 ---
 
-## Debre Birhan University: Procurement of Medical Equipment and Supplies
-
-**Source:** 2merkato.com
-
-**Company:** Debre Birhan University
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a9670b60a538a46f7000001](https://tender.2merkato.com/tenders/6a9670b60a538a46f7000001)
-
----
-
-## Alert Comprhensive Specialized Hospital: Procurement of Medical Equipment and Supplies
-
-**Source:** 2merkato.com
-
-**Company:** Alert  Comprehensive Specialized Hospital
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical, hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a9670a60a538a6328000001](https://tender.2merkato.com/tenders/6a9670a60a538a6328000001)
-
----
-
 ## Expertise France is seeking qualified consulting firms to conduct an Environmental and Social Impact Assessment (ESIA) and prepare an Environmental and Social Management Plan (ESMP) for the physical rehabilitation and re-equipment of Abala Primary Hospital in the Afar region and Adwa General Hospital in the Tigray region.
 
 **Source:** 2merkato.com
@@ -263,22 +247,6 @@
 **Matched Keywords:** hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6a9812b80a538a3b80000001](https://tender.2merkato.com/tenders/6a9812b80a538a3b80000001)
-
----
-
-## Amanuel Mental Specialized Hospital :procurement of meat
-
-**Source:** 2merkato.com
-
-**Company:** Amanuel Mental Specialized Hospital
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a9679fd0a538a7b46000001](https://tender.2merkato.com/tenders/6a9679fd0a538a7b46000001)
 
 ---
 
