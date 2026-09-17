@@ -2,11 +2,20 @@
 
 ---
 
-**Execution #1501**
+**Execution #1502**
 
-**Last run:** 2026-09-17 05:16:23 UTC
+**Last run:** 2026-09-17 10:06:50 UTC
 
-**Total matched tenders:** 34
+**Total matched tenders:** 35
+
+---
+
+## EGP Portal Summary
+
+- **Active tenders:** 605
+- **Published today:** 33
+- **Closing today:** 246
+- **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
 
 ---
 
@@ -199,6 +208,22 @@
 **Matched Keywords:** medical equipment, medical
 
 **Link:** [https://tender.2merkato.com/tenders/6a96765f0a538a8261000001](https://tender.2merkato.com/tenders/6a96765f0a538a8261000001)
+
+---
+
+## Goba Referral Hospital , Madda Walabu University ለ2019 የበጀት አመት በመወዩ ሕ/ናና/ጤ/ሣይ/ኮሌጅ ሆስፒታል ተኝቶ ታካሚዎች የምግብ አቅርቦት 1
+
+**Source:** 2merkato.com
+
+**Company:** Madda Walabu University
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6aab8c640a538a3f16000001](https://tender.2merkato.com/tenders/6aab8c640a538a3f16000001)
 
 ---
 
