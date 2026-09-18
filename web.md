@@ -2,19 +2,19 @@
 
 ---
 
-**Execution #1509**
+**Execution #1510**
 
-**Last run:** 2026-09-18 13:41:13 UTC
+**Last run:** 2026-09-18 17:15:35 UTC
 
-**Total matched tenders:** 32
+**Total matched tenders:** 33
 
 ---
 
 ## EGP Portal Summary
 
-- **Active tenders:** 534
-- **Published today:** 42
-- **Closing today:** 221
+- **Active tenders:** 581
+- **Published today:** 106
+- **Closing today:** 219
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
 
 ---
@@ -208,6 +208,22 @@
 **Matched Keywords:** medical equipment, medical, hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6a97c4930a538afb82000001](https://tender.2merkato.com/tenders/6a97c4930a538afb82000001)
+
+---
+
+## Amanuel Mental Specialized Hospital: procurement of Printing service
+
+**Source:** 2merkato.com
+
+**Company:** Amanuel Mental Specialized Hospital
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6aad41780a538af8d5000001](https://tender.2merkato.com/tenders/6aad41780a538af8d5000001)
 
 ---
 
