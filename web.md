@@ -2,20 +2,36 @@
 
 ---
 
-**Execution #1508**
+**Execution #1509**
 
-**Last run:** 2026-09-18 09:18:38 UTC
+**Last run:** 2026-09-18 13:41:13 UTC
 
-**Total matched tenders:** 34
+**Total matched tenders:** 32
 
 ---
 
 ## EGP Portal Summary
 
-- **Active tenders:** 536
-- **Published today:** 15
-- **Closing today:** 217
+- **Active tenders:** 534
+- **Published today:** 42
+- **Closing today:** 221
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
+
+---
+
+## Alert Comprehensive Specialized Hospital: Procurement of Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** Alert  Comprehensive Specialized Hospital
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical, hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6aacfd780a538a6e3a000001](https://tender.2merkato.com/tenders/6aacfd780a538a6e3a000001)
 
 ---
 
@@ -195,22 +211,6 @@
 
 ---
 
-## Debre Birhan University Procurement of Medical Equipment and Supplies
-
-**Source:** 2merkato.com
-
-**Company:** Debre Birhan University
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a96790a0a538a7b84000001](https://tender.2merkato.com/tenders/6a96790a0a538a7b84000001)
-
----
-
 ## Goba Referral Hospital , Madda Walabu University ለ2019 የበጀት አመት በመወዩ ሕ/ናና/ጤ/ሣይ/ኮሌጅ ሆስፒታል ተኝቶ ታካሚዎች የምግብ አቅርቦት 1
 
 **Source:** 2merkato.com
@@ -256,22 +256,6 @@
 **Matched Keywords:** hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6a9a5e800a538a6331000001](https://tender.2merkato.com/tenders/6a9a5e800a538a6331000001)
-
----
-
-## Amanuel Mental Specialized Hospital: Procurement of Maintenance and Repair Service
-
-**Source:** 2merkato.com
-
-**Company:** Amanuel Mental Specialized Hospital
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a9812b80a538a3b80000001](https://tender.2merkato.com/tenders/6a9812b80a538a3b80000001)
 
 ---
 
@@ -528,22 +512,6 @@
 **Matched Keywords:** medical
 
 **Link:** [https://tender.2merkato.com/tenders/6a967d490a538ab3f3000001](https://tender.2merkato.com/tenders/6a967d490a538ab3f3000001)
-
----
-
-## Debre Birhan University Procurement of Medical Supplies, Laboratory Reagents and Chemicals
-
-**Source:** 2merkato.com
-
-**Company:** Debre Birhan University
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a967a060a538a81e0000001](https://tender.2merkato.com/tenders/6a967a060a538a81e0000001)
 
 ---
 
