@@ -2,20 +2,36 @@
 
 ---
 
-**Execution #1507**
+**Execution #1508**
 
-**Last run:** 2026-09-18 04:50:37 UTC
+**Last run:** 2026-09-18 09:18:38 UTC
 
-**Total matched tenders:** 35
+**Total matched tenders:** 34
 
 ---
 
 ## EGP Portal Summary
 
-- **Active tenders:** 572
-- **Published today:** 0
-- **Closing today:** 222
+- **Active tenders:** 536
+- **Published today:** 15
+- **Closing today:** 217
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
+
+---
+
+## University of Gondar: Procurement of Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** University of Gondar
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6aace31a0a538ab13a000001](https://tender.2merkato.com/tenders/6aace31a0a538ab13a000001)
 
 ---
 
@@ -192,22 +208,6 @@
 **Matched Keywords:** medical equipment, medical
 
 **Link:** [https://tender.2merkato.com/tenders/6a96790a0a538a7b84000001](https://tender.2merkato.com/tenders/6a96790a0a538a7b84000001)
-
----
-
-## Debre Birhan University Procurement of Medical Equipment and Supplies
-
-**Source:** 2merkato.com
-
-**Company:** Debre Birhan University
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a96765f0a538a8261000001](https://tender.2merkato.com/tenders/6a96765f0a538a8261000001)
 
 ---
 
@@ -544,22 +544,6 @@
 **Matched Keywords:** medical
 
 **Link:** [https://tender.2merkato.com/tenders/6a967a060a538a81e0000001](https://tender.2merkato.com/tenders/6a967a060a538a81e0000001)
-
----
-
-## Procurement of Medical Supplies, Laboratory Reagents and Chemicals
-
-**Source:** 2merkato.com
-
-**Company:** Debre Birhan University
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a9679b40a538ab3d8000001](https://tender.2merkato.com/tenders/6a9679b40a538ab3d8000001)
 
 ---
 
