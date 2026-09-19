@@ -2,9 +2,9 @@
 
 ---
 
-**Execution #1515**
+**Execution #1516**
 
-**Last run:** 2026-09-19 08:57:05 UTC
+**Last run:** 2026-09-19 13:02:48 UTC
 
 **Total matched tenders:** 33
 
@@ -12,8 +12,8 @@
 
 ## EGP Portal Summary
 
-- **Active tenders:** 610
-- **Published today:** 11
+- **Active tenders:** 640
+- **Published today:** 27
 - **Closing today:** 0
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
 
@@ -543,7 +543,7 @@
 
 **Status:** Active
 
-**Closing Date:** Sep 21, 2026
+**Closing Date:** Oct 06, 2026
 
 **Matched Keywords:** medical equipment, medical
 
