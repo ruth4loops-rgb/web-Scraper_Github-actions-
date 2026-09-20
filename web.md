@@ -2,9 +2,9 @@
 
 ---
 
-**Execution #1524**
+**Execution #1525**
 
-**Last run:** 2026-09-20 14:44:34 UTC
+**Last run:** 2026-09-20 17:43:19 UTC
 
 **Total matched tenders:** 33
 
@@ -12,7 +12,7 @@
 
 ## EGP Portal Summary
 
-- **Active tenders:** 651
+- **Active tenders:** 653
 - **Published today:** 0
 - **Closing today:** 0
 - **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
@@ -249,7 +249,7 @@
 
 **Company:** Expertise France
 
-**Status:** Open
+**Status:** Closed
 
 **Closing Date:** 2026-09-20 18:00:00
 
