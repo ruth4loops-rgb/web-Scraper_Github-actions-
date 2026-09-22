@@ -2,20 +2,11 @@
 
 ---
 
-**Execution #1535**
+**Execution #1536**
 
-**Last run:** 2026-09-22 07:19:15 UTC
+**Last run:** 2026-09-22 12:41:55 UTC
 
-**Total matched tenders:** 33
-
----
-
-## EGP Portal Summary
-
-- **Active tenders:** 603
-- **Published today:** 3
-- **Closing today:** 180
-- **Portal:** [production.egp.gov.et](https://production.egp.gov.et/egp/home) *(login required for full listings)*
+**Total matched tenders:** 34
 
 ---
 
@@ -195,19 +186,19 @@
 
 ---
 
-## AAU - College of Health Sciences and Black lion Hospital , Addis Ababa University : Procurement of Medical Equipment and Supplies
+## Amanuel Mental Specialized Hospital: Procurement of Medicines for community pharmacy 02
 
 **Source:** 2merkato.com
 
-**Company:** Addis Ababa University
+**Company:** Amanuel Mental Specialized Hospital
 
 **Status:** Login required
 
 **Closing Date:** Login required to view
 
-**Matched Keywords:** medical equipment, medical, hospital
+**Matched Keywords:** hospital
 
-**Link:** [https://tender.2merkato.com/tenders/6a97c4930a538afb82000001](https://tender.2merkato.com/tenders/6a97c4930a538afb82000001)
+**Link:** [https://tender.2merkato.com/tenders/6ab221240a538a680d000001](https://tender.2merkato.com/tenders/6ab221240a538a680d000001)
 
 ---
 
@@ -224,6 +215,22 @@
 **Matched Keywords:** hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6ab2204c0a538a5143000001](https://tender.2merkato.com/tenders/6ab2204c0a538a5143000001)
+
+---
+
+## Amanuel Mental Specialized Hospital: procurement of corrective and repair service for kitchen Equipment
+
+**Source:** 2merkato.com
+
+**Company:** Amanuel Mental Specialized Hospital
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6ab21c6d0a538a3359000001](https://tender.2merkato.com/tenders/6ab21c6d0a538a3359000001)
 
 ---
 
@@ -419,22 +426,6 @@
 
 ---
 
-## The Carter Center Ethiopia (TCC-E) invites sealed bids from registered suppliers under National Competitive Bidding (NCB) for the purchase of Medical Items (Consumables) for Trachoma Program.
-
-**Source:** 2merkato.com
-
-**Company:** The Carter Center - Ethiopia
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a0da2170a538a4511000001](https://tender.2merkato.com/tenders/6a0da2170a538a4511000001)
-
----
-
 ## Debre Birhan University Procurement of Medical Supplies, Laboratory Reagents and Chemicals
 
 **Source:** 2merkato.com
@@ -496,6 +487,22 @@
 **Matched Keywords:** medical
 
 **Link:** [https://tender.2merkato.com/tenders/6a97fb8a0a538a940e000001](https://tender.2merkato.com/tenders/6a97fb8a0a538a940e000001)
+
+---
+
+## AAU - College of Health Sciences and Black lion Hospital , Addis Ababa University : Procurement of Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** Addis Ababa University
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical, hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6a97c4930a538afb82000001](https://tender.2merkato.com/tenders/6a97c4930a538afb82000001)
 
 ---
 
