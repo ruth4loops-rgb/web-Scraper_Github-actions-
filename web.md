@@ -2,11 +2,43 @@
 
 ---
 
-**Execution #1541**
+**Execution #1542**
 
-**Last run:** 2026-09-23 06:34:55 UTC
+**Last run:** 2026-09-23 12:06:41 UTC
 
 **Total matched tenders:** 34
+
+---
+
+## St. Paul's Hospital Millennium Medical College: High-End Electro-Hydraulic Neurosurgical Operating Table /FOR AaBET /
+
+**Source:** 2merkato.com
+
+**Company:** St. Paul's Hospital Millennium Medical College
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** operating table, medical, hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6ab374d10a538aad27000001](https://tender.2merkato.com/tenders/6ab374d10a538aad27000001)
+
+---
+
+## St. Paul's Hospital Millennium Medical College: High-End Electro-Hydraulic Neurosurgical Operating Table /FOR AaBET /
+
+**Source:** 2merkato.com
+
+**Company:** St. Paul's Hospital Millennium Medical College
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** operating table, medical, hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6ab3717a0a538aef30000001](https://tender.2merkato.com/tenders/6ab3717a0a538aef30000001)
 
 ---
 
@@ -170,22 +202,6 @@
 
 ---
 
-## St. Peter Specialized Hospital: Procurement of Medical Equipment and Supplies
-
-**Source:** 2merkato.com
-
-**Company:** St. Peter Specialized Hospital
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical, hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a98118c0a538a40ea000001](https://tender.2merkato.com/tenders/6a98118c0a538a40ea000001)
-
----
-
 ## Amanuel Mental Specialized Hospital: Procurement of Medicines for community pharmacy 02
 
 **Source:** 2merkato.com
@@ -263,22 +279,6 @@
 **Matched Keywords:** hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6aab8c640a538a3f16000001](https://tender.2merkato.com/tenders/6aab8c640a538a3f16000001)
-
----
-
-## Expertise France is seeking qualified consulting firms to conduct an Environmental and Social Impact Assessment (ESIA) and prepare an Environmental and Social Management Plan (ESMP) for the physical rehabilitation and re-equipment of Abala Primary Hospital in the Afar region and Adwa General Hospital in the Tigray region.
-
-**Source:** 2merkato.com
-
-**Company:** Expertise France
-
-**Status:** Closed
-
-**Closing Date:** 2026-09-20 18:00:00
-
-**Matched Keywords:** hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a9fbafe0a538a1604000001](https://tender.2merkato.com/tenders/6a9fbafe0a538a1604000001)
 
 ---
 
@@ -426,6 +426,38 @@
 
 ---
 
+## Addis Ababa Science and Technology University: Procurement of Medical Supplies, Laboratory Reagents and Chemicals for CNS
+
+**Source:** 2merkato.com
+
+**Company:** Ebiz Online Solutions PLC
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical
+
+**Link:** [https://tender.2merkato.com/tenders/6ab373380a538a0ae8000001](https://tender.2merkato.com/tenders/6ab373380a538a0ae8000001)
+
+---
+
+## Addis Ababa Science and Technology University: Procurement of Medical Supplies, Laboratory Reagents and Chemicals for CNS
+
+**Source:** 2merkato.com
+
+**Company:** Addis Ababa Science and Technology University
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical
+
+**Link:** [https://tender.2merkato.com/tenders/6ab370860a538aa81b000001](https://tender.2merkato.com/tenders/6ab370860a538aa81b000001)
+
+---
+
 ## Debre Birhan University Procurement of Medical Supplies, Laboratory Reagents and Chemicals
 
 **Source:** 2merkato.com
@@ -474,6 +506,22 @@
 
 ---
 
+## St. Peter Specialized Hospital: Procurement of Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** St. Peter Specialized Hospital
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical, hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6a98118c0a538a40ea000001](https://tender.2merkato.com/tenders/6a98118c0a538a40ea000001)
+
+---
+
 ## Orbis International Ethiopia invites eligible importers, manufacturers, and wholesalers to submit bids for the supply of consumable medical supplies and equipment.
 
 **Source:** 2merkato.com
@@ -487,54 +535,6 @@
 **Matched Keywords:** medical
 
 **Link:** [https://tender.2merkato.com/tenders/6a97fb8a0a538a940e000001](https://tender.2merkato.com/tenders/6a97fb8a0a538a940e000001)
-
----
-
-## AAU - College of Health Sciences and Black lion Hospital , Addis Ababa University : Procurement of Medical Equipment and Supplies
-
-**Source:** 2merkato.com
-
-**Company:** Addis Ababa University
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical, hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a97c4930a538afb82000001](https://tender.2merkato.com/tenders/6a97c4930a538afb82000001)
-
----
-
-## Debre Birhan University: Procurement of Medical Supplies, Laboratory Reagents and Chemicals
-
-**Source:** 2merkato.com
-
-**Company:** Debre Birhan University
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a967de40a538ab5ba000001](https://tender.2merkato.com/tenders/6a967de40a538ab5ba000001)
-
----
-
-## Debre Birhan University: Procurement of Medical Supplies, Laboratory Reagents and Chemicals
-
-**Source:** 2merkato.com
-
-**Company:** Debre Birhan University
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a967d490a538ab3f3000001](https://tender.2merkato.com/tenders/6a967d490a538ab3f3000001)
 
 ---
 
