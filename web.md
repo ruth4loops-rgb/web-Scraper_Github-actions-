@@ -2,11 +2,27 @@
 
 ---
 
-**Execution #1542**
+**Execution #1543**
 
-**Last run:** 2026-09-23 12:06:41 UTC
+**Last run:** 2026-09-23 16:55:30 UTC
 
 **Total matched tenders:** 34
+
+---
+
+## Federal Prisoners Commission፡ Procurement of Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** Federal Prisoners Commission
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6ab3d1180a538aed7c000001](https://tender.2merkato.com/tenders/6ab3d1180a538aed7c000001)
 
 ---
 
@@ -519,22 +535,6 @@
 **Matched Keywords:** medical equipment, medical, hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6a98118c0a538a40ea000001](https://tender.2merkato.com/tenders/6a98118c0a538a40ea000001)
-
----
-
-## Orbis International Ethiopia invites eligible importers, manufacturers, and wholesalers to submit bids for the supply of consumable medical supplies and equipment.
-
-**Source:** 2merkato.com
-
-**Company:** Orbis International Ethiopia (OlE)
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a97fb8a0a538a940e000001](https://tender.2merkato.com/tenders/6a97fb8a0a538a940e000001)
 
 ---
 
