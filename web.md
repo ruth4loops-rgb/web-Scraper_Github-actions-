@@ -2,11 +2,11 @@
 
 ---
 
-**Execution #1547**
+**Execution #1548**
 
-**Last run:** 2026-09-24 06:14:38 UTC
+**Last run:** 2026-09-24 11:57:03 UTC
 
-**Total matched tenders:** 34
+**Total matched tenders:** 33
 
 ---
 
@@ -266,35 +266,19 @@
 
 ---
 
-## Amanuel Mental Specialized Hospital: procurement of Printing service
+## Expertise France is seeking qualified consulting firms to conduct an Environmental and Social Impact Assessment (ESIA) and prepare an Environmental and Social Management Plan (ESMP) for the physical rehabilitation and re-equipment of Abala Primary Hospital in the Afar region and Adwa General Hospital in the Tigray region.
 
 **Source:** 2merkato.com
 
-**Company:** Amanuel Mental Specialized Hospital
+**Company:** Expertise France
 
-**Status:** Login required
+**Status:** Closed
 
-**Closing Date:** Login required to view
-
-**Matched Keywords:** hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6aad41780a538af8d5000001](https://tender.2merkato.com/tenders/6aad41780a538af8d5000001)
-
----
-
-## Goba Referral Hospital , Madda Walabu University ለ2019 የበጀት አመት በመወዩ ሕ/ናና/ጤ/ሣይ/ኮሌጅ ሆስፒታል ተኝቶ ታካሚዎች የምግብ አቅርቦት 1
-
-**Source:** 2merkato.com
-
-**Company:** Madda Walabu University
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
+**Closing Date:** 2026-09-20 18:00:00
 
 **Matched Keywords:** hospital
 
-**Link:** [https://tender.2merkato.com/tenders/6aab8c640a538a3f16000001](https://tender.2merkato.com/tenders/6aab8c640a538a3f16000001)
+**Link:** [https://tender.2merkato.com/tenders/6a9fbafe0a538a1604000001](https://tender.2merkato.com/tenders/6a9fbafe0a538a1604000001)
 
 ---
 
