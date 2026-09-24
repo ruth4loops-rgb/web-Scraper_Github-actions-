@@ -2,11 +2,27 @@
 
 ---
 
-**Execution #1548**
+**Execution #1549**
 
-**Last run:** 2026-09-24 11:57:03 UTC
+**Last run:** 2026-09-24 17:01:07 UTC
 
 **Total matched tenders:** 33
+
+---
+
+## St. Paul's Hospital Millennium Medical College Procurement of Medical Equipment and Supplies For AaBET Hospital 2019 /D
+
+**Source:** 2merkato.com
+
+**Company:** St. Paul's Hospital Millennium Medical College
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical, hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6ab530820a538a263b000001](https://tender.2merkato.com/tenders/6ab530820a538a263b000001)
 
 ---
 
@@ -202,23 +218,7 @@
 
 ---
 
-## National Intelligence and Security Service: Procurement of Medical Equipment and Supplies(clin)
-
-**Source:** 2merkato.com
-
-**Company:** National Intelligence and Security Service
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a9821190a538a350b000001](https://tender.2merkato.com/tenders/6a9821190a538a350b000001)
-
----
-
-## Amanuel Mental Specialized Hospital: Procurement of Medicines for community pharmacy 02
+## Amanuel Mental Specialized Hospital: procurement of Printing service
 
 **Source:** 2merkato.com
 
@@ -230,23 +230,7 @@
 
 **Matched Keywords:** hospital
 
-**Link:** [https://tender.2merkato.com/tenders/6ab221240a538a680d000001](https://tender.2merkato.com/tenders/6ab221240a538a680d000001)
-
----
-
-## Amanuel Mental Specialized Hospital: Procurement of Uniforms
-
-**Source:** 2merkato.com
-
-**Company:** Amanuel Mental Specialized Hospital
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6ab2204c0a538a5143000001](https://tender.2merkato.com/tenders/6ab2204c0a538a5143000001)
+**Link:** [https://tender.2merkato.com/tenders/6ab50d1e0a538a3471000001](https://tender.2merkato.com/tenders/6ab50d1e0a538a3471000001)
 
 ---
 
@@ -279,6 +263,22 @@
 **Matched Keywords:** hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6a9fbafe0a538a1604000001](https://tender.2merkato.com/tenders/6a9fbafe0a538a1604000001)
+
+---
+
+## Dire Dawa University: Procurement of workshop/laboratory equipment for College of Mechanical and Industrial Engineering
+
+**Source:** 2merkato.com
+
+**Company:** Dire Dawa University
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** laboratory equipment
+
+**Link:** [https://tender.2merkato.com/tenders/6ab51ce90a538a908c000001](https://tender.2merkato.com/tenders/6ab51ce90a538a908c000001)
 
 ---
 
@@ -426,6 +426,22 @@
 
 ---
 
+## Adigrat University: Procurement of RDF Medicines and Medical Supplies
+
+**Source:** 2merkato.com
+
+**Company:** Adigrat University
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical
+
+**Link:** [https://tender.2merkato.com/tenders/6ab50d600a538adac3000001](https://tender.2merkato.com/tenders/6ab50d600a538adac3000001)
+
+---
+
 ## Addis Ababa Science and Technology University: Procurement of Medical Supplies, Laboratory Reagents and Chemicals for CNS
 
 **Source:** 2merkato.com
@@ -503,22 +519,6 @@
 **Matched Keywords:** medical
 
 **Link:** [https://tender.2merkato.com/tenders/6aa78ff50a538a615c000001](https://tender.2merkato.com/tenders/6aa78ff50a538a615c000001)
-
----
-
-## St. Peter Specialized Hospital: Procurement of Medical Equipment and Supplies
-
-**Source:** 2merkato.com
-
-**Company:** St. Peter Specialized Hospital
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical, hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a98118c0a538a40ea000001](https://tender.2merkato.com/tenders/6a98118c0a538a40ea000001)
 
 ---
 
