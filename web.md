@@ -2,11 +2,11 @@
 
 ---
 
-**Execution #1553**
+**Execution #1554**
 
-**Last run:** 2026-09-25 06:37:04 UTC
+**Last run:** 2026-09-25 12:14:39 UTC
 
-**Total matched tenders:** 33
+**Total matched tenders:** 35
 
 ---
 
@@ -218,7 +218,23 @@
 
 ---
 
-## Eka Kotebe General Hospital :የሆቴል አገልግሎት በአዲስ አበባ ከተማ
+## Eka Kotebe General Hospital: lot3:-procurement of car spare part
+
+**Source:** 2merkato.com
+
+**Company:** EKA Kotebe General Hospital
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6ab6136f0a538ac01c000001](https://tender.2merkato.com/tenders/6ab6136f0a538ac01c000001)
+
+---
+
+## Eka Kotebe General Hospital: የሆቴል አገልግሎት በአዲስ አበባ ከተማ
 
 **Source:** 2merkato.com
 
@@ -231,6 +247,22 @@
 **Matched Keywords:** hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6ab613010a538a9eac000001](https://tender.2merkato.com/tenders/6ab613010a538a9eac000001)
+
+---
+
+## Eka Kotebe General Hospital: Lot .7 Procurement of Hotel Service/ የሆቴል አገልግሎት አዳማ ከተማ
+
+**Source:** 2merkato.com
+
+**Company:** EKA Kotebe General Hospital
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6ab611b20a538a4ba3000001](https://tender.2merkato.com/tenders/6ab611b20a538a4ba3000001)
 
 ---
 
