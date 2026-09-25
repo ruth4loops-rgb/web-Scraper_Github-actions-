@@ -2,9 +2,9 @@
 
 ---
 
-**Execution #1552**
+**Execution #1553**
 
-**Last run:** 2026-09-25 01:38:33 UTC
+**Last run:** 2026-09-25 06:37:04 UTC
 
 **Total matched tenders:** 33
 
@@ -218,6 +218,22 @@
 
 ---
 
+## Eka Kotebe General Hospital :የሆቴል አገልግሎት በአዲስ አበባ ከተማ
+
+**Source:** 2merkato.com
+
+**Company:** EKA Kotebe General Hospital
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6ab613010a538a9eac000001](https://tender.2merkato.com/tenders/6ab613010a538a9eac000001)
+
+---
+
 ## Amanuel Mental Specialized Hospital: procurement of Printing service
 
 **Source:** 2merkato.com
@@ -247,22 +263,6 @@
 **Matched Keywords:** hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6ab21c6d0a538a3359000001](https://tender.2merkato.com/tenders/6ab21c6d0a538a3359000001)
-
----
-
-## Expertise France is seeking qualified consulting firms to conduct an Environmental and Social Impact Assessment (ESIA) and prepare an Environmental and Social Management Plan (ESMP) for the physical rehabilitation and re-equipment of Abala Primary Hospital in the Afar region and Adwa General Hospital in the Tigray region.
-
-**Source:** 2merkato.com
-
-**Company:** Expertise France
-
-**Status:** Closed
-
-**Closing Date:** 2026-09-20 18:00:00
-
-**Matched Keywords:** hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a9fbafe0a538a1604000001](https://tender.2merkato.com/tenders/6a9fbafe0a538a1604000001)
 
 ---
 
