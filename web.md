@@ -2,11 +2,11 @@
 
 ---
 
-**Execution #1554**
+**Execution #1555**
 
-**Last run:** 2026-09-25 12:14:39 UTC
+**Last run:** 2026-09-25 17:18:52 UTC
 
-**Total matched tenders:** 35
+**Total matched tenders:** 33
 
 ---
 
@@ -128,7 +128,7 @@
 
 **Company:** American Jewish Joint Distribution Committee
 
-**Status:** Open
+**Status:** Closed
 
 **Closing Date:** 2026-09-25 17:00:00
 
@@ -218,70 +218,6 @@
 
 ---
 
-## Eka Kotebe General Hospital: lot3:-procurement of car spare part
-
-**Source:** 2merkato.com
-
-**Company:** EKA Kotebe General Hospital
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6ab6136f0a538ac01c000001](https://tender.2merkato.com/tenders/6ab6136f0a538ac01c000001)
-
----
-
-## Eka Kotebe General Hospital: የሆቴል አገልግሎት በአዲስ አበባ ከተማ
-
-**Source:** 2merkato.com
-
-**Company:** EKA Kotebe General Hospital
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6ab613010a538a9eac000001](https://tender.2merkato.com/tenders/6ab613010a538a9eac000001)
-
----
-
-## Eka Kotebe General Hospital: Lot .7 Procurement of Hotel Service/ የሆቴል አገልግሎት አዳማ ከተማ
-
-**Source:** 2merkato.com
-
-**Company:** EKA Kotebe General Hospital
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6ab611b20a538a4ba3000001](https://tender.2merkato.com/tenders/6ab611b20a538a4ba3000001)
-
----
-
-## Amanuel Mental Specialized Hospital: procurement of Printing service
-
-**Source:** 2merkato.com
-
-**Company:** Amanuel Mental Specialized Hospital
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6ab50d1e0a538a3471000001](https://tender.2merkato.com/tenders/6ab50d1e0a538a3471000001)
-
----
-
 ## Amanuel Mental Specialized Hospital: procurement of corrective and repair service for kitchen Equipment
 
 **Source:** 2merkato.com
@@ -295,6 +231,22 @@
 **Matched Keywords:** hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6ab21c6d0a538a3359000001](https://tender.2merkato.com/tenders/6ab21c6d0a538a3359000001)
+
+---
+
+## Expertise France is seeking qualified consulting firms to conduct an Environmental and Social Impact Assessment (ESIA) and prepare an Environmental and Social Management Plan (ESMP) for the physical rehabilitation and re-equipment of Abala Primary Hospital in the Afar region and Adwa General Hospital in the Tigray region.
+
+**Source:** 2merkato.com
+
+**Company:** Expertise France
+
+**Status:** Closed
+
+**Closing Date:** 2026-09-20 18:00:00
+
+**Matched Keywords:** hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6a9fbafe0a538a1604000001](https://tender.2merkato.com/tenders/6a9fbafe0a538a1604000001)
 
 ---
 
@@ -551,6 +503,22 @@
 **Matched Keywords:** medical
 
 **Link:** [https://tender.2merkato.com/tenders/6aa78ff50a538a615c000001](https://tender.2merkato.com/tenders/6aa78ff50a538a615c000001)
+
+---
+
+## National Intelligence and Security Service: Procurement of Medical Equipment and Supplies(clin)
+
+**Source:** 2merkato.com
+
+**Company:** National Intelligence and Security Service
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a9821190a538a350b000001](https://tender.2merkato.com/tenders/6a9821190a538a350b000001)
 
 ---
 
