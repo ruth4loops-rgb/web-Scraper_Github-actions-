@@ -2,11 +2,27 @@
 
 ---
 
-**Execution #1559**
+**Execution #1560**
 
-**Last run:** 2026-09-26 07:23:37 UTC
+**Last run:** 2026-09-26 12:19:54 UTC
 
-**Total matched tenders:** 32
+**Total matched tenders:** 31
+
+---
+
+## Ministry of Labor and Skills: Procurement of Medical Equipment and Supplies for animal health Agarfa ATVET College
+
+**Source:** 2merkato.com
+
+**Company:** Ministry of Labor and Skills (MoLS)
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6ab76d2c0a538afb84000001](https://tender.2merkato.com/tenders/6ab76d2c0a538afb84000001)
 
 ---
 
@@ -202,22 +218,6 @@
 
 ---
 
-## Ministry of Defense: Procurement of Medical Equipment and Supplies
-
-**Source:** 2merkato.com
-
-**Company:** Ministry of Defense
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a9911550a538a8a22000001](https://tender.2merkato.com/tenders/6a9911550a538a8a22000001)
-
----
-
 ## Amanuel Mental Specialized Hospital: procurement of corrective and repair service for kitchen Equipment
 
 **Source:** 2merkato.com
@@ -231,22 +231,6 @@
 **Matched Keywords:** hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6ab21c6d0a538a3359000001](https://tender.2merkato.com/tenders/6ab21c6d0a538a3359000001)
-
----
-
-## Expertise France is seeking qualified consulting firms to conduct an Environmental and Social Impact Assessment (ESIA) and prepare an Environmental and Social Management Plan (ESMP) for the physical rehabilitation and re-equipment of Abala Primary Hospital in the Afar region and Adwa General Hospital in the Tigray region.
-
-**Source:** 2merkato.com
-
-**Company:** Expertise France
-
-**Status:** Closed
-
-**Closing Date:** 2026-09-20 18:00:00
-
-**Matched Keywords:** hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a9fbafe0a538a1604000001](https://tender.2merkato.com/tenders/6a9fbafe0a538a1604000001)
 
 ---
 
@@ -490,11 +474,11 @@
 
 ---
 
-## National Intelligence and Security Service: Procurement of Medical Equipment and Supplies(clin)
+## Ministry of Defense: Procurement of Medical Equipment and Supplies
 
 **Source:** 2merkato.com
 
-**Company:** National Intelligence and Security Service
+**Company:** Ministry of Defense
 
 **Status:** Login required
 
@@ -502,7 +486,7 @@
 
 **Matched Keywords:** medical equipment, medical
 
-**Link:** [https://tender.2merkato.com/tenders/6a9821190a538a350b000001](https://tender.2merkato.com/tenders/6a9821190a538a350b000001)
+**Link:** [https://tender.2merkato.com/tenders/6a9911550a538a8a22000001](https://tender.2merkato.com/tenders/6a9911550a538a8a22000001)
 
 ---
 
