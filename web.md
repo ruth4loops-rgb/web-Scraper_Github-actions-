@@ -2,11 +2,11 @@
 
 ---
 
-**Execution #1558**
+**Execution #1559**
 
-**Last run:** 2026-09-26 01:55:39 UTC
+**Last run:** 2026-09-26 07:23:37 UTC
 
-**Total matched tenders:** 33
+**Total matched tenders:** 32
 
 ---
 
@@ -327,22 +327,6 @@
 **Matched Keywords:** laboratory equipment
 
 **Link:** [https://tender.2merkato.com/tenders/6a8e921a0a538aad34000001](https://tender.2merkato.com/tenders/6a8e921a0a538aad34000001)
-
----
-
-## Debremarkos University: Procurement of Laboratory Equipment
-
-**Source:** 2merkato.com
-
-**Company:** Debre Markos University
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** laboratory equipment
-
-**Link:** [https://tender.2merkato.com/tenders/6a8e90c50a538a0390000001](https://tender.2merkato.com/tenders/6a8e90c50a538a0390000001)
 
 ---
 
