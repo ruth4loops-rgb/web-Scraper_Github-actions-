@@ -2,11 +2,11 @@
 
 ---
 
-**Execution #1571**
+**Execution #1572**
 
-**Last run:** 2026-09-28 06:10:35 UTC
+**Last run:** 2026-09-28 14:00:34 UTC
 
-**Total matched tenders:** 31
+**Total matched tenders:** 30
 
 ---
 
@@ -295,22 +295,6 @@
 **Matched Keywords:** laboratory equipment
 
 **Link:** [https://tender.2merkato.com/tenders/6a9530a40a538abb46000001](https://tender.2merkato.com/tenders/6a9530a40a538abb46000001)
-
----
-
-## Debark University: Procurement of Laboratory Equipment
-
-**Source:** 2merkato.com
-
-**Company:** Debark University
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** laboratory equipment
-
-**Link:** [https://tender.2merkato.com/tenders/6a8e921a0a538aad34000001](https://tender.2merkato.com/tenders/6a8e921a0a538aad34000001)
 
 ---
 
