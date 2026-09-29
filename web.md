@@ -2,11 +2,11 @@
 
 ---
 
-**Execution #1575**
+**Execution #1576**
 
-**Last run:** 2026-09-29 06:07:42 UTC
+**Last run:** 2026-09-29 12:51:10 UTC
 
-**Total matched tenders:** 30
+**Total matched tenders:** 34
 
 ---
 
@@ -218,6 +218,54 @@
 
 ---
 
+## Ministry of Defense: Procurement of Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** Ministry of Defense
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a9911550a538a8a22000001](https://tender.2merkato.com/tenders/6a9911550a538a8a22000001)
+
+---
+
+## St. Paul's Hospital Millennium Medical College: procurement of cleaning materials
+
+**Source:** 2merkato.com
+
+**Company:** St. Paul's Hospital Millennium Medical College
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical, hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6abb9abc0a538aff18000001](https://tender.2merkato.com/tenders/6abb9abc0a538aff18000001)
+
+---
+
+## St. Paul's Hospital Millennium Medical College :- Lot 4 Procurement of Electronics Equipment For AaBET Hospital 2019/M
+
+**Source:** 2merkato.com
+
+**Company:** St. Paul's Hospital Millennium Medical College
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical, hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6abb553d0a538a13b6000001](https://tender.2merkato.com/tenders/6abb553d0a538a13b6000001)
+
+---
+
 ## Amanuel Mental Specialized Hospital: procurement of corrective and repair service for kitchen Equipment
 
 **Source:** 2merkato.com
@@ -231,6 +279,22 @@
 **Matched Keywords:** hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6ab21c6d0a538a3359000001](https://tender.2merkato.com/tenders/6ab21c6d0a538a3359000001)
+
+---
+
+## Addis Ababa Road Authority: Procurement of Laboratory Equipment
+
+**Source:** 2merkato.com
+
+**Company:** Addis  Ababa Road Authority
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** laboratory equipment
+
+**Link:** [https://tender.2merkato.com/tenders/6abb7fd40a538a55a1000001](https://tender.2merkato.com/tenders/6abb7fd40a538a55a1000001)
 
 ---
 
@@ -362,6 +426,22 @@
 
 ---
 
+## Oromia Bureau of Agriculture :- Procurement of Medical Supplies
+
+**Source:** 2merkato.com
+
+**Company:** Oromia Bureau of Agriculture
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical
+
+**Link:** [https://tender.2merkato.com/tenders/6abb55470a538ad657000001](https://tender.2merkato.com/tenders/6abb55470a538ad657000001)
+
+---
+
 ## Adigrat University: Procurement of RDF Medicines and Medical Supplies
 
 **Source:** 2merkato.com
@@ -455,22 +535,6 @@
 **Matched Keywords:** medical
 
 **Link:** [https://tender.2merkato.com/tenders/6aa78ff50a538a615c000001](https://tender.2merkato.com/tenders/6aa78ff50a538a615c000001)
-
----
-
-## Ministry of Defense: Procurement of Medical Equipment and Supplies
-
-**Source:** 2merkato.com
-
-**Company:** Ministry of Defense
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a9911550a538a8a22000001](https://tender.2merkato.com/tenders/6a9911550a538a8a22000001)
 
 ---
 
