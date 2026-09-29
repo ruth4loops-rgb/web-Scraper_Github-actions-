@@ -2,11 +2,27 @@
 
 ---
 
-**Execution #1576**
+**Execution #1577**
 
-**Last run:** 2026-09-29 12:51:10 UTC
+**Last run:** 2026-09-29 18:24:46 UTC
 
-**Total matched tenders:** 34
+**Total matched tenders:** 35
+
+---
+
+## Addis Ababa University፡Procurement of medical equipment
+
+**Source:** 2merkato.com
+
+**Company:** Addis Ababa University
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6abbbdcd0a538aeac1000001](https://tender.2merkato.com/tenders/6abbbdcd0a538aeac1000001)
 
 ---
 
@@ -218,19 +234,19 @@
 
 ---
 
-## Ministry of Defense: Procurement of Medical Equipment and Supplies
+## Addis Ababa University፡ Procurement of chemicals and laboratory equipment 004/2019
 
 **Source:** 2merkato.com
 
-**Company:** Ministry of Defense
+**Company:** Ebiz Online Solutions PLC
 
 **Status:** Login required
 
 **Closing Date:** Login required to view
 
-**Matched Keywords:** medical equipment, medical
+**Matched Keywords:** laboratory equipment
 
-**Link:** [https://tender.2merkato.com/tenders/6a9911550a538a8a22000001](https://tender.2merkato.com/tenders/6a9911550a538a8a22000001)
+**Link:** [https://tender.2merkato.com/tenders/6abbbd050a538a4fab000001](https://tender.2merkato.com/tenders/6abbbd050a538a4fab000001)
 
 ---
 
