@@ -2,11 +2,43 @@
 
 ---
 
-**Execution #1580**
+**Execution #1581**
 
-**Last run:** 2026-09-30 07:20:20 UTC
+**Last run:** 2026-09-30 13:59:22 UTC
 
-**Total matched tenders:** 35
+**Total matched tenders:** 33
+
+---
+
+## MELCA-Ethiopia is seeking bids from eligible and qualified suppliers or manufacturers for the supply and delivery of medical equipment to strengthen SRH and FP clinical service delivery capacity of rural health centers in Adaba woreda, West Arsi Zone.
+
+**Source:** 2merkato.com
+
+**Company:** MELCA-Ethiopia
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6abcd3fb0a538a13ae000001](https://tender.2merkato.com/tenders/6abcd3fb0a538a13ae000001)
+
+---
+
+## National Intelligence and Security Service :- Procurement  of medical (equipment)reagent(adm)
+
+**Source:** 2merkato.com
+
+**Company:** National Intelligence and Security Service
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical
+
+**Link:** [https://tender.2merkato.com/tenders/6abcacd70a538a4e6e000001](https://tender.2merkato.com/tenders/6abcacd70a538a4e6e000001)
 
 ---
 
@@ -202,38 +234,6 @@
 
 ---
 
-## St. Peter Specialized Hospital: Procurement of Medical Equipment and Supplies
-
-**Source:** 2merkato.com
-
-**Company:** St. Peter Specialized Hospital
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical, hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6a9a62650a538a65ad000001](https://tender.2merkato.com/tenders/6a9a62650a538a65ad000001)
-
----
-
-## The Ministry of Education (MOE), with financing from KfW, invites proposals from eligible CPD Centers for the delivery of a training program titled 'Medical Device Maintenance Procedure and Workshop Organization Course & On-site Coaching for Healthcare Specialists and Technicians'.
-
-**Source:** 2merkato.com
-
-**Company:** Ministry of Education
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a992c6c0a538a2567000001](https://tender.2merkato.com/tenders/6a992c6c0a538a2567000001)
-
----
-
 ## Addis Ababa University፡ Procurement of chemicals and laboratory equipment 004/2019
 
 **Source:** 2merkato.com
@@ -279,22 +279,6 @@
 **Matched Keywords:** medical, hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6abb553d0a538a13b6000001](https://tender.2merkato.com/tenders/6abb553d0a538a13b6000001)
-
----
-
-## Amanuel Mental Specialized Hospital: procurement of corrective and repair service for kitchen Equipment
-
-**Source:** 2merkato.com
-
-**Company:** Amanuel Mental Specialized Hospital
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6ab21c6d0a538a3359000001](https://tender.2merkato.com/tenders/6ab21c6d0a538a3359000001)
 
 ---
 
@@ -423,22 +407,6 @@
 **Matched Keywords:** medical equipment, medical
 
 **Link:** [https://tender.2merkato.com/tenders/6a18188a0a538a54f4000001](https://tender.2merkato.com/tenders/6a18188a0a538a54f4000001)
-
----
-
-## Healing Hands of Joy (HHOJ) hereby invites eligible bidders for the supply and delivery of the medical equipment and materials.
-
-**Source:** 2merkato.com
-
-**Company:** Healing Hands of Joy
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a0db2b60a538a5672000001](https://tender.2merkato.com/tenders/6a0db2b60a538a5672000001)
 
 ---
 
