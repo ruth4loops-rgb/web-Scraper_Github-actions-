@@ -2,11 +2,27 @@
 
 ---
 
-**Execution #1581**
+**Execution #1582**
 
-**Last run:** 2026-09-30 13:59:22 UTC
+**Last run:** 2026-09-30 19:07:46 UTC
 
-**Total matched tenders:** 33
+**Total matched tenders:** 34
+
+---
+
+## MSI Ethiopia invites eligible bidders for the procurement of medical equipment and desktop computer.
+
+**Source:** 2merkato.com
+
+**Company:** MSI Ethiopian Reproductive Choices
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6abcf6ed0a538ab27c000001](https://tender.2merkato.com/tenders/6abcf6ed0a538ab27c000001)
 
 ---
 
@@ -218,22 +234,6 @@
 
 ---
 
-## Positive Action for Development (PAD) invites qualified and EFDA-registered suppliers for the procurement of various medical equipment, including Fetal Dopplers, Centrifuges, Oxygen Concentrators, CBC Machines, Digital BP Apparatus, Pulse Oximeters, Glucometers, Suction Machines, Clinical Thermometers, Wheelchairs, Stethoscopes, and Instrument Trolleys.
-
-**Source:** 2merkato.com
-
-**Company:** Positive Action for Development
-
-**Status:** Closed
-
-**Closing Date:** 2026-09-15 15:00:00
-
-**Matched Keywords:** pulse oximeter, bp apparatus, glucometer, thermometer, medical equipment, medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a9a95400a538ab183000001](https://tender.2merkato.com/tenders/6a9a95400a538ab183000001)
-
----
-
 ## Addis Ababa University፡ Procurement of chemicals and laboratory equipment 004/2019
 
 **Source:** 2merkato.com
@@ -346,6 +346,22 @@
 
 ---
 
+## Positive Action for Development (PAD) invites qualified and EFDA-registered suppliers for the procurement of various medical equipment, including Fetal Dopplers, Centrifuges, Oxygen Concentrators, CBC Machines, Digital BP Apparatus, Pulse Oximeters, Glucometers, Suction Machines, Clinical Thermometers, Wheelchairs, Stethoscopes, and Instrument Trolleys.
+
+**Source:** 2merkato.com
+
+**Company:** Positive Action for Development
+
+**Status:** Closed
+
+**Closing Date:** 2026-09-15 15:00:00
+
+**Matched Keywords:** pulse oximeter, bp apparatus, glucometer, thermometer, medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a9a95400a538ab183000001](https://tender.2merkato.com/tenders/6a9a95400a538ab183000001)
+
+---
+
 ## Shaggar Institute of Technology (SIT) invites eligible bidders for the supply and installation of workshop and laboratory equipment for the Electrical & Electronics, General Mechanics, and Biotechnology departments.
 
 **Source:** 2merkato.com
@@ -407,6 +423,22 @@
 **Matched Keywords:** medical equipment, medical
 
 **Link:** [https://tender.2merkato.com/tenders/6a18188a0a538a54f4000001](https://tender.2merkato.com/tenders/6a18188a0a538a54f4000001)
+
+---
+
+## Ethiopian Anti Doping Authority: Procurement of Medical Supplies
+
+**Source:** 2merkato.com
+
+**Company:** Ethiopian Anti Doping Authority
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical
+
+**Link:** [https://tender.2merkato.com/tenders/6abd14440a538ab097000001](https://tender.2merkato.com/tenders/6abd14440a538ab097000001)
 
 ---
 
@@ -503,22 +535,6 @@
 **Matched Keywords:** medical
 
 **Link:** [https://tender.2merkato.com/tenders/6aa793f60a538a7242000001](https://tender.2merkato.com/tenders/6aa793f60a538a7242000001)
-
----
-
-## Debre Birhan University: Procurement of Medical Supplies, Laboratory Reagents and Chemicals
-
-**Source:** 2merkato.com
-
-**Company:** Debre Birhan University
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical
-
-**Link:** [https://tender.2merkato.com/tenders/6aa78ff50a538a615c000001](https://tender.2merkato.com/tenders/6aa78ff50a538a615c000001)
 
 ---
 
