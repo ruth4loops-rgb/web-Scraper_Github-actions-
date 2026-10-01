@@ -2,11 +2,27 @@
 
 ---
 
-**Execution #1585**
+**Execution #1586**
 
-**Last run:** 2026-10-01 08:48:16 UTC
+**Last run:** 2026-10-01 15:44:47 UTC
 
 **Total matched tenders:** 34
+
+---
+
+## City Government of Addis Ababa Health Bureau Zewditu Memorial Hospital :Procurement of Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** Zewditu Memorial Hospital
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical, hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6abe62a40a538a50ac000001](https://tender.2merkato.com/tenders/6abe62a40a538a50ac000001)
 
 ---
 
@@ -122,38 +138,6 @@
 
 ---
 
-## St. Paul's Hospital Millennium Medical College: High-End Electro-Hydraulic Neurosurgical Operating Table /FOR AaBET /
-
-**Source:** 2merkato.com
-
-**Company:** St. Paul's Hospital Millennium Medical College
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** operating table, medical, hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6ab374d10a538aad27000001](https://tender.2merkato.com/tenders/6ab374d10a538aad27000001)
-
----
-
-## St. Paul's Hospital Millennium Medical College: High-End Electro-Hydraulic Neurosurgical Operating Table /FOR AaBET /
-
-**Source:** 2merkato.com
-
-**Company:** St. Paul's Hospital Millennium Medical College
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** operating table, medical, hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6ab3717a0a538aef30000001](https://tender.2merkato.com/tenders/6ab3717a0a538aef30000001)
-
----
-
 ## Alert Comprehensive Specialized Hospital: Procurement of Medical Equipment and Supplies
 
 **Source:** 2merkato.com
@@ -234,6 +218,22 @@
 
 ---
 
+## Positive Action for Development (PAD) invites qualified and EFDA-registered suppliers for the procurement of various medical equipment, including Fetal Dopplers, Centrifuges, Oxygen Concentrators, CBC Machines, Digital BP Apparatus, Pulse Oximeters, Glucometers, Suction Machines, Clinical Thermometers, Wheelchairs, Stethoscopes, and Instrument Trolleys.
+
+**Source:** 2merkato.com
+
+**Company:** Positive Action for Development
+
+**Status:** Closed
+
+**Closing Date:** 2026-09-15 15:00:00
+
+**Matched Keywords:** pulse oximeter, bp apparatus, glucometer, thermometer, medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a9a95400a538ab183000001](https://tender.2merkato.com/tenders/6a9a95400a538ab183000001)
+
+---
+
 ## Addis Ababa University፡ Procurement of chemicals and laboratory equipment 004/2019
 
 **Source:** 2merkato.com
@@ -279,6 +279,38 @@
 **Matched Keywords:** medical, hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6abb553d0a538a13b6000001](https://tender.2merkato.com/tenders/6abb553d0a538a13b6000001)
+
+---
+
+## St. Paul's Hospital Millennium Medical College: High-End Electro-Hydraulic Neurosurgical Operating Table /FOR AaBET /
+
+**Source:** 2merkato.com
+
+**Company:** St. Paul's Hospital Millennium Medical College
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** operating table, medical, hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6ab374d10a538aad27000001](https://tender.2merkato.com/tenders/6ab374d10a538aad27000001)
+
+---
+
+## St. Paul's Hospital Millennium Medical College: High-End Electro-Hydraulic Neurosurgical Operating Table /FOR AaBET /
+
+**Source:** 2merkato.com
+
+**Company:** St. Paul's Hospital Millennium Medical College
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** operating table, medical, hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6ab3717a0a538aef30000001](https://tender.2merkato.com/tenders/6ab3717a0a538aef30000001)
 
 ---
 
@@ -346,22 +378,6 @@
 
 ---
 
-## Positive Action for Development (PAD) invites qualified and EFDA-registered suppliers for the procurement of various medical equipment, including Fetal Dopplers, Centrifuges, Oxygen Concentrators, CBC Machines, Digital BP Apparatus, Pulse Oximeters, Glucometers, Suction Machines, Clinical Thermometers, Wheelchairs, Stethoscopes, and Instrument Trolleys.
-
-**Source:** 2merkato.com
-
-**Company:** Positive Action for Development
-
-**Status:** Closed
-
-**Closing Date:** 2026-09-15 15:00:00
-
-**Matched Keywords:** pulse oximeter, bp apparatus, glucometer, thermometer, medical equipment, medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a9a95400a538ab183000001](https://tender.2merkato.com/tenders/6a9a95400a538ab183000001)
-
----
-
 ## Shaggar Institute of Technology (SIT) invites eligible bidders for the supply and installation of workshop and laboratory equipment for the Electrical & Electronics, General Mechanics, and Biotechnology departments.
 
 **Source:** 2merkato.com
@@ -423,6 +439,22 @@
 **Matched Keywords:** medical equipment, medical
 
 **Link:** [https://tender.2merkato.com/tenders/6a18188a0a538a54f4000001](https://tender.2merkato.com/tenders/6a18188a0a538a54f4000001)
+
+---
+
+## St. Peter Specialized Hospital: Procurement of RDF Medicines and Medical Supplies
+
+**Source:** 2merkato.com
+
+**Company:** St. Peter Specialized Hospital
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical, hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6abe626b0a538a4a67000001](https://tender.2merkato.com/tenders/6abe626b0a538a4a67000001)
 
 ---
 
@@ -503,38 +535,6 @@
 **Matched Keywords:** medical
 
 **Link:** [https://tender.2merkato.com/tenders/6ab370860a538aa81b000001](https://tender.2merkato.com/tenders/6ab370860a538aa81b000001)
-
----
-
-## Debre Birhan University Procurement of Medical Supplies, Laboratory Reagents and Chemicals
-
-**Source:** 2merkato.com
-
-**Company:** Debre Birhan University
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical
-
-**Link:** [https://tender.2merkato.com/tenders/6aa7b65d0a538ac947000001](https://tender.2merkato.com/tenders/6aa7b65d0a538ac947000001)
-
----
-
-## Adigrat University: Procurement of RDF Medicines and Medical Supplies
-
-**Source:** 2merkato.com
-
-**Company:** Adigrat University
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical
-
-**Link:** [https://tender.2merkato.com/tenders/6aa793f60a538a7242000001](https://tender.2merkato.com/tenders/6aa793f60a538a7242000001)
 
 ---
 
