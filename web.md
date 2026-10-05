@@ -2,11 +2,11 @@
 
 ---
 
-**Execution #1605**
+**Execution #1606**
 
-**Last run:** 2026-10-05 01:13:14 UTC
+**Last run:** 2026-10-05 07:10:01 UTC
 
-**Total matched tenders:** 34
+**Total matched tenders:** 33
 
 ---
 
@@ -375,22 +375,6 @@
 **Matched Keywords:** laboratory equipment
 
 **Link:** [https://tender.2merkato.com/tenders/6a9bb90b0a538accf4000001](https://tender.2merkato.com/tenders/6a9bb90b0a538accf4000001)
-
----
-
-## Shaggar Institute of Technology (SIT) invites eligible bidders for the supply and installation of workshop and laboratory equipment for the Electrical & Electronics, General Mechanics, and Biotechnology departments.
-
-**Source:** 2merkato.com
-
-**Company:** Shaggar Institute of Technology
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** laboratory equipment
-
-**Link:** [https://tender.2merkato.com/tenders/6a9530a40a538abb46000001](https://tender.2merkato.com/tenders/6a9530a40a538abb46000001)
 
 ---
 
