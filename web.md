@@ -2,11 +2,27 @@
 
 ---
 
-**Execution #1606**
+**Execution #1607**
 
-**Last run:** 2026-10-05 07:10:01 UTC
+**Last run:** 2026-10-05 16:03:03 UTC
 
-**Total matched tenders:** 33
+**Total matched tenders:** 34
+
+---
+
+## The Ethiopian Red Cross Society-Essential Drug program (ERCS-EDP) invites eligible pharmaceutical manufacturers and authorized local agents to submit quotations for the supply of pharmaceuticals, medical supplies, and medical equipment.
+
+**Source:** 2merkato.com
+
+**Company:** Ethiopian Red Cross Society
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6ac3b5ac0a538ae3d9000001](https://tender.2merkato.com/tenders/6ac3b5ac0a538ae3d9000001)
 
 ---
 
@@ -218,22 +234,6 @@
 
 ---
 
-## Positive Action for Development (PAD) invites qualified and EFDA-registered suppliers for the procurement of various medical equipment, including Fetal Dopplers, Centrifuges, Oxygen Concentrators, CBC Machines, Digital BP Apparatus, Pulse Oximeters, Glucometers, Suction Machines, Clinical Thermometers, Wheelchairs, Stethoscopes, and Instrument Trolleys.
-
-**Source:** 2merkato.com
-
-**Company:** Positive Action for Development
-
-**Status:** Closed
-
-**Closing Date:** 2026-09-15 15:00:00
-
-**Matched Keywords:** pulse oximeter, bp apparatus, glucometer, thermometer, medical equipment, medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a9a95400a538ab183000001](https://tender.2merkato.com/tenders/6a9a95400a538ab183000001)
-
----
-
 ## Addis Ababa University፡ Procurement of chemicals and laboratory equipment 004/2019
 
 **Source:** 2merkato.com
@@ -375,6 +375,22 @@
 **Matched Keywords:** laboratory equipment
 
 **Link:** [https://tender.2merkato.com/tenders/6a9bb90b0a538accf4000001](https://tender.2merkato.com/tenders/6a9bb90b0a538accf4000001)
+
+---
+
+## Positive Action for Development (PAD) invites qualified and EFDA-registered suppliers for the procurement of various medical equipment, including Fetal Dopplers, Centrifuges, Oxygen Concentrators, CBC Machines, Digital BP Apparatus, Pulse Oximeters, Glucometers, Suction Machines, Clinical Thermometers, Wheelchairs, Stethoscopes, and Instrument Trolleys.
+
+**Source:** 2merkato.com
+
+**Company:** Positive Action for Development
+
+**Status:** Closed
+
+**Closing Date:** 2026-09-15 15:00:00
+
+**Matched Keywords:** pulse oximeter, bp apparatus, glucometer, thermometer, medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6a9a95400a538ab183000001](https://tender.2merkato.com/tenders/6a9a95400a538ab183000001)
 
 ---
 
