@@ -2,11 +2,27 @@
 
 ---
 
-**Execution #1609**
+**Execution #1610**
 
-**Last run:** 2026-10-06 02:29:56 UTC
+**Last run:** 2026-10-06 09:21:13 UTC
 
-**Total matched tenders:** 33
+**Total matched tenders:** 34
+
+---
+
+## Addis Ababa City Administrative Health Bureau Yekatit 12 Hospital Medical College: Procurement of Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** Yekatit 12 Hospital Medical College
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical, hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6ac49edd0a538aaba1000001](https://tender.2merkato.com/tenders/6ac49edd0a538aaba1000001)
 
 ---
 
@@ -218,22 +234,6 @@
 
 ---
 
-## Ethiopian Federal Police: Procurement of Medical Equipment and Supplies
-
-**Source:** 2merkato.com
-
-**Company:** Federal Police Commission
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a9bb5100a538ab9d7000001](https://tender.2merkato.com/tenders/6a9bb5100a538ab9d7000001)
-
----
-
 ## Addis Ababa University፡ Procurement of chemicals and laboratory equipment 004/2019
 
 **Source:** 2merkato.com
@@ -295,22 +295,6 @@
 **Matched Keywords:** operating table, medical, hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6ab374d10a538aad27000001](https://tender.2merkato.com/tenders/6ab374d10a538aad27000001)
-
----
-
-## St. Paul's Hospital Millennium Medical College: High-End Electro-Hydraulic Neurosurgical Operating Table /FOR AaBET /
-
-**Source:** 2merkato.com
-
-**Company:** St. Paul's Hospital Millennium Medical College
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** operating table, medical, hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6ab3717a0a538aef30000001](https://tender.2merkato.com/tenders/6ab3717a0a538aef30000001)
 
 ---
 
@@ -439,6 +423,38 @@
 **Matched Keywords:** medical equipment, medical
 
 **Link:** [https://tender.2merkato.com/tenders/6a18188a0a538a54f4000001](https://tender.2merkato.com/tenders/6a18188a0a538a54f4000001)
+
+---
+
+## National Intelligence and Security Service: Procurement of RDF Medicines and Medical Supplies
+
+**Source:** 2merkato.com
+
+**Company:** National Intelligence and Security Service
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical
+
+**Link:** [https://tender.2merkato.com/tenders/6ac490110a538a0efd000001](https://tender.2merkato.com/tenders/6ac490110a538a0efd000001)
+
+---
+
+## Wolkite University: Procurement of Medical Supplies, Laboratory Reagents and Chemicals
+
+**Source:** 2merkato.com
+
+**Company:** Wolkite University
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical
+
+**Link:** [https://tender.2merkato.com/tenders/6ac48c200a538a5dcc000001](https://tender.2merkato.com/tenders/6ac48c200a538a5dcc000001)
 
 ---
 
