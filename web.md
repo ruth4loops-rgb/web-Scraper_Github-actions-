@@ -2,11 +2,27 @@
 
 ---
 
-**Execution #1610**
+**Execution #1611**
 
-**Last run:** 2026-10-06 09:21:13 UTC
+**Last run:** 2026-10-06 16:05:48 UTC
 
-**Total matched tenders:** 34
+**Total matched tenders:** 33
+
+---
+
+## Eka Kotebe General Hospital: Procurement of Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** EKA Kotebe General Hospital
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical, hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6ac500c90a538a5ce1000001](https://tender.2merkato.com/tenders/6ac500c90a538a5ce1000001)
 
 ---
 
@@ -282,19 +298,35 @@
 
 ---
 
-## St. Paul's Hospital Millennium Medical College: High-End Electro-Hydraulic Neurosurgical Operating Table /FOR AaBET /
+## Space Science and Geospatial Institute :Procurement of Laboratory Equipment
 
 **Source:** 2merkato.com
 
-**Company:** St. Paul's Hospital Millennium Medical College
+**Company:** Space Science and Geospatial Institute
 
 **Status:** Login required
 
 **Closing Date:** Login required to view
 
-**Matched Keywords:** operating table, medical, hospital
+**Matched Keywords:** laboratory equipment
 
-**Link:** [https://tender.2merkato.com/tenders/6ab374d10a538aad27000001](https://tender.2merkato.com/tenders/6ab374d10a538aad27000001)
+**Link:** [https://tender.2merkato.com/tenders/6ac4f6b30a538a8d95000001](https://tender.2merkato.com/tenders/6ac4f6b30a538a8d95000001)
+
+---
+
+## Space Science and Geospatial Institute :Procurement of Laboratory Equipment 3
+
+**Source:** 2merkato.com
+
+**Company:** Space Science and Geospatial Institute
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** laboratory equipment
+
+**Link:** [https://tender.2merkato.com/tenders/6ac4f66c0a538a7493000001](https://tender.2merkato.com/tenders/6ac4f66c0a538a7493000001)
 
 ---
 
@@ -343,38 +375,6 @@
 **Matched Keywords:** laboratory equipment
 
 **Link:** [https://tender.2merkato.com/tenders/6aa7b4400a538ac45f000001](https://tender.2merkato.com/tenders/6aa7b4400a538ac45f000001)
-
----
-
-## Livestock Development Institute: Procurement of Laboratory Equipment
-
-**Source:** 2merkato.com
-
-**Company:** FDRE Livestock Development Institute
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** laboratory equipment
-
-**Link:** [https://tender.2merkato.com/tenders/6a9bb90b0a538accf4000001](https://tender.2merkato.com/tenders/6a9bb90b0a538accf4000001)
-
----
-
-## Positive Action for Development (PAD) invites qualified and EFDA-registered suppliers for the procurement of various medical equipment, including Fetal Dopplers, Centrifuges, Oxygen Concentrators, CBC Machines, Digital BP Apparatus, Pulse Oximeters, Glucometers, Suction Machines, Clinical Thermometers, Wheelchairs, Stethoscopes, and Instrument Trolleys.
-
-**Source:** 2merkato.com
-
-**Company:** Positive Action for Development
-
-**Status:** Closed
-
-**Closing Date:** 2026-09-15 15:00:00
-
-**Matched Keywords:** pulse oximeter, bp apparatus, glucometer, thermometer, medical equipment, medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a9a95400a538ab183000001](https://tender.2merkato.com/tenders/6a9a95400a538ab183000001)
 
 ---
 
@@ -535,22 +535,6 @@
 **Matched Keywords:** medical
 
 **Link:** [https://tender.2merkato.com/tenders/6ab373380a538a0ae8000001](https://tender.2merkato.com/tenders/6ab373380a538a0ae8000001)
-
----
-
-## Addis Ababa Science and Technology University: Procurement of Medical Supplies, Laboratory Reagents and Chemicals for CNS
-
-**Source:** 2merkato.com
-
-**Company:** Addis Ababa Science and Technology University
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical
-
-**Link:** [https://tender.2merkato.com/tenders/6ab370860a538aa81b000001](https://tender.2merkato.com/tenders/6ab370860a538aa81b000001)
 
 ---
 
