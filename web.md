@@ -2,11 +2,11 @@
 
 ---
 
-**Execution #1615**
+**Execution #1616**
 
-**Last run:** 2026-10-07 13:47:28 UTC
+**Last run:** 2026-10-07 19:36:02 UTC
 
-**Total matched tenders:** 33
+**Total matched tenders:** 34
 
 ---
 
@@ -423,6 +423,22 @@
 **Matched Keywords:** medical equipment, medical
 
 **Link:** [https://tender.2merkato.com/tenders/6a18188a0a538a54f4000001](https://tender.2merkato.com/tenders/6a18188a0a538a54f4000001)
+
+---
+
+## Ethiopian Agricultural Authority: Procurement of Medical Supplies, Laboratory Reagents and Chemicals
+
+**Source:** 2merkato.com
+
+**Company:** Ethiopian Agricultural Authority
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical
+
+**Link:** [https://tender.2merkato.com/tenders/6ac649000a538a2cb5000001](https://tender.2merkato.com/tenders/6ac649000a538a2cb5000001)
 
 ---
 
