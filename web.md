@@ -2,9 +2,9 @@
 
 ---
 
-**Execution #1614**
+**Execution #1615**
 
-**Last run:** 2026-10-07 06:26:50 UTC
+**Last run:** 2026-10-07 13:47:28 UTC
 
 **Total matched tenders:** 33
 
@@ -426,6 +426,22 @@
 
 ---
 
+## Ethiopian Agricultural Authority: Procurement of Medical Supplies
+
+**Source:** 2merkato.com
+
+**Company:** Ethiopian Agricultural Authority
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical
+
+**Link:** [https://tender.2merkato.com/tenders/6ac647950a538a2cb5000001](https://tender.2merkato.com/tenders/6ac647950a538a2cb5000001)
+
+---
+
 ## National Intelligence and Security Service: Procurement of RDF Medicines and Medical Supplies
 
 **Source:** 2merkato.com
@@ -519,22 +535,6 @@
 **Matched Keywords:** medical
 
 **Link:** [https://tender.2merkato.com/tenders/6ab50d600a538adac3000001](https://tender.2merkato.com/tenders/6ab50d600a538adac3000001)
-
----
-
-## Addis Ababa Science and Technology University: Procurement of Medical Supplies, Laboratory Reagents and Chemicals for CNS
-
-**Source:** 2merkato.com
-
-**Company:** Ebiz Online Solutions PLC
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical
-
-**Link:** [https://tender.2merkato.com/tenders/6ab373380a538a0ae8000001](https://tender.2merkato.com/tenders/6ab373380a538a0ae8000001)
 
 ---
 
