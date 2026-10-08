@@ -2,11 +2,27 @@
 
 ---
 
-**Execution #1619**
+**Execution #1620**
 
-**Last run:** 2026-10-08 10:44:39 UTC
+**Last run:** 2026-10-08 17:36:39 UTC
 
 **Total matched tenders:** 34
+
+---
+
+## EngenderHealth Ethiopia is inviting interested and eligible bidders for the procurement of specialized medical equipment, including Radiant Warmers for Newborns (10 units), Neonatal CPAP/Bubble CPAP Systems (5 units), Perfusor/Syringe Infusion Pumps (5 units), and Medical Suction Machines for Infant Use (2 units).
+
+**Source:** 2merkato.com
+
+**Company:** Engender Health Ethiopia
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6ac78a180a538a4760000001](https://tender.2merkato.com/tenders/6ac78a180a538a4760000001)
 
 ---
 
@@ -231,22 +247,6 @@
 **Matched Keywords:** medical equipment, medical
 
 **Link:** [https://tender.2merkato.com/tenders/6aaa38cb0a538af68e000001](https://tender.2merkato.com/tenders/6aaa38cb0a538af68e000001)
-
----
-
-## The American Jewish Joint Distribution Committee (JDC), an international NGO registered in Ethiopia, invites qualified suppliers to submit bids for the supply, delivery, and installation of Medical Equipment for Maraki Health Center, Gondar, Ethiopia.
-
-**Source:** 2merkato.com
-
-**Company:** American Jewish Joint Distribution Committee
-
-**Status:** Closed
-
-**Closing Date:** 2026-09-25 17:00:00
-
-**Matched Keywords:** medical equipment, medical
-
-**Link:** [https://tender.2merkato.com/tenders/6aa7d66e0a538a06e1000001](https://tender.2merkato.com/tenders/6aa7d66e0a538a06e1000001)
 
 ---
 
