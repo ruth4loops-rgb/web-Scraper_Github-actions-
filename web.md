@@ -2,9 +2,9 @@
 
 ---
 
-**Execution #1622**
+**Execution #1623**
 
-**Last run:** 2026-10-09 02:29:42 UTC
+**Last run:** 2026-10-09 09:34:00 UTC
 
 **Total matched tenders:** 34
 
@@ -426,6 +426,22 @@
 
 ---
 
+## Ethiopian Agricultural Authority:- Procurement of Medical Supplies
+
+**Source:** 2merkato.com
+
+**Company:** Ethiopian Agricultural Authority
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical
+
+**Link:** [https://tender.2merkato.com/tenders/6ac8785b0a538a6b83000001](https://tender.2merkato.com/tenders/6ac8785b0a538a6b83000001)
+
+---
+
 ## Ethiopian Agricultural Authority: Procurement of Medical Supplies, Laboratory Reagents and Chemicals
 
 **Source:** 2merkato.com
@@ -535,22 +551,6 @@
 **Matched Keywords:** medical
 
 **Link:** [https://tender.2merkato.com/tenders/6abb55470a538ad657000001](https://tender.2merkato.com/tenders/6abb55470a538ad657000001)
-
----
-
-## Adigrat University: Procurement of RDF Medicines and Medical Supplies
-
-**Source:** 2merkato.com
-
-**Company:** Adigrat University
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical
-
-**Link:** [https://tender.2merkato.com/tenders/6ab50d600a538adac3000001](https://tender.2merkato.com/tenders/6ab50d600a538adac3000001)
 
 ---
 
