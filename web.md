@@ -2,11 +2,27 @@
 
 ---
 
-**Execution #1640**
+**Execution #1641**
 
-**Last run:** 2026-10-13 03:41:01 UTC
+**Last run:** 2026-10-13 11:09:21 UTC
 
 **Total matched tenders:** 34
+
+---
+
+## St. Peter Specialized Hospital: Procurement of Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** St. Peter Specialized Hospital
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical, hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6acdc3be0a538a586e000001](https://tender.2merkato.com/tenders/6acdc3be0a538a586e000001)
 
 ---
 
@@ -234,22 +250,6 @@
 
 ---
 
-## Alert Comprehensive Specialized Hospital: Procurement of Medical Equipment and Supplies
-
-**Source:** 2merkato.com
-
-**Company:** Alert  Comprehensive Specialized Hospital
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical, hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6aacfd780a538a6e3a000001](https://tender.2merkato.com/tenders/6aacfd780a538a6e3a000001)
-
----
-
 ## Addis Ababa City Administrative Health Bureau Yekatit 12 Hospital Medical College:- Procurement of Stationary Materials
 
 **Source:** 2merkato.com
@@ -282,22 +282,6 @@
 
 ---
 
-## Addis Ababa University፡ Procurement of chemicals and laboratory equipment 004/2019
-
-**Source:** 2merkato.com
-
-**Company:** Ebiz Online Solutions PLC
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** laboratory equipment
-
-**Link:** [https://tender.2merkato.com/tenders/6abbbd050a538a4fab000001](https://tender.2merkato.com/tenders/6abbbd050a538a4fab000001)
-
----
-
 ## Space Science and Geospatial Institute :Procurement of Laboratory Equipment
 
 **Source:** 2merkato.com
@@ -327,6 +311,22 @@
 **Matched Keywords:** laboratory equipment
 
 **Link:** [https://tender.2merkato.com/tenders/6ac4f66c0a538a7493000001](https://tender.2merkato.com/tenders/6ac4f66c0a538a7493000001)
+
+---
+
+## Addis Ababa University፡ Procurement of chemicals and laboratory equipment 004/2019
+
+**Source:** 2merkato.com
+
+**Company:** Ebiz Online Solutions PLC
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** laboratory equipment
+
+**Link:** [https://tender.2merkato.com/tenders/6abbbd050a538a4fab000001](https://tender.2merkato.com/tenders/6abbbd050a538a4fab000001)
 
 ---
 
