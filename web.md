@@ -2,11 +2,27 @@
 
 ---
 
-**Execution #1641**
+**Execution #1642**
 
-**Last run:** 2026-10-13 11:09:21 UTC
+**Last run:** 2026-10-13 18:19:02 UTC
 
-**Total matched tenders:** 34
+**Total matched tenders:** 33
+
+---
+
+## Addis Ababa City Administration Women, Children and Social Affairs Bureau: Procurement of Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** Addis Ababa city administration
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6ace3a220a538a159b000001](https://tender.2merkato.com/tenders/6ace3a220a538a159b000001)
 
 ---
 
@@ -234,22 +250,6 @@
 
 ---
 
-## Federal Prisoners Commission፡ Procurement of Medical Equipment and Supplies
-
-**Source:** 2merkato.com
-
-**Company:** Federal Prisoners Commission
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical
-
-**Link:** [https://tender.2merkato.com/tenders/6ab3d1180a538aed7c000001](https://tender.2merkato.com/tenders/6ab3d1180a538aed7c000001)
-
----
-
 ## Addis Ababa City Administrative Health Bureau Yekatit 12 Hospital Medical College:- Procurement of Stationary Materials
 
 **Source:** 2merkato.com
@@ -362,22 +362,6 @@
 
 ---
 
-## BONGA UNIVERSITY Procurement of Laboratory Equipment
-
-**Source:** 2merkato.com
-
-**Company:** Bonga University
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** laboratory equipment
-
-**Link:** [https://tender.2merkato.com/tenders/6aa7b4400a538ac45f000001](https://tender.2merkato.com/tenders/6aa7b4400a538ac45f000001)
-
----
-
 ## Hellenic Greek International School invites sealed bids from eligible and licensed insurance companies to provide comprehensive Group Medical Insurance Services for its employees and their eligible family members for a period of one year.
 
 **Source:** 2merkato.com
@@ -423,6 +407,22 @@
 **Matched Keywords:** medical equipment, medical
 
 **Link:** [https://tender.2merkato.com/tenders/6a18188a0a538a54f4000001](https://tender.2merkato.com/tenders/6a18188a0a538a54f4000001)
+
+---
+
+## Ethiopia Prosthetic and Orthotic Service: Procurement of Medical Supplies(የ ህክምና ግብዓት)
+
+**Source:** 2merkato.com
+
+**Company:** Ethiopian Prosthetic and Orthotic Service
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical
+
+**Link:** [https://tender.2merkato.com/tenders/6ace36600a538a1a88000001](https://tender.2merkato.com/tenders/6ace36600a538a1a88000001)
 
 ---
 
@@ -535,22 +535,6 @@
 **Matched Keywords:** medical
 
 **Link:** [https://tender.2merkato.com/tenders/6abd14440a538ab097000001](https://tender.2merkato.com/tenders/6abd14440a538ab097000001)
-
----
-
-## Oromia Bureau of Agriculture :- Procurement of Medical Supplies
-
-**Source:** 2merkato.com
-
-**Company:** Oromia Bureau of Agriculture
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical
-
-**Link:** [https://tender.2merkato.com/tenders/6abb55470a538ad657000001](https://tender.2merkato.com/tenders/6abb55470a538ad657000001)
 
 ---
 
