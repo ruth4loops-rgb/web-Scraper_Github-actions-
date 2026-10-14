@@ -2,11 +2,27 @@
 
 ---
 
-**Execution #1646**
+**Execution #1647**
 
-**Last run:** 2026-10-14 12:29:05 UTC
+**Last run:** 2026-10-14 17:33:02 UTC
 
-**Total matched tenders:** 32
+**Total matched tenders:** 35
+
+---
+
+## The Ethiopian Diabetes Association (EDA), in partnership with the World Diabetes Foundation (WDF), invites eligible medical equipment and diagnostic suppliers to submit sealed quotations for the Procurement and Delivery of Glucometers, Blood Glucose Test Strips, and Blood Lancets under Reference Number EDA/WDF/1164/2026.
+
+**Source:** 2merkato.com
+
+**Company:** Ethiopian Diabetes Association
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** glucometer, medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6acf7d140a538a45e5000001](https://tender.2merkato.com/tenders/6acf7d140a538a45e5000001)
 
 ---
 
@@ -234,22 +250,6 @@
 
 ---
 
-## St. Paul's Hospital Millennium Medical College Procurement of Medical Equipment and Supplies For AaBET Hospital 2019 /D
-
-**Source:** 2merkato.com
-
-**Company:** St. Paul's Hospital Millennium Medical College
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical, hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6ab530820a538a263b000001](https://tender.2merkato.com/tenders/6ab530820a538a263b000001)
-
----
-
 ## Addis Ababa City Administrative Health Bureau Yekatit 12 Hospital Medical College:- Procurement of Stationary Materials
 
 **Source:** 2merkato.com
@@ -279,6 +279,38 @@
 **Matched Keywords:** medical, hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6ac9d5700a538a7290000001](https://tender.2merkato.com/tenders/6ac9d5700a538a7290000001)
+
+---
+
+## Ministry of Defense: Procurement of Laboratory Equipment
+
+**Source:** 2merkato.com
+
+**Company:** Ministry of Defense
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** laboratory equipment
+
+**Link:** [https://tender.2merkato.com/tenders/6acf8ca00a538a9af9000001](https://tender.2merkato.com/tenders/6acf8ca00a538a9af9000001)
+
+---
+
+## Amanuel Mental Specialized Hospital: Procurement of Laboratory Reagents and Chemicals
+
+**Source:** 2merkato.com
+
+**Company:** Amanuel Mental Specialized Hospital
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6acf814a0a538a03cc000001](https://tender.2merkato.com/tenders/6acf814a0a538a03cc000001)
 
 ---
 
@@ -391,6 +423,22 @@
 **Matched Keywords:** medical equipment, medical
 
 **Link:** [https://tender.2merkato.com/tenders/6a18188a0a538a54f4000001](https://tender.2merkato.com/tenders/6a18188a0a538a54f4000001)
+
+---
+
+## St. Paul's Hospital Millennium Medical College :Procurement of RDF Medicines and Medical Supplies
+
+**Source:** 2merkato.com
+
+**Company:** St. Paul's Hospital Millennium Medical College
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical, hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6acf88190a538aac5c000001](https://tender.2merkato.com/tenders/6acf88190a538aac5c000001)
 
 ---
 
