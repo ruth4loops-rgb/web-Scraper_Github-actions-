@@ -2,11 +2,11 @@
 
 ---
 
-**Execution #1645**
+**Execution #1646**
 
-**Last run:** 2026-10-14 06:46:11 UTC
+**Last run:** 2026-10-14 12:29:05 UTC
 
-**Total matched tenders:** 33
+**Total matched tenders:** 32
 
 ---
 
@@ -343,22 +343,6 @@
 **Matched Keywords:** laboratory equipment
 
 **Link:** [https://tender.2merkato.com/tenders/6abb7fd40a538a55a1000001](https://tender.2merkato.com/tenders/6abb7fd40a538a55a1000001)
-
----
-
-## Dire Dawa University: Procurement of workshop/laboratory equipment for College of Mechanical and Industrial Engineering
-
-**Source:** 2merkato.com
-
-**Company:** Dire Dawa University
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** laboratory equipment
-
-**Link:** [https://tender.2merkato.com/tenders/6ab51ce90a538a908c000001](https://tender.2merkato.com/tenders/6ab51ce90a538a908c000001)
 
 ---
 
