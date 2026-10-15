@@ -2,9 +2,9 @@
 
 ---
 
-**Execution #1651**
+**Execution #1652**
 
-**Last run:** 2026-10-15 07:42:27 UTC
+**Last run:** 2026-10-15 12:52:40 UTC
 
 **Total matched tenders:** 34
 
@@ -346,22 +346,6 @@
 
 ---
 
-## Addis Ababa University፡ Procurement of chemicals and laboratory equipment 004/2019
-
-**Source:** 2merkato.com
-
-**Company:** Ebiz Online Solutions PLC
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** laboratory equipment
-
-**Link:** [https://tender.2merkato.com/tenders/6abbbd050a538a4fab000001](https://tender.2merkato.com/tenders/6abbbd050a538a4fab000001)
-
----
-
 ## Hellenic Greek International School invites sealed bids from eligible and licensed insurance companies to provide comprehensive Group Medical Insurance Services for its employees and their eligible family members for a period of one year.
 
 **Source:** 2merkato.com
@@ -407,6 +391,22 @@
 **Matched Keywords:** medical equipment, medical
 
 **Link:** [https://tender.2merkato.com/tenders/6a18188a0a538a54f4000001](https://tender.2merkato.com/tenders/6a18188a0a538a54f4000001)
+
+---
+
+## Oromia Bureau of Agriculture :- Procurement of Medical Supplies
+
+**Source:** 2merkato.com
+
+**Company:** Oromia Bureau of Agriculture
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical
+
+**Link:** [https://tender.2merkato.com/tenders/6ad0bc4f0a538a1e01000001](https://tender.2merkato.com/tenders/6ad0bc4f0a538a1e01000001)
 
 ---
 
