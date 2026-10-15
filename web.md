@@ -2,11 +2,43 @@
 
 ---
 
-**Execution #1652**
+**Execution #1653**
 
-**Last run:** 2026-10-15 12:52:40 UTC
+**Last run:** 2026-10-15 17:35:14 UTC
 
-**Total matched tenders:** 34
+**Total matched tenders:** 36
+
+---
+
+## University of Gondar: Procurement of Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** University of Gondar
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6ad0d2e60a538a1f84000001](https://tender.2merkato.com/tenders/6ad0d2e60a538a1f84000001)
+
+---
+
+## Ministry of Revenue: Procurement of Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** Ministry of Revenue
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6ad0d21a0a538a1f6c000001](https://tender.2merkato.com/tenders/6ad0d21a0a538a1f6c000001)
 
 ---
 
@@ -218,38 +250,6 @@
 
 ---
 
-## Addis Ababa University፡Procurement of medical equipment
-
-**Source:** 2merkato.com
-
-**Company:** Addis Ababa University
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical
-
-**Link:** [https://tender.2merkato.com/tenders/6abbbdcd0a538aeac1000001](https://tender.2merkato.com/tenders/6abbbdcd0a538aeac1000001)
-
----
-
-## Ministry of Labor and Skills: Procurement of Medical Equipment and Supplies for animal health Agarfa ATVET College
-
-**Source:** 2merkato.com
-
-**Company:** Ministry of Labor and Skills (MoLS)
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical
-
-**Link:** [https://tender.2merkato.com/tenders/6ab76d2c0a538afb84000001](https://tender.2merkato.com/tenders/6ab76d2c0a538afb84000001)
-
----
-
 ## Addis Ababa City Administrative Health Bureau Yekatit 12 Hospital Medical College:- Procurement of Stationary Materials
 
 **Source:** 2merkato.com
@@ -279,6 +279,22 @@
 **Matched Keywords:** medical, hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6ac9d5700a538a7290000001](https://tender.2merkato.com/tenders/6ac9d5700a538a7290000001)
+
+---
+
+## Addis Ababa Road Authority: Procurement of Laboratory Equipment
+
+**Source:** 2merkato.com
+
+**Company:** Addis  Ababa Road Authority
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** laboratory equipment
+
+**Link:** [https://tender.2merkato.com/tenders/6ad0d49d0a538a6ac2000001](https://tender.2merkato.com/tenders/6ad0d49d0a538a6ac2000001)
 
 ---
 
@@ -391,6 +407,54 @@
 **Matched Keywords:** medical equipment, medical
 
 **Link:** [https://tender.2merkato.com/tenders/6a18188a0a538a54f4000001](https://tender.2merkato.com/tenders/6a18188a0a538a54f4000001)
+
+---
+
+## Ministry of Defense: Procurement of RDF Medicines and Medical Supplies
+
+**Source:** 2merkato.com
+
+**Company:** Ministry of Defense
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical
+
+**Link:** [https://tender.2merkato.com/tenders/6ad0dd6d0a538a65ed000001](https://tender.2merkato.com/tenders/6ad0dd6d0a538a65ed000001)
+
+---
+
+## Debre Birhan University: Procurement of RDF Medicines and Medical Supplies
+
+**Source:** 2merkato.com
+
+**Company:** Debre Birhan University
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical
+
+**Link:** [https://tender.2merkato.com/tenders/6ad0cce70a538a21a6000001](https://tender.2merkato.com/tenders/6ad0cce70a538a21a6000001)
+
+---
+
+## National Intelligence and Security Service: Procurement of RDF Medicines and Medical Supplies
+
+**Source:** 2merkato.com
+
+**Company:** National Intelligence and Security Service
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical
+
+**Link:** [https://tender.2merkato.com/tenders/6ad0c16e0a538a1735000001](https://tender.2merkato.com/tenders/6ad0c16e0a538a1735000001)
 
 ---
 
@@ -519,38 +583,6 @@
 **Matched Keywords:** medical
 
 **Link:** [https://tender.2merkato.com/tenders/6ac48c200a538a5dcc000001](https://tender.2merkato.com/tenders/6ac48c200a538a5dcc000001)
-
----
-
-## St. Peter Specialized Hospital: Procurement of RDF Medicines and Medical Supplies
-
-**Source:** 2merkato.com
-
-**Company:** St. Peter Specialized Hospital
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical, hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6abe626b0a538a4a67000001](https://tender.2merkato.com/tenders/6abe626b0a538a4a67000001)
-
----
-
-## Ethiopian Anti Doping Authority: Procurement of Medical Supplies
-
-**Source:** 2merkato.com
-
-**Company:** Ethiopian Anti Doping Authority
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical
-
-**Link:** [https://tender.2merkato.com/tenders/6abd14440a538ab097000001](https://tender.2merkato.com/tenders/6abd14440a538ab097000001)
 
 ---
 
