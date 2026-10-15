@@ -2,11 +2,11 @@
 
 ---
 
-**Execution #1650**
+**Execution #1651**
 
-**Last run:** 2026-10-15 02:32:14 UTC
+**Last run:** 2026-10-15 07:42:27 UTC
 
-**Total matched tenders:** 35
+**Total matched tenders:** 34
 
 ---
 
@@ -359,22 +359,6 @@
 **Matched Keywords:** laboratory equipment
 
 **Link:** [https://tender.2merkato.com/tenders/6abbbd050a538a4fab000001](https://tender.2merkato.com/tenders/6abbbd050a538a4fab000001)
-
----
-
-## Addis Ababa Road Authority: Procurement of Laboratory Equipment
-
-**Source:** 2merkato.com
-
-**Company:** Addis  Ababa Road Authority
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** laboratory equipment
-
-**Link:** [https://tender.2merkato.com/tenders/6abb7fd40a538a55a1000001](https://tender.2merkato.com/tenders/6abb7fd40a538a55a1000001)
 
 ---
 
