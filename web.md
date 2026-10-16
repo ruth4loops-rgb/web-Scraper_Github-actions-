@@ -2,9 +2,9 @@
 
 ---
 
-**Execution #1657**
+**Execution #1658**
 
-**Last run:** 2026-10-16 06:18:02 UTC
+**Last run:** 2026-10-16 11:39:05 UTC
 
 **Total matched tenders:** 36
 
@@ -410,6 +410,22 @@
 
 ---
 
+## Ethiopian Federal Police: Procurement of Medical Supplies
+
+**Source:** 2merkato.com
+
+**Company:** Ethiopian Federal Police
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical
+
+**Link:** [https://tender.2merkato.com/tenders/6ad1d14f0a538a8efc000001](https://tender.2merkato.com/tenders/6ad1d14f0a538a8efc000001)
+
+---
+
 ## Ministry of Defense: Procurement of RDF Medicines and Medical Supplies
 
 **Source:** 2merkato.com
@@ -567,22 +583,6 @@
 **Matched Keywords:** medical
 
 **Link:** [https://tender.2merkato.com/tenders/6ac490110a538a0efd000001](https://tender.2merkato.com/tenders/6ac490110a538a0efd000001)
-
----
-
-## Wolkite University: Procurement of Medical Supplies, Laboratory Reagents and Chemicals
-
-**Source:** 2merkato.com
-
-**Company:** Wolkite University
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical
-
-**Link:** [https://tender.2merkato.com/tenders/6ac48c200a538a5dcc000001](https://tender.2merkato.com/tenders/6ac48c200a538a5dcc000001)
 
 ---
 
