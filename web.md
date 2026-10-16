@@ -2,11 +2,11 @@
 
 ---
 
-**Execution #1658**
+**Execution #1659**
 
-**Last run:** 2026-10-16 11:39:05 UTC
+**Last run:** 2026-10-16 15:33:44 UTC
 
-**Total matched tenders:** 36
+**Total matched tenders:** 38
 
 ---
 
@@ -279,6 +279,38 @@
 **Matched Keywords:** medical, hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6ac9d5700a538a7290000001](https://tender.2merkato.com/tenders/6ac9d5700a538a7290000001)
+
+---
+
+## Ministry of Defense: Procurement of Laboratory Equipment
+
+**Source:** 2merkato.com
+
+**Company:** Ministry of Defense
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** laboratory equipment
+
+**Link:** [https://tender.2merkato.com/tenders/6ad221e80a538a60bd000001](https://tender.2merkato.com/tenders/6ad221e80a538a60bd000001)
+
+---
+
+## Ministry of Defense: Procurement of Laboratory Equipment
+
+**Source:** 2merkato.com
+
+**Company:** Ministry of Defense
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** laboratory equipment
+
+**Link:** [https://tender.2merkato.com/tenders/6ad221e20a538ad56c000001](https://tender.2merkato.com/tenders/6ad221e20a538ad56c000001)
 
 ---
 
