@@ -2,11 +2,11 @@
 
 ---
 
-**Execution #1664**
+**Execution #1665**
 
-**Last run:** 2026-10-17 08:53:15 UTC
+**Last run:** 2026-10-17 12:42:21 UTC
 
-**Total matched tenders:** 38
+**Total matched tenders:** 37
 
 ---
 
@@ -375,22 +375,6 @@
 **Matched Keywords:** laboratory equipment
 
 **Link:** [https://tender.2merkato.com/tenders/6ac4f6b30a538a8d95000001](https://tender.2merkato.com/tenders/6ac4f6b30a538a8d95000001)
-
----
-
-## Space Science and Geospatial Institute :Procurement of Laboratory Equipment 3
-
-**Source:** 2merkato.com
-
-**Company:** Space Science and Geospatial Institute
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** laboratory equipment
-
-**Link:** [https://tender.2merkato.com/tenders/6ac4f66c0a538a7493000001](https://tender.2merkato.com/tenders/6ac4f66c0a538a7493000001)
 
 ---
 
