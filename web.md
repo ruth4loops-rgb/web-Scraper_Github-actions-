@@ -2,11 +2,11 @@
 
 ---
 
-**Execution #1678**
+**Execution #1679**
 
-**Last run:** 2026-10-19 01:39:48 UTC
+**Last run:** 2026-10-19 06:53:32 UTC
 
-**Total matched tenders:** 37
+**Total matched tenders:** 38
 
 ---
 
@@ -247,6 +247,22 @@
 **Matched Keywords:** medical
 
 **Link:** [https://tender.2merkato.com/tenders/6abcacd70a538a4e6e000001](https://tender.2merkato.com/tenders/6abcacd70a538a4e6e000001)
+
+---
+
+## Eka Kotebe General Hospital:- Procurement of ICT Equipment/  patient queue management system (QMS) kiosk machine
+
+**Source:** 2merkato.com
+
+**Company:** EKA Kotebe General Hospital
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6ad5ab990a538a6086000001](https://tender.2merkato.com/tenders/6ad5ab990a538a6086000001)
 
 ---
 
