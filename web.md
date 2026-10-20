@@ -2,11 +2,75 @@
 
 ---
 
-**Execution #1684**
+**Execution #1685**
 
-**Last run:** 2026-10-20 07:28:05 UTC
+**Last run:** 2026-10-20 12:55:23 UTC
 
 **Total matched tenders:** 38
+
+---
+
+## Islamic Relief Ethiopia (IRE) invites eligible licensed bidders to provide medical equipment for a multiyear nutrition response project aimed at supporting drought-affected communities in the Dire District of Borena Zone, Oromia Regional State.
+
+**Source:** 2merkato.com
+
+**Company:** Islamic Relief Ethiopia
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6ad7416b0a538a178b000001](https://tender.2merkato.com/tenders/6ad7416b0a538a178b000001)
+
+---
+
+## Ethiopian Blood and Tissue Bank Service: Procurement of Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** Ethiopian Blood and Tissue Bank Service
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6ad704b40a538ae373000001](https://tender.2merkato.com/tenders/6ad704b40a538ae373000001)
+
+---
+
+## National Intelligence and Security Service: Procurement of Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** National Intelligence and Security Service
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6ad701fa0a538aaac8000001](https://tender.2merkato.com/tenders/6ad701fa0a538aaac8000001)
+
+---
+
+## Addis Ababa City Administration youth and sport Bureau: Procurement of Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** Addis Ababa City Administration youth and sport Bureau
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6ad6fdd00a538ab87f000001](https://tender.2merkato.com/tenders/6ad6fdd00a538ab87f000001)
 
 ---
 
@@ -186,70 +250,6 @@
 
 ---
 
-## City Government of Addis Ababa Health Bureau Zewditu Memorial Hospital :Procurement of Medical Equipment and Supplies
-
-**Source:** 2merkato.com
-
-**Company:** Zewditu Memorial Hospital
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical, hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6abe62a40a538a50ac000001](https://tender.2merkato.com/tenders/6abe62a40a538a50ac000001)
-
----
-
-## MSI Ethiopia invites eligible bidders for the procurement of medical equipment and desktop computer.
-
-**Source:** 2merkato.com
-
-**Company:** MSI Ethiopian Reproductive Choices
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical
-
-**Link:** [https://tender.2merkato.com/tenders/6abcf6ed0a538ab27c000001](https://tender.2merkato.com/tenders/6abcf6ed0a538ab27c000001)
-
----
-
-## MELCA-Ethiopia is seeking bids from eligible and qualified suppliers or manufacturers for the supply and delivery of medical equipment to strengthen SRH and FP clinical service delivery capacity of rural health centers in Adaba woreda, West Arsi Zone.
-
-**Source:** 2merkato.com
-
-**Company:** MELCA-Ethiopia
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical
-
-**Link:** [https://tender.2merkato.com/tenders/6abcd3fb0a538a13ae000001](https://tender.2merkato.com/tenders/6abcd3fb0a538a13ae000001)
-
----
-
-## National Intelligence and Security Service :- Procurement  of medical (equipment)reagent(adm)
-
-**Source:** 2merkato.com
-
-**Company:** National Intelligence and Security Service
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical
-
-**Link:** [https://tender.2merkato.com/tenders/6abcacd70a538a4e6e000001](https://tender.2merkato.com/tenders/6abcacd70a538a4e6e000001)
-
----
-
 ## Eka Kotebe General Hospital:- Procurement of ICT Equipment/  patient queue management system (QMS) kiosk machine
 
 **Source:** 2merkato.com
@@ -295,6 +295,22 @@
 **Matched Keywords:** medical, hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6ac9d5700a538a7290000001](https://tender.2merkato.com/tenders/6ac9d5700a538a7290000001)
+
+---
+
+## Jhpiego Ethiopia invites qualified, interested, and eligible suppliers to submit competitive bids for the Procurement of Different medical training and simulation equipment’s (Invitation to Bid No. 003/2026 Jhpiego)
+
+**Source:** 2merkato.com
+
+**Company:** Jhpiego Ethiopia
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical
+
+**Link:** [https://tender.2merkato.com/tenders/6ad71ba60a538a9654000001](https://tender.2merkato.com/tenders/6ad71ba60a538a9654000001)
 
 ---
 
@@ -378,22 +394,6 @@
 
 ---
 
-## Space Science and Geospatial Institute :Procurement of Laboratory Equipment
-
-**Source:** 2merkato.com
-
-**Company:** Space Science and Geospatial Institute
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** laboratory equipment
-
-**Link:** [https://tender.2merkato.com/tenders/6ac4f6b30a538a8d95000001](https://tender.2merkato.com/tenders/6ac4f6b30a538a8d95000001)
-
----
-
 ## Hellenic Greek International School invites sealed bids from eligible and licensed insurance companies to provide comprehensive Group Medical Insurance Services for its employees and their eligible family members for a period of one year.
 
 **Source:** 2merkato.com
@@ -439,6 +439,22 @@
 **Matched Keywords:** medical equipment, medical
 
 **Link:** [https://tender.2merkato.com/tenders/6a18188a0a538a54f4000001](https://tender.2merkato.com/tenders/6a18188a0a538a54f4000001)
+
+---
+
+## Ethiopian Blood and Tissue Bank Service: Procurement of Medical Supplies
+
+**Source:** 2merkato.com
+
+**Company:** Ethiopian Blood and Tissue Bank Service
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical
+
+**Link:** [https://tender.2merkato.com/tenders/6ad704c00a538a40b6000001](https://tender.2merkato.com/tenders/6ad704c00a538a40b6000001)
 
 ---
 
@@ -599,22 +615,6 @@
 **Matched Keywords:** medical
 
 **Link:** [https://tender.2merkato.com/tenders/6ac647950a538a2cb5000001](https://tender.2merkato.com/tenders/6ac647950a538a2cb5000001)
-
----
-
-## National Intelligence and Security Service: Procurement of RDF Medicines and Medical Supplies
-
-**Source:** 2merkato.com
-
-**Company:** National Intelligence and Security Service
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical
-
-**Link:** [https://tender.2merkato.com/tenders/6ac490110a538a0efd000001](https://tender.2merkato.com/tenders/6ac490110a538a0efd000001)
 
 ---
 
