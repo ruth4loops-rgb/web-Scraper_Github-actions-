@@ -2,11 +2,11 @@
 
 ---
 
-**Execution #1690**
+**Execution #1691**
 
-**Last run:** 2026-10-21 08:28:04 UTC
+**Last run:** 2026-10-21 14:04:16 UTC
 
-**Total matched tenders:** 38
+**Total matched tenders:** 39
 
 ---
 
@@ -250,6 +250,22 @@
 
 ---
 
+## Ethiopian Pharmaceutical Supply Service (EPSS) invites sealed Bids for the Procurement of Vital Sign Monitoring, Oxygen Delivery, Diagnostic and Hospital Equipment
+
+**Source:** 2merkato.com
+
+**Company:** Ethiopian Pharmaceutical Supply Service
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** hospital equipment, hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6ad89c150a538a2e07000001](https://tender.2merkato.com/tenders/6ad89c150a538a2e07000001)
+
+---
+
 ## Eka Kotebe General Hospital:- Procurement of ICT Equipment/  patient queue management system (QMS) kiosk machine
 
 **Source:** 2merkato.com
@@ -295,6 +311,22 @@
 **Matched Keywords:** medical, hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6ac9d5700a538a7290000001](https://tender.2merkato.com/tenders/6ac9d5700a538a7290000001)
+
+---
+
+## Bahir Dar University: Procurement of Laboratory Equipment
+
+**Source:** 2merkato.com
+
+**Company:** Bahir Dar University
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** laboratory equipment
+
+**Link:** [https://tender.2merkato.com/tenders/6ad862e50a538aa1b5000001](https://tender.2merkato.com/tenders/6ad862e50a538aa1b5000001)
 
 ---
 
@@ -599,22 +631,6 @@
 **Matched Keywords:** medical
 
 **Link:** [https://tender.2merkato.com/tenders/6ac649000a538a2cb5000001](https://tender.2merkato.com/tenders/6ac649000a538a2cb5000001)
-
----
-
-## Ethiopian Agricultural Authority: Procurement of Medical Supplies
-
-**Source:** 2merkato.com
-
-**Company:** Ethiopian Agricultural Authority
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical
-
-**Link:** [https://tender.2merkato.com/tenders/6ac647950a538a2cb5000001](https://tender.2merkato.com/tenders/6ac647950a538a2cb5000001)
 
 ---
 
