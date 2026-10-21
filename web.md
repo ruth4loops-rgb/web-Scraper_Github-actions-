@@ -2,11 +2,11 @@
 
 ---
 
-**Execution #1691**
+**Execution #1692**
 
-**Last run:** 2026-10-21 14:04:16 UTC
+**Last run:** 2026-10-21 18:34:14 UTC
 
-**Total matched tenders:** 39
+**Total matched tenders:** 40
 
 ---
 
@@ -311,6 +311,22 @@
 **Matched Keywords:** medical, hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6ac9d5700a538a7290000001](https://tender.2merkato.com/tenders/6ac9d5700a538a7290000001)
+
+---
+
+## SNV Ethiopia would like to invite interested, eligible, and competitive bidders to submit tenders for the procurement of various office, agricultural, and laboratory equipment.
+
+**Source:** 2merkato.com
+
+**Company:** SNV Netherlands Development Organization
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** laboratory equipment
+
+**Link:** [https://tender.2merkato.com/tenders/6ad8d1bf0a538aff4a000001](https://tender.2merkato.com/tenders/6ad8d1bf0a538aff4a000001)
 
 ---
 
