@@ -2,11 +2,27 @@
 
 ---
 
-**Execution #1696**
+**Execution #1697**
 
-**Last run:** 2026-10-22 10:22:30 UTC
+**Last run:** 2026-10-22 15:27:47 UTC
 
-**Total matched tenders:** 38
+**Total matched tenders:** 37
+
+---
+
+## Addis Ababa City Administrative Health Bureau Yekatit 12 Hospital Medical College:- Procurement of Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** Yekatit 12 Hospital Medical College
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical, hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6ada12c70a538ab8a6000001](https://tender.2merkato.com/tenders/6ada12c70a538ab8a6000001)
 
 ---
 
@@ -234,19 +250,35 @@
 
 ---
 
-## Eka Kotebe General Hospital: Procurement of Medical Equipment and Supplies
+## Addis Ababa City Administrative Health Bureau Yekatit 12 Hospital Medical College:- Procurement of Sanitary Items
 
 **Source:** 2merkato.com
 
-**Company:** EKA Kotebe General Hospital
+**Company:** Yekatit 12 Hospital Medical College
 
 **Status:** Login required
 
 **Closing Date:** Login required to view
 
-**Matched Keywords:** medical equipment, medical, hospital
+**Matched Keywords:** medical, hospital
 
-**Link:** [https://tender.2merkato.com/tenders/6ac500c90a538a5ce1000001](https://tender.2merkato.com/tenders/6ac500c90a538a5ce1000001)
+**Link:** [https://tender.2merkato.com/tenders/6ada109d0a538ab8b0000001](https://tender.2merkato.com/tenders/6ada109d0a538ab8b0000001)
+
+---
+
+## Addis Ababa City Administrative Health Bureau Yekatit 12 Hospital Medical College:- Procurement of Stationary Materials
+
+**Source:** 2merkato.com
+
+**Company:** Yekatit 12 Hospital Medical College
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical, hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6ada0f810a538ab8e5000001](https://tender.2merkato.com/tenders/6ada0f810a538ab8e5000001)
 
 ---
 
@@ -295,38 +327,6 @@
 **Matched Keywords:** hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6ad5ab990a538a6086000001](https://tender.2merkato.com/tenders/6ad5ab990a538a6086000001)
-
----
-
-## Addis Ababa City Administrative Health Bureau Yekatit 12 Hospital Medical College:- Procurement of Stationary Materials
-
-**Source:** 2merkato.com
-
-**Company:** Yekatit 12 Hospital Medical College
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical, hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6ac9d57a0a538a81b3000001](https://tender.2merkato.com/tenders/6ac9d57a0a538a81b3000001)
-
----
-
-## Addis Ababa City Administrative Health Bureau Yekatit 12 Hospital Medical College:- Procurement of Sanitary Items
-
-**Source:** 2merkato.com
-
-**Company:** Yekatit 12 Hospital Medical College
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical, hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6ac9d5700a538a7290000001](https://tender.2merkato.com/tenders/6ac9d5700a538a7290000001)
 
 ---
 
@@ -583,22 +583,6 @@
 **Matched Keywords:** medical
 
 **Link:** [https://tender.2merkato.com/tenders/6ad0cce70a538a21a6000001](https://tender.2merkato.com/tenders/6ad0cce70a538a21a6000001)
-
----
-
-## National Intelligence and Security Service: Procurement of RDF Medicines and Medical Supplies
-
-**Source:** 2merkato.com
-
-**Company:** National Intelligence and Security Service
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical
-
-**Link:** [https://tender.2merkato.com/tenders/6ad0c16e0a538a1735000001](https://tender.2merkato.com/tenders/6ad0c16e0a538a1735000001)
 
 ---
 
