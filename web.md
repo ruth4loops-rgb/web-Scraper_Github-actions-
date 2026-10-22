@@ -2,11 +2,43 @@
 
 ---
 
-**Execution #1695**
+**Execution #1696**
 
-**Last run:** 2026-10-22 05:21:06 UTC
+**Last run:** 2026-10-22 10:22:30 UTC
 
-**Total matched tenders:** 40
+**Total matched tenders:** 38
+
+---
+
+## National Intelligence and Security Service: Procurement of Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** National Intelligence and Security Service
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6ad9ae6d0a538af395000001](https://tender.2merkato.com/tenders/6ad9ae6d0a538af395000001)
+
+---
+
+## Ethiopian Federal Police: Procurement of Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** Ethiopian Federal Police
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6ad9ae5a0a538af50c000001](https://tender.2merkato.com/tenders/6ad9ae5a0a538af50c000001)
 
 ---
 
@@ -218,7 +250,7 @@
 
 ---
 
-## Addis Ababa City Administrative Health Bureau Yekatit 12 Hospital Medical College: Procurement of Medical Equipment and Supplies
+## Addis Ababa City Administrative Health Bureau Yekatit 12 Hospital Medical College: Procurement of Maintenance and Repair Service
 
 **Source:** 2merkato.com
 
@@ -228,25 +260,9 @@
 
 **Closing Date:** Login required to view
 
-**Matched Keywords:** medical equipment, medical, hospital
+**Matched Keywords:** medical, hospital
 
-**Link:** [https://tender.2merkato.com/tenders/6ac49edd0a538aaba1000001](https://tender.2merkato.com/tenders/6ac49edd0a538aaba1000001)
-
----
-
-## The Ethiopian Red Cross Society-Essential Drug program (ERCS-EDP) invites eligible pharmaceutical manufacturers and authorized local agents to submit quotations for the supply of pharmaceuticals, medical supplies, and medical equipment.
-
-**Source:** 2merkato.com
-
-**Company:** Ethiopian Red Cross Society
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical
-
-**Link:** [https://tender.2merkato.com/tenders/6ac3b5ac0a538ae3d9000001](https://tender.2merkato.com/tenders/6ac3b5ac0a538ae3d9000001)
+**Link:** [https://tender.2merkato.com/tenders/6ad9ae880a538af659000001](https://tender.2merkato.com/tenders/6ad9ae880a538af659000001)
 
 ---
 
@@ -311,6 +327,38 @@
 **Matched Keywords:** medical, hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6ac9d5700a538a7290000001](https://tender.2merkato.com/tenders/6ac9d5700a538a7290000001)
+
+---
+
+## Ministry of Defense:- Lot 3 6215 Procurement of Medical Supplies, Laboratory Reagents and ChemicalsEDUCHS 2019
+
+**Source:** 2merkato.com
+
+**Company:** Ministry of Defense
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical
+
+**Link:** [https://tender.2merkato.com/tenders/6ad9a1180a538a9a78000001](https://tender.2merkato.com/tenders/6ad9a1180a538a9a78000001)
+
+---
+
+## Ministry of Defense:- Lot 2 6215 Procurement of Medical Supplies, Laboratory Reagents and Chemic EDUCHS 2019
+
+**Source:** 2merkato.com
+
+**Company:** Ministry of Defense
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical
+
+**Link:** [https://tender.2merkato.com/tenders/6ad9a10f0a538a9bc1000001](https://tender.2merkato.com/tenders/6ad9a10f0a538a9bc1000001)
 
 ---
 
@@ -410,38 +458,6 @@
 
 ---
 
-## Ministry of Defense: Procurement of Laboratory Equipment
-
-**Source:** 2merkato.com
-
-**Company:** Ministry of Defense
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** laboratory equipment
-
-**Link:** [https://tender.2merkato.com/tenders/6acf8ca00a538a9af9000001](https://tender.2merkato.com/tenders/6acf8ca00a538a9af9000001)
-
----
-
-## Amanuel Mental Specialized Hospital: Procurement of Laboratory Reagents and Chemicals
-
-**Source:** 2merkato.com
-
-**Company:** Amanuel Mental Specialized Hospital
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6acf814a0a538a03cc000001](https://tender.2merkato.com/tenders/6acf814a0a538a03cc000001)
-
----
-
 ## Hellenic Greek International School invites sealed bids from eligible and licensed insurance companies to provide comprehensive Group Medical Insurance Services for its employees and their eligible family members for a period of one year.
 
 **Source:** 2merkato.com
@@ -487,6 +503,22 @@
 **Matched Keywords:** medical equipment, medical
 
 **Link:** [https://tender.2merkato.com/tenders/6a18188a0a538a54f4000001](https://tender.2merkato.com/tenders/6a18188a0a538a54f4000001)
+
+---
+
+## Alert Comprhensive Specialized Hospital:- procurement of ultrasound Probes በድጋሚ
+
+**Source:** 2merkato.com
+
+**Company:** Alert  Comprehensive Specialized Hospital
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6ad9a1570a538a9b25000001](https://tender.2merkato.com/tenders/6ad9a1570a538a9b25000001)
 
 ---
 
@@ -570,83 +602,23 @@
 
 ---
 
-## Oromia Bureau of Agriculture :- Procurement of Medical Supplies
+## Procurement of Vital Sign Monitoring, Oxygen Delivery, Diagnostic and Hospital Equipment’s.
 
-**Source:** 2merkato.com
+**Source:** epss.gov.et
 
-**Company:** Oromia Bureau of Agriculture
+**Company:** Ethiopian Pharmaceuticals Supply Service (EPSS)
 
-**Status:** Login required
+**Category:** Medical Equipment
 
-**Closing Date:** Login required to view
+**Tender Code:** ET-MOH-537673-GO-RFB
 
-**Matched Keywords:** medical
+**Status:** Active
 
-**Link:** [https://tender.2merkato.com/tenders/6ad0bc4f0a538a1e01000001](https://tender.2merkato.com/tenders/6ad0bc4f0a538a1e01000001)
+**Closing Date:** Dec 04, 2026
 
----
+**Matched Keywords:** medical equipment, hospital equipment, medical, hospital
 
-## St. Paul's Hospital Millennium Medical College :Procurement of RDF Medicines and Medical Supplies
-
-**Source:** 2merkato.com
-
-**Company:** St. Paul's Hospital Millennium Medical College
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical, hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6acf88190a538aac5c000001](https://tender.2merkato.com/tenders/6acf88190a538aac5c000001)
-
----
-
-## Ethiopia Prosthetic and Orthotic Service: Procurement of Medical Supplies(የ ህክምና ግብዓት)
-
-**Source:** 2merkato.com
-
-**Company:** Ethiopian Prosthetic and Orthotic Service
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical
-
-**Link:** [https://tender.2merkato.com/tenders/6ace36600a538a1a88000001](https://tender.2merkato.com/tenders/6ace36600a538a1a88000001)
-
----
-
-## Ethiopian Agricultural Authority:- Procurement of Medical Supplies
-
-**Source:** 2merkato.com
-
-**Company:** Ethiopian Agricultural Authority
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical
-
-**Link:** [https://tender.2merkato.com/tenders/6ac8785b0a538a6b83000001](https://tender.2merkato.com/tenders/6ac8785b0a538a6b83000001)
-
----
-
-## Ethiopian Agricultural Authority: Procurement of Medical Supplies, Laboratory Reagents and Chemicals
-
-**Source:** 2merkato.com
-
-**Company:** Ethiopian Agricultural Authority
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical
-
-**Link:** [https://tender.2merkato.com/tenders/6ac649000a538a2cb5000001](https://tender.2merkato.com/tenders/6ac649000a538a2cb5000001)
+**Link:** [https://epss.gov.et/epss/tenders/14](https://epss.gov.et/epss/tenders/14)
 
 ---
 
