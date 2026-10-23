@@ -2,11 +2,11 @@
 
 ---
 
-**Execution #1699**
+**Execution #1700**
 
-**Last run:** 2026-10-22 22:37:18 UTC
+**Last run:** 2026-10-23 00:56:52 UTC
 
-**Total matched tenders:** 27
+**Total matched tenders:** 37
 
 ---
 
@@ -250,6 +250,54 @@
 
 ---
 
+## Addis Ababa City Administrative Health Bureau Yekatit 12 Hospital Medical College:- Procurement of Sanitary Items
+
+**Source:** 2merkato.com
+
+**Company:** Yekatit 12 Hospital Medical College
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical, hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6ada109d0a538ab8b0000001](https://tender.2merkato.com/tenders/6ada109d0a538ab8b0000001)
+
+---
+
+## Addis Ababa City Administrative Health Bureau Yekatit 12 Hospital Medical College:- Procurement of Stationary Materials
+
+**Source:** 2merkato.com
+
+**Company:** Yekatit 12 Hospital Medical College
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical, hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6ada0f810a538ab8e5000001](https://tender.2merkato.com/tenders/6ada0f810a538ab8e5000001)
+
+---
+
+## Addis Ababa City Administrative Health Bureau Yekatit 12 Hospital Medical College: Procurement of Maintenance and Repair Service
+
+**Source:** 2merkato.com
+
+**Company:** Yekatit 12 Hospital Medical College
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical, hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6ad9ae880a538af659000001](https://tender.2merkato.com/tenders/6ad9ae880a538af659000001)
+
+---
+
 ## Ethiopian Pharmaceutical Supply Service (EPSS) invites sealed Bids for the Procurement of Vital Sign Monitoring, Oxygen Delivery, Diagnostic and Hospital Equipment
 
 **Source:** 2merkato.com
@@ -263,6 +311,150 @@
 **Matched Keywords:** hospital equipment, hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6ad89c150a538a2e07000001](https://tender.2merkato.com/tenders/6ad89c150a538a2e07000001)
+
+---
+
+## Eka Kotebe General Hospital:- Procurement of ICT Equipment/  patient queue management system (QMS) kiosk machine
+
+**Source:** 2merkato.com
+
+**Company:** EKA Kotebe General Hospital
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6ad5ab990a538a6086000001](https://tender.2merkato.com/tenders/6ad5ab990a538a6086000001)
+
+---
+
+## Ministry of Defense:- Lot 3 6215 Procurement of Medical Supplies, Laboratory Reagents and ChemicalsEDUCHS 2019
+
+**Source:** 2merkato.com
+
+**Company:** Ministry of Defense
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical
+
+**Link:** [https://tender.2merkato.com/tenders/6ad9a1180a538a9a78000001](https://tender.2merkato.com/tenders/6ad9a1180a538a9a78000001)
+
+---
+
+## Ministry of Defense:- Lot 2 6215 Procurement of Medical Supplies, Laboratory Reagents and Chemic EDUCHS 2019
+
+**Source:** 2merkato.com
+
+**Company:** Ministry of Defense
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical
+
+**Link:** [https://tender.2merkato.com/tenders/6ad9a10f0a538a9bc1000001](https://tender.2merkato.com/tenders/6ad9a10f0a538a9bc1000001)
+
+---
+
+## SNV Ethiopia would like to invite interested, eligible, and competitive bidders to submit tenders for the procurement of various office, agricultural, and laboratory equipment.
+
+**Source:** 2merkato.com
+
+**Company:** SNV Netherlands Development Organization
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** laboratory equipment
+
+**Link:** [https://tender.2merkato.com/tenders/6ad8d1bf0a538aff4a000001](https://tender.2merkato.com/tenders/6ad8d1bf0a538aff4a000001)
+
+---
+
+## Bahir Dar University: Procurement of Laboratory Equipment
+
+**Source:** 2merkato.com
+
+**Company:** Bahir Dar University
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** laboratory equipment
+
+**Link:** [https://tender.2merkato.com/tenders/6ad862e50a538aa1b5000001](https://tender.2merkato.com/tenders/6ad862e50a538aa1b5000001)
+
+---
+
+## Jhpiego Ethiopia invites qualified, interested, and eligible suppliers to submit competitive bids for the Procurement of Different medical training and simulation equipment’s (Invitation to Bid No. 003/2026 Jhpiego)
+
+**Source:** 2merkato.com
+
+**Company:** Jhpiego Ethiopia
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical
+
+**Link:** [https://tender.2merkato.com/tenders/6ad71ba60a538a9654000001](https://tender.2merkato.com/tenders/6ad71ba60a538a9654000001)
+
+---
+
+## Ministry of Defense: Procurement of Laboratory Equipment
+
+**Source:** 2merkato.com
+
+**Company:** Ministry of Defense
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** laboratory equipment
+
+**Link:** [https://tender.2merkato.com/tenders/6ad221e80a538a60bd000001](https://tender.2merkato.com/tenders/6ad221e80a538a60bd000001)
+
+---
+
+## Ministry of Defense: Procurement of Laboratory Equipment
+
+**Source:** 2merkato.com
+
+**Company:** Ministry of Defense
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** laboratory equipment
+
+**Link:** [https://tender.2merkato.com/tenders/6ad221e20a538ad56c000001](https://tender.2merkato.com/tenders/6ad221e20a538ad56c000001)
+
+---
+
+## Addis Ababa Road Authority: Procurement of Laboratory Equipment
+
+**Source:** 2merkato.com
+
+**Company:** Addis  Ababa Road Authority
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** laboratory equipment
+
+**Link:** [https://tender.2merkato.com/tenders/6ad0d49d0a538a6ac2000001](https://tender.2merkato.com/tenders/6ad0d49d0a538a6ac2000001)
 
 ---
 
@@ -327,38 +519,6 @@
 **Matched Keywords:** hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6ad9a1570a538a9b25000001](https://tender.2merkato.com/tenders/6ad9a1570a538a9b25000001)
-
----
-
-## Ministry of Defense:- Lot 3 6215 Procurement of Medical Supplies, Laboratory Reagents and ChemicalsEDUCHS 2019
-
-**Source:** 2merkato.com
-
-**Company:** Ministry of Defense
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical
-
-**Link:** [https://tender.2merkato.com/tenders/6ad9a1180a538a9a78000001](https://tender.2merkato.com/tenders/6ad9a1180a538a9a78000001)
-
----
-
-## Ministry of Defense:- Lot 2 6215 Procurement of Medical Supplies, Laboratory Reagents and Chemic EDUCHS 2019
-
-**Source:** 2merkato.com
-
-**Company:** Ministry of Defense
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical
-
-**Link:** [https://tender.2merkato.com/tenders/6ad9a10f0a538a9bc1000001](https://tender.2merkato.com/tenders/6ad9a10f0a538a9bc1000001)
 
 ---
 
