@@ -2,11 +2,27 @@
 
 ---
 
-**Execution #1701**
+**Execution #1702**
 
-**Last run:** 2026-10-23 05:54:34 UTC
+**Last run:** 2026-10-23 11:13:26 UTC
 
-**Total matched tenders:** 37
+**Total matched tenders:** 35
+
+---
+
+## Ethiopian Federal Police: Procurement of Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** Ethiopian Federal Police
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6adb0a000a538a1309000001](https://tender.2merkato.com/tenders/6adb0a000a538a1309000001)
 
 ---
 
@@ -234,22 +250,6 @@
 
 ---
 
-## EngenderHealth Ethiopia is inviting interested and eligible bidders for the procurement of specialized medical equipment, including Radiant Warmers for Newborns (10 units), Neonatal CPAP/Bubble CPAP Systems (5 units), Perfusor/Syringe Infusion Pumps (5 units), and Medical Suction Machines for Infant Use (2 units).
-
-**Source:** 2merkato.com
-
-**Company:** Engender Health Ethiopia
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical
-
-**Link:** [https://tender.2merkato.com/tenders/6ac78a180a538a4760000001](https://tender.2merkato.com/tenders/6ac78a180a538a4760000001)
-
----
-
 ## Addis Ababa City Administrative Health Bureau Yekatit 12 Hospital Medical College:- Procurement of Sanitary Items
 
 **Source:** 2merkato.com
@@ -330,6 +330,38 @@
 
 ---
 
+## Jinka University: Procurement of Laboratory Equipment
+
+**Source:** 2merkato.com
+
+**Company:** Jinka University
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** laboratory equipment
+
+**Link:** [https://tender.2merkato.com/tenders/6adafd340a538a5bfd000001](https://tender.2merkato.com/tenders/6adafd340a538a5bfd000001)
+
+---
+
+## Jinka University: Procurement of Laboratory Equipment
+
+**Source:** 2merkato.com
+
+**Company:** Jinka University
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** laboratory equipment
+
+**Link:** [https://tender.2merkato.com/tenders/6adafd260a538a5c01000001](https://tender.2merkato.com/tenders/6adafd260a538a5c01000001)
+
+---
+
 ## Ministry of Defense:- Lot 3 6215 Procurement of Medical Supplies, Laboratory Reagents and ChemicalsEDUCHS 2019
 
 **Source:** 2merkato.com
@@ -407,54 +439,6 @@
 **Matched Keywords:** medical
 
 **Link:** [https://tender.2merkato.com/tenders/6ad71ba60a538a9654000001](https://tender.2merkato.com/tenders/6ad71ba60a538a9654000001)
-
----
-
-## Ministry of Defense: Procurement of Laboratory Equipment
-
-**Source:** 2merkato.com
-
-**Company:** Ministry of Defense
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** laboratory equipment
-
-**Link:** [https://tender.2merkato.com/tenders/6ad221e80a538a60bd000001](https://tender.2merkato.com/tenders/6ad221e80a538a60bd000001)
-
----
-
-## Ministry of Defense: Procurement of Laboratory Equipment
-
-**Source:** 2merkato.com
-
-**Company:** Ministry of Defense
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** laboratory equipment
-
-**Link:** [https://tender.2merkato.com/tenders/6ad221e20a538ad56c000001](https://tender.2merkato.com/tenders/6ad221e20a538ad56c000001)
-
----
-
-## Addis Ababa Road Authority: Procurement of Laboratory Equipment
-
-**Source:** 2merkato.com
-
-**Company:** Addis  Ababa Road Authority
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** laboratory equipment
-
-**Link:** [https://tender.2merkato.com/tenders/6ad0d49d0a538a6ac2000001](https://tender.2merkato.com/tenders/6ad0d49d0a538a6ac2000001)
 
 ---
 
@@ -567,22 +551,6 @@
 **Matched Keywords:** medical
 
 **Link:** [https://tender.2merkato.com/tenders/6ad0dd6d0a538a65ed000001](https://tender.2merkato.com/tenders/6ad0dd6d0a538a65ed000001)
-
----
-
-## Debre Birhan University: Procurement of RDF Medicines and Medical Supplies
-
-**Source:** 2merkato.com
-
-**Company:** Debre Birhan University
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical
-
-**Link:** [https://tender.2merkato.com/tenders/6ad0cce70a538a21a6000001](https://tender.2merkato.com/tenders/6ad0cce70a538a21a6000001)
 
 ---
 
