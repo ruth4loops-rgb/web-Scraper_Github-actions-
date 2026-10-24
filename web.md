@@ -2,9 +2,9 @@
 
 ---
 
-**Execution #1708**
+**Execution #1709**
 
-**Last run:** 2026-10-24 09:58:45 UTC
+**Last run:** 2026-10-24 13:57:22 UTC
 
 **Total matched tenders:** 38
 
@@ -522,6 +522,22 @@
 
 ---
 
+## Willows International Ethiopia invites qualified and eligible suppliers to submit sealed bids for the supply and delivery of medical supplies (examination beds, steam sterilizers, portable metal drums, pickup forceps with jars, and pregnancy test kits)
+
+**Source:** 2merkato.com
+
+**Company:** Willows International Ethiopia
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical
+
+**Link:** [https://tender.2merkato.com/tenders/6adc8a160a538a6f4a000001](https://tender.2merkato.com/tenders/6adc8a160a538a6f4a000001)
+
+---
+
 ## University of Gondar: Procurement of Medical Supplies, Laboratory Reagents and Chemicals
 
 **Source:** 2merkato.com
@@ -583,22 +599,6 @@
 **Matched Keywords:** medical
 
 **Link:** [https://tender.2merkato.com/tenders/6ad704c00a538a40b6000001](https://tender.2merkato.com/tenders/6ad704c00a538a40b6000001)
-
----
-
-## Ethiopian Federal Police: Procurement of Medical Supplies
-
-**Source:** 2merkato.com
-
-**Company:** Ethiopian Federal Police
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical
-
-**Link:** [https://tender.2merkato.com/tenders/6ad1d14f0a538a8efc000001](https://tender.2merkato.com/tenders/6ad1d14f0a538a8efc000001)
 
 ---
 
