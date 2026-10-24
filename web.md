@@ -2,11 +2,27 @@
 
 ---
 
-**Execution #1707**
+**Execution #1708**
 
-**Last run:** 2026-10-24 05:49:47 UTC
+**Last run:** 2026-10-24 09:58:45 UTC
 
-**Total matched tenders:** 35
+**Total matched tenders:** 38
+
+---
+
+## University of Gondar: Procurement of Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** University of Gondar
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6adc56090a538ab430000001](https://tender.2merkato.com/tenders/6adc56090a538ab430000001)
 
 ---
 
@@ -234,19 +250,19 @@
 
 ---
 
-## Addis Ababa City Administrative Health Bureau Yekatit 12 Hospital Medical College:- Procurement of Medical Equipment and Supplies
+## Alert Comprehensive Specialized Hospital: Procurement of electronics 2019
 
 **Source:** 2merkato.com
 
-**Company:** Yekatit 12 Hospital Medical College
+**Company:** Alert  Comprehensive Specialized Hospital
 
 **Status:** Login required
 
 **Closing Date:** Login required to view
 
-**Matched Keywords:** medical equipment, medical, hospital
+**Matched Keywords:** hospital
 
-**Link:** [https://tender.2merkato.com/tenders/6ac9d54e0a538a8ad6000001](https://tender.2merkato.com/tenders/6ac9d54e0a538a8ad6000001)
+**Link:** [https://tender.2merkato.com/tenders/6adc4e200a538ab431000001](https://tender.2merkato.com/tenders/6adc4e200a538ab431000001)
 
 ---
 
@@ -327,6 +343,22 @@
 **Matched Keywords:** hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6ad5ab990a538a6086000001](https://tender.2merkato.com/tenders/6ad5ab990a538a6086000001)
+
+---
+
+## BONGA UNIVERSITY: Procurement of Laboratory Equipment
+
+**Source:** 2merkato.com
+
+**Company:** Bonga University
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** laboratory equipment
+
+**Link:** [https://tender.2merkato.com/tenders/6adc56cf0a538ab43a000001](https://tender.2merkato.com/tenders/6adc56cf0a538ab43a000001)
 
 ---
 
@@ -490,6 +522,38 @@
 
 ---
 
+## University of Gondar: Procurement of Medical Supplies, Laboratory Reagents and Chemicals
+
+**Source:** 2merkato.com
+
+**Company:** University of Gondar
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical
+
+**Link:** [https://tender.2merkato.com/tenders/6adc560a0a538ab43c000001](https://tender.2merkato.com/tenders/6adc560a0a538ab43c000001)
+
+---
+
+## Amanuel Mental Specialized Hospital :Procurement of Medical Supplies
+
+**Source:** 2merkato.com
+
+**Company:** Amanuel Mental Specialized Hospital
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical, hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6adc52750a538ab429000001](https://tender.2merkato.com/tenders/6adc52750a538ab429000001)
+
+---
+
 ## Alert Comprhensive Specialized Hospital:- procurement of ultrasound Probes በድጋሚ
 
 **Source:** 2merkato.com
@@ -535,22 +599,6 @@
 **Matched Keywords:** medical
 
 **Link:** [https://tender.2merkato.com/tenders/6ad1d14f0a538a8efc000001](https://tender.2merkato.com/tenders/6ad1d14f0a538a8efc000001)
-
----
-
-## Ministry of Defense: Procurement of RDF Medicines and Medical Supplies
-
-**Source:** 2merkato.com
-
-**Company:** Ministry of Defense
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical
-
-**Link:** [https://tender.2merkato.com/tenders/6ad0dd6d0a538a65ed000001](https://tender.2merkato.com/tenders/6ad0dd6d0a538a65ed000001)
 
 ---
 
