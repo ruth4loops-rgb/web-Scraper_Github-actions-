@@ -2,11 +2,27 @@
 
 ---
 
-**Execution #1721**
+**Execution #1722**
 
-**Last run:** 2026-10-26 05:02:37 UTC
+**Last run:** 2026-10-26 11:00:18 UTC
 
 **Total matched tenders:** 38
+
+---
+
+## The Carter Center Ethiopia invites potential registered suppliers under national competitive bidding (NCB) to enter a one-year framework agreement for the provision of medical items, consumables, and medical equipment (NCB No: 002/2026 TCC-E)
+
+**Source:** 2merkato.com
+
+**Company:** The Carter Center Ethiopia
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6adc8b6a0a538ab66c000001](https://tender.2merkato.com/tenders/6adc8b6a0a538ab66c000001)
 
 ---
 
@@ -231,22 +247,6 @@
 **Matched Keywords:** medical equipment, medical, hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6acdc3be0a538a586e000001](https://tender.2merkato.com/tenders/6acdc3be0a538a586e000001)
-
----
-
-## Addis Ababa City Administrative Health Bureau Yekatit 12 Hospital Medical College:- Procurement of Medical Equipment and Supplies
-
-**Source:** 2merkato.com
-
-**Company:** Yekatit 12 Hospital Medical College
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical, hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6ac9d5580a538ab4ce000001](https://tender.2merkato.com/tenders/6ac9d5580a538ab4ce000001)
 
 ---
 
