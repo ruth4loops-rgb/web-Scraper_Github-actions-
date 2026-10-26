@@ -2,11 +2,11 @@
 
 ---
 
-**Execution #1722**
+**Execution #1723**
 
-**Last run:** 2026-10-26 11:00:18 UTC
+**Last run:** 2026-10-26 17:16:57 UTC
 
-**Total matched tenders:** 38
+**Total matched tenders:** 37
 
 ---
 
@@ -455,22 +455,6 @@
 **Matched Keywords:** laboratory equipment
 
 **Link:** [https://tender.2merkato.com/tenders/6ad862e50a538aa1b5000001](https://tender.2merkato.com/tenders/6ad862e50a538aa1b5000001)
-
----
-
-## Jhpiego Ethiopia invites qualified, interested, and eligible suppliers to submit competitive bids for the Procurement of Different medical training and simulation equipment’s (Invitation to Bid No. 003/2026 Jhpiego)
-
-**Source:** 2merkato.com
-
-**Company:** Jhpiego Ethiopia
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical
-
-**Link:** [https://tender.2merkato.com/tenders/6ad71ba60a538a9654000001](https://tender.2merkato.com/tenders/6ad71ba60a538a9654000001)
 
 ---
 
