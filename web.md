@@ -2,11 +2,27 @@
 
 ---
 
-**Execution #1727**
+**Execution #1728**
 
-**Last run:** 2026-10-27 11:59:31 UTC
+**Last run:** 2026-10-27 17:54:23 UTC
 
-**Total matched tenders:** 37
+**Total matched tenders:** 39
+
+---
+
+## St. Paul's Hospital Millennium Medical College: Procurement of Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** St. Paul's Hospital Millennium Medical College
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical, hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6ae0aa3d0a538a0987000001](https://tender.2merkato.com/tenders/6ae0aa3d0a538a0987000001)
 
 ---
 
@@ -202,22 +218,6 @@
 
 ---
 
-## The Ethiopian Diabetes Association (EDA), in partnership with the World Diabetes Foundation (WDF), invites eligible medical equipment and diagnostic suppliers to submit sealed quotations for the Procurement and Delivery of Glucometers, Blood Glucose Test Strips, and Blood Lancets under Reference Number EDA/WDF/1164/2026.
-
-**Source:** 2merkato.com
-
-**Company:** Ethiopian Diabetes Association
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** glucometer, medical equipment, medical
-
-**Link:** [https://tender.2merkato.com/tenders/6acf7d140a538a45e5000001](https://tender.2merkato.com/tenders/6acf7d140a538a45e5000001)
-
----
-
 ## Addis Ababa City Administration Women, Children and Social Affairs Bureau: Procurement of Medical Equipment and Supplies
 
 **Source:** 2merkato.com
@@ -247,6 +247,38 @@
 **Matched Keywords:** medical equipment, medical, hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6acdc3be0a538a586e000001](https://tender.2merkato.com/tenders/6acdc3be0a538a586e000001)
+
+---
+
+## Ethiopian Environmental Protection Authority: Procurement of Laboratory Equipment
+
+**Source:** 2merkato.com
+
+**Company:** Ethiopian Environmental Protection Authority
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** laboratory equipment
+
+**Link:** [https://tender.2merkato.com/tenders/6ae0ab080a538ad57b000001](https://tender.2merkato.com/tenders/6ae0ab080a538ad57b000001)
+
+---
+
+## Eka Kotebe General Hospital:- lot - 5 Procurement of Maintenance and Repair Service
+
+**Source:** 2merkato.com
+
+**Company:** EKA Kotebe General Hospital
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6ae0a8420a538a2882000001](https://tender.2merkato.com/tenders/6ae0a8420a538a2882000001)
 
 ---
 
@@ -474,19 +506,19 @@
 
 ---
 
-## Bahir Dar University: Procurement of Laboratory Equipment
+## The Ethiopian Diabetes Association (EDA), in partnership with the World Diabetes Foundation (WDF), invites eligible medical equipment and diagnostic suppliers to submit sealed quotations for the Procurement and Delivery of Glucometers, Blood Glucose Test Strips, and Blood Lancets under Reference Number EDA/WDF/1164/2026.
 
 **Source:** 2merkato.com
 
-**Company:** Bahir Dar University
+**Company:** Ethiopian Diabetes Association
 
 **Status:** Login required
 
 **Closing Date:** Login required to view
 
-**Matched Keywords:** laboratory equipment
+**Matched Keywords:** glucometer, medical equipment, medical
 
-**Link:** [https://tender.2merkato.com/tenders/6ad862e50a538aa1b5000001](https://tender.2merkato.com/tenders/6ad862e50a538aa1b5000001)
+**Link:** [https://tender.2merkato.com/tenders/6acf7d140a538a45e5000001](https://tender.2merkato.com/tenders/6acf7d140a538a45e5000001)
 
 ---
 
