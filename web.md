@@ -2,9 +2,9 @@
 
 ---
 
-**Execution #1726**
+**Execution #1727**
 
-**Last run:** 2026-10-27 05:56:43 UTC
+**Last run:** 2026-10-27 11:59:31 UTC
 
 **Total matched tenders:** 37
 
@@ -250,6 +250,22 @@
 
 ---
 
+## City Government of Addis Ababa Health Bureau Tirunesh Beijing General Hospital: Procurement of Cleaning Service
+
+**Source:** 2merkato.com
+
+**Company:** Tirunesh Beijing General Hospital
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6ae03f570a538af728000001](https://tender.2merkato.com/tenders/6ae03f570a538af728000001)
+
+---
+
 ## Alert Comprehensive Specialized Hospital: Procurement of electronics 2019
 
 **Source:** 2merkato.com
@@ -343,6 +359,22 @@
 **Matched Keywords:** hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6ad5ab990a538a6086000001](https://tender.2merkato.com/tenders/6ad5ab990a538a6086000001)
+
+---
+
+## The Ministry of Agriculture, funded by the World Bank under the Food System Resilience Program, is seeking bids for the supply, installation, and commissioning of various coffee laboratory equipment, including grinders, roasters, grain moisture meters, sensitive scales, coffee sample screens, parchment/pod hullers, and sample trays.
+
+**Source:** 2merkato.com
+
+**Company:** Ministry of Agriculture
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** laboratory equipment
+
+**Link:** [https://tender.2merkato.com/tenders/6ae05df40a538a856b000001](https://tender.2merkato.com/tenders/6ae05df40a538a856b000001)
 
 ---
 
@@ -490,22 +522,6 @@
 
 ---
 
-## Deutsche Stiftung Weltbevölkerung (DSW) invites qualified bidders for the supply and delivery of Mini Media & electronics materials, Medical equipment and others supporting materials & Office/Facilities' Furniture and others.
-
-**Source:** 2merkato.com
-
-**Company:** Deutsche Stiftung Weltbevölkerung(DSW)
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a18188a0a538a54f4000001](https://tender.2merkato.com/tenders/6a18188a0a538a54f4000001)
-
----
-
 ## Willows International Ethiopia invites qualified and eligible suppliers to submit sealed bids for the supply and delivery of medical supplies (examination beds, steam sterilizers, portable metal drums, pickup forceps with jars, and pregnancy test kits)
 
 **Source:** 2merkato.com
@@ -567,22 +583,6 @@
 **Matched Keywords:** hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6ad9a1570a538a9b25000001](https://tender.2merkato.com/tenders/6ad9a1570a538a9b25000001)
-
----
-
-## Ethiopian Blood and Tissue Bank Service: Procurement of Medical Supplies
-
-**Source:** 2merkato.com
-
-**Company:** Ethiopian Blood and Tissue Bank Service
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical
-
-**Link:** [https://tender.2merkato.com/tenders/6ad704c00a538a40b6000001](https://tender.2merkato.com/tenders/6ad704c00a538a40b6000001)
 
 ---
 
