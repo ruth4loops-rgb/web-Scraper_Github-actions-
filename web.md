@@ -2,11 +2,27 @@
 
 ---
 
-**Execution #1731**
+**Execution #1732**
 
-**Last run:** 2026-10-28 06:48:41 UTC
+**Last run:** 2026-10-28 13:37:11 UTC
 
-**Total matched tenders:** 39
+**Total matched tenders:** 41
+
+---
+
+## Medical Teams International (MTI) – National Tender Notice 005/26 for the Procurement of Medicines, Medical Supplies, and Medical Equipment (Reference Nos: RFQ-ETH-26-Tmp 0001, RFQ-ETH-26-Tmp 0002 & RFQ-ETH-26-Tmp 0003)
+
+**Source:** 2merkato.com
+
+**Company:** Medical Teams International
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6ae1a8e40a538a5a68000001](https://tender.2merkato.com/tenders/6ae1a8e40a538a5a68000001)
 
 ---
 
@@ -234,19 +250,19 @@
 
 ---
 
-## St. Peter Specialized Hospital: Procurement of Medical Equipment and Supplies
+## Ethiopian Environmental Protection Authority: Procurement of Laboratory Equipment
 
 **Source:** 2merkato.com
 
-**Company:** St. Peter Specialized Hospital
+**Company:** Ethiopian Environmental Protection Authority
 
 **Status:** Login required
 
 **Closing Date:** Login required to view
 
-**Matched Keywords:** medical equipment, medical, hospital
+**Matched Keywords:** laboratory equipment
 
-**Link:** [https://tender.2merkato.com/tenders/6acdc3be0a538a586e000001](https://tender.2merkato.com/tenders/6acdc3be0a538a586e000001)
+**Link:** [https://tender.2merkato.com/tenders/6ae192c20a538a35e7000001](https://tender.2merkato.com/tenders/6ae192c20a538a35e7000001)
 
 ---
 
@@ -394,6 +410,22 @@
 
 ---
 
+## Dambi Dollo University: lot 015 purchase of laboratory reagent in hospital 2019
+
+**Source:** 2merkato.com
+
+**Company:** Dembi Dollo University
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6ae18f0a0a538a119f000001](https://tender.2merkato.com/tenders/6ae18f0a0a538a119f000001)
+
+---
+
 ## The Ministry of Agriculture, funded by the World Bank under the Food System Resilience Program, is seeking bids for the supply, installation, and commissioning of various coffee laboratory equipment, including grinders, roasters, grain moisture meters, sensitive scales, coffee sample screens, parchment/pod hullers, and sample trays.
 
 **Source:** 2merkato.com
@@ -490,22 +522,6 @@
 
 ---
 
-## SNV Ethiopia would like to invite interested, eligible, and competitive bidders to submit tenders for the procurement of various office, agricultural, and laboratory equipment.
-
-**Source:** 2merkato.com
-
-**Company:** SNV Netherlands Development Organization
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** laboratory equipment
-
-**Link:** [https://tender.2merkato.com/tenders/6ad8d1bf0a538aff4a000001](https://tender.2merkato.com/tenders/6ad8d1bf0a538aff4a000001)
-
----
-
 ## The Ethiopian Diabetes Association (EDA), in partnership with the World Diabetes Foundation (WDF), invites eligible medical equipment and diagnostic suppliers to submit sealed quotations for the Procurement and Delivery of Glucometers, Blood Glucose Test Strips, and Blood Lancets under Reference Number EDA/WDF/1164/2026.
 
 **Source:** 2merkato.com
@@ -551,6 +567,22 @@
 **Matched Keywords:** medical
 
 **Link:** [https://tender.2merkato.com/tenders/6a48be3e0a538a033e000001](https://tender.2merkato.com/tenders/6a48be3e0a538a033e000001)
+
+---
+
+## Debre Birhan University: Procurement of RDF Medicines and Medical Supplies
+
+**Source:** 2merkato.com
+
+**Company:** Debre Birhan University
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical
+
+**Link:** [https://tender.2merkato.com/tenders/6ae1da8c0a538a4943000001](https://tender.2merkato.com/tenders/6ae1da8c0a538a4943000001)
 
 ---
 
