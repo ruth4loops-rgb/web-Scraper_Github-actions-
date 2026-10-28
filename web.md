@@ -2,11 +2,43 @@
 
 ---
 
-**Execution #1732**
+**Execution #1733**
 
-**Last run:** 2026-10-28 13:37:11 UTC
+**Last run:** 2026-10-28 19:06:25 UTC
 
-**Total matched tenders:** 41
+**Total matched tenders:** 40
+
+---
+
+## Bule Hora University: Procurement of Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** Bule Hora University
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6ae1fee40a538abebf000001](https://tender.2merkato.com/tenders/6ae1fee40a538abebf000001)
+
+---
+
+## World Vision International Ethiopia (WVE) – Invitation to Bid for the Provision and Procurement of Medical Equipment and Supplies for the RISE Project (PROCUREMENT REFERENCE NUMBER: WVIE/SCM/0013/27)
+
+**Source:** 2merkato.com
+
+**Company:** World Vision Ethiopia
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6ae1e3df0a538a494b000001](https://tender.2merkato.com/tenders/6ae1e3df0a538a494b000001)
 
 ---
 
@@ -218,38 +250,6 @@
 
 ---
 
-## Ministry of Revenue: Procurement of Medical Equipment and Supplies
-
-**Source:** 2merkato.com
-
-**Company:** Ministry of Revenue
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical
-
-**Link:** [https://tender.2merkato.com/tenders/6ad0d21a0a538a1f6c000001](https://tender.2merkato.com/tenders/6ad0d21a0a538a1f6c000001)
-
----
-
-## Addis Ababa City Administration Women, Children and Social Affairs Bureau: Procurement of Medical Equipment and Supplies
-
-**Source:** 2merkato.com
-
-**Company:** Addis Ababa city administration
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical
-
-**Link:** [https://tender.2merkato.com/tenders/6ace3a220a538a159b000001](https://tender.2merkato.com/tenders/6ace3a220a538a159b000001)
-
----
-
 ## Ethiopian Environmental Protection Authority: Procurement of Laboratory Equipment
 
 **Source:** 2merkato.com
@@ -410,6 +410,22 @@
 
 ---
 
+## Animal Health Institute: procurement of laboratory equipment
+
+**Source:** 2merkato.com
+
+**Company:** Animal Health Institute
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** laboratory equipment
+
+**Link:** [https://tender.2merkato.com/tenders/6ae1f9c40a538a4959000001](https://tender.2merkato.com/tenders/6ae1f9c40a538a4959000001)
+
+---
+
 ## Dambi Dollo University: lot 015 purchase of laboratory reagent in hospital 2019
 
 **Source:** 2merkato.com
@@ -487,38 +503,6 @@
 **Matched Keywords:** laboratory equipment
 
 **Link:** [https://tender.2merkato.com/tenders/6adafd260a538a5c01000001](https://tender.2merkato.com/tenders/6adafd260a538a5c01000001)
-
----
-
-## Ministry of Defense:- Lot 3 6215 Procurement of Medical Supplies, Laboratory Reagents and ChemicalsEDUCHS 2019
-
-**Source:** 2merkato.com
-
-**Company:** Ministry of Defense
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical
-
-**Link:** [https://tender.2merkato.com/tenders/6ad9a1180a538a9a78000001](https://tender.2merkato.com/tenders/6ad9a1180a538a9a78000001)
-
----
-
-## Ministry of Defense:- Lot 2 6215 Procurement of Medical Supplies, Laboratory Reagents and Chemic EDUCHS 2019
-
-**Source:** 2merkato.com
-
-**Company:** Ministry of Defense
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical
-
-**Link:** [https://tender.2merkato.com/tenders/6ad9a10f0a538a9bc1000001](https://tender.2merkato.com/tenders/6ad9a10f0a538a9bc1000001)
 
 ---
 
