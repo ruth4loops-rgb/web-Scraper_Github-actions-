@@ -2,11 +2,43 @@
 
 ---
 
-**Execution #1736**
+**Execution #1737**
 
-**Last run:** 2026-10-29 08:50:40 UTC
+**Last run:** 2026-10-29 15:44:53 UTC
 
 **Total matched tenders:** 40
+
+---
+
+## Ministry of Defense: Procurement of Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** Ministry of Defense
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6ae325670a538ae180000001](https://tender.2merkato.com/tenders/6ae325670a538ae180000001)
+
+---
+
+## Ministry of Defense: Procurement of Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** Ministry of Defense
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6ae30e170a538a9e8a000001](https://tender.2merkato.com/tenders/6ae30e170a538a9e8a000001)
 
 ---
 
@@ -71,22 +103,6 @@
 **Matched Keywords:** medical equipment, medical, hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6ae0aa3d0a538a0987000001](https://tender.2merkato.com/tenders/6ae0aa3d0a538a0987000001)
-
----
-
-## The Carter Center Ethiopia invites potential registered suppliers under national competitive bidding (NCB) to enter a one-year framework agreement for the provision of medical items, consumables, and medical equipment (NCB No: 002/2026 TCC-E)
-
-**Source:** 2merkato.com
-
-**Company:** The Carter Center Ethiopia
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical
-
-**Link:** [https://tender.2merkato.com/tenders/6adc8b6a0a538ab66c000001](https://tender.2merkato.com/tenders/6adc8b6a0a538ab66c000001)
 
 ---
 
@@ -234,19 +250,19 @@
 
 ---
 
-## University of Gondar: Procurement of Medical Equipment and Supplies
+## Eka Kotebe General Hospital: Procurement of ICT Equipment
 
 **Source:** 2merkato.com
 
-**Company:** University of Gondar
+**Company:** EKA Kotebe General Hospital
 
 **Status:** Login required
 
 **Closing Date:** Login required to view
 
-**Matched Keywords:** medical equipment, medical
+**Matched Keywords:** hospital
 
-**Link:** [https://tender.2merkato.com/tenders/6ad0d2e60a538a1f84000001](https://tender.2merkato.com/tenders/6ad0d2e60a538a1f84000001)
+**Link:** [https://tender.2merkato.com/tenders/6ae32a950a538a9b9e000001](https://tender.2merkato.com/tenders/6ae32a950a538a9b9e000001)
 
 ---
 
@@ -362,51 +378,19 @@
 
 ---
 
-## Addis Ababa City Administrative Health Bureau Yekatit 12 Hospital Medical College: Procurement of Maintenance and Repair Service
+## Space Science and Geospatial Institute: Procurement of Laboratory Equipment
 
 **Source:** 2merkato.com
 
-**Company:** Yekatit 12 Hospital Medical College
+**Company:** Space Science and Geospatial Institute
 
 **Status:** Login required
 
 **Closing Date:** Login required to view
 
-**Matched Keywords:** medical, hospital
+**Matched Keywords:** laboratory equipment
 
-**Link:** [https://tender.2merkato.com/tenders/6ad9ae880a538af659000001](https://tender.2merkato.com/tenders/6ad9ae880a538af659000001)
-
----
-
-## Ethiopian Pharmaceutical Supply Service (EPSS) invites sealed Bids for the Procurement of Vital Sign Monitoring, Oxygen Delivery, Diagnostic and Hospital Equipment
-
-**Source:** 2merkato.com
-
-**Company:** Ethiopian Pharmaceutical Supply Service
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** hospital equipment, hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6ad89c150a538a2e07000001](https://tender.2merkato.com/tenders/6ad89c150a538a2e07000001)
-
----
-
-## Eka Kotebe General Hospital:- Procurement of ICT Equipment/  patient queue management system (QMS) kiosk machine
-
-**Source:** 2merkato.com
-
-**Company:** EKA Kotebe General Hospital
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6ad5ab990a538a6086000001](https://tender.2merkato.com/tenders/6ad5ab990a538a6086000001)
+**Link:** [https://tender.2merkato.com/tenders/6ae344b90a538a78ab000001](https://tender.2merkato.com/tenders/6ae344b90a538a78ab000001)
 
 ---
 
@@ -506,6 +490,22 @@
 
 ---
 
+## Ethiopian Pharmaceutical Supply Service (EPSS) invites sealed Bids for the Procurement of Vital Sign Monitoring, Oxygen Delivery, Diagnostic and Hospital Equipment
+
+**Source:** 2merkato.com
+
+**Company:** Ethiopian Pharmaceutical Supply Service
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** hospital equipment, hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6ad89c150a538a2e07000001](https://tender.2merkato.com/tenders/6ad89c150a538a2e07000001)
+
+---
+
 ## The Ethiopian Diabetes Association (EDA), in partnership with the World Diabetes Foundation (WDF), invites eligible medical equipment and diagnostic suppliers to submit sealed quotations for the Procurement and Delivery of Glucometers, Blood Glucose Test Strips, and Blood Lancets under Reference Number EDA/WDF/1164/2026.
 
 **Source:** 2merkato.com
@@ -519,6 +519,22 @@
 **Matched Keywords:** glucometer, medical equipment, medical
 
 **Link:** [https://tender.2merkato.com/tenders/6acf7d140a538a45e5000001](https://tender.2merkato.com/tenders/6acf7d140a538a45e5000001)
+
+---
+
+## The Carter Center Ethiopia invites potential registered suppliers under national competitive bidding (NCB) to enter a one-year framework agreement for the provision of medical items, consumables, and medical equipment (NCB No: 002/2026 TCC-E)
+
+**Source:** 2merkato.com
+
+**Company:** The Carter Center Ethiopia
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6adc8b6a0a538ab66c000001](https://tender.2merkato.com/tenders/6adc8b6a0a538ab66c000001)
 
 ---
 
@@ -615,22 +631,6 @@
 **Matched Keywords:** medical, hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6adc52750a538ab429000001](https://tender.2merkato.com/tenders/6adc52750a538ab429000001)
-
----
-
-## Alert Comprhensive Specialized Hospital:- procurement of ultrasound Probes በድጋሚ
-
-**Source:** 2merkato.com
-
-**Company:** Alert  Comprehensive Specialized Hospital
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6ad9a1570a538a9b25000001](https://tender.2merkato.com/tenders/6ad9a1570a538a9b25000001)
 
 ---
 
