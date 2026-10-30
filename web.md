@@ -2,11 +2,11 @@
 
 ---
 
-**Execution #1740**
+**Execution #1741**
 
-**Last run:** 2026-10-30 06:18:58 UTC
+**Last run:** 2026-10-30 13:13:56 UTC
 
-**Total matched tenders:** 40
+**Total matched tenders:** 41
 
 ---
 
@@ -250,6 +250,38 @@
 
 ---
 
+## Ethiopian Pharmaceutical Supply Service (EPSS) Procurement of Vital Sign Monitoring, Oxygen Delivery, Diagnostic and Hospital Equipment's (Ref No: ET-MOH-537673-GO-RFB)
+
+**Source:** 2merkato.com
+
+**Company:** Ethiopian Pharmaceutical Supply Service
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** hospital equipment, hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6ae454880a538acec1000001](https://tender.2merkato.com/tenders/6ae454880a538acec1000001)
+
+---
+
+## City Government of Addis Ababa Health Bureau Tirunesh Beijing General Hospital: Procurement of Electronics Equipment
+
+**Source:** 2merkato.com
+
+**Company:** Tirunesh Beijing General Hospital
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6ae4377d0a538a1231000001](https://tender.2merkato.com/tenders/6ae4377d0a538a1231000001)
+
+---
+
 ## Eka Kotebe General Hospital: Procurement of ICT Equipment
 
 **Source:** 2merkato.com
@@ -359,22 +391,6 @@
 **Matched Keywords:** medical, hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6ada109d0a538ab8b0000001](https://tender.2merkato.com/tenders/6ada109d0a538ab8b0000001)
-
----
-
-## Addis Ababa City Administrative Health Bureau Yekatit 12 Hospital Medical College:- Procurement of Stationary Materials
-
-**Source:** 2merkato.com
-
-**Company:** Yekatit 12 Hospital Medical College
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical, hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6ada0f810a538ab8e5000001](https://tender.2merkato.com/tenders/6ada0f810a538ab8e5000001)
 
 ---
 
