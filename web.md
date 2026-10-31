@@ -2,9 +2,9 @@
 
 ---
 
-**Execution #1744**
+**Execution #1745**
 
-**Last run:** 2026-10-31 01:50:59 UTC
+**Last run:** 2026-10-31 07:51:06 UTC
 
 **Total matched tenders:** 41
 
@@ -250,6 +250,22 @@
 
 ---
 
+## The American Jewish Joint Distribution Committee (JDC), an international NGO registered in Ethiopia, invites qualified medical equipment suppliers to submit bids for the supply, delivery, and installation of Medical Equipment for National Spine Center, St. Paul Hospital, Addis Ababa.
+
+**Source:** 2merkato.com
+
+**Company:** American Jewish Joint Distribution Committee
+
+**Status:** Open
+
+**Closing Date:** 2026-11-11 17:00:00
+
+**Matched Keywords:** medical equipment, medical, hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6ae591030a538a0baa000001](https://tender.2merkato.com/tenders/6ae591030a538a0baa000001)
+
+---
+
 ## Ethiopian Pharmaceutical Supply Service (EPSS) Procurement of Vital Sign Monitoring, Oxygen Delivery, Diagnostic and Hospital Equipment's (Ref No: ET-MOH-537673-GO-RFB)
 
 **Source:** 2merkato.com
@@ -375,22 +391,6 @@
 **Matched Keywords:** hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6adc4e200a538ab431000001](https://tender.2merkato.com/tenders/6adc4e200a538ab431000001)
-
----
-
-## Addis Ababa City Administrative Health Bureau Yekatit 12 Hospital Medical College:- Procurement of Sanitary Items
-
-**Source:** 2merkato.com
-
-**Company:** Yekatit 12 Hospital Medical College
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical, hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6ada109d0a538ab8b0000001](https://tender.2merkato.com/tenders/6ada109d0a538ab8b0000001)
 
 ---
 
