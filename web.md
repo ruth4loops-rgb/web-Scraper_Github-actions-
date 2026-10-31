@@ -2,11 +2,43 @@
 
 ---
 
-**Execution #1745**
+**Execution #1746**
 
-**Last run:** 2026-10-31 07:51:06 UTC
+**Last run:** 2026-10-31 14:10:46 UTC
 
-**Total matched tenders:** 41
+**Total matched tenders:** 45
+
+---
+
+## Debre Birhan University: Procurement of Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** Debre Birhan University
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6ae593e00a538a15c9000001](https://tender.2merkato.com/tenders/6ae593e00a538a15c9000001)
+
+---
+
+## Debre Birhan University: Procurement of Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** Debre Birhan University
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6ae593c90a538affd9000001](https://tender.2merkato.com/tenders/6ae593c90a538affd9000001)
 
 ---
 
@@ -215,38 +247,6 @@
 **Matched Keywords:** medical equipment, medical
 
 **Link:** [https://tender.2merkato.com/tenders/6ad704b40a538ae373000001](https://tender.2merkato.com/tenders/6ad704b40a538ae373000001)
-
----
-
-## National Intelligence and Security Service: Procurement of Medical Equipment and Supplies
-
-**Source:** 2merkato.com
-
-**Company:** National Intelligence and Security Service
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical
-
-**Link:** [https://tender.2merkato.com/tenders/6ad701fa0a538aaac8000001](https://tender.2merkato.com/tenders/6ad701fa0a538aaac8000001)
-
----
-
-## Addis Ababa City Administration youth and sport Bureau: Procurement of Medical Equipment and Supplies
-
-**Source:** 2merkato.com
-
-**Company:** Addis Ababa City Administration youth and sport Bureau
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical
-
-**Link:** [https://tender.2merkato.com/tenders/6ad6fdd00a538ab87f000001](https://tender.2merkato.com/tenders/6ad6fdd00a538ab87f000001)
 
 ---
 
@@ -586,6 +586,118 @@
 
 ---
 
+## Debre Birhan University: Procurement of Medical Supplies, Laboratory Reagents and Chemicals
+
+**Source:** 2merkato.com
+
+**Company:** Debre Birhan University
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical
+
+**Link:** [https://tender.2merkato.com/tenders/6ae593dc0a538a06d2000001](https://tender.2merkato.com/tenders/6ae593dc0a538a06d2000001)
+
+---
+
+## Debre Birhan University: Procurement of Medical Supplies, Laboratory Reagents and Chemicals
+
+**Source:** 2merkato.com
+
+**Company:** Debre Birhan University
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical
+
+**Link:** [https://tender.2merkato.com/tenders/6ae593d60a538a07d5000001](https://tender.2merkato.com/tenders/6ae593d60a538a07d5000001)
+
+---
+
+## Debre Birhan University: Procurement of Medical Supplies, Laboratory Reagents and Chemicals
+
+**Source:** 2merkato.com
+
+**Company:** Debre Birhan University
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical
+
+**Link:** [https://tender.2merkato.com/tenders/6ae593d40a538af254000001](https://tender.2merkato.com/tenders/6ae593d40a538af254000001)
+
+---
+
+## Debre Birhan University: Procurement of Medical Supplies, Laboratory Reagents and Chemicals
+
+**Source:** 2merkato.com
+
+**Company:** Debre Birhan University
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical
+
+**Link:** [https://tender.2merkato.com/tenders/6ae593c60a538a06d2000001](https://tender.2merkato.com/tenders/6ae593c60a538a06d2000001)
+
+---
+
+## Debre Birhan University: Procurement of Medical Supplies, Laboratory Reagents and Chemicals
+
+**Source:** 2merkato.com
+
+**Company:** Debre Birhan University
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical
+
+**Link:** [https://tender.2merkato.com/tenders/6ae593c40a538a0ce7000001](https://tender.2merkato.com/tenders/6ae593c40a538a0ce7000001)
+
+---
+
+## Debre Birhan University: Procurement of Medical Supplies, Laboratory Reagents and Chemicals
+
+**Source:** 2merkato.com
+
+**Company:** Debre Birhan University
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical
+
+**Link:** [https://tender.2merkato.com/tenders/6ae593c20a538a2b74000001](https://tender.2merkato.com/tenders/6ae593c20a538a2b74000001)
+
+---
+
+## Debre Birhan University: Procurement of Medical Supplies, Laboratory Reagents and Chemicals
+
+**Source:** 2merkato.com
+
+**Company:** Debre Birhan University
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical
+
+**Link:** [https://tender.2merkato.com/tenders/6ae5939b0a538affd9000001](https://tender.2merkato.com/tenders/6ae5939b0a538affd9000001)
+
+---
+
 ## Debre Birhan University: Procurement of RDF Medicines and Medical Supplies
 
 **Source:** 2merkato.com
@@ -599,54 +711,6 @@
 **Matched Keywords:** medical
 
 **Link:** [https://tender.2merkato.com/tenders/6ae1da8c0a538a4943000001](https://tender.2merkato.com/tenders/6ae1da8c0a538a4943000001)
-
----
-
-## Willows International Ethiopia invites qualified and eligible suppliers to submit sealed bids for the supply and delivery of medical supplies (examination beds, steam sterilizers, portable metal drums, pickup forceps with jars, and pregnancy test kits)
-
-**Source:** 2merkato.com
-
-**Company:** Willows International Ethiopia
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical
-
-**Link:** [https://tender.2merkato.com/tenders/6adc8a160a538a6f4a000001](https://tender.2merkato.com/tenders/6adc8a160a538a6f4a000001)
-
----
-
-## University of Gondar: Procurement of Medical Supplies, Laboratory Reagents and Chemicals
-
-**Source:** 2merkato.com
-
-**Company:** University of Gondar
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical
-
-**Link:** [https://tender.2merkato.com/tenders/6adc560a0a538ab43c000001](https://tender.2merkato.com/tenders/6adc560a0a538ab43c000001)
-
----
-
-## Amanuel Mental Specialized Hospital :Procurement of Medical Supplies
-
-**Source:** 2merkato.com
-
-**Company:** Amanuel Mental Specialized Hospital
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical, hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6adc52750a538ab429000001](https://tender.2merkato.com/tenders/6adc52750a538ab429000001)
 
 ---
 
