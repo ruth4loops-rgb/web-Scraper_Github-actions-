@@ -2,11 +2,43 @@
 
 ---
 
-**Execution #1755**
+**Execution #1756**
 
-**Last run:** 2026-11-02 08:25:21 UTC
+**Last run:** 2026-11-02 18:43:42 UTC
 
-**Total matched tenders:** 45
+**Total matched tenders:** 46
+
+---
+
+## St. Peter Specialized Hospital: Procurement of Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** St. Peter Specialized Hospital
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical, hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6ae826c90a538a7bd0000001](https://tender.2merkato.com/tenders/6ae826c90a538a7bd0000001)
+
+---
+
+## St. Peter Specialized Hospital: Procurement of Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** St. Peter Specialized Hospital
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical, hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6ae826c80a538a8178000001](https://tender.2merkato.com/tenders/6ae826c80a538a8178000001)
 
 ---
 
@@ -218,35 +250,19 @@
 
 ---
 
-## Islamic Relief Ethiopia (IRE) invites eligible licensed bidders to provide medical equipment for a multiyear nutrition response project aimed at supporting drought-affected communities in the Dire District of Borena Zone, Oromia Regional State.
+## Ethiopian Pharmaceutical Supply Service (EPSS) Procurement of Vital Sign Monitoring, Oxygen Delivery, Diagnostic and Hospital Equipment's (Ref No: ET-MOH-537673-GO-RFB)
 
 **Source:** 2merkato.com
 
-**Company:** Islamic Relief Ethiopia
+**Company:** Ethiopian Pharmaceutical Supply Service
 
 **Status:** Login required
 
 **Closing Date:** Login required to view
 
-**Matched Keywords:** medical equipment, medical
+**Matched Keywords:** hospital equipment, hospital
 
-**Link:** [https://tender.2merkato.com/tenders/6ad7416b0a538a178b000001](https://tender.2merkato.com/tenders/6ad7416b0a538a178b000001)
-
----
-
-## Ethiopian Blood and Tissue Bank Service: Procurement of Medical Equipment and Supplies
-
-**Source:** 2merkato.com
-
-**Company:** Ethiopian Blood and Tissue Bank Service
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical
-
-**Link:** [https://tender.2merkato.com/tenders/6ad704b40a538ae373000001](https://tender.2merkato.com/tenders/6ad704b40a538ae373000001)
+**Link:** [https://tender.2merkato.com/tenders/6ae86e450a538a3e40000001](https://tender.2merkato.com/tenders/6ae86e450a538a3e40000001)
 
 ---
 
@@ -378,19 +394,19 @@
 
 ---
 
-## Alert Comprehensive Specialized Hospital: Procurement of electronics 2019
+## The Water and Land Resource Center (WLRC) invites sealed bids from eligible and qualified bidders for the supply of the Water Quality Laboratory Equipment & IT Equipment
 
 **Source:** 2merkato.com
 
-**Company:** Alert  Comprehensive Specialized Hospital
+**Company:** Water and Land Resource Center
 
 **Status:** Login required
 
 **Closing Date:** Login required to view
 
-**Matched Keywords:** hospital
+**Matched Keywords:** laboratory equipment
 
-**Link:** [https://tender.2merkato.com/tenders/6adc4e200a538ab431000001](https://tender.2merkato.com/tenders/6adc4e200a538ab431000001)
+**Link:** [https://tender.2merkato.com/tenders/6ae88e1b0a538a2e55000001](https://tender.2merkato.com/tenders/6ae88e1b0a538a2e55000001)
 
 ---
 
@@ -726,7 +742,7 @@
 
 **Status:** Active
 
-**Closing Date:** Dec 04, 2026
+**Closing Date:** Dec 10, 2026
 
 **Matched Keywords:** medical equipment, hospital equipment, medical, hospital
 
