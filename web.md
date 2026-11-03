@@ -2,11 +2,27 @@
 
 ---
 
-**Execution #1758**
+**Execution #1759**
 
-**Last run:** 2026-11-03 08:05:34 UTC
+**Last run:** 2026-11-03 16:11:08 UTC
 
-**Total matched tenders:** 47
+**Total matched tenders:** 45
+
+---
+
+## Republican Guard: Procurement of Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** Republican Guard
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6ae979140a538a0c32000001](https://tender.2merkato.com/tenders/6ae979140a538a0c32000001)
 
 ---
 
@@ -231,22 +247,6 @@
 **Matched Keywords:** medical equipment, medical
 
 **Link:** [https://tender.2merkato.com/tenders/6ad9ae6d0a538af395000001](https://tender.2merkato.com/tenders/6ad9ae6d0a538af395000001)
-
----
-
-## Ethiopian Federal Police: Procurement of Medical Equipment and Supplies
-
-**Source:** 2merkato.com
-
-**Company:** Ethiopian Federal Police
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical
-
-**Link:** [https://tender.2merkato.com/tenders/6ad9ae5a0a538af50c000001](https://tender.2merkato.com/tenders/6ad9ae5a0a538af50c000001)
 
 ---
 
@@ -602,22 +602,6 @@
 
 ---
 
-## The Carter Center Ethiopia (TCCE) invites sealed bids from registered suppliers for the purchase of various medical supplies for the GWE Program.
-
-**Source:** 2merkato.com
-
-**Company:** The Carter Center Ethiopia
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a48be3e0a538a033e000001](https://tender.2merkato.com/tenders/6a48be3e0a538a033e000001)
-
----
-
 ## Debre Birhan University: Procurement of Medical Supplies, Laboratory Reagents and Chemicals
 
 **Source:** 2merkato.com
@@ -727,22 +711,6 @@
 **Matched Keywords:** medical
 
 **Link:** [https://tender.2merkato.com/tenders/6ae5939b0a538affd9000001](https://tender.2merkato.com/tenders/6ae5939b0a538affd9000001)
-
----
-
-## Debre Birhan University: Procurement of RDF Medicines and Medical Supplies
-
-**Source:** 2merkato.com
-
-**Company:** Debre Birhan University
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical
-
-**Link:** [https://tender.2merkato.com/tenders/6ae1da8c0a538a4943000001](https://tender.2merkato.com/tenders/6ae1da8c0a538a4943000001)
 
 ---
 
