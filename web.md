@@ -2,11 +2,11 @@
 
 ---
 
-**Execution #1757**
+**Execution #1758**
 
-**Last run:** 2026-11-03 01:19:18 UTC
+**Last run:** 2026-11-03 08:05:34 UTC
 
-**Total matched tenders:** 46
+**Total matched tenders:** 47
 
 ---
 
@@ -551,6 +551,22 @@
 **Matched Keywords:** glucometer, medical equipment, medical
 
 **Link:** [https://tender.2merkato.com/tenders/6acf7d140a538a45e5000001](https://tender.2merkato.com/tenders/6acf7d140a538a45e5000001)
+
+---
+
+## Alert Comprehensive Specialized Hospital:- Procurement of Electro surgical (hyfractor) machine
+
+**Source:** 2merkato.com
+
+**Company:** Alert  Comprehensive Specialized Hospital
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6ae973350a538a0b6f000001](https://tender.2merkato.com/tenders/6ae973350a538a0b6f000001)
 
 ---
 
