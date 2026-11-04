@@ -2,9 +2,9 @@
 
 ---
 
-**Execution #1761**
+**Execution #1762**
 
-**Last run:** 2026-11-04 01:43:49 UTC
+**Last run:** 2026-11-04 08:07:53 UTC
 
 **Total matched tenders:** 45
 
@@ -250,6 +250,22 @@
 
 ---
 
+## Amanuel Mental Specialized Hospital:- Procurement of Stationary Materials
+
+**Source:** 2merkato.com
+
+**Company:** Amanuel Mental Specialized Hospital
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6aeac23a0a538a25c9000001](https://tender.2merkato.com/tenders/6aeac23a0a538a25c9000001)
+
+---
+
 ## Ethiopian Pharmaceutical Supply Service (EPSS) Procurement of Vital Sign Monitoring, Oxygen Delivery, Diagnostic and Hospital Equipment's (Ref No: ET-MOH-537673-GO-RFB)
 
 **Source:** 2merkato.com
@@ -394,6 +410,54 @@
 
 ---
 
+## Amanuel Mental Specialized Hospital:- procurement of Laboratory chair
+
+**Source:** 2merkato.com
+
+**Company:** Amanuel Mental Specialized Hospital
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6aeac2010a538a3802000001](https://tender.2merkato.com/tenders/6aeac2010a538a3802000001)
+
+---
+
+## Space Science and Geospatial Institute:- Procurement of Laboratory Equipment BID
+
+**Source:** 2merkato.com
+
+**Company:** Space Science and Geospatial Institute
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** laboratory equipment
+
+**Link:** [https://tender.2merkato.com/tenders/6aeac1f70a538a2497000001](https://tender.2merkato.com/tenders/6aeac1f70a538a2497000001)
+
+---
+
+## Space Science and Geospatial Institute:- Procurement of Laboratory Equipment ATC Composite Direct Material
+
+**Source:** 2merkato.com
+
+**Company:** Space Science and Geospatial Institute
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** laboratory equipment
+
+**Link:** [https://tender.2merkato.com/tenders/6aeac1ed0a538a25f5000001](https://tender.2merkato.com/tenders/6aeac1ed0a538a25f5000001)
+
+---
+
 ## The Water and Land Resource Center (WLRC) invites sealed bids from eligible and qualified bidders for the supply of the Water Quality Laboratory Equipment & IT Equipment
 
 **Source:** 2merkato.com
@@ -474,54 +538,6 @@
 
 ---
 
-## BONGA UNIVERSITY: Procurement of Laboratory Equipment
-
-**Source:** 2merkato.com
-
-**Company:** Bonga University
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** laboratory equipment
-
-**Link:** [https://tender.2merkato.com/tenders/6adc56cf0a538ab43a000001](https://tender.2merkato.com/tenders/6adc56cf0a538ab43a000001)
-
----
-
-## Jinka University: Procurement of Laboratory Equipment
-
-**Source:** 2merkato.com
-
-**Company:** Jinka University
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** laboratory equipment
-
-**Link:** [https://tender.2merkato.com/tenders/6adafd340a538a5bfd000001](https://tender.2merkato.com/tenders/6adafd340a538a5bfd000001)
-
----
-
-## Jinka University: Procurement of Laboratory Equipment
-
-**Source:** 2merkato.com
-
-**Company:** Jinka University
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** laboratory equipment
-
-**Link:** [https://tender.2merkato.com/tenders/6adafd260a538a5c01000001](https://tender.2merkato.com/tenders/6adafd260a538a5c01000001)
-
----
-
 ## Ethiopian Pharmaceutical Supply Service (EPSS) invites sealed Bids for the Procurement of Vital Sign Monitoring, Oxygen Delivery, Diagnostic and Hospital Equipment
 
 **Source:** 2merkato.com
@@ -583,22 +599,6 @@
 **Matched Keywords:** medical equipment, medical
 
 **Link:** [https://tender.2merkato.com/tenders/6adc8b6a0a538ab66c000001](https://tender.2merkato.com/tenders/6adc8b6a0a538ab66c000001)
-
----
-
-## Hellenic Greek International School invites sealed bids from eligible and licensed insurance companies to provide comprehensive Group Medical Insurance Services for its employees and their eligible family members for a period of one year.
-
-**Source:** 2merkato.com
-
-**Company:** Hellenic Greek International School
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical
-
-**Link:** [https://tender.2merkato.com/tenders/6a672cf10a538a8619000001](https://tender.2merkato.com/tenders/6a672cf10a538a8619000001)
 
 ---
 
