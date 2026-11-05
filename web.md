@@ -2,11 +2,43 @@
 
 ---
 
-**Execution #1766**
+**Execution #1767**
 
-**Last run:** 2026-11-05 09:38:43 UTC
+**Last run:** 2026-11-05 17:39:25 UTC
 
-**Total matched tenders:** 47
+**Total matched tenders:** 46
+
+---
+
+## Ministry of Revenue: Procurement of Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** Ministry of Revenue
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6aec82dc0a538ace4c000001](https://tender.2merkato.com/tenders/6aec82dc0a538ace4c000001)
+
+---
+
+## Medical Teams International (MTI) National Tender Notice for the Procurement of Medicines, Medical Supplies, and Medical Equipment for Operation Sites in Benishangul and Amhara Regions.
+
+**Source:** 2merkato.com
+
+**Company:** Medical Teams International
+
+**Status:** Open
+
+**Closing Date:** 2026-11-19 15:00:00
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6aec66b60a538ace45000001](https://tender.2merkato.com/tenders/6aec66b60a538ace45000001)
 
 ---
 
@@ -218,38 +250,6 @@
 
 ---
 
-## University of Gondar: Procurement of Medical Equipment and Supplies
-
-**Source:** 2merkato.com
-
-**Company:** University of Gondar
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical
-
-**Link:** [https://tender.2merkato.com/tenders/6adc56090a538ab430000001](https://tender.2merkato.com/tenders/6adc56090a538ab430000001)
-
----
-
-## Ethiopian Federal Police: Procurement of Medical Equipment and Supplies
-
-**Source:** 2merkato.com
-
-**Company:** Ethiopian Federal Police
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical
-
-**Link:** [https://tender.2merkato.com/tenders/6adb0a000a538a1309000001](https://tender.2merkato.com/tenders/6adb0a000a538a1309000001)
-
----
-
 ## City Government of Addis Ababa Health Bureau Tirunesh Beijing General Hospital: High-pressure oxygen hose, Flexible Thermo-Hygrometer
 
 **Source:** 2merkato.com
@@ -391,6 +391,22 @@
 **Matched Keywords:** laboratory equipment
 
 **Link:** [https://tender.2merkato.com/tenders/6ae0ab080a538ad57b000001](https://tender.2merkato.com/tenders/6ae0ab080a538ad57b000001)
+
+---
+
+## Debark University: Procurement of Laboratory Equipment
+
+**Source:** 2merkato.com
+
+**Company:** Debark University
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** laboratory equipment
+
+**Link:** [https://tender.2merkato.com/tenders/6aec81b70a538ace48000001](https://tender.2merkato.com/tenders/6aec81b70a538ace48000001)
 
 ---
 
@@ -711,38 +727,6 @@
 **Matched Keywords:** medical
 
 **Link:** [https://tender.2merkato.com/tenders/6ae593c40a538a0ce7000001](https://tender.2merkato.com/tenders/6ae593c40a538a0ce7000001)
-
----
-
-## Debre Birhan University: Procurement of Medical Supplies, Laboratory Reagents and Chemicals
-
-**Source:** 2merkato.com
-
-**Company:** Debre Birhan University
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical
-
-**Link:** [https://tender.2merkato.com/tenders/6ae593c20a538a2b74000001](https://tender.2merkato.com/tenders/6ae593c20a538a2b74000001)
-
----
-
-## Debre Birhan University: Procurement of Medical Supplies, Laboratory Reagents and Chemicals
-
-**Source:** 2merkato.com
-
-**Company:** Debre Birhan University
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical
-
-**Link:** [https://tender.2merkato.com/tenders/6ae5939b0a538affd9000001](https://tender.2merkato.com/tenders/6ae5939b0a538affd9000001)
 
 ---
 
