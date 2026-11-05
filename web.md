@@ -2,11 +2,43 @@
 
 ---
 
-**Execution #1765**
+**Execution #1766**
 
-**Last run:** 2026-11-05 02:16:14 UTC
+**Last run:** 2026-11-05 09:38:43 UTC
 
-**Total matched tenders:** 45
+**Total matched tenders:** 47
+
+---
+
+## City Government of Addis Ababa Health Bureau Tirunesh Beijing General Hospital: Procurement of Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** Tirunesh Beijing General Hospital
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical, hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6aec28860a538a3ef1000001](https://tender.2merkato.com/tenders/6aec28860a538a3ef1000001)
+
+---
+
+## Armauer Hansen Research Institute: Procurement of Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** Armauer Hansen Research Institute
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6aec254a0a538a57de000001](https://tender.2merkato.com/tenders/6aec254a0a538a57de000001)
 
 ---
 
@@ -218,35 +250,19 @@
 
 ---
 
-## Addis Ababa City Administrative Health Bureau Yekatit 12 Hospital Medical College:- Procurement of Medical Equipment and Supplies
+## City Government of Addis Ababa Health Bureau Tirunesh Beijing General Hospital: High-pressure oxygen hose, Flexible Thermo-Hygrometer
 
 **Source:** 2merkato.com
 
-**Company:** Yekatit 12 Hospital Medical College
+**Company:** Tirunesh Beijing General Hospital
 
 **Status:** Login required
 
 **Closing Date:** Login required to view
 
-**Matched Keywords:** medical equipment, medical, hospital
+**Matched Keywords:** hospital
 
-**Link:** [https://tender.2merkato.com/tenders/6ada12c70a538ab8a6000001](https://tender.2merkato.com/tenders/6ada12c70a538ab8a6000001)
-
----
-
-## National Intelligence and Security Service: Procurement of Medical Equipment and Supplies
-
-**Source:** 2merkato.com
-
-**Company:** National Intelligence and Security Service
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical
-
-**Link:** [https://tender.2merkato.com/tenders/6ad9ae6d0a538af395000001](https://tender.2merkato.com/tenders/6ad9ae6d0a538af395000001)
+**Link:** [https://tender.2merkato.com/tenders/6aec19da0a538ad955000001](https://tender.2merkato.com/tenders/6aec19da0a538ad955000001)
 
 ---
 
@@ -378,35 +394,51 @@
 
 ---
 
-## Eka Kotebe General Hospital:- lot - 5 Procurement of Maintenance and Repair Service
+## Space Science and Geospatial Institute: Procurement of Laboratory Equipment
 
 **Source:** 2merkato.com
 
-**Company:** EKA Kotebe General Hospital
+**Company:** Space Science and Geospatial Institute
 
 **Status:** Login required
 
 **Closing Date:** Login required to view
 
-**Matched Keywords:** hospital
+**Matched Keywords:** laboratory equipment
 
-**Link:** [https://tender.2merkato.com/tenders/6ae0a8420a538a2882000001](https://tender.2merkato.com/tenders/6ae0a8420a538a2882000001)
+**Link:** [https://tender.2merkato.com/tenders/6aec1e410a538ac93a000001](https://tender.2merkato.com/tenders/6aec1e410a538ac93a000001)
 
 ---
 
-## City Government of Addis Ababa Health Bureau Tirunesh Beijing General Hospital: Procurement of Cleaning Service
+## Space Science and Geospatial Institute:Procurement of Laboratory Equipment
 
 **Source:** 2merkato.com
 
-**Company:** Tirunesh Beijing General Hospital
+**Company:** Space Science and Geospatial Institute
 
 **Status:** Login required
 
 **Closing Date:** Login required to view
 
-**Matched Keywords:** hospital
+**Matched Keywords:** laboratory equipment
 
-**Link:** [https://tender.2merkato.com/tenders/6ae03f570a538af728000001](https://tender.2merkato.com/tenders/6ae03f570a538af728000001)
+**Link:** [https://tender.2merkato.com/tenders/6aec1e360a538ac2b2000001](https://tender.2merkato.com/tenders/6aec1e360a538ac2b2000001)
+
+---
+
+## Dambi Dollo University: Procurement of Laboratory Equipment
+
+**Source:** 2merkato.com
+
+**Company:** Dembi Dollo University
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** laboratory equipment
+
+**Link:** [https://tender.2merkato.com/tenders/6aec1a190a538ac6d6000001](https://tender.2merkato.com/tenders/6aec1a190a538ac6d6000001)
 
 ---
 
@@ -506,38 +538,6 @@
 
 ---
 
-## Dambi Dollo University: lot 015 purchase of laboratory reagent in hospital 2019
-
-**Source:** 2merkato.com
-
-**Company:** Dembi Dollo University
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6ae18f0a0a538a119f000001](https://tender.2merkato.com/tenders/6ae18f0a0a538a119f000001)
-
----
-
-## The Ministry of Agriculture, funded by the World Bank under the Food System Resilience Program, is seeking bids for the supply, installation, and commissioning of various coffee laboratory equipment, including grinders, roasters, grain moisture meters, sensitive scales, coffee sample screens, parchment/pod hullers, and sample trays.
-
-**Source:** 2merkato.com
-
-**Company:** Ministry of Agriculture
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** laboratory equipment
-
-**Link:** [https://tender.2merkato.com/tenders/6ae05df40a538a856b000001](https://tender.2merkato.com/tenders/6ae05df40a538a856b000001)
-
----
-
 ## Ethiopian Pharmaceutical Supply Service (EPSS) invites sealed Bids for the Procurement of Vital Sign Monitoring, Oxygen Delivery, Diagnostic and Hospital Equipment
 
 **Source:** 2merkato.com
@@ -599,6 +599,38 @@
 **Matched Keywords:** medical equipment, medical
 
 **Link:** [https://tender.2merkato.com/tenders/6adc8b6a0a538ab66c000001](https://tender.2merkato.com/tenders/6adc8b6a0a538ab66c000001)
+
+---
+
+## Mekelle University: Procurement of Drugs and Medical Supplies
+
+**Source:** 2merkato.com
+
+**Company:** Mekelle University
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical
+
+**Link:** [https://tender.2merkato.com/tenders/6aec2a4a0a538a5b3d000001](https://tender.2merkato.com/tenders/6aec2a4a0a538a5b3d000001)
+
+---
+
+## St. Paul's Hospital Millennium Medical College:- Procurement of Medical Supplies, Laboratory Reagents and Chemicals
+
+**Source:** 2merkato.com
+
+**Company:** St. Paul's Hospital Millennium Medical College
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical, hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6aec27520a538ac6fb000001](https://tender.2merkato.com/tenders/6aec27520a538ac6fb000001)
 
 ---
 
