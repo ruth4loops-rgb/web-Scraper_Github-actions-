@@ -2,11 +2,27 @@
 
 ---
 
-**Execution #1770**
+**Execution #1771**
 
-**Last run:** 2026-11-06 11:03:42 UTC
+**Last run:** 2026-11-06 17:55:12 UTC
 
-**Total matched tenders:** 46
+**Total matched tenders:** 44
+
+---
+
+## Ministry of Defense: Procurement of Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** Ministry of Defense
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6aeddba50a538a07dc000001](https://tender.2merkato.com/tenders/6aeddba50a538a07dc000001)
 
 ---
 
@@ -231,22 +247,6 @@
 **Matched Keywords:** medical equipment, medical
 
 **Link:** [https://tender.2merkato.com/tenders/6ae1a8e40a538a5a68000001](https://tender.2merkato.com/tenders/6ae1a8e40a538a5a68000001)
-
----
-
-## St. Paul's Hospital Millennium Medical College: Procurement of Medical Equipment and Supplies
-
-**Source:** 2merkato.com
-
-**Company:** St. Paul's Hospital Millennium Medical College
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical, hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6ae0aa3d0a538a0987000001](https://tender.2merkato.com/tenders/6ae0aa3d0a538a0987000001)
 
 ---
 
@@ -538,22 +538,6 @@
 
 ---
 
-## Animal Health Institute: procurement of laboratory equipment
-
-**Source:** 2merkato.com
-
-**Company:** Animal Health Institute
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** laboratory equipment
-
-**Link:** [https://tender.2merkato.com/tenders/6ae1f9c40a538a4959000001](https://tender.2merkato.com/tenders/6ae1f9c40a538a4959000001)
-
----
-
 ## Ethiopian Pharmaceutical Supply Service (EPSS) invites sealed Bids for the Procurement of Vital Sign Monitoring, Oxygen Delivery, Diagnostic and Hospital Equipment
 
 **Source:** 2merkato.com
@@ -711,22 +695,6 @@
 **Matched Keywords:** medical
 
 **Link:** [https://tender.2merkato.com/tenders/6ae593d40a538af254000001](https://tender.2merkato.com/tenders/6ae593d40a538af254000001)
-
----
-
-## Debre Birhan University: Procurement of Medical Supplies, Laboratory Reagents and Chemicals
-
-**Source:** 2merkato.com
-
-**Company:** Debre Birhan University
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical
-
-**Link:** [https://tender.2merkato.com/tenders/6ae593c60a538a06d2000001](https://tender.2merkato.com/tenders/6ae593c60a538a06d2000001)
 
 ---
 
