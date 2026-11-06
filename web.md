@@ -2,9 +2,9 @@
 
 ---
 
-**Execution #1769**
+**Execution #1770**
 
-**Last run:** 2026-11-06 03:12:41 UTC
+**Last run:** 2026-11-06 11:03:42 UTC
 
 **Total matched tenders:** 46
 
@@ -618,6 +618,22 @@
 
 ---
 
+## St. Peter Specialized Hospital:- Procurement of dental Materials
+
+**Source:** 2merkato.com
+
+**Company:** St. Peter Specialized Hospital
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6aed659b0a538afb8a000001](https://tender.2merkato.com/tenders/6aed659b0a538afb8a000001)
+
+---
+
 ## Mekelle University: Procurement of Drugs and Medical Supplies
 
 **Source:** 2merkato.com
@@ -711,22 +727,6 @@
 **Matched Keywords:** medical
 
 **Link:** [https://tender.2merkato.com/tenders/6ae593c60a538a06d2000001](https://tender.2merkato.com/tenders/6ae593c60a538a06d2000001)
-
----
-
-## Debre Birhan University: Procurement of Medical Supplies, Laboratory Reagents and Chemicals
-
-**Source:** 2merkato.com
-
-**Company:** Debre Birhan University
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical
-
-**Link:** [https://tender.2merkato.com/tenders/6ae593c40a538a0ce7000001](https://tender.2merkato.com/tenders/6ae593c40a538a0ce7000001)
 
 ---
 
