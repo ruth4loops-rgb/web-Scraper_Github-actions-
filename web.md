@@ -2,11 +2,27 @@
 
 ---
 
-**Execution #1773**
+**Execution #1774**
 
-**Last run:** 2026-11-07 02:33:28 UTC
+**Last run:** 2026-11-07 09:13:00 UTC
 
-**Total matched tenders:** 44
+**Total matched tenders:** 43
+
+---
+
+## Ministry of Revenue:- Procurement of Medical Equipment(የህክምና አገልግሎት እቃዎች እና መዳኒት ግዥ) (MOR Adama)
+
+**Source:** 2merkato.com
+
+**Company:** Ministry of Revenue
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6aeebc7a0a538a8857000001](https://tender.2merkato.com/tenders/6aeebc7a0a538a8857000001)
 
 ---
 
@@ -234,19 +250,35 @@
 
 ---
 
-## Medical Teams International (MTI) – National Tender Notice 005/26 for the Procurement of Medicines, Medical Supplies, and Medical Equipment (Reference Nos: RFQ-ETH-26-Tmp 0001, RFQ-ETH-26-Tmp 0002 & RFQ-ETH-26-Tmp 0003)
+## City Government of Addis Ababa Health Bureau Tirunesh Beijing General Hospital :Procurement of ict Equipment
 
 **Source:** 2merkato.com
 
-**Company:** Medical Teams International
+**Company:** Tirunesh Beijing General Hospital
 
 **Status:** Login required
 
 **Closing Date:** Login required to view
 
-**Matched Keywords:** medical equipment, medical
+**Matched Keywords:** hospital
 
-**Link:** [https://tender.2merkato.com/tenders/6ae1a8e40a538a5a68000001](https://tender.2merkato.com/tenders/6ae1a8e40a538a5a68000001)
+**Link:** [https://tender.2merkato.com/tenders/6aeec8a10a538abb1a000001](https://tender.2merkato.com/tenders/6aeec8a10a538abb1a000001)
+
+---
+
+## St. Paul's Hospital Millennium Medical College:- Lot 4 Procurement of Electronics Equipment For AaBET Hospital 2019/M
+
+**Source:** 2merkato.com
+
+**Company:** St. Paul's Hospital Millennium Medical College
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical, hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6aeebc480a538a86b8000001](https://tender.2merkato.com/tenders/6aeebc480a538a86b8000001)
 
 ---
 
@@ -359,38 +391,6 @@
 **Matched Keywords:** hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6ae32a950a538a9b9e000001](https://tender.2merkato.com/tenders/6ae32a950a538a9b9e000001)
-
----
-
-## Ethiopian Environmental Protection Authority: Procurement of Laboratory Equipment
-
-**Source:** 2merkato.com
-
-**Company:** Ethiopian Environmental Protection Authority
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** laboratory equipment
-
-**Link:** [https://tender.2merkato.com/tenders/6ae192c20a538a35e7000001](https://tender.2merkato.com/tenders/6ae192c20a538a35e7000001)
-
----
-
-## Ethiopian Environmental Protection Authority: Procurement of Laboratory Equipment
-
-**Source:** 2merkato.com
-
-**Company:** Ethiopian Environmental Protection Authority
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** laboratory equipment
-
-**Link:** [https://tender.2merkato.com/tenders/6ae0ab080a538ad57b000001](https://tender.2merkato.com/tenders/6ae0ab080a538ad57b000001)
 
 ---
 
@@ -522,22 +522,6 @@
 
 ---
 
-## Space Science and Geospatial Institute: Procurement of Laboratory Equipment
-
-**Source:** 2merkato.com
-
-**Company:** Space Science and Geospatial Institute
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** laboratory equipment
-
-**Link:** [https://tender.2merkato.com/tenders/6ae344b90a538a78ab000001](https://tender.2merkato.com/tenders/6ae344b90a538a78ab000001)
-
----
-
 ## Ethiopian Pharmaceutical Supply Service (EPSS) invites sealed Bids for the Procurement of Vital Sign Monitoring, Oxygen Delivery, Diagnostic and Hospital Equipment
 
 **Source:** 2merkato.com
@@ -599,6 +583,22 @@
 **Matched Keywords:** medical equipment, medical
 
 **Link:** [https://tender.2merkato.com/tenders/6adc8b6a0a538ab66c000001](https://tender.2merkato.com/tenders/6adc8b6a0a538ab66c000001)
+
+---
+
+## Ethiopian sport Academy: Procurement of Medical Supplies
+
+**Source:** 2merkato.com
+
+**Company:** Ethiopian Sport Academy
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical
+
+**Link:** [https://tender.2merkato.com/tenders/6aeec1600a538a6c6b000001](https://tender.2merkato.com/tenders/6aeec1600a538a6c6b000001)
 
 ---
 
@@ -679,22 +679,6 @@
 **Matched Keywords:** medical
 
 **Link:** [https://tender.2merkato.com/tenders/6ae593d60a538a07d5000001](https://tender.2merkato.com/tenders/6ae593d60a538a07d5000001)
-
----
-
-## Debre Birhan University: Procurement of Medical Supplies, Laboratory Reagents and Chemicals
-
-**Source:** 2merkato.com
-
-**Company:** Debre Birhan University
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical
-
-**Link:** [https://tender.2merkato.com/tenders/6ae593d40a538af254000001](https://tender.2merkato.com/tenders/6ae593d40a538af254000001)
 
 ---
 
