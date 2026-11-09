@@ -2,11 +2,27 @@
 
 ---
 
-**Execution #1783**
+**Execution #1784**
 
-**Last run:** 2026-11-09 05:59:22 UTC
+**Last run:** 2026-11-09 16:00:49 UTC
 
 **Total matched tenders:** 43
+
+---
+
+## Dire Dawa University: Procurement of Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** Dire Dawa University
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6af160ff0a538acac9000001](https://tender.2merkato.com/tenders/6af160ff0a538acac9000001)
 
 ---
 
@@ -234,19 +250,19 @@
 
 ---
 
-## World Vision International Ethiopia (WVE) – Invitation to Bid for the Provision and Procurement of Medical Equipment and Supplies for the RISE Project (PROCUREMENT REFERENCE NUMBER: WVIE/SCM/0013/27)
+## Eka Kotebe General Hospital: EKGH Procurement of Office Equipment
 
 **Source:** 2merkato.com
 
-**Company:** World Vision Ethiopia
+**Company:** EKA Kotebe General Hospital
 
 **Status:** Login required
 
 **Closing Date:** Login required to view
 
-**Matched Keywords:** medical equipment, medical
+**Matched Keywords:** hospital
 
-**Link:** [https://tender.2merkato.com/tenders/6ae1e3df0a538a494b000001](https://tender.2merkato.com/tenders/6ae1e3df0a538a494b000001)
+**Link:** [https://tender.2merkato.com/tenders/6af15f950a538acc51000001](https://tender.2merkato.com/tenders/6af15f950a538acc51000001)
 
 ---
 
@@ -394,6 +410,22 @@
 
 ---
 
+## Oromia  Pipe Factory PLC (OPF PLC) hereby invites sealed bids from eligible bidders for the purchases of HDPE and uPVC pipes Testing machines (laboratory equipment) for international competitive biddings (ICB).
+
+**Source:** 2merkato.com
+
+**Company:** Oromia Pipe Factory P.L.C.
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** laboratory equipment
+
+**Link:** [https://tender.2merkato.com/tenders/6af1ae7a0a538a0ee5000001](https://tender.2merkato.com/tenders/6af1ae7a0a538a0ee5000001)
+
+---
+
 ## Debark University: Procurement of Laboratory Equipment
 
 **Source:** 2merkato.com
@@ -506,22 +538,6 @@
 
 ---
 
-## The Water and Land Resource Center (WLRC) invites sealed bids from eligible and qualified bidders for the supply of the Water Quality Laboratory Equipment & IT Equipment
-
-**Source:** 2merkato.com
-
-**Company:** Water and Land Resource Center
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** laboratory equipment
-
-**Link:** [https://tender.2merkato.com/tenders/6ae88e1b0a538a2e55000001](https://tender.2merkato.com/tenders/6ae88e1b0a538a2e55000001)
-
----
-
 ## Ethiopian Pharmaceutical Supply Service (EPSS) invites sealed Bids for the Procurement of Vital Sign Monitoring, Oxygen Delivery, Diagnostic and Hospital Equipment
 
 **Source:** 2merkato.com
@@ -586,6 +602,22 @@
 
 ---
 
+## Eka Kotebe General Hospital: EKH LOT-4 Procurement of RDF Medicines and Medical Supplies
+
+**Source:** 2merkato.com
+
+**Company:** EKA Kotebe General Hospital
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical, hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6af160550a538aceac000001](https://tender.2merkato.com/tenders/6af160550a538aceac000001)
+
+---
+
 ## Ethiopian sport Academy: Procurement of Medical Supplies
 
 **Source:** 2merkato.com
@@ -647,38 +679,6 @@
 **Matched Keywords:** medical, hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6aec27520a538ac6fb000001](https://tender.2merkato.com/tenders/6aec27520a538ac6fb000001)
-
----
-
-## Debre Birhan University: Procurement of Medical Supplies, Laboratory Reagents and Chemicals
-
-**Source:** 2merkato.com
-
-**Company:** Debre Birhan University
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical
-
-**Link:** [https://tender.2merkato.com/tenders/6ae593dc0a538a06d2000001](https://tender.2merkato.com/tenders/6ae593dc0a538a06d2000001)
-
----
-
-## Debre Birhan University: Procurement of Medical Supplies, Laboratory Reagents and Chemicals
-
-**Source:** 2merkato.com
-
-**Company:** Debre Birhan University
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical
-
-**Link:** [https://tender.2merkato.com/tenders/6ae593d60a538a07d5000001](https://tender.2merkato.com/tenders/6ae593d60a538a07d5000001)
 
 ---
 
