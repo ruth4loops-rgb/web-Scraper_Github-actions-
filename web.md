@@ -2,11 +2,11 @@
 
 ---
 
-**Execution #1786**
+**Execution #1787**
 
-**Last run:** 2026-11-10 07:23:02 UTC
+**Last run:** 2026-11-10 15:42:29 UTC
 
-**Total matched tenders:** 37
+**Total matched tenders:** 38
 
 ---
 
@@ -407,6 +407,22 @@
 **Matched Keywords:** hospital equipment, hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6ae86e450a538a3e40000001](https://tender.2merkato.com/tenders/6ae86e450a538a3e40000001)
+
+---
+
+## Ethiopian Agricultural Authority: Procurement of Laboratory Equipment
+
+**Source:** 2merkato.com
+
+**Company:** Ethiopian Agricultural Authority
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** laboratory equipment
+
+**Link:** [https://tender.2merkato.com/tenders/6af3274c0a538afd6e000001](https://tender.2merkato.com/tenders/6af3274c0a538afd6e000001)
 
 ---
 
