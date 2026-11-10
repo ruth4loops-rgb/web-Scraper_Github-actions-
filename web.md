@@ -2,11 +2,27 @@
 
 ---
 
-**Execution #1785**
+**Execution #1786**
 
-**Last run:** 2026-11-10 00:10:36 UTC
+**Last run:** 2026-11-10 07:23:02 UTC
 
-**Total matched tenders:** 43
+**Total matched tenders:** 37
+
+---
+
+## Dire Dawa University: Procurement of Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** Dire Dawa University
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6af2b2560a538a2ab4000001](https://tender.2merkato.com/tenders/6af2b2560a538a2ab4000001)
 
 ---
 
@@ -234,19 +250,67 @@
 
 ---
 
-## Bule Hora University: Procurement of Medical Equipment and Supplies
+## Alert Comprehensive Specialized Hospital: procurement of Road Construction
 
 **Source:** 2merkato.com
 
-**Company:** Bule Hora University
+**Company:** Alert  Comprehensive Specialized Hospital
 
 **Status:** Login required
 
 **Closing Date:** Login required to view
 
-**Matched Keywords:** medical equipment, medical
+**Matched Keywords:** hospital
 
-**Link:** [https://tender.2merkato.com/tenders/6ae1fee40a538abebf000001](https://tender.2merkato.com/tenders/6ae1fee40a538abebf000001)
+**Link:** [https://tender.2merkato.com/tenders/6af2ba1c0a538afc59000001](https://tender.2merkato.com/tenders/6af2ba1c0a538afc59000001)
+
+---
+
+## St. Paul's Hospital Millennium Medical College: The supply, installation and training of ophthalmology medical equipment 01/2019
+
+**Source:** 2merkato.com
+
+**Company:** St. Paul's Hospital Millennium Medical College
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical, hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6af2b3100a538a29e4000001](https://tender.2merkato.com/tenders/6af2b3100a538a29e4000001)
+
+---
+
+## Amanuel Mental Specialized Hospital: Procurement of Cassette Type AC And Sun protection shade
+
+**Source:** 2merkato.com
+
+**Company:** Amanuel Mental Specialized Hospital
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6af2b1040a538aed09000001](https://tender.2merkato.com/tenders/6af2b1040a538aed09000001)
+
+---
+
+## Amanuel Mental Specialized Hospital:- procurement of corrective and repair service for kitchen Equipment
+
+**Source:** 2merkato.com
+
+**Company:** Amanuel Mental Specialized Hospital
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6af2b08b0a538a8c7e000001](https://tender.2merkato.com/tenders/6af2b08b0a538a8c7e000001)
 
 ---
 
@@ -346,70 +410,6 @@
 
 ---
 
-## The American Jewish Joint Distribution Committee (JDC), an international NGO registered in Ethiopia, invites qualified medical equipment suppliers to submit bids for the supply, delivery, and installation of Medical Equipment for National Spine Center, St. Paul Hospital, Addis Ababa.
-
-**Source:** 2merkato.com
-
-**Company:** American Jewish Joint Distribution Committee
-
-**Status:** Open
-
-**Closing Date:** 2026-11-11 17:00:00
-
-**Matched Keywords:** medical equipment, medical, hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6ae591030a538a0baa000001](https://tender.2merkato.com/tenders/6ae591030a538a0baa000001)
-
----
-
-## Ethiopian Pharmaceutical Supply Service (EPSS) Procurement of Vital Sign Monitoring, Oxygen Delivery, Diagnostic and Hospital Equipment's (Ref No: ET-MOH-537673-GO-RFB)
-
-**Source:** 2merkato.com
-
-**Company:** Ethiopian Pharmaceutical Supply Service
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** hospital equipment, hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6ae454880a538acec1000001](https://tender.2merkato.com/tenders/6ae454880a538acec1000001)
-
----
-
-## City Government of Addis Ababa Health Bureau Tirunesh Beijing General Hospital: Procurement of Electronics Equipment
-
-**Source:** 2merkato.com
-
-**Company:** Tirunesh Beijing General Hospital
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6ae4377d0a538a1231000001](https://tender.2merkato.com/tenders/6ae4377d0a538a1231000001)
-
----
-
-## Eka Kotebe General Hospital: Procurement of ICT Equipment
-
-**Source:** 2merkato.com
-
-**Company:** EKA Kotebe General Hospital
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6ae32a950a538a9b9e000001](https://tender.2merkato.com/tenders/6ae32a950a538a9b9e000001)
-
----
-
 ## Oromia  Pipe Factory PLC (OPF PLC) hereby invites sealed bids from eligible bidders for the purchases of HDPE and uPVC pipes Testing machines (laboratory equipment) for international competitive biddings (ICB).
 
 **Source:** 2merkato.com
@@ -426,115 +426,19 @@
 
 ---
 
-## Debark University: Procurement of Laboratory Equipment
+## Ethiopian Pharmaceutical Supply Service (EPSS) Procurement of Vital Sign Monitoring, Oxygen Delivery, Diagnostic and Hospital Equipment's (Ref No: ET-MOH-537673-GO-RFB)
 
 **Source:** 2merkato.com
 
-**Company:** Debark University
+**Company:** Ethiopian Pharmaceutical Supply Service
 
 **Status:** Login required
 
 **Closing Date:** Login required to view
 
-**Matched Keywords:** laboratory equipment
+**Matched Keywords:** hospital equipment, hospital
 
-**Link:** [https://tender.2merkato.com/tenders/6aec81b70a538ace48000001](https://tender.2merkato.com/tenders/6aec81b70a538ace48000001)
-
----
-
-## Space Science and Geospatial Institute: Procurement of Laboratory Equipment
-
-**Source:** 2merkato.com
-
-**Company:** Space Science and Geospatial Institute
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** laboratory equipment
-
-**Link:** [https://tender.2merkato.com/tenders/6aec1e410a538ac93a000001](https://tender.2merkato.com/tenders/6aec1e410a538ac93a000001)
-
----
-
-## Space Science and Geospatial Institute:Procurement of Laboratory Equipment
-
-**Source:** 2merkato.com
-
-**Company:** Space Science and Geospatial Institute
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** laboratory equipment
-
-**Link:** [https://tender.2merkato.com/tenders/6aec1e360a538ac2b2000001](https://tender.2merkato.com/tenders/6aec1e360a538ac2b2000001)
-
----
-
-## Dambi Dollo University: Procurement of Laboratory Equipment
-
-**Source:** 2merkato.com
-
-**Company:** Dembi Dollo University
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** laboratory equipment
-
-**Link:** [https://tender.2merkato.com/tenders/6aec1a190a538ac6d6000001](https://tender.2merkato.com/tenders/6aec1a190a538ac6d6000001)
-
----
-
-## Amanuel Mental Specialized Hospital:- procurement of Laboratory chair
-
-**Source:** 2merkato.com
-
-**Company:** Amanuel Mental Specialized Hospital
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6aeac2010a538a3802000001](https://tender.2merkato.com/tenders/6aeac2010a538a3802000001)
-
----
-
-## Space Science and Geospatial Institute:- Procurement of Laboratory Equipment BID
-
-**Source:** 2merkato.com
-
-**Company:** Space Science and Geospatial Institute
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** laboratory equipment
-
-**Link:** [https://tender.2merkato.com/tenders/6aeac1f70a538a2497000001](https://tender.2merkato.com/tenders/6aeac1f70a538a2497000001)
-
----
-
-## Space Science and Geospatial Institute:- Procurement of Laboratory Equipment ATC Composite Direct Material
-
-**Source:** 2merkato.com
-
-**Company:** Space Science and Geospatial Institute
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** laboratory equipment
-
-**Link:** [https://tender.2merkato.com/tenders/6aeac1ed0a538a25f5000001](https://tender.2merkato.com/tenders/6aeac1ed0a538a25f5000001)
+**Link:** [https://tender.2merkato.com/tenders/6ae454880a538acec1000001](https://tender.2merkato.com/tenders/6ae454880a538acec1000001)
 
 ---
 
