@@ -2,11 +2,27 @@
 
 ---
 
-**Execution #1790**
+**Execution #1791**
 
-**Last run:** 2026-11-11 08:11:53 UTC
+**Last run:** 2026-11-11 16:14:29 UTC
 
-**Total matched tenders:** 38
+**Total matched tenders:** 37
+
+---
+
+## Ministry of Defense: Procurement of Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** Ministry of Defense
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6af46c280a538ac7de000001](https://tender.2merkato.com/tenders/6af46c280a538ac7de000001)
 
 ---
 
@@ -234,22 +250,6 @@
 
 ---
 
-## Ministry of Defense: Procurement of Medical Equipment and Supplies
-
-**Source:** 2merkato.com
-
-**Company:** Ministry of Defense
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical
-
-**Link:** [https://tender.2merkato.com/tenders/6ae30e170a538a9e8a000001](https://tender.2merkato.com/tenders/6ae30e170a538a9e8a000001)
-
----
-
 ## Alert Comprehensive Specialized Hospital: procurement of Road Construction
 
 **Source:** 2merkato.com
@@ -423,22 +423,6 @@
 **Matched Keywords:** laboratory equipment
 
 **Link:** [https://tender.2merkato.com/tenders/6af3274c0a538afd6e000001](https://tender.2merkato.com/tenders/6af3274c0a538afd6e000001)
-
----
-
-## Oromia  Pipe Factory PLC (OPF PLC) hereby invites sealed bids from eligible bidders for the purchases of HDPE and uPVC pipes Testing machines (laboratory equipment) for international competitive biddings (ICB).
-
-**Source:** 2merkato.com
-
-**Company:** Oromia Pipe Factory P.L.C.
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** laboratory equipment
-
-**Link:** [https://tender.2merkato.com/tenders/6af1ae7a0a538a0ee5000001](https://tender.2merkato.com/tenders/6af1ae7a0a538a0ee5000001)
 
 ---
 
