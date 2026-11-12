@@ -2,11 +2,11 @@
 
 ---
 
-**Execution #1793**
+**Execution #1794**
 
-**Last run:** 2026-11-12 03:26:47 UTC
+**Last run:** 2026-11-12 11:43:59 UTC
 
-**Total matched tenders:** 37
+**Total matched tenders:** 38
 
 ---
 
@@ -471,6 +471,22 @@
 **Matched Keywords:** glucometer, medical equipment, medical
 
 **Link:** [https://tender.2merkato.com/tenders/6acf7d140a538a45e5000001](https://tender.2merkato.com/tenders/6acf7d140a538a45e5000001)
+
+---
+
+## ሐምሊን ፊስቱላ ኢትዮጵያ ለቀዶ-ሕክምና ክፍሎች አገልግሎት የሚውል ደረጃውን የጠበቀ ብትን ጨርቅ (Reusable Medical Textiles) ግዥ እና በሲዳማ ክልል (አርቤጎና ወረዳ) እና በኦሮሚያ ክልል (ፈዲስ ወረዳ) ጤና ጣቢያዎች የእናቶች እና ሕፃናት ሕክምና ክፍሎች ዕድሳት ሥራዎች በግልጽ ጨረታ አወዳድሮ ማሠራት ይፈልጋል
+
+**Source:** 2merkato.com
+
+**Company:** Hamlin Fistula Ethiopia
+
+**Status:** Open
+
+**Closing Date:** 2026-11-21 17:00:00
+
+**Matched Keywords:** medical
+
+**Link:** [https://tender.2merkato.com/tenders/6af595ae0a538a77c9000001](https://tender.2merkato.com/tenders/6af595ae0a538a77c9000001)
 
 ---
 
