@@ -2,11 +2,27 @@
 
 ---
 
-**Execution #1797**
+**Execution #1798**
 
-**Last run:** 2026-11-13 07:10:54 UTC
+**Last run:** 2026-11-13 15:25:42 UTC
 
-**Total matched tenders:** 38
+**Total matched tenders:** 39
+
+---
+
+## Dire Dawa Administration Health Bureau invites eligible suppliers for the Procurement of Medical Equipment for Health Facilities (Proc. Ref/No: DDA/HB/PC-04/2019)
+
+**Source:** 2merkato.com
+
+**Company:** Dire Dawa Administration Health Bureau
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6af6c0040a538ae2a8000001](https://tender.2merkato.com/tenders/6af6c0040a538ae2a8000001)
 
 ---
 
@@ -231,22 +247,6 @@
 **Matched Keywords:** medical equipment, medical
 
 **Link:** [https://tender.2merkato.com/tenders/6ae593c90a538affd9000001](https://tender.2merkato.com/tenders/6ae593c90a538affd9000001)
-
----
-
-## Ministry of Defense: Procurement of Medical Equipment and Supplies
-
-**Source:** 2merkato.com
-
-**Company:** Ministry of Defense
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical
-
-**Link:** [https://tender.2merkato.com/tenders/6ae325670a538ae180000001](https://tender.2merkato.com/tenders/6ae325670a538ae180000001)
 
 ---
 
@@ -519,6 +519,22 @@
 **Matched Keywords:** medical equipment, medical
 
 **Link:** [https://tender.2merkato.com/tenders/6adc8b6a0a538ab66c000001](https://tender.2merkato.com/tenders/6adc8b6a0a538ab66c000001)
+
+---
+
+## Alert Comprehensive Specialized Hospital: Procurement of Medical Supplies
+
+**Source:** 2merkato.com
+
+**Company:** Alert  Comprehensive Specialized Hospital
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical, hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6af6f4e60a538a01b7000001](https://tender.2merkato.com/tenders/6af6f4e60a538a01b7000001)
 
 ---
 
