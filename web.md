@@ -2,11 +2,27 @@
 
 ---
 
-**Execution #1800**
+**Execution #1801**
 
-**Last run:** 2026-11-14 01:42:21 UTC
+**Last run:** 2026-11-14 08:05:00 UTC
 
 **Total matched tenders:** 39
+
+---
+
+## Oromia Bureau of Agriculture: Procurement of Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** Oromia Bureau of Agriculture
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6af8043f0a538abf5d000001](https://tender.2merkato.com/tenders/6af8043f0a538abf5d000001)
 
 ---
 
@@ -231,22 +247,6 @@
 **Matched Keywords:** medical equipment, medical
 
 **Link:** [https://tender.2merkato.com/tenders/6ae593e00a538a15c9000001](https://tender.2merkato.com/tenders/6ae593e00a538a15c9000001)
-
----
-
-## Debre Birhan University: Procurement of Medical Equipment and Supplies
-
-**Source:** 2merkato.com
-
-**Company:** Debre Birhan University
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical
-
-**Link:** [https://tender.2merkato.com/tenders/6ae593c90a538affd9000001](https://tender.2merkato.com/tenders/6ae593c90a538affd9000001)
 
 ---
 
