@@ -2,11 +2,27 @@
 
 ---
 
-**Execution #1809**
+**Execution #1810**
 
-**Last run:** 2026-11-16 01:55:04 UTC
+**Last run:** 2026-11-16 09:13:12 UTC
 
-**Total matched tenders:** 39
+**Total matched tenders:** 40
+
+---
+
+## City Government of Addis Ababa Health Bureau Tirunesh Beijing General Hospital: Procurement of Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** Tirunesh Beijing General Hospital
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical, hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6afa99d10a538a4a4f000001](https://tender.2merkato.com/tenders/6afa99d10a538a4a4f000001)
 
 ---
 
@@ -234,22 +250,6 @@
 
 ---
 
-## Debre Birhan University: Procurement of Medical Equipment and Supplies
-
-**Source:** 2merkato.com
-
-**Company:** Debre Birhan University
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical
-
-**Link:** [https://tender.2merkato.com/tenders/6ae593e00a538a15c9000001](https://tender.2merkato.com/tenders/6ae593e00a538a15c9000001)
-
----
-
 ## Alert Comprehensive Specialized Hospital: procurement of Road Construction
 
 **Source:** 2merkato.com
@@ -394,19 +394,19 @@
 
 ---
 
-## Ethiopian Pharmaceutical Supply Service (EPSS) Procurement of Vital Sign Monitoring, Oxygen Delivery, Diagnostic and Hospital Equipment's (Ref No: ET-MOH-537673-GO-RFB)
+## Debre Tabor university: Procurement of Laboratory Equipment
 
 **Source:** 2merkato.com
 
-**Company:** Ethiopian Pharmaceutical Supply Service
+**Company:** Debre Tabor University
 
 **Status:** Login required
 
 **Closing Date:** Login required to view
 
-**Matched Keywords:** hospital equipment, hospital
+**Matched Keywords:** laboratory equipment
 
-**Link:** [https://tender.2merkato.com/tenders/6ae86e450a538a3e40000001](https://tender.2merkato.com/tenders/6ae86e450a538a3e40000001)
+**Link:** [https://tender.2merkato.com/tenders/6afa9e9e0a538ac71c000001](https://tender.2merkato.com/tenders/6afa9e9e0a538ac71c000001)
 
 ---
 
@@ -423,6 +423,22 @@
 **Matched Keywords:** laboratory equipment
 
 **Link:** [https://tender.2merkato.com/tenders/6af3274c0a538afd6e000001](https://tender.2merkato.com/tenders/6af3274c0a538afd6e000001)
+
+---
+
+## Ethiopian Pharmaceutical Supply Service (EPSS) Procurement of Vital Sign Monitoring, Oxygen Delivery, Diagnostic and Hospital Equipment's (Ref No: ET-MOH-537673-GO-RFB)
+
+**Source:** 2merkato.com
+
+**Company:** Ethiopian Pharmaceutical Supply Service
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** hospital equipment, hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6ae86e450a538a3e40000001](https://tender.2merkato.com/tenders/6ae86e450a538a3e40000001)
 
 ---
 
@@ -522,6 +538,38 @@
 
 ---
 
+## Debre Tabor universsity: Procurement of Medical Supplies, Laboratory Reagents and Chemicals
+
+**Source:** 2merkato.com
+
+**Company:** Debre Tabor University
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical
+
+**Link:** [https://tender.2merkato.com/tenders/6afa9e930a538ac8c7000001](https://tender.2merkato.com/tenders/6afa9e930a538ac8c7000001)
+
+---
+
+## Debre Tabor universsity: Procurement of Medical Supplies, Laboratory Reagents and Chemicals
+
+**Source:** 2merkato.com
+
+**Company:** Debre Tabor University
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical
+
+**Link:** [https://tender.2merkato.com/tenders/6afa9e810a538ac828000001](https://tender.2merkato.com/tenders/6afa9e810a538ac828000001)
+
+---
+
 ## Alert Comprehensive Specialized Hospital: Procurement of Medical Supplies
 
 **Source:** 2merkato.com
@@ -583,38 +631,6 @@
 **Matched Keywords:** hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6aed659b0a538afb8a000001](https://tender.2merkato.com/tenders/6aed659b0a538afb8a000001)
-
----
-
-## Mekelle University: Procurement of Drugs and Medical Supplies
-
-**Source:** 2merkato.com
-
-**Company:** Mekelle University
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical
-
-**Link:** [https://tender.2merkato.com/tenders/6aec2a4a0a538a5b3d000001](https://tender.2merkato.com/tenders/6aec2a4a0a538a5b3d000001)
-
----
-
-## St. Paul's Hospital Millennium Medical College:- Procurement of Medical Supplies, Laboratory Reagents and Chemicals
-
-**Source:** 2merkato.com
-
-**Company:** St. Paul's Hospital Millennium Medical College
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical, hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6aec27520a538ac6fb000001](https://tender.2merkato.com/tenders/6aec27520a538ac6fb000001)
 
 ---
 
