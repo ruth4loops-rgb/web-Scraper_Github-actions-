@@ -2,11 +2,11 @@
 
 ---
 
-**Execution #1810**
+**Execution #1811**
 
-**Last run:** 2026-11-16 09:13:12 UTC
+**Last run:** 2026-11-16 19:40:59 UTC
 
-**Total matched tenders:** 40
+**Total matched tenders:** 41
 
 ---
 
@@ -535,6 +535,22 @@
 **Matched Keywords:** medical equipment, medical
 
 **Link:** [https://tender.2merkato.com/tenders/6adc8b6a0a538ab66c000001](https://tender.2merkato.com/tenders/6adc8b6a0a538ab66c000001)
+
+---
+
+## Heal Our People (HOP) Invites Sealed Bids for the Supply of Repair Kits for Rehabilitation of Damaged Residential Houses (Lot 1), Dignity Kits for Women and Girls of Reproductive Age (Lot 2), and Medical Supplies and Equipment (Lot 3) (Tender Reference No.: HOP/PROC/2026/001).
+
+**Source:** 2merkato.com
+
+**Company:** Heal Our People
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical
+
+**Link:** [https://tender.2merkato.com/tenders/6afac7300a538a6efd000001](https://tender.2merkato.com/tenders/6afac7300a538a6efd000001)
 
 ---
 
