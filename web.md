@@ -2,11 +2,27 @@
 
 ---
 
-**Execution #1813**
+**Execution #1814**
 
-**Last run:** 2026-11-17 11:10:22 UTC
+**Last run:** 2026-11-17 19:52:23 UTC
 
-**Total matched tenders:** 41
+**Total matched tenders:** 42
+
+---
+
+## Armauer Hansen Research Institute: Procurement of Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** Armauer Hansen Research Institute
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6afc550e0a538a574d000001](https://tender.2merkato.com/tenders/6afc550e0a538a574d000001)
 
 ---
 
@@ -231,22 +247,6 @@
 **Matched Keywords:** medical equipment, medical, hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6ae826c90a538a7bd0000001](https://tender.2merkato.com/tenders/6ae826c90a538a7bd0000001)
-
----
-
-## St. Peter Specialized Hospital: Procurement of Medical Equipment and Supplies
-
-**Source:** 2merkato.com
-
-**Company:** St. Peter Specialized Hospital
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical, hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6ae826c80a538a8178000001](https://tender.2merkato.com/tenders/6ae826c80a538a8178000001)
 
 ---
 
@@ -535,6 +535,22 @@
 **Matched Keywords:** medical equipment, medical
 
 **Link:** [https://tender.2merkato.com/tenders/6adc8b6a0a538ab66c000001](https://tender.2merkato.com/tenders/6adc8b6a0a538ab66c000001)
+
+---
+
+## Armauer Hansen Research Institute:- Procurement of Medical Supplies And Reagents 2019-2
+
+**Source:** 2merkato.com
+
+**Company:** Armauer Hansen Research Institute
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical
+
+**Link:** [https://tender.2merkato.com/tenders/6afc54de0a538a522d000001](https://tender.2merkato.com/tenders/6afc54de0a538a522d000001)
 
 ---
 
