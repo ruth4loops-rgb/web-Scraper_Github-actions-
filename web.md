@@ -2,11 +2,27 @@
 
 ---
 
-**Execution #1816**
+**Execution #1817**
 
-**Last run:** 2026-11-18 10:03:31 UTC
+**Last run:** 2026-11-18 18:48:44 UTC
 
-**Total matched tenders:** 42
+**Total matched tenders:** 41
+
+---
+
+## Women Empowerment-Action (WE-Action) invites sealed bids from eligible bidders for the supply of medical equipment for Kobo Primary Hospital and Raya Kobo Woreda Health Office under the project funded by OXFAM.
+
+**Source:** 2merkato.com
+
+**Company:** Women Empowerment Action(WE-Action)
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical, hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6afd5da90a538ac111000001](https://tender.2merkato.com/tenders/6afd5da90a538ac111000001)
 
 ---
 
@@ -234,22 +250,6 @@
 
 ---
 
-## Republican Guard: Procurement of Medical Equipment and Supplies
-
-**Source:** 2merkato.com
-
-**Company:** Republican Guard
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical
-
-**Link:** [https://tender.2merkato.com/tenders/6ae979140a538a0c32000001](https://tender.2merkato.com/tenders/6ae979140a538a0c32000001)
-
----
-
 ## Alert Comprehensive Specialized Hospital: procurement of Road Construction
 
 **Source:** 2merkato.com
@@ -359,22 +359,6 @@
 **Matched Keywords:** medical, hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6aeebc480a538a86b8000001](https://tender.2merkato.com/tenders/6aeebc480a538a86b8000001)
-
----
-
-## City Government of Addis Ababa Health Bureau Tirunesh Beijing General Hospital: High-pressure oxygen hose, Flexible Thermo-Hygrometer
-
-**Source:** 2merkato.com
-
-**Company:** Tirunesh Beijing General Hospital
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6aec19da0a538ad955000001](https://tender.2merkato.com/tenders/6aec19da0a538ad955000001)
 
 ---
 
