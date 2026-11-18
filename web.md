@@ -2,11 +2,27 @@
 
 ---
 
-**Execution #1815**
+**Execution #1816**
 
-**Last run:** 2026-11-18 02:05:04 UTC
+**Last run:** 2026-11-18 10:03:31 UTC
 
 **Total matched tenders:** 42
+
+---
+
+## St. Paul's Hospital Millennium Medical College : Procurement of Medical Equipment and Supplies For AaBET Hospital 2019 /D
+
+**Source:** 2merkato.com
+
+**Company:** St. Paul's Hospital Millennium Medical College
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical, hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6afd3b0c0a538a0530000001](https://tender.2merkato.com/tenders/6afd3b0c0a538a0530000001)
 
 ---
 
@@ -234,22 +250,6 @@
 
 ---
 
-## St. Peter Specialized Hospital: Procurement of Medical Equipment and Supplies
-
-**Source:** 2merkato.com
-
-**Company:** St. Peter Specialized Hospital
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical, hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6ae826c90a538a7bd0000001](https://tender.2merkato.com/tenders/6ae826c90a538a7bd0000001)
-
----
-
 ## Alert Comprehensive Specialized Hospital: procurement of Road Construction
 
 **Source:** 2merkato.com
@@ -378,19 +378,19 @@
 
 ---
 
-## Amanuel Mental Specialized Hospital:- Procurement of Stationary Materials
+## Amref Health Africa in Ethiopia invites interested, qualified, technically competent and eligible local vendors to submit their interest for prequalification for the period 2027-2028 under 58 listed categories of goods, services, medical items, ICT, consultancy, and engineering works.
 
 **Source:** 2merkato.com
 
-**Company:** Amanuel Mental Specialized Hospital
+**Company:** Amref Health Africa
 
-**Status:** Login required
+**Status:** Open
 
-**Closing Date:** Login required to view
+**Closing Date:** 2026-12-16 22:00:00
 
-**Matched Keywords:** hospital
+**Matched Keywords:** medical
 
-**Link:** [https://tender.2merkato.com/tenders/6aeac23a0a538a25c9000001](https://tender.2merkato.com/tenders/6aeac23a0a538a25c9000001)
+**Link:** [https://tender.2merkato.com/tenders/6afd563a0a538a1436000001](https://tender.2merkato.com/tenders/6afd563a0a538a1436000001)
 
 ---
 
