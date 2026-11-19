@@ -2,11 +2,27 @@
 
 ---
 
-**Execution #1818**
+**Execution #1819**
 
-**Last run:** 2026-11-19 00:48:06 UTC
+**Last run:** 2026-11-19 08:01:12 UTC
 
 **Total matched tenders:** 41
+
+---
+
+## PATH invites quotations for the purchase of medical equipment for the REACH Malaria Project activities in Ethiopia.
+
+**Source:** 2merkato.com
+
+**Company:** PATH Ethiopia
+
+**Status:** Open
+
+**Closing Date:** 2026-11-23 17:00:00
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6afea6830a538a368c000001](https://tender.2merkato.com/tenders/6afea6830a538a368c000001)
 
 ---
 
@@ -231,22 +247,6 @@
 **Matched Keywords:** medical equipment, medical, hospital
 
 **Link:** [https://tender.2merkato.com/tenders/6aec28860a538a3ef1000001](https://tender.2merkato.com/tenders/6aec28860a538a3ef1000001)
-
----
-
-## Armauer Hansen Research Institute: Procurement of Medical Equipment and Supplies
-
-**Source:** 2merkato.com
-
-**Company:** Armauer Hansen Research Institute
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical
-
-**Link:** [https://tender.2merkato.com/tenders/6aec254a0a538a57de000001](https://tender.2merkato.com/tenders/6aec254a0a538a57de000001)
 
 ---
 
