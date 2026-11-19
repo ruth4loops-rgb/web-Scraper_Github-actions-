@@ -2,11 +2,43 @@
 
 ---
 
-**Execution #1819**
+**Execution #1820**
 
-**Last run:** 2026-11-19 08:01:12 UTC
+**Last run:** 2026-11-19 17:18:44 UTC
 
 **Total matched tenders:** 41
+
+---
+
+## City Government of Addis Ababa Health Bureau Tirunesh Beijing General Hospital: Procurement of Medical Equipment and Supplies
+
+**Source:** 2merkato.com
+
+**Company:** Tirunesh Beijing General Hospital
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical equipment, medical, hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6afef2400a538a89e3000001](https://tender.2merkato.com/tenders/6afef2400a538a89e3000001)
+
+---
+
+## Fayyaa Integrated Development Organization (FIDO) invites eligible vendors for the supply of various medications and medical equipment for a humanitarian response project in Arsi Zone, Oromia Region.
+
+**Source:** 2merkato.com
+
+**Company:** Fayyaa Integrated Development Organization (FIDO)
+
+**Status:** Open
+
+**Closing Date:** 2026-11-27 15:00:00
+
+**Matched Keywords:** medical equipment, medical
+
+**Link:** [https://tender.2merkato.com/tenders/6afed3340a538a6683000001](https://tender.2merkato.com/tenders/6afed3340a538a6683000001)
 
 ---
 
@@ -215,38 +247,6 @@
 **Matched Keywords:** medical equipment, medical
 
 **Link:** [https://tender.2merkato.com/tenders/6aec82dc0a538ace4c000001](https://tender.2merkato.com/tenders/6aec82dc0a538ace4c000001)
-
----
-
-## Medical Teams International (MTI) National Tender Notice for the Procurement of Medicines, Medical Supplies, and Medical Equipment for Operation Sites in Benishangul and Amhara Regions.
-
-**Source:** 2merkato.com
-
-**Company:** Medical Teams International
-
-**Status:** Open
-
-**Closing Date:** 2026-11-19 15:00:00
-
-**Matched Keywords:** medical equipment, medical
-
-**Link:** [https://tender.2merkato.com/tenders/6aec66b60a538ace45000001](https://tender.2merkato.com/tenders/6aec66b60a538ace45000001)
-
----
-
-## City Government of Addis Ababa Health Bureau Tirunesh Beijing General Hospital: Procurement of Medical Equipment and Supplies
-
-**Source:** 2merkato.com
-
-**Company:** Tirunesh Beijing General Hospital
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** medical equipment, medical, hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6aec28860a538a3ef1000001](https://tender.2merkato.com/tenders/6aec28860a538a3ef1000001)
 
 ---
 
@@ -522,6 +522,22 @@
 
 ---
 
+## St. Peter Specialized Hospital: Procurement of RDF Medicines and Medical Supplies
+
+**Source:** 2merkato.com
+
+**Company:** St. Peter Specialized Hospital
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical, hospital
+
+**Link:** [https://tender.2merkato.com/tenders/6afefed00a538ac078000001](https://tender.2merkato.com/tenders/6afefed00a538ac078000001)
+
+---
+
 ## Armauer Hansen Research Institute:- Procurement of Medical Supplies And Reagents 2019-2
 
 **Source:** 2merkato.com
@@ -631,22 +647,6 @@
 **Matched Keywords:** medical
 
 **Link:** [https://tender.2merkato.com/tenders/6aeec1600a538a6c6b000001](https://tender.2merkato.com/tenders/6aeec1600a538a6c6b000001)
-
----
-
-## St. Peter Specialized Hospital:- Procurement of dental Materials
-
-**Source:** 2merkato.com
-
-**Company:** St. Peter Specialized Hospital
-
-**Status:** Login required
-
-**Closing Date:** Login required to view
-
-**Matched Keywords:** hospital
-
-**Link:** [https://tender.2merkato.com/tenders/6aed659b0a538afb8a000001](https://tender.2merkato.com/tenders/6aed659b0a538afb8a000001)
 
 ---
 
