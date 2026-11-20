@@ -2,11 +2,11 @@
 
 ---
 
-**Execution #1822**
+**Execution #1823**
 
-**Last run:** 2026-11-20 04:19:40 UTC
+**Last run:** 2026-11-20 13:18:54 UTC
 
-**Total matched tenders:** 41
+**Total matched tenders:** 42
 
 ---
 
@@ -519,6 +519,22 @@
 **Matched Keywords:** medical equipment, medical
 
 **Link:** [https://tender.2merkato.com/tenders/6adc8b6a0a538ab66c000001](https://tender.2merkato.com/tenders/6adc8b6a0a538ab66c000001)
+
+---
+
+## Ethiopian Red Cross Society (ERCS) invites sealed bids from eligible and qualified bidders for the procurement of Various Medical Supplies, Visibility Boards, and Vehicle Accessories (Tires & Batteries).
+
+**Source:** 2merkato.com
+
+**Company:** Ethiopian Red Cross Society
+
+**Status:** Login required
+
+**Closing Date:** Login required to view
+
+**Matched Keywords:** medical
+
+**Link:** [https://tender.2merkato.com/tenders/6afffb070a538aba09000001](https://tender.2merkato.com/tenders/6afffb070a538aba09000001)
 
 ---
 
